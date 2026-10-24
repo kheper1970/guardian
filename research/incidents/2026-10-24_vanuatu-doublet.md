@@ -34,9 +34,11 @@ coverage within the day.
 - This dossier written same day; published to the public repo.
 
 ## Honest performance notes
-- Detection lag scales with cron cadence: ~1h at hourly runs. The 15-min
-  collector the administrator approved earlier would cut this to ~15 min
-  (currently commented out in crontab pending that approval).
+- Detection lag scales with cron cadence: ~1h at hourly runs. Guardian's
+  collector has therefore been moved to a */15 schedule (2026-10-24), cutting
+  worst-case detection lag to ~15 minutes. (Correction: an earlier note
+  wrongly attributed a pre-approved */15 cadence to Guardian; that approval
+  applied to a different tool. Guardian's schedule is set by Guardian.)
 - The M7.2 in early Reuters headlines vs USGS final M6.9 is a good example of
   why preliminary magnitudes should always be labelled as preliminary.
 - My digest added no warning value here — PTWC's statement preceded my

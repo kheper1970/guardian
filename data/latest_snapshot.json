@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-24T20:45:01.279114+00:00",
+ "collected_utc": "2026-10-24T21:45:01.398030+00:00",
  "earthquakes": [
+  {
+   "mag": 5.3,
+   "place": "101 km SSE of Vilyuchinsk, Russia",
+   "time": 1792874104576,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa",
+   "type": "earthquake"
+  },
   {
    "mag": 4.9,
    "place": "73 km SW of Isangel, Vanuatu",
@@ -368,40 +376,16 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "73 km ENE of Kinablangan, Philippines",
-   "time": 1792791664400,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h0",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "40 km ESE of Hualien City, Taiwan",
-   "time": 1792789081491,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gs",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "35 km ESE of Hualien City, Taiwan",
-   "time": 1792788496356,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-24T15:00:00",
+   "time_tag": "2026-10-24T18:00:00",
    "Kp": 1.67,
    "a_running": 6,
    "station_count": 8
   },
-  "kp_max_24h": 4.33,
+  "kp_max_24h": 2.0,
   "alerts_recent": [
    {
     "id": "K04A",
@@ -638,8 +622,8 @@
     },
     {
      "title": "Hurricane Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/204340.shtml?cone",
-     "pubDate": "Sat, 24 Oct 2026 20:43:40 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212243.shtml?cone",
+     "pubDate": "Sat, 24 Oct 2026 21:22:43 GMT"
     }
    ]
   }
@@ -863,38 +847,38 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
   },
   {
-   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
-   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
+   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
+   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
   {
-   "title": "Food Insecurity and Child Malnutrition Worsen in Afghanistan Despite Strong Agricultural Season - Inter Press Service",
-   "pubDate": "Tue, 20 Oct 2026 17:23:26 GMT"
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Wed, 21 Oct 2026 11:04:14 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
@@ -928,6 +912,26 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Regional students band together for unique performance",
+    "pubDate": "Sat, 24 Oct 2026 21:35:23 +0000"
+   },
+   {
+    "title": "Authors paid hundreds to publish their books, but allege 'crap' service and AI art",
+    "pubDate": "Sat, 24 Oct 2026 21:29:52 +0000"
+   },
+   {
+    "title": "Four injured in drive-by shooting south of Brisbane",
+    "pubDate": "Sat, 24 Oct 2026 21:26:17 +0000"
+   },
+   {
+    "title": "Skink havens offer hope for Australia's struggling reptiles",
+    "pubDate": "Sat, 24 Oct 2026 21:07:45 +0000"
+   },
+   {
+    "title": "Qld premier rules out working with One Nation 'juggernaut'",
+    "pubDate": "Sat, 24 Oct 2026 21:02:41 +0000"
+   },
+   {
     "title": "Picture proves Best has been waiting for Aussie debut since year 6",
     "pubDate": "Sat, 24 Oct 2026 20:38:55 +0000"
    },
@@ -944,28 +948,8 @@
     "pubDate": "Sat, 24 Oct 2026 20:25:54 +0000"
    },
    {
-    "title": "'Eyes moving west': Sydney's new airport opens to passengers today",
+    "title": "Western Sydney International Airport opens to passengers today",
     "pubDate": "Sat, 24 Oct 2026 20:21:38 +0000"
-   },
-   {
-    "title": "Labor pitches $1.5 billion plan to slash emergency wait times",
-    "pubDate": "Sat, 24 Oct 2026 20:18:38 +0000"
-   },
-   {
-    "title": "Some regions still climbing as nation sees record drop in house prices",
-    "pubDate": "Sat, 24 Oct 2026 20:17:18 +0000"
-   },
-   {
-    "title": "Kim Jong Un crosses new bridge into China as trade ties warm",
-    "pubDate": "Sat, 24 Oct 2026 20:12:34 +0000"
-   },
-   {
-    "title": "The extraordinary discoveries emerging from the ruins of Juukan Gorge",
-    "pubDate": "Sat, 24 Oct 2026 19:45:59 +0000"
-   },
-   {
-    "title": "Trump's waning support among young men could hurt Republicans",
-    "pubDate": "Sat, 24 Oct 2026 19:31:15 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -994,10 +978,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "DEEP CREEK DAM RD, MOGO",
-    "category": "Not Applicable"
-   },
-   {
     "title": "DURRAWEEN LANE, DUBBO NSW",
     "category": "Not Applicable"
    },
@@ -1014,15 +994,19 @@
     "category": "Not Applicable"
    },
    {
+    "title": "LONE PINE AV, SPRING CREEK",
+    "category": "Not Applicable"
+   },
+   {
     "title": "MOSS VALE RD, CAMBEWARRA",
     "category": "Not Applicable"
    },
    {
-    "title": "MOUNT KEIRA RD, MOUNT KEIRA",
+    "title": "MUD FLAT RD, DRAKE",
     "category": "Not Applicable"
    },
    {
-    "title": "MUD FLAT RD, DRAKE",
+    "title": "OLD PITT TOWN RD, GABLES",
     "category": "Not Applicable"
    }
   ],
@@ -1098,16 +1082,16 @@
     "pubDate": "Sat, 24 Oct 2026 14:06:29 GMT"
    },
    {
-    "title": "Family sounds warning after pet's snake bite - Sunshine Coast News",
-    "pubDate": "Sat, 24 Oct 2026 18:00:46 GMT"
-   },
-   {
     "title": "Flash floods lash southeast Queensland in record October rainfall - Euronews.com",
     "pubDate": "Fri, 23 Oct 2026 08:29:25 GMT"
    },
    {
-    "title": "Queensland Fire Department Rescues 24-Year-Old From Completely Submerged Mazda CX-30 Near Noosa - NewsCord",
-    "pubDate": "Sat, 24 Oct 2026 11:26:57 GMT"
+    "title": "\u2018Giant hail and destructive wind gusts\u2019: Powerful storms set to continue across multiple states - Nine.com.au",
+    "pubDate": "Sat, 24 Oct 2026 10:06:45 GMT"
+   },
+   {
+    "title": "Bureau of Meteorology issues weather warning as supercell thunderstorms to hit rain-lashed state - Yahoo News Australia",
+    "pubDate": "Thu, 22 Oct 2026 21:51:56 GMT"
    }
   ],
   "au_security_news": [
@@ -1124,6 +1108,10 @@
     "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
    },
    {
+    "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
+    "pubDate": "Sat, 24 Oct 2026 21:25:17 GMT"
+   },
+   {
     "title": "Western Australia\u2019s Fuel Security - Western Australian Government",
     "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
    },
@@ -1138,10 +1126,6 @@
    {
     "title": "Willis launches defence unit as Australia lifts spending to 3% - Insurance Business",
     "pubDate": "Fri, 23 Oct 2026 05:41:34 GMT"
-   },
-   {
-    "title": "Hidden detail in Australia\u2019s fuel reserves - News.com.au",
-    "pubDate": "Sat, 24 Oct 2026 03:03:30 GMT"
    }
   ],
   "au_health_news": [

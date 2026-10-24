@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-24T22:45:01.705978+00:00",
+ "collected_utc": "2026-10-24T23:45:01.274577+00:00",
  "earthquakes": [
+  {
+   "mag": 5,
+   "place": "210 km NW of Port-Olry, Vanuatu",
+   "time": 1792882028577,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4q8",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "53 km NNW of Fef, Indonesia",
+   "time": 1792878111565,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw",
+   "type": "earthquake"
+  },
   {
    "mag": 5.3,
    "place": "101 km SSE of Vilyuchinsk, Russia",
@@ -888,6 +904,30 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+    "pubDate": "Sat, 24 Oct 2026 23:34:37 +0000"
+   },
+   {
+    "title": "Multiple flood warnings as Queensland braces for more wild weather",
+    "pubDate": "Sat, 24 Oct 2026 23:27:06 +0000"
+   },
+   {
+    "title": "Kids playing pool for Australia say there's not much time for homework",
+    "pubDate": "Sat, 24 Oct 2026 23:05:41 +0000"
+   },
+   {
+    "title": "Qualified migrant women forced into 'survival jobs' are paying price",
+    "pubDate": "Sat, 24 Oct 2026 23:00:50 +0000"
+   },
+   {
+    "title": "We both overpromised our physical attributes in an email. It led to love",
+    "pubDate": "Sat, 24 Oct 2026 23:00:00 +0000"
+   },
+   {
+    "title": "Konstas crunches another ton for NSW, pushing case for Test recall",
+    "pubDate": "Sat, 24 Oct 2026 22:58:18 +0000"
+   },
+   {
     "title": "Navigator steers home latest patrol ship in centuries-old ceremony",
     "pubDate": "Sat, 24 Oct 2026 22:34:57 +0000"
    },
@@ -902,30 +942,6 @@
    {
     "title": "Valkyries shut down Borlase's Dream to square WNBA Finals",
     "pubDate": "Sat, 24 Oct 2026 21:54:20 +0000"
-   },
-   {
-    "title": "Regional students band together for unique performance",
-    "pubDate": "Sat, 24 Oct 2026 21:35:23 +0000"
-   },
-   {
-    "title": "Authors paid hundreds to publish their books, but allege 'crap' service and AI art",
-    "pubDate": "Sat, 24 Oct 2026 21:29:52 +0000"
-   },
-   {
-    "title": "Four injured in drive-by shooting south of Brisbane",
-    "pubDate": "Sat, 24 Oct 2026 21:26:17 +0000"
-   },
-   {
-    "title": "Skink havens offer hope for Australia's struggling reptiles",
-    "pubDate": "Sat, 24 Oct 2026 21:07:45 +0000"
-   },
-   {
-    "title": "Qld premier rules out working with One Nation 'juggernaut'",
-    "pubDate": "Sat, 24 Oct 2026 21:02:41 +0000"
-   },
-   {
-    "title": "Picture proves Best has been waiting for Aussie debut since year 6",
-    "pubDate": "Sat, 24 Oct 2026 20:38:55 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -940,14 +956,6 @@
    {
     "title": "FB915 Mt Taylor",
     "category": "Planned Burn"
-   },
-   {
-    "title": "NORTH JINDALEE RD, WALLENDBEEN NSW 2588",
-    "category": "Planned Burn"
-   },
-   {
-    "title": "BRIDGE ST, URANQUINTY",
-    "category": "Not Applicable"
    },
    {
     "title": "COOKA HILLS RD, PARKES",
@@ -975,10 +983,6 @@
    },
    {
     "title": "MUD FLAT RD, DRAKE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MURRAMARANG RD, KIOLOA",
     "category": "Not Applicable"
    },
    {
@@ -1038,8 +1042,12 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Driver pulled from sinking car by his hair as flood warnings sweep south east Queensland - Nine.com.au",
-    "pubDate": "Sat, 24 Oct 2026 08:52:14 GMT"
+    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
+   },
+   {
+    "title": "Melbourne and Sydney in the firing line as storms hit multiple states - Nine.com.au",
+    "pubDate": "Sat, 24 Oct 2026 22:31:06 GMT"
    },
    {
     "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia - The Guardian",
@@ -1050,24 +1058,20 @@
     "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
    },
    {
-    "title": "Family sounds warning after pet's snake bite - Sunshine Coast News",
-    "pubDate": "Sat, 24 Oct 2026 18:00:46 GMT"
-   },
-   {
     "title": "Moment rescuers saved flood-trapped driver - The Australian",
     "pubDate": "Fri, 23 Oct 2026 22:47:45 GMT"
-   },
-   {
-    "title": "Beach road may close as high tides bring flood risk - Yahoo News Australia",
-    "pubDate": "Sat, 24 Oct 2026 14:06:29 GMT"
    },
    {
     "title": "Flash floods lash southeast Queensland in record October rainfall - Euronews.com",
     "pubDate": "Fri, 23 Oct 2026 08:29:25 GMT"
    },
    {
-    "title": "Queensland Fire Department Rescues 24-Year-Old From Completely Submerged Mazda CX-30 Near Noosa - NewsCord",
-    "pubDate": "Sat, 24 Oct 2026 11:26:57 GMT"
+    "title": "Driver pulled from sinking car by his hair as flood warnings sweep south east Queensland - Nine.com.au",
+    "pubDate": "Sat, 24 Oct 2026 08:52:14 GMT"
+   },
+   {
+    "title": "Severe storm outbreaks forecast for eastern states - Yahoo News Australia",
+    "pubDate": "Fri, 23 Oct 2026 05:34:00 GMT"
    }
   ],
   "au_security_news": [
@@ -1077,7 +1081,7 @@
    },
    {
     "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
-    "pubDate": "Sat, 24 Oct 2026 19:02:00 GMT"
+    "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
    },
    {
     "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
@@ -1088,6 +1092,10 @@
     "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
    },
    {
+    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
+    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
+   },
+   {
     "title": "Ukraine says Starlink at normal speed after delays impede military - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Sat, 24 Oct 2026 13:09:37 GMT"
    },
@@ -1096,12 +1104,8 @@
     "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    },
    {
-    "title": "Turning Up Australia-Japan Cooperation on Energy Security and AI - Asia Society",
-    "pubDate": "Fri, 23 Oct 2026 02:50:39 GMT"
-   },
-   {
     "title": "Willis launches defence unit as Australia lifts spending to 3% - Insurance Business",
-    "pubDate": "Fri, 23 Oct 2026 05:39:56 GMT"
+    "pubDate": "Fri, 23 Oct 2026 05:41:34 GMT"
    }
   ],
   "au_health_news": [

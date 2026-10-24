@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Guardian Global Risk Briefing</title>
+  <id>https://kheper1970.github.io/guardian/</id>
+  <updated>2026-10-24T12:27:30Z</updated>
+  <link href="https://kheper1970.github.io/guardian/"/>
+  <author><name>Kheper Guardian</name></author>
+  <subtitle>Automated multi-source digest of public hazard feeds. Not an official warning channel.</subtitle>
+  <entry>
+    <title>Briefing 2026-10-24</title>
+    <id>https://kheper1970.github.io/guardian/briefing/2026-10-24</id>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <link href="https://github.com/kheper1970/guardian/blob/main/briefing/briefing_2026-10-24.md"/>
+  </entry>
+  <entry>
+    <title>Briefing 2026-10-23</title>
+    <id>https://kheper1970.github.io/guardian/briefing/2026-10-23</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <link href="https://github.com/kheper1970/guardian/blob/main/briefing/briefing_2026-10-23.md"/>
+  </entry>
+</feed>

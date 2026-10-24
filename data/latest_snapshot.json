@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-24T13:45:01.129219+00:00",
+ "collected_utc": "2026-10-24T14:45:01.933091+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -344,30 +344,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dx",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "233 km ENE of Nagqu, China",
-   "time": 1792766476206,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dk",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "215 km NE of Nagqu, China",
-   "time": 1792764844311,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4df",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.2,
-   "place": "50 km WNW of Malfa, Italy",
-   "time": 1792763736149,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -379,6 +355,11 @@
   },
   "kp_max_24h": 4.33,
   "alerts_recent": [
+   {
+    "id": "K04A",
+    "issued": "2026-09-25 21:58:25.860",
+    "message": "Space Weather Message Code: ALTK04\r\nSerial Number: 2687\r\nIssue Time: 2026 Sep 25 2158 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 2158 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagn"
+   },
    {
     "id": "K04W",
     "issued": "2026-09-25 21:55:03.593",
@@ -398,82 +379,12 @@
     "id": "K04W",
     "issued": "2026-09-25 02:26:55.457",
     "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5421\r\nIssue Time: 2026 Sep 25 0226 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 25 0226 UTC\nValid To: 2026 Sep 25 1800 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 d"
-   },
-   {
-    "id": "K04W",
-    "issued": "2026-09-24 14:30:01.217",
-    "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5420\r\nIssue Time: 2026 Sep 24 1430 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5419\nValid From: 2026 Sep 24 0944 UTC\nNow Valid Until: 2026 Sep 24 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impact"
    }
   ]
  },
  "neo": {
-  "count": 8,
-  "events": [
-   {
-    "name": "(2004 HX53)",
-    "diameter_min_m": 51,
-    "diameter_max_m": 113,
-    "hazardous": false,
-    "miss_km": 13765534.8918853,
-    "velocity_kph": 45400.0883890043
-   },
-   {
-    "name": "(2019 CJ4)",
-    "diameter_min_m": 21,
-    "diameter_max_m": 47,
-    "hazardous": false,
-    "miss_km": 35522680.929367445,
-    "velocity_kph": 35555.9286882645
-   },
-   {
-    "name": "(2002 CW11)",
-    "diameter_min_m": 16,
-    "diameter_max_m": 36,
-    "hazardous": false,
-    "miss_km": 44177375.957062826,
-    "velocity_kph": 30420.5068361268
-   },
-   {
-    "name": "(2019 LB1)",
-    "diameter_min_m": 11,
-    "diameter_max_m": 24,
-    "hazardous": false,
-    "miss_km": 44675302.81829521,
-    "velocity_kph": 44091.419861128
-   },
-   {
-    "name": "(2013 SN24)",
-    "diameter_min_m": 27,
-    "diameter_max_m": 59,
-    "hazardous": false,
-    "miss_km": 45633714.87170085,
-    "velocity_kph": 54417.7060476469
-   },
-   {
-    "name": "529819 (2010 PM58)",
-    "diameter_min_m": 179,
-    "diameter_max_m": 400,
-    "hazardous": false,
-    "miss_km": 45930919.73332732,
-    "velocity_kph": 46215.4919304431
-   },
-   {
-    "name": "(2007 UH)",
-    "diameter_min_m": 106,
-    "diameter_max_m": 237,
-    "hazardous": false,
-    "miss_km": 47686496.948559366,
-    "velocity_kph": 33603.5782238192
-   },
-   {
-    "name": "(2012 VC26)",
-    "diameter_min_m": 5,
-    "diameter_max_m": 11,
-    "hazardous": false,
-    "miss_km": 74781124.9098231,
-    "velocity_kph": 74413.762165143
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -943,6 +854,10 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Met Police received letter about Meghan Markle's father in 2019",
+    "pubDate": "Sat, 24 Oct 2026 13:42:37 +0000"
+   },
+   {
     "title": "Ukraine says Starlink at normal speed after delays impede military",
     "pubDate": "Sat, 24 Oct 2026 13:09:37 +0000"
    },
@@ -977,10 +892,6 @@
    {
     "title": "Tasmanian football club coach charged with rape",
     "pubDate": "Sat, 24 Oct 2026 04:06:49 +0000"
-   },
-   {
-    "title": "Former Port Adelaide AFL player Daniel Stewart dies at 37",
-    "pubDate": "Sat, 24 Oct 2026 03:29:23 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -999,6 +910,10 @@
    {
     "title": "NORTH JINDALEE RD, WALLENDBEEN NSW 2588",
     "category": "Planned Burn"
+   },
+   {
+    "title": "(PACIFIC MTWY), HOLMESVILLE",
+    "category": "Not Applicable"
    },
    {
     "title": "BRIDGE ST, URANQUINTY",
@@ -1025,10 +940,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "JAMISON ST, LUDDENHAM",
-    "category": "Not Applicable"
-   },
-   {
     "title": "KIDMAN WAY, THARBOGANG",
     "category": "Not Applicable"
    },
@@ -1038,10 +949,6 @@
    },
    {
     "title": "MUD FLAT RD, DRAKE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "NEW ENGLAND HWY, WHITTINGHAM",
     "category": "Not Applicable"
    }
   ],
@@ -1097,8 +1004,8 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Australian National Weather Forecast - Nine.com.au",
-    "pubDate": "Sat, 24 Oct 2026 04:54:53 GMT"
+    "title": "Driver pulled from sinking car by his hair as flood warnings sweep south east Queensland - Nine.com.au",
+    "pubDate": "Sat, 24 Oct 2026 08:52:14 GMT"
    },
    {
     "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia - The Guardian",
@@ -1113,8 +1020,8 @@
     "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
    },
    {
-    "title": "Driver pulled from sinking car by his hair as flood warnings sweep south east Queensland - Nine.com.au",
-    "pubDate": "Sat, 24 Oct 2026 08:52:14 GMT"
+    "title": "Beach road may close as high tides bring flood risk - Yahoo News Australia",
+    "pubDate": "Sat, 24 Oct 2026 14:06:29 GMT"
    },
    {
     "title": "Flash floods lash southeast Queensland in record October rainfall - Euronews.com",
@@ -1135,10 +1042,6 @@
     "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
    },
    {
-    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
-    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
-   },
-   {
     "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
     "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    },
@@ -1147,16 +1050,20 @@
     "pubDate": "Sat, 24 Oct 2026 03:03:30 GMT"
    },
    {
-    "title": "From inflation to security: When will Labor make the logical leap on Trump? - The Mandarin",
-    "pubDate": "Sat, 24 Oct 2026 01:33:50 GMT"
-   },
-   {
     "title": "Willis launches defence unit as Australia lifts spending to 3% - Insurance Business",
     "pubDate": "Fri, 23 Oct 2026 05:41:34 GMT"
    },
    {
+    "title": "From inflation to security: When will Labor make the logical leap on Trump? - The Mandarin",
+    "pubDate": "Sat, 24 Oct 2026 01:33:50 GMT"
+   },
+   {
     "title": "Turning Up Australia-Japan Cooperation on Energy Security and AI - Asia Society",
     "pubDate": "Fri, 23 Oct 2026 02:50:39 GMT"
+   },
+   {
+    "title": "Major expansion under way at secretive military base Pine Gap - AFR",
+    "pubDate": "Thu, 22 Oct 2026 23:35:00 GMT"
    },
    {
     "title": "Australia backs Fiji\u2019s launch of first Maritime Security Strategy with Bluebottle surveillance drones - The Australia Today",

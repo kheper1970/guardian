@@ -9,7 +9,7 @@ import sys
 import time
 import traceback
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
@@ -343,6 +343,23 @@ def collect_australia():
     return out
 
 
+def prune_snapshots(keep_days=30):
+    """Keep all snapshots within keep_days; beyond that keep 1/day (earliest)."""
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).strftime("%Y%m%d")
+    by_day = {}
+    for path in sorted(DATA.glob("snapshot_*.json")):
+        date = path.name[9:17]  # YYYYMMDD
+        by_day.setdefault(date, []).append(path)
+    removed = 0
+    for date, paths in by_day.items():
+        if date < cutoff and len(paths) > 1:
+            for path in paths[1:]:
+                path.unlink()
+                removed += 1
+    if removed:
+        print(f"pruned {removed} snapshots (>{keep_days}d old, kept 1/day)")
+
+
 def main():
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y%m%dT%H%M%SZ")
@@ -370,6 +387,7 @@ def main():
     out_path = DATA / f"snapshot_{stamp}.json"
     out_path.write_text(json.dumps(snapshot, indent=1))
     print(f"snapshot -> {out_path.name}")
+    prune_snapshots()
     return 0
 
 

@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-24T11:39:01.640357+00:00",
+ "collected_utc": "2026-10-24T12:39:01.317871+00:00",
  "earthquakes": [
+  {
+   "mag": 4.7,
+   "place": "72 km S of Basco, Philippines",
+   "time": 1792842488678,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
+   "type": "earthquake"
+  },
   {
    "mag": 4.9,
    "place": "148 km NNW of Kilmia, Yemen",
@@ -360,29 +368,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "207 km NE of Lospalos, Timor Leste",
-   "time": 1792758264746,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bw",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "193 km ENE of Levuka, Fiji",
-   "time": 1792757987354,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bv",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-24T06:00:00",
-   "Kp": 0.67,
-   "a_running": 3,
+   "time_tag": "2026-10-24T09:00:00",
+   "Kp": 2.0,
+   "a_running": 7,
    "station_count": 8
   },
   "kp_max_24h": 4.33,
@@ -415,8 +407,73 @@
   ]
  },
  "neo": {
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
-  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
+  "count": 8,
+  "events": [
+   {
+    "name": "(2004 HX53)",
+    "diameter_min_m": 51,
+    "diameter_max_m": 113,
+    "hazardous": false,
+    "miss_km": 13765534.8918853,
+    "velocity_kph": 45400.0883890043
+   },
+   {
+    "name": "(2019 CJ4)",
+    "diameter_min_m": 21,
+    "diameter_max_m": 47,
+    "hazardous": false,
+    "miss_km": 35522680.929367445,
+    "velocity_kph": 35555.9286882645
+   },
+   {
+    "name": "(2002 CW11)",
+    "diameter_min_m": 16,
+    "diameter_max_m": 36,
+    "hazardous": false,
+    "miss_km": 44177375.957062826,
+    "velocity_kph": 30420.5068361268
+   },
+   {
+    "name": "(2019 LB1)",
+    "diameter_min_m": 11,
+    "diameter_max_m": 24,
+    "hazardous": false,
+    "miss_km": 44675302.81829521,
+    "velocity_kph": 44091.419861128
+   },
+   {
+    "name": "(2013 SN24)",
+    "diameter_min_m": 27,
+    "diameter_max_m": 59,
+    "hazardous": false,
+    "miss_km": 45633714.87170085,
+    "velocity_kph": 54417.7060476469
+   },
+   {
+    "name": "529819 (2010 PM58)",
+    "diameter_min_m": 179,
+    "diameter_max_m": 400,
+    "hazardous": false,
+    "miss_km": 45930919.73332732,
+    "velocity_kph": 46215.4919304431
+   },
+   {
+    "name": "(2007 UH)",
+    "diameter_min_m": 106,
+    "diameter_max_m": 237,
+    "hazardous": false,
+    "miss_km": 47686496.948559366,
+    "velocity_kph": 33603.5782238192
+   },
+   {
+    "name": "(2012 VC26)",
+    "diameter_min_m": 5,
+    "diameter_max_m": 11,
+    "hazardous": false,
+    "miss_km": 74781124.9098231,
+    "velocity_kph": 74413.762165143
+   }
+  ]
  },
  "who_news": [
   {
@@ -928,15 +985,7 @@
   ],
   "nsw_rfs_incidents": [
    {
-    "title": "BINGLEBURRA RD, SUGARLOAF",
-    "category": "Advice"
-   },
-   {
     "title": "CONTOUR RD, MURRAMI",
-    "category": "Advice"
-   },
-   {
-    "title": "JONES LANE",
     "category": "Advice"
    },
    {
@@ -964,6 +1013,14 @@
     "category": "Not Applicable"
    },
    {
+    "title": "DOG TRAP RD, SOMERSBY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "DURRAWEEN LANE, DUBBO NSW",
+    "category": "Not Applicable"
+   },
+   {
     "title": "HWY, WILCANNIA",
     "category": "Not Applicable"
    },
@@ -980,7 +1037,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "WOODLEYS RD, WONGARBON",
+    "title": "NEW ENGLAND HWY, THORNTON",
     "category": "Not Applicable"
    }
   ],
@@ -1044,12 +1101,12 @@
     "pubDate": "Fri, 23 Oct 2026 23:35:00 GMT"
    },
    {
-    "title": "Northern wet season 2026-27 - Department of Fire and Emergency Services",
-    "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
+    "title": "Moment rescuers saved flood-trapped driver - The Australian",
+    "pubDate": "Fri, 23 Oct 2026 22:47:45 GMT"
    },
    {
-    "title": "Daring flood rescue amid storms warning - News.com.au",
-    "pubDate": "Fri, 23 Oct 2026 23:24:01 GMT"
+    "title": "Northern wet season 2026-27 - Department of Fire and Emergency Services",
+    "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
    },
    {
     "title": "Driver pulled from sinking car by his hair as flood warnings sweep south east Queensland - Nine.com.au",
@@ -1094,12 +1151,12 @@
     "pubDate": "Fri, 23 Oct 2026 05:41:34 GMT"
    },
    {
-    "title": "Australia backs Fiji\u2019s launch of first Maritime Security Strategy with Bluebottle surveillance drones - The Australia Today",
-    "pubDate": "Fri, 23 Oct 2026 22:06:15 GMT"
-   },
-   {
     "title": "Turning Up Australia-Japan Cooperation on Energy Security and AI - Asia Society",
     "pubDate": "Fri, 23 Oct 2026 02:50:39 GMT"
+   },
+   {
+    "title": "Australia backs Fiji\u2019s launch of first Maritime Security Strategy with Bluebottle surveillance drones - The Australia Today",
+    "pubDate": "Fri, 23 Oct 2026 22:06:15 GMT"
    }
   ],
   "au_health_news": [

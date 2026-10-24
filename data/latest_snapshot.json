@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-24T18:45:01.482015+00:00",
+ "collected_utc": "2026-10-24T19:45:01.602932+00:00",
  "earthquakes": [
+  {
+   "mag": 4.9,
+   "place": "73 km SW of Isangel, Vanuatu",
+   "time": 1792869500515,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ny",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5,
+   "place": "193 km NW of Port-Olry, Vanuatu",
+   "time": 1792868835895,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4nv",
+   "type": "earthquake"
+  },
   {
    "mag": 4.8,
    "place": "153 km NW of Port-Olry, Vanuatu",
@@ -423,73 +439,8 @@
   ]
  },
  "neo": {
-  "count": 8,
-  "events": [
-   {
-    "name": "(2004 HX53)",
-    "diameter_min_m": 51,
-    "diameter_max_m": 113,
-    "hazardous": false,
-    "miss_km": 13765534.8918853,
-    "velocity_kph": 45400.0883890043
-   },
-   {
-    "name": "(2019 CJ4)",
-    "diameter_min_m": 21,
-    "diameter_max_m": 47,
-    "hazardous": false,
-    "miss_km": 35522680.929367445,
-    "velocity_kph": 35555.9286882645
-   },
-   {
-    "name": "(2002 CW11)",
-    "diameter_min_m": 16,
-    "diameter_max_m": 36,
-    "hazardous": false,
-    "miss_km": 44177375.957062826,
-    "velocity_kph": 30420.5068361268
-   },
-   {
-    "name": "(2019 LB1)",
-    "diameter_min_m": 11,
-    "diameter_max_m": 24,
-    "hazardous": false,
-    "miss_km": 44675302.81829521,
-    "velocity_kph": 44091.419861128
-   },
-   {
-    "name": "(2013 SN24)",
-    "diameter_min_m": 27,
-    "diameter_max_m": 59,
-    "hazardous": false,
-    "miss_km": 45633714.87170085,
-    "velocity_kph": 54417.7060476469
-   },
-   {
-    "name": "529819 (2010 PM58)",
-    "diameter_min_m": 179,
-    "diameter_max_m": 400,
-    "hazardous": false,
-    "miss_km": 45930919.73332732,
-    "velocity_kph": 46215.4919304431
-   },
-   {
-    "name": "(2007 UH)",
-    "diameter_min_m": 106,
-    "diameter_max_m": 237,
-    "hazardous": false,
-    "miss_km": 47686496.948559366,
-    "velocity_kph": 33603.5782238192
-   },
-   {
-    "name": "(2012 VC26)",
-    "diameter_min_m": 5,
-    "diameter_max_m": 11,
-    "hazardous": false,
-    "miss_km": 74781124.9098231,
-    "velocity_kph": 74413.762165143
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -695,8 +646,8 @@
     },
     {
      "title": "Hurricane Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152316.shtml?cone",
-     "pubDate": "Sat, 24 Oct 2026 15:23:16 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/194349.shtml?cone",
+     "pubDate": "Sat, 24 Oct 2026 19:43:49 GMT"
     }
    ]
   }
@@ -928,32 +879,32 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
-   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
-   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
+   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -962,12 +913,12 @@
    "pubDate": "Wed, 21 Oct 2026 11:04:14 GMT"
   },
   {
-   "title": "UN says 19.2 mn Afghans facing acute food insecurity by April - A News",
-   "pubDate": "Tue, 20 Oct 2026 11:40:25 GMT"
-  },
-  {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
+  },
+  {
+   "title": "UN says 19.2 mn Afghans facing acute food insecurity by April - A News",
+   "pubDate": "Tue, 20 Oct 2026 11:40:25 GMT"
   },
   {
    "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
@@ -993,6 +944,34 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Trump's waning support among young men could hurt Republicans",
+    "pubDate": "Sat, 24 Oct 2026 19:31:15 +0000"
+   },
+   {
+    "title": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
+    "pubDate": "Sat, 24 Oct 2026 19:25:25 +0000"
+   },
+   {
+    "title": "The Tasmanian garden helping people with dementia live well",
+    "pubDate": "Sat, 24 Oct 2026 19:11:35 +0000"
+   },
+   {
+    "title": "Accused paedophile barrister asked Cambodian woman to help find 'virgins'",
+    "pubDate": "Sat, 24 Oct 2026 19:10:01 +0000"
+   },
+   {
+    "title": "Dreamworld tragedy witness describes 'sheer panic' moment",
+    "pubDate": "Sat, 24 Oct 2026 19:09:08 +0000"
+   },
+   {
+    "title": "Usman Khawaja reveals why he kept debilitating illness a secret",
+    "pubDate": "Sat, 24 Oct 2026 19:06:12 +0000"
+   },
+   {
+    "title": "Tarrawingee tries to make sense of attack on local member Helen Haines",
+    "pubDate": "Sat, 24 Oct 2026 18:48:05 +0000"
+   },
+   {
     "title": "Farmers cross country for training tips from ABC Muster Dogs expert",
     "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000"
    },
@@ -1003,34 +982,6 @@
    {
     "title": "Why Wales will always come first for Sir Bryn Terfel",
     "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000"
-   },
-   {
-    "title": "'Shouldn't have to wear a flak jacket': Haines spoke of risks to MPs before attack",
-    "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "Women report stalkers abusing exercise apps to harass them",
-    "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "Ghosts of past reports linger for NT child protection review",
-    "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "Kiwi expats could prove crucial in New Zealand's 'knife edge' election",
-    "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "'Did we do well today?': This is what it takes to keep an independent restaurant open",
-    "pubDate": "Sat, 24 Oct 2026 17:45:00 +0000"
-   },
-   {
-    "title": "Met Police received letter about Meghan Markle's father in 2019",
-    "pubDate": "Sat, 24 Oct 2026 13:42:37 +0000"
-   },
-   {
-    "title": "Ukraine says Starlink at normal speed after delays impede military",
-    "pubDate": "Sat, 24 Oct 2026 13:09:37 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -1064,6 +1015,10 @@
    },
    {
     "title": "DURRAWEEN LANE, DUBBO NSW",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "ECHIDNA PL, ORANGE",
     "category": "Not Applicable"
    },
    {
@@ -1177,6 +1132,10 @@
     "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
    },
    {
+    "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
+    "pubDate": "Sat, 24 Oct 2026 19:02:00 GMT"
+   },
+   {
     "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
     "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
    },
@@ -1193,16 +1152,12 @@
     "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    },
    {
-    "title": "Hidden detail in Australia\u2019s fuel reserves - News.com.au",
-    "pubDate": "Sat, 24 Oct 2026 03:03:30 GMT"
-   },
-   {
     "title": "Willis launches defence unit as Australia lifts spending to 3% - Insurance Business",
     "pubDate": "Fri, 23 Oct 2026 05:41:34 GMT"
    },
    {
-    "title": "Turning Up Australia-Japan Cooperation on Energy Security and AI - Asia Society",
-    "pubDate": "Fri, 23 Oct 2026 02:50:39 GMT"
+    "title": "Hidden detail in Australia\u2019s fuel reserves - News.com.au",
+    "pubDate": "Sat, 24 Oct 2026 03:03:30 GMT"
    }
   ],
   "au_health_news": [

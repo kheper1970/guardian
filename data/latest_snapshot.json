@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-24T19:45:01.602932+00:00",
+ "collected_utc": "2026-10-24T20:45:01.279114+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -392,14 +392,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "209 km ENE of Nagqu, China",
-   "time": 1792787861989,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gj",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -625,35 +617,35 @@
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Hurricane Vance Public Advisory Number 13",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/241453.shtml",
-     "pubDate": "Sat, 24 Oct 2026 14:53:13 GMT"
+     "title": "Hurricane Vance Public Advisory Number 14",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/242039.shtml",
+     "pubDate": "Sat, 24 Oct 2026 20:39:16 GMT"
     },
     {
-     "title": "Hurricane Vance Forecast Advisory Number 13",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/241452.shtml",
-     "pubDate": "Sat, 24 Oct 2026 14:52:41 GMT"
+     "title": "Hurricane Vance Forecast Advisory Number 14",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/242038.shtml",
+     "pubDate": "Sat, 24 Oct 2026 20:38:45 GMT"
     },
     {
-     "title": "Hurricane Vance Forecast Discussion Number 13",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/241454.shtml",
-     "pubDate": "Sat, 24 Oct 2026 14:54:09 GMT"
+     "title": "Hurricane Vance Forecast Discussion Number 14",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/242040.shtml",
+     "pubDate": "Sat, 24 Oct 2026 20:40:14 GMT"
     },
     {
-     "title": "Hurricane Vance Wind Speed Probabilities Number 13",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/241453.shtml",
-     "pubDate": "Sat, 24 Oct 2026 14:53:13 GMT"
+     "title": "Hurricane Vance Wind Speed Probabilities Number 14",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/242039.shtml",
+     "pubDate": "Sat, 24 Oct 2026 20:39:46 GMT"
     },
     {
      "title": "Hurricane Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/194349.shtml?cone",
-     "pubDate": "Sat, 24 Oct 2026 19:43:49 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/204340.shtml?cone",
+     "pubDate": "Sat, 24 Oct 2026 20:43:40 GMT"
     }
    ]
   }
  ],
  "eonet": {
-  "open_total": 36,
+  "open_total": 35,
   "tracked": [
    {
     "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
@@ -718,14 +710,6 @@
     ],
     "date": "2026-10-16T08:31:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25454"
-   },
-   {
-    "title": "Tropical Cyclone Wati",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-19T06:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340"
    },
    {
     "title": "Wildfire HENDERSON, San Diego, California",
@@ -909,24 +893,12 @@
  ],
  "famine_news": [
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Wed, 21 Oct 2026 11:04:14 GMT"
+   "title": "Food Insecurity and Child Malnutrition Worsen in Afghanistan Despite Strong Agricultural Season - Inter Press Service",
+   "pubDate": "Tue, 20 Oct 2026 17:23:26 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
-  },
-  {
-   "title": "UN says 19.2 mn Afghans facing acute food insecurity by April - A News",
-   "pubDate": "Tue, 20 Oct 2026 11:40:25 GMT"
-  },
-  {
-   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
-   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
-  },
-  {
-   "title": "UN says 19.2 million Afghans facing acute food insecurity by April 2027 - The Straits Times",
-   "pubDate": "Tue, 20 Oct 2026 10:17:00 GMT"
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
@@ -939,49 +911,61 @@
   {
    "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
    "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "\u2018Some aren\u2019t going to make it\u2019: how pressure on farmers threatens UK food security - The Guardian",
+   "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "UToledo Launches 3 New Initiatives to Combat Food Insecurity This Fall - UToledo News",
+   "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Greater Horn of Africa Food Insecurity and Health Crisis, Situation Report No. 1 (April\u2013June 2026) - World Health Organization (WHO)",
+   "pubDate": "Tue, 07 Jul 2026 10:34:09 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "Picture proves Best has been waiting for Aussie debut since year 6",
+    "pubDate": "Sat, 24 Oct 2026 20:38:55 +0000"
+   },
+   {
+    "title": "Almost 1,000 arrests in protests across France",
+    "pubDate": "Sat, 24 Oct 2026 20:35:29 +0000"
+   },
+   {
+    "title": "Infantino claims support of 'vast majority' of soccer ahead of FIFA elections",
+    "pubDate": "Sat, 24 Oct 2026 20:34:35 +0000"
+   },
+   {
+    "title": "36er knew his NBL days were numbered when he had the 'most pain ever'",
+    "pubDate": "Sat, 24 Oct 2026 20:25:54 +0000"
+   },
+   {
+    "title": "'Eyes moving west': Sydney's new airport opens to passengers today",
+    "pubDate": "Sat, 24 Oct 2026 20:21:38 +0000"
+   },
+   {
+    "title": "Labor pitches $1.5 billion plan to slash emergency wait times",
+    "pubDate": "Sat, 24 Oct 2026 20:18:38 +0000"
+   },
+   {
+    "title": "Some regions still climbing as nation sees record drop in house prices",
+    "pubDate": "Sat, 24 Oct 2026 20:17:18 +0000"
+   },
+   {
+    "title": "Kim Jong Un crosses new bridge into China as trade ties warm",
+    "pubDate": "Sat, 24 Oct 2026 20:12:34 +0000"
+   },
+   {
+    "title": "The extraordinary discoveries emerging from the ruins of Juukan Gorge",
+    "pubDate": "Sat, 24 Oct 2026 19:45:59 +0000"
+   },
+   {
     "title": "Trump's waning support among young men could hurt Republicans",
     "pubDate": "Sat, 24 Oct 2026 19:31:15 +0000"
-   },
-   {
-    "title": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
-    "pubDate": "Sat, 24 Oct 2026 19:25:25 +0000"
-   },
-   {
-    "title": "The Tasmanian garden helping people with dementia live well",
-    "pubDate": "Sat, 24 Oct 2026 19:11:35 +0000"
-   },
-   {
-    "title": "Accused paedophile barrister asked Cambodian woman to help find 'virgins'",
-    "pubDate": "Sat, 24 Oct 2026 19:10:01 +0000"
-   },
-   {
-    "title": "Dreamworld tragedy witness describes 'sheer panic' moment",
-    "pubDate": "Sat, 24 Oct 2026 19:09:08 +0000"
-   },
-   {
-    "title": "Usman Khawaja reveals why he kept debilitating illness a secret",
-    "pubDate": "Sat, 24 Oct 2026 19:06:12 +0000"
-   },
-   {
-    "title": "Tarrawingee tries to make sense of attack on local member Helen Haines",
-    "pubDate": "Sat, 24 Oct 2026 18:48:05 +0000"
-   },
-   {
-    "title": "Farmers cross country for training tips from ABC Muster Dogs expert",
-    "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000"
-   },
-   {
-    "title": "ABC Wordage quiz: It's time to raise a glass",
-    "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000"
-   },
-   {
-    "title": "Why Wales will always come first for Sir Bryn Terfel",
-    "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -1018,10 +1002,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "ECHIDNA PL, ORANGE",
-    "category": "Not Applicable"
-   },
-   {
     "title": "HWY, WILCANNIA",
     "category": "Not Applicable"
    },
@@ -1035,6 +1015,10 @@
    },
    {
     "title": "MOSS VALE RD, CAMBEWARRA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MOUNT KEIRA RD, MOUNT KEIRA",
     "category": "Not Applicable"
    },
    {
@@ -1102,12 +1086,12 @@
     "pubDate": "Sat, 24 Oct 2026 08:52:14 GMT"
    },
    {
-    "title": "Moment rescuers saved flood-trapped driver - The Australian",
-    "pubDate": "Fri, 23 Oct 2026 22:47:45 GMT"
-   },
-   {
     "title": "Northern wet season 2026-27 - Department of Fire and Emergency Services",
     "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
+   },
+   {
+    "title": "Moment rescuers saved flood-trapped driver - The Australian",
+    "pubDate": "Fri, 23 Oct 2026 22:47:45 GMT"
    },
    {
     "title": "Beach road may close as high tides bring flood risk - Yahoo News Australia",
@@ -1122,8 +1106,8 @@
     "pubDate": "Fri, 23 Oct 2026 08:29:25 GMT"
    },
    {
-    "title": "Severe Thunderstorm Warning for Central Highlands and Coalfields forecast district - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Fri, 23 Oct 2026 02:47:13 GMT"
+    "title": "Queensland Fire Department Rescues 24-Year-Old From Completely Submerged Mazda CX-30 Near Noosa - NewsCord",
+    "pubDate": "Sat, 24 Oct 2026 11:26:57 GMT"
    }
   ],
   "au_security_news": [
@@ -1140,12 +1124,12 @@
     "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
    },
    {
-    "title": "Ukraine says Starlink at normal speed after delays impede military - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 13:09:37 GMT"
-   },
-   {
     "title": "Western Australia\u2019s Fuel Security - Western Australian Government",
     "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
+   },
+   {
+    "title": "Ukraine says Starlink at normal speed after delays impede military - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sat, 24 Oct 2026 13:09:37 GMT"
    },
    {
     "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",

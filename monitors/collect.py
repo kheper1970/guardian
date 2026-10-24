@@ -343,6 +343,42 @@ def collect_australia():
     return out
 
 
+def collect_nhc():
+    """NHC tropical cyclone activity: Atlantic + E/C Pacific RSS.
+    Returns active storms with latest advisory titles/links/dates."""
+    import re
+    out = []
+    for basin, url in (("atlantic", "https://www.nhc.noaa.gov/index-at.xml"),
+                       ("east_pacific", "https://www.nhc.noaa.gov/index-ep.xml"),
+                       ("central_pacific", "https://www.nhc.noaa.gov/index-cp.xml")):
+        try:
+            raw = fetch(url, as_json=False)
+            items = re.findall(r"<item>(.*?)</item>", raw, re.S)
+            storms = {}
+            for item in items:
+                t = re.search(r"<title>(.*?)</title>", item, re.S)
+                l = re.search(r"<link>(.*?)</link>", item, re.S)
+                d = re.search(r"<pubDate>(.*?)</pubDate>", item, re.S)
+                title = (t.group(1).strip() if t else "").replace("\n", " ")
+                # e.g. "Hurricane Vance Public Advisory Number 13"
+                m = re.match(r"(Tropical (?:Storm|Depression)|Hurricane|Potential Tropical Cyclone)\s+([A-Za-z\-]+)\s+(.*)", title)
+                if not m:
+                    continue
+                kind, name, rest = m.groups()
+                if name not in storms:
+                    storms[name] = {"storm": name, "type": kind.title(),
+                                    "basin": basin, "advisories": []}
+                storms[name]["advisories"].append({
+                    "title": title[:200],
+                    "link": (l.group(1).strip() if l else "")[:300],
+                    "pubDate": (d.group(1).strip() if d else "")[:40],
+                })
+            out.extend(storms.values())
+        except Exception as exc:
+            out.append({"basin": basin, "error": str(exc)})
+    return out
+
+
 def prune_snapshots(keep_days=30):
     """Keep all snapshots within keep_days; beyond that keep 1/day (earliest)."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).strftime("%Y%m%d")
@@ -373,6 +409,7 @@ def main():
                     ("tsunami", collect_tsunami),
                     ("volcano", collect_volcano),
                     ("reliefweb", collect_reliefweb),
+                    ("nhc_storms", collect_nhc),
                     ("eonet", collect_eonet),
                     ("nuclear_news", lambda: collect_gnews("IAEA radiological emergency OR nuclear incident OR nuclear accident")),
                     ("famine_news", lambda: collect_gnews("famine OR food insecurity emergency")),

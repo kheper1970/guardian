@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-24T17:45:01.445794+00:00",
+ "collected_utc": "2026-10-24T18:45:01.482015+00:00",
  "earthquakes": [
   {
    "mag": 4.8,
@@ -388,7 +388,7 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-24T12:00:00",
+   "time_tag": "2026-10-24T15:00:00",
    "Kp": 1.67,
    "a_running": 6,
    "station_count": 8
@@ -423,8 +423,73 @@
   ]
  },
  "neo": {
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
-  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
+  "count": 8,
+  "events": [
+   {
+    "name": "(2004 HX53)",
+    "diameter_min_m": 51,
+    "diameter_max_m": 113,
+    "hazardous": false,
+    "miss_km": 13765534.8918853,
+    "velocity_kph": 45400.0883890043
+   },
+   {
+    "name": "(2019 CJ4)",
+    "diameter_min_m": 21,
+    "diameter_max_m": 47,
+    "hazardous": false,
+    "miss_km": 35522680.929367445,
+    "velocity_kph": 35555.9286882645
+   },
+   {
+    "name": "(2002 CW11)",
+    "diameter_min_m": 16,
+    "diameter_max_m": 36,
+    "hazardous": false,
+    "miss_km": 44177375.957062826,
+    "velocity_kph": 30420.5068361268
+   },
+   {
+    "name": "(2019 LB1)",
+    "diameter_min_m": 11,
+    "diameter_max_m": 24,
+    "hazardous": false,
+    "miss_km": 44675302.81829521,
+    "velocity_kph": 44091.419861128
+   },
+   {
+    "name": "(2013 SN24)",
+    "diameter_min_m": 27,
+    "diameter_max_m": 59,
+    "hazardous": false,
+    "miss_km": 45633714.87170085,
+    "velocity_kph": 54417.7060476469
+   },
+   {
+    "name": "529819 (2010 PM58)",
+    "diameter_min_m": 179,
+    "diameter_max_m": 400,
+    "hazardous": false,
+    "miss_km": 45930919.73332732,
+    "velocity_kph": 46215.4919304431
+   },
+   {
+    "name": "(2007 UH)",
+    "diameter_min_m": 106,
+    "diameter_max_m": 237,
+    "hazardous": false,
+    "miss_km": 47686496.948559366,
+    "velocity_kph": 33603.5782238192
+   },
+   {
+    "name": "(2012 VC26)",
+    "diameter_min_m": 5,
+    "diameter_max_m": 11,
+    "hazardous": false,
+    "miss_km": 74781124.9098231,
+    "velocity_kph": 74413.762165143
+   }
+  ]
  },
  "who_news": [
   {
@@ -498,21 +563,21 @@
     "observatory": "avo",
     "color": "ORANGE",
     "alert": "WATCH",
-    "sent_utc": "2026-10-23 19:28:22"
+    "sent_utc": "2026-10-24 18:28:00"
    },
    {
     "volcano": "Shishaldin",
     "observatory": "avo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-23 19:28:22"
+    "sent_utc": "2026-10-24 18:28:00"
    },
    {
     "volcano": "Kilauea",
     "observatory": "hvo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-23 19:37:45"
+    "sent_utc": "2026-10-24 18:37:53"
    },
    {
     "volcano": "Ahyi Seamount",
@@ -602,6 +667,40 @@
    }
   ]
  },
+ "nhc_storms": [
+  {
+   "storm": "Vance",
+   "type": "Hurricane",
+   "basin": "east_pacific",
+   "advisories": [
+    {
+     "title": "Hurricane Vance Public Advisory Number 13",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/241453.shtml",
+     "pubDate": "Sat, 24 Oct 2026 14:53:13 GMT"
+    },
+    {
+     "title": "Hurricane Vance Forecast Advisory Number 13",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/241452.shtml",
+     "pubDate": "Sat, 24 Oct 2026 14:52:41 GMT"
+    },
+    {
+     "title": "Hurricane Vance Forecast Discussion Number 13",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/241454.shtml",
+     "pubDate": "Sat, 24 Oct 2026 14:54:09 GMT"
+    },
+    {
+     "title": "Hurricane Vance Wind Speed Probabilities Number 13",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/241453.shtml",
+     "pubDate": "Sat, 24 Oct 2026 14:53:13 GMT"
+    },
+    {
+     "title": "Hurricane Vance Graphics",
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152316.shtml?cone",
+     "pubDate": "Sat, 24 Oct 2026 15:23:16 GMT"
+    }
+   ]
+  }
+ ],
  "eonet": {
   "open_total": 36,
   "tracked": [
@@ -618,7 +717,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-24T06:00:00Z",
+    "date": "2026-10-24T12:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -690,7 +789,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-24T06:00:00Z",
+    "date": "2026-10-24T12:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
    },
    {
@@ -829,32 +928,32 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
   },
   {
-   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
-   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
+   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
+   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -894,6 +993,34 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Farmers cross country for training tips from ABC Muster Dogs expert",
+    "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "ABC Wordage quiz: It's time to raise a glass",
+    "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "Why Wales will always come first for Sir Bryn Terfel",
+    "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "'Shouldn't have to wear a flak jacket': Haines spoke of risks to MPs before attack",
+    "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Women report stalkers abusing exercise apps to harass them",
+    "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Ghosts of past reports linger for NT child protection review",
+    "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Kiwi expats could prove crucial in New Zealand's 'knife edge' election",
+    "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000"
+   },
+   {
     "title": "'Did we do well today?': This is what it takes to keep an independent restaurant open",
     "pubDate": "Sat, 24 Oct 2026 17:45:00 +0000"
    },
@@ -904,43 +1031,11 @@
    {
     "title": "Ukraine says Starlink at normal speed after delays impede military",
     "pubDate": "Sat, 24 Oct 2026 13:09:37 +0000"
-   },
-   {
-    "title": "WA premier confronted by South Hedland community members",
-    "pubDate": "Sat, 24 Oct 2026 09:53:46 +0000"
-   },
-   {
-    "title": "Fire breaks out at Hitler's mountain retreat, suspect arrested",
-    "pubDate": "Sat, 24 Oct 2026 09:16:03 +0000"
-   },
-   {
-    "title": "Daughters joyful to 'breathe same air' as Donna Nelson returns to Perth",
-    "pubDate": "Sat, 24 Oct 2026 08:43:00 +0000"
-   },
-   {
-    "title": "Jillaroos hammer England 78-0 but superstar's World Cup ends in hospital",
-    "pubDate": "Sat, 24 Oct 2026 07:45:38 +0000"
-   },
-   {
-    "title": "How a data centre united Australia's gaming community",
-    "pubDate": "Sat, 24 Oct 2026 05:00:00 +0000"
-   },
-   {
-    "title": "Two large earthquakes off coast of Vanuatu prompt tsunami warning",
-    "pubDate": "Sat, 24 Oct 2026 04:31:41 +0000"
-   },
-   {
-    "title": "Years of conflict splits voters in former Netanyahu stronghold",
-    "pubDate": "Sat, 24 Oct 2026 04:11:35 +0000"
    }
   ],
   "nsw_rfs_incidents": [
    {
     "title": "CONTOUR RD, MURRAMI",
-    "category": "Advice"
-   },
-   {
-    "title": "Grand Av, Rosehill",
     "category": "Advice"
    },
    {
@@ -1060,26 +1155,30 @@
     "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
    },
    {
+    "title": "Beach road may close as high tides bring flood risk - Yahoo News Australia",
+    "pubDate": "Sat, 24 Oct 2026 14:06:29 GMT"
+   },
+   {
+    "title": "Family sounds warning after pet's snake bite - Sunshine Coast News",
+    "pubDate": "Sat, 24 Oct 2026 18:00:46 GMT"
+   },
+   {
     "title": "Flash floods lash southeast Queensland in record October rainfall - Euronews.com",
     "pubDate": "Fri, 23 Oct 2026 08:29:25 GMT"
    },
    {
-    "title": "Heavy rain forces south-east Qld school closures but falls set to ease - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 22 Oct 2026 18:38:38 GMT"
-   },
-   {
-    "title": "Further rain, flash flooding for Queensland after deluge - News24",
-    "pubDate": "Thu, 22 Oct 2026 18:00:52 GMT"
-   },
-   {
-    "title": "Bureau of Meteorology issues weather warning as supercell thunderstorms to hit rain-lashed state - Yahoo News Australia",
-    "pubDate": "Thu, 22 Oct 2026 21:51:56 GMT"
+    "title": "Severe Thunderstorm Warning for Central Highlands and Coalfields forecast district - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Fri, 23 Oct 2026 02:47:13 GMT"
    }
   ],
   "au_security_news": [
    {
     "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
     "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
+   },
+   {
+    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
+    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
    },
    {
     "title": "Ukraine says Starlink at normal speed after delays impede military - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
@@ -1100,10 +1199,6 @@
    {
     "title": "Willis launches defence unit as Australia lifts spending to 3% - Insurance Business",
     "pubDate": "Fri, 23 Oct 2026 05:41:34 GMT"
-   },
-   {
-    "title": "From inflation to security: When will Labor make the logical leap on Trump? - The Mandarin",
-    "pubDate": "Sat, 24 Oct 2026 01:33:50 GMT"
    },
    {
     "title": "Turning Up Australia-Japan Cooperation on Energy Security and AI - Asia Society",

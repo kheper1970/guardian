@@ -139,6 +139,32 @@ def assess(snapshot):
                          f"(last update {str(e.get('date'))[:10]})")
     lines.append("")
 
+    # --- NHC tropical cyclones ---
+    nhc = snapshot.get("nhc_storms", [])
+    lines.append("## Tropical cyclones (NHC Atlantic + E/C Pacific)")
+    storms = [s for s in nhc if "storm" in s]
+    errs = [s for s in nhc if "error" in s]
+    if storms:
+        for s in storms:
+            advs = s.get("advisories", [])
+            latest = advs[0] if advs else {}
+            lines.append(f"- **{s.get('type')} {s.get('storm')}** ({s.get('basin')}): "
+                         f"latest: {latest.get('title','')} "
+                         f"({latest.get('pubDate','')[:16]})")
+            for a in advs[:4]:
+                lines.append(f"  - {a['title']} {a['link']}")
+            low = (latest.get("title") or "").lower()
+            if s.get("type") == "Hurricane":
+                alerts.append(f"NHC HURRICANE ACTIVE: {s.get('storm')} "
+                              f"({s.get('basin')}) - {latest.get('title','')[:120]}")
+            if "watch" in low or "warning" in low:
+                alerts.append(f"NHC WATCH/WARNING: {s.get('storm')} - {latest.get('title','')[:120]}")
+    else:
+        lines.append("- No active NHC-tracked storms.")
+    for e in errs:
+        lines.append(f"- feed error ({e.get('basin')}): {e['error']}")
+    lines.append("")
+
     # --- Nuclear / radiological watch ---
     lines.append("## Nuclear & radiological watch (Google News: IAEA/incident keywords)")
     nuc = snapshot.get("nuclear_news", [])

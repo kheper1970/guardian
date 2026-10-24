@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-24T12:39:01.317871+00:00",
+ "collected_utc": "2026-10-24T13:45:01.129219+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -943,6 +943,10 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Ukraine says Starlink at normal speed after delays impede military",
+    "pubDate": "Sat, 24 Oct 2026 13:09:37 +0000"
+   },
+   {
     "title": "WA premier confronted by South Hedland community members",
     "pubDate": "Sat, 24 Oct 2026 09:53:46 +0000"
    },
@@ -977,10 +981,6 @@
    {
     "title": "Former Port Adelaide AFL player Daniel Stewart dies at 37",
     "pubDate": "Sat, 24 Oct 2026 03:29:23 +0000"
-   },
-   {
-    "title": "Elon Musk has a lot to lose at US midterms as pollsters tip blue wave",
-    "pubDate": "Sat, 24 Oct 2026 02:34:01 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -1013,10 +1013,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "DOG TRAP RD, SOMERSBY",
-    "category": "Not Applicable"
-   },
-   {
     "title": "DURRAWEEN LANE, DUBBO NSW",
     "category": "Not Applicable"
    },
@@ -1029,6 +1025,10 @@
     "category": "Not Applicable"
    },
    {
+    "title": "JAMISON ST, LUDDENHAM",
+    "category": "Not Applicable"
+   },
+   {
     "title": "KIDMAN WAY, THARBOGANG",
     "category": "Not Applicable"
    },
@@ -1037,7 +1037,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "NEW ENGLAND HWY, THORNTON",
+    "title": "MUD FLAT RD, DRAKE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "NEW ENGLAND HWY, WHITTINGHAM",
     "category": "Not Applicable"
    }
   ],
@@ -1121,8 +1125,8 @@
     "pubDate": "Thu, 22 Oct 2026 20:45:06 GMT"
    },
    {
-    "title": "Indoor Air Quality Alert: Southwest USA flooding - IQAir",
-    "pubDate": "Thu, 22 Oct 2026 12:45:10 GMT"
+    "title": "Heavy rain forces south-east Qld school closures but falls set to ease - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Thu, 22 Oct 2026 18:38:38 GMT"
    }
   ],
   "au_security_news": [

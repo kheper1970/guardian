@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-24T14:45:01.933091+00:00",
+ "collected_utc": "2026-10-24T15:45:01.707771+00:00",
  "earthquakes": [
+  {
+   "mag": 5.8,
+   "place": "Bouvet Island region",
+   "time": 1792855459882,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.8,
+   "place": "216 km NW of Port-Olry, Vanuatu",
+   "time": 1792849980775,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mi",
+   "type": "earthquake"
+  },
   {
    "mag": 4.7,
    "place": "72 km S of Basco, Philippines",
@@ -307,6 +323,14 @@
   },
   {
    "mag": 4.9,
+   "place": "40 km ESE of Hualien City, Taiwan",
+   "time": 1792789081491,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gs",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
    "place": "35 km ESE of Hualien City, Taiwan",
    "time": 1792788496356,
    "tsunami": false,
@@ -336,21 +360,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "52 km WNW of Malfa, Italy",
-   "time": 1792769533051,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dx",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-24T09:00:00",
-   "Kp": 2.0,
-   "a_running": 7,
+   "time_tag": "2026-10-24T12:00:00",
+   "Kp": 1.67,
+   "a_running": 6,
    "station_count": 8
   },
   "kp_max_24h": 4.33,
@@ -563,7 +579,7 @@
   ]
  },
  "eonet": {
-  "open_total": 35,
+  "open_total": 36,
   "tracked": [
    {
     "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
@@ -819,8 +835,8 @@
  ],
  "famine_news": [
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Wed, 21 Oct 2026 11:04:14 GMT"
+   "title": "Food Insecurity and Child Malnutrition Worsen in Afghanistan Despite Strong Agricultural Season - Inter Press Service",
+   "pubDate": "Tue, 20 Oct 2026 17:23:26 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
@@ -839,16 +855,16 @@
    "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
   },
   {
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+  },
+  {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
-  },
-  {
-   "title": "\u2018Some aren\u2019t going to make it\u2019: how pressure on farmers threatens UK food security - The Guardian",
-   "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT"
   }
  ],
  "australia": {
@@ -912,11 +928,11 @@
     "category": "Planned Burn"
    },
    {
-    "title": "(PACIFIC MTWY), HOLMESVILLE",
+    "title": "BRIDGE ST, URANQUINTY",
     "category": "Not Applicable"
    },
    {
-    "title": "BRIDGE ST, URANQUINTY",
+    "title": "CAPPELLA ST, NORTH ROTHBURY",
     "category": "Not Applicable"
    },
    {
@@ -949,6 +965,10 @@
    },
    {
     "title": "MUD FLAT RD, DRAKE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WOOLSHED DR, MENINDEE",
     "category": "Not Applicable"
    }
   ],
@@ -1042,8 +1062,16 @@
     "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
    },
    {
+    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
+    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
+   },
+   {
     "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
     "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
+   },
+   {
+    "title": "Western Australia\u2019s Fuel Security - Western Australian Government",
+    "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
    },
    {
     "title": "Hidden detail in Australia\u2019s fuel reserves - News.com.au",
@@ -1060,14 +1088,6 @@
    {
     "title": "Turning Up Australia-Japan Cooperation on Energy Security and AI - Asia Society",
     "pubDate": "Fri, 23 Oct 2026 02:50:39 GMT"
-   },
-   {
-    "title": "Major expansion under way at secretive military base Pine Gap - AFR",
-    "pubDate": "Thu, 22 Oct 2026 23:35:00 GMT"
-   },
-   {
-    "title": "Australia backs Fiji\u2019s launch of first Maritime Security Strategy with Bluebottle surveillance drones - The Australia Today",
-    "pubDate": "Fri, 23 Oct 2026 22:06:15 GMT"
    }
   ],
   "au_health_news": [

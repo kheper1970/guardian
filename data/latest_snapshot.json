@@ -1,0 +1,1138 @@
+{
+ "collected_utc": "2026-10-24T11:39:01.640357+00:00",
+ "earthquakes": [
+  {
+   "mag": 4.9,
+   "place": "148 km NNW of Kilmia, Yemen",
+   "time": 1792840827157,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m6",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "196 km W of Sola, Vanuatu",
+   "time": 1792840440121,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "169 km NW of Port-Olry, Vanuatu",
+   "time": 1792834729138,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lr",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5,
+   "place": "219 km WNW of Port-Olry, Vanuatu",
+   "time": 1792832820782,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lp",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.9,
+   "place": "196 km NW of Port-Olry, Vanuatu",
+   "time": 1792832188815,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.7,
+   "place": "187 km NW of Port-Olry, Vanuatu",
+   "time": 1792831555500,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ll",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.3,
+   "place": "223 km ENE of Nagqu, China",
+   "time": 1792831193139,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lg",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "81 km SSE of Akutan, Alaska",
+   "time": 1792830828499,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ld",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "41 km SSE of Kax, China",
+   "time": 1792830560689,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lb",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "209 km NW of Port-Olry, Vanuatu",
+   "time": 1792830482029,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lc",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "218 km NW of Port-Olry, Vanuatu",
+   "time": 1792830166296,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4l9",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.7,
+   "place": "222 km NW of Port-Olry, Vanuatu",
+   "time": 1792830001035,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4l8",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.7,
+   "place": "195 km NW of Port-Olry, Vanuatu",
+   "time": 1792825083586,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kw",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5,
+   "place": "219 km NW of Port-Olry, Vanuatu",
+   "time": 1792824724142,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.5,
+   "place": "55 km NNE of Port-Olry, Vanuatu",
+   "time": 1792824189602,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "206 km NW of Port-Olry, Vanuatu",
+   "time": 1792822856869,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kt",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.3,
+   "place": "174 km NW of Port-Olry, Vanuatu",
+   "time": 1792821856367,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "175 km NW of Port-Olry, Vanuatu",
+   "time": 1792820266052,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kh",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "184 km NW of Port-Olry, Vanuatu",
+   "time": 1792820154921,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ke",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.8,
+   "place": "182 km NW of Port-Olry, Vanuatu",
+   "time": 1792819420747,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.8,
+   "place": "219 km WNW of Port-Olry, Vanuatu",
+   "time": 1792818634753,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "217 km NW of Port-Olry, Vanuatu",
+   "time": 1792817361707,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5,
+   "place": "161 km NW of Port-Olry, Vanuatu",
+   "time": 1792817085324,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k2",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.3,
+   "place": "216 km W of Sola, Vanuatu",
+   "time": 1792815578628,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.8,
+   "place": "203 km NW of Port-Olry, Vanuatu",
+   "time": 1792815125337,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.7,
+   "place": "205 km NW of Port-Olry, Vanuatu",
+   "time": 1792814736800,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "186 km WNW of Port-Olry, Vanuatu",
+   "time": 1792813895267,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.2,
+   "place": "202 km NW of Port-Olry, Vanuatu",
+   "time": 1792811875755,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "170 km NW of Port-Olry, Vanuatu",
+   "time": 1792811325463,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji",
+   "type": "earthquake"
+  },
+  {
+   "mag": 6.3,
+   "place": "170 km NW of Port-Olry, Vanuatu",
+   "time": 1792809357362,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
+   "type": "earthquake"
+  },
+  {
+   "mag": 6.9,
+   "place": "197 km WNW of Port-Olry, Vanuatu",
+   "time": 1792809088641,
+   "tsunami": true,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "195 km NW of Port-Olry, Vanuatu",
+   "time": 1792801664940,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ib",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "209 km ENE of Nagqu, China",
+   "time": 1792800476787,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "115 km NE of Norsup, Vanuatu",
+   "time": 1792795371088,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4hr",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.8,
+   "place": "6 km ENE of Starobachaty, Russia",
+   "time": 1792794256303,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4hi",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "203 km NW of Port-Olry, Vanuatu",
+   "time": 1792793110711,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "73 km ENE of Kinablangan, Philippines",
+   "time": 1792791664400,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h0",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "35 km ESE of Hualien City, Taiwan",
+   "time": 1792788496356,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.8,
+   "place": "209 km ENE of Nagqu, China",
+   "time": 1792787861989,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gj",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "91 km ESE of Tuensang, India",
+   "time": 1792775185116,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4f5",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "72 km ENE of Noda, Japan",
+   "time": 1792771671754,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.7,
+   "place": "52 km WNW of Malfa, Italy",
+   "time": 1792769533051,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dx",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "233 km ENE of Nagqu, China",
+   "time": 1792766476206,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dk",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.7,
+   "place": "215 km NE of Nagqu, China",
+   "time": 1792764844311,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4df",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.2,
+   "place": "50 km WNW of Malfa, Italy",
+   "time": 1792763736149,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "207 km NE of Lospalos, Timor Leste",
+   "time": 1792758264746,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bw",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "193 km ENE of Levuka, Fiji",
+   "time": 1792757987354,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bv",
+   "type": "earthquake"
+  }
+ ],
+ "space_weather": {
+  "kp_latest": {
+   "time_tag": "2026-10-24T06:00:00",
+   "Kp": 0.67,
+   "a_running": 3,
+   "station_count": 8
+  },
+  "kp_max_24h": 4.33,
+  "alerts_recent": [
+   {
+    "id": "K04W",
+    "issued": "2026-09-25 21:55:03.593",
+    "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5422\r\nIssue Time: 2026 Sep 25 2155 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 25 2154 UTC\nValid To: 2026 Sep 26 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 d"
+   },
+   {
+    "id": "K05W",
+    "issued": "2026-09-25 08:35:43.590",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2266\r\nIssue Time: 2026 Sep 25 0835 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Sep 25 0835 UTC\nValid To: 2026 Sep 25 1200 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential I"
+   },
+   {
+    "id": "K04A",
+    "issued": "2026-09-25 03:00:15.997",
+    "message": "Space Weather Message Code: ALTK04\r\nSerial Number: 2686\r\nIssue Time: 2026 Sep 25 0300 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 0257 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagn"
+   },
+   {
+    "id": "K04W",
+    "issued": "2026-09-25 02:26:55.457",
+    "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5421\r\nIssue Time: 2026 Sep 25 0226 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 25 0226 UTC\nValid To: 2026 Sep 25 1800 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 d"
+   },
+   {
+    "id": "K04W",
+    "issued": "2026-09-24 14:30:01.217",
+    "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5420\r\nIssue Time: 2026 Sep 24 1430 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5419\nValid From: 2026 Sep 24 0944 UTC\nNow Valid Until: 2026 Sep 24 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impact"
+   }
+  ]
+ },
+ "neo": {
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
+ },
+ "who_news": [
+  {
+   "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+   "link": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response"
+  },
+  {
+   "title": "WHO statement on notification of withdrawal of the United States",
+   "link": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states"
+  },
+  {
+   "title": "Timor-Leste certified malaria-free by WHO",
+   "link": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who"
+  },
+  {
+   "title": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa",
+   "link": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa"
+  },
+  {
+   "title": "Strengthening public health across Lebanon with EIB Global",
+   "link": "https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global"
+  },
+  {
+   "title": "Frank, in-depth discussion as Belgium and WHO map ahead priorities for collaboration",
+   "link": "https://www.who.int/news/item/11-03-2025-frank--in-depth-discussion-as-belgium-and-who-map-ahead-priorities-for-collaboration"
+  },
+  {
+   "title": "WHO and Switzerland cement cooperation until 2028",
+   "link": "https://www.who.int/news/item/07-03-2025-who-and-switzerland-cement-cooperation-until-2028"
+  },
+  {
+   "title": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities",
+   "link": "https://www.who.int/news/item/24-02-2025-who-and-the-kingdom-of-saudi-arabia-sign-agreements-in-support-of-health-priorities"
+  },
+  {
+   "title": "Signing ceremony for contribution agreements between WHO and France",
+   "link": "https://www.who.int/news/item/17-10-2024-signing-ceremony-for-contribution-agreements-between-who-and-france"
+  },
+  {
+   "title": "WHO and the Netherlands renew their partnership on climate change and health",
+   "link": "https://www.who.int/news/item/10-10-2024-who-and-the-netherlands-renew-their-partnership-on-climate-change-and-health"
+  }
+ ],
+ "gdacs": [
+  {
+   "severity": "Red",
+   "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
+   "description": "On 10/22/2026 2:33:40 PM, an earthquake occurred in China potentially affecting 10 thousand (in MMI&gt;=VII). The earthquake had Magnitude 7M, Depth:18km."
+  },
+  {
+   "severity": "Red",
+   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.181 million .",
+   "description": "From 14/10/2026 to 23/10/2026, a Hurricane/Typhoon &gt; 74 mph (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.181 million ."
+  }
+ ],
+ "tsunami": {
+  "latest_product": "Tsunami Information Statement Number 1",
+  "entries": [
+   {
+    "event": "near the Vanuatu Islands",
+    "updated": "2026-10-24T02:39:49Z",
+    "category": "Information"
+   }
+  ],
+  "threatening": []
+ },
+ "volcano": {
+  "elevated": [
+   {
+    "volcano": "Great Sitkin",
+    "observatory": "avo",
+    "color": "ORANGE",
+    "alert": "WATCH",
+    "sent_utc": "2026-10-23 19:28:22"
+   },
+   {
+    "volcano": "Shishaldin",
+    "observatory": "avo",
+    "color": "YELLOW",
+    "alert": "ADVISORY",
+    "sent_utc": "2026-10-23 19:28:22"
+   },
+   {
+    "volcano": "Kilauea",
+    "observatory": "hvo",
+    "color": "YELLOW",
+    "alert": "ADVISORY",
+    "sent_utc": "2026-10-23 19:37:45"
+   },
+   {
+    "volcano": "Ahyi Seamount",
+    "observatory": "nmi",
+    "color": "YELLOW",
+    "alert": "ADVISORY",
+    "sent_utc": "2026-10-22 23:16:38"
+   }
+  ]
+ },
+ "reliefweb": {
+  "disasters": [
+   {
+    "title": "Panama: Earthquake - Oct 2026",
+    "pubDate": "Fri, 09 Oct 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/eq-2026-000188-pan"
+   },
+   {
+    "title": "Bangladesh: Dengue Outbreak - Sep 2026",
+    "pubDate": "Tue, 01 Sep 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/ep-2026-000174-bgd"
+   },
+   {
+    "title": "Niger: Floods - Sep 2026",
+    "pubDate": "Tue, 01 Sep 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/fl-2026-000181-ner"
+   },
+   {
+    "title": "Philippines: Floods - Aug 2026",
+    "pubDate": "Sat, 29 Aug 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/fl-2026-000169-phl"
+   },
+   {
+    "title": "Nepal: Flash Floods - Aug 2026",
+    "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/ff-2026-000162-npl"
+   },
+   {
+    "title": "Liberia: Floods - Aug 2026",
+    "pubDate": "Mon, 24 Aug 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/fl-2026-000175-lbr"
+   },
+   {
+    "title": "Indonesia: Earthquake - Aug 2026",
+    "pubDate": "Sat, 15 Aug 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/eq-2026-000150-idn"
+   },
+   {
+    "title": "Colombia: Earthquake - Aug 2026",
+    "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/eq-2026-000146-col"
+   },
+   {
+    "title": "Sierra Leone: Flash Floods - Aug 2026",
+    "pubDate": "Mon, 03 Aug 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/ff-2026-000152-sle"
+   },
+   {
+    "title": "Myanmar: Floods - Jul 2026",
+    "pubDate": "Thu, 30 Jul 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/fl-2026-000141-mmr"
+   },
+   {
+    "title": "Afghanistan: Flash Floods - Jul 2026",
+    "pubDate": "Mon, 20 Jul 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/ff-2026-000120-afg"
+   },
+   {
+    "title": "India: Flash Floods - Jul 2026",
+    "pubDate": "Sun, 19 Jul 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/ff-2026-000139-ind"
+   },
+   {
+    "title": "Kyrgyzstan: Flash Floods - Jul 2026",
+    "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/fl-2026-000114-kgz"
+   },
+   {
+    "title": "Tajikistan: Floods - Jul 2026",
+    "pubDate": "Sat, 11 Jul 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/fl-2026-000111-tjk"
+   },
+   {
+    "title": "Bangladesh: Flash Floods - Jul 2026",
+    "pubDate": "Sun, 05 Jul 2026 00:00:00 +0000",
+    "link": "https://reliefweb.int/disaster/fl-2026-000109-bgd"
+   }
+  ]
+ },
+ "eonet": {
+  "open_total": 35,
+  "tracked": [
+   {
+    "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-22T21:45:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590"
+   },
+   {
+    "title": "Hurricane Vance",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-24T06:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
+   },
+   {
+    "title": "Tropical Cyclone Agueda",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-23T18:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457"
+   },
+   {
+    "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-18T08:25:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455"
+   },
+   {
+    "title": "Wildfire Bras, Sanders, Montana",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-17T23:28:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25591"
+   },
+   {
+    "title": "Wildfire COOLEY, Mendocino, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-16T20:14:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450"
+   },
+   {
+    "title": "Wildfire NORTE, Orange, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-16T14:52:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25452"
+   },
+   {
+    "title": "Prescribed Fire Rx Polk 9275, Polk, Texas",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-16T08:31:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25454"
+   },
+   {
+    "title": "Tropical Cyclone Wati",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-19T06:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340"
+   },
+   {
+    "title": "Wildfire HENDERSON, San Diego, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-15T17:11:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25451"
+   },
+   {
+    "title": "Super Typhoon Champi",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-24T06:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
+   },
+   {
+    "title": "Prescribed Fire Newman 2 Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-15T11:29:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25456"
+   },
+   {
+    "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-14T10:42:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310"
+   },
+   {
+    "title": "Hurricane Trudy",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-20T00:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290"
+   },
+   {
+    "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-13T10:24:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311"
+   },
+   {
+    "title": "Prescribed Fire SRF 2026 Rx Implementation, Humboldt, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-12T16:27:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25312"
+   },
+   {
+    "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-10T14:58:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238"
+   },
+   {
+    "title": "Wildfire PK, Sheridan, Wyoming",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-09T19:26:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233"
+   },
+   {
+    "title": "Wildfire CYRUS, Kern, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-09T17:15:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232"
+   },
+   {
+    "title": "Prescribed Fire Bridger Trail Unit - KPERP Rx NKRD CY26, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-09T11:49:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25234"
+   },
+   {
+    "title": "Wildfire Craig Lake 1, Baraga, Michigan",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-08T18:05:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25309"
+   },
+   {
+    "title": "Prescribed Fire COOPER UNIT - KPERP RX NKRD  CY26, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-08T12:16:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25235"
+   },
+   {
+    "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-07T10:45:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119"
+   },
+   {
+    "title": "Prescribed Fire Bartlett Creek RX, Custer, Idaho",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-06T11:34:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25240"
+   },
+   {
+    "title": "Wildfire Jones, Elko, Nevada",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-05T23:14:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25117"
+   },
+   {
+    "title": "Prescribed Fire RX MFD Morrison Peak, Missoula, Montana",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-05T17:33:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25592"
+   },
+   {
+    "title": "Prescribed Fire West Fork RX, Wasatch, Utah",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-05T14:54:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25239"
+   }
+  ]
+ },
+ "nuclear_news": [
+  {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
+   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
+  }
+ ],
+ "famine_news": [
+  {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Wed, 21 Oct 2026 11:04:14 GMT"
+  },
+  {
+   "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
+   "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
+  },
+  {
+   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
+   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
+  },
+  {
+   "title": "UN says 19.2 million Afghans facing acute food insecurity by April 2027 - The Straits Times",
+   "pubDate": "Tue, 20 Oct 2026 10:17:00 GMT"
+  },
+  {
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
+   "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
+  },
+  {
+   "title": "Can emergency cash buy food security? - UNU | United Nations University",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "\u2018Some aren\u2019t going to make it\u2019: how pressure on farmers threatens UK food security - The Guardian",
+   "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT"
+  }
+ ],
+ "australia": {
+  "abc_news": [
+   {
+    "title": "WA premier confronted by South Hedland community members",
+    "pubDate": "Sat, 24 Oct 2026 09:53:46 +0000"
+   },
+   {
+    "title": "Fire breaks out at Hitler's mountain retreat, suspect arrested",
+    "pubDate": "Sat, 24 Oct 2026 09:16:03 +0000"
+   },
+   {
+    "title": "Daughters joyful to 'breathe same air' as Donna Nelson returns to Perth",
+    "pubDate": "Sat, 24 Oct 2026 08:43:00 +0000"
+   },
+   {
+    "title": "Jillaroos hammer England 78-0 but superstar's World Cup ends in hospital",
+    "pubDate": "Sat, 24 Oct 2026 07:45:38 +0000"
+   },
+   {
+    "title": "How a data centre united Australia's gaming community",
+    "pubDate": "Sat, 24 Oct 2026 05:00:00 +0000"
+   },
+   {
+    "title": "Two large earthquakes off coast of Vanuatu prompt tsunami warning",
+    "pubDate": "Sat, 24 Oct 2026 04:31:41 +0000"
+   },
+   {
+    "title": "Years of conflict splits voters in former Netanyahu stronghold",
+    "pubDate": "Sat, 24 Oct 2026 04:11:35 +0000"
+   },
+   {
+    "title": "Tasmanian football club coach charged with rape",
+    "pubDate": "Sat, 24 Oct 2026 04:06:49 +0000"
+   },
+   {
+    "title": "Former Port Adelaide AFL player Daniel Stewart dies at 37",
+    "pubDate": "Sat, 24 Oct 2026 03:29:23 +0000"
+   },
+   {
+    "title": "Elon Musk has a lot to lose at US midterms as pollsters tip blue wave",
+    "pubDate": "Sat, 24 Oct 2026 02:34:01 +0000"
+   }
+  ],
+  "nsw_rfs_incidents": [
+   {
+    "title": "BINGLEBURRA RD, SUGARLOAF",
+    "category": "Advice"
+   },
+   {
+    "title": "CONTOUR RD, MURRAMI",
+    "category": "Advice"
+   },
+   {
+    "title": "JONES LANE",
+    "category": "Advice"
+   },
+   {
+    "title": "Minuma Range",
+    "category": "Advice"
+   },
+   {
+    "title": "FB915 Mt Taylor",
+    "category": "Planned Burn"
+   },
+   {
+    "title": "NORTH JINDALEE RD, WALLENDBEEN NSW 2588",
+    "category": "Planned Burn"
+   },
+   {
+    "title": "BRIDGE ST, URANQUINTY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "COOKA HILLS RD, PARKES",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "DEEP CREEK DAM RD, MOGO",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HWY, WILCANNIA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "IRRIGATION WAY, MURRAMI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "KIDMAN WAY, THARBOGANG",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MOSS VALE RD, CAMBEWARRA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WOODLEYS RD, WONGARBON",
+    "category": "Not Applicable"
+   }
+  ],
+  "au_quakes": [
+   {
+    "mag": 4.3,
+    "place": "248 km SW of Tambolaka, Indonesia",
+    "time": 1792437410241,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3gm"
+   },
+   {
+    "mag": 3.1,
+    "place": "14 km SSW of Yarragon, Australia",
+    "time": 1792206199932,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y4"
+   },
+   {
+    "mag": 4.4,
+    "place": "38 km SSE of Kupang, Indonesia",
+    "time": 1791819727338,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1sm"
+   },
+   {
+    "mag": 4.3,
+    "place": "215 km S of Lembar, Indonesia",
+    "time": 1791560953171,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2sw"
+   },
+   {
+    "mag": 3.5,
+    "place": "13 km ENE of Nyora, Australia",
+    "time": 1791371869338,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0r1"
+   },
+   {
+    "mag": 4.2,
+    "place": "199 km S of Tambolaka, Indonesia",
+    "time": 1791085941004,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u22b"
+   },
+   {
+    "mag": 3.2,
+    "place": "9 km ESE of Nyora, Australia",
+    "time": 1790960193706,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzaj"
+   },
+   {
+    "mag": 4.7,
+    "place": "5 km NNW of Korumburra, Australia",
+    "time": 1790956899602,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y"
+   }
+  ],
+  "au_emergency_news": [
+   {
+    "title": "Australian National Weather Forecast - Nine.com.au",
+    "pubDate": "Sat, 24 Oct 2026 04:54:53 GMT"
+   },
+   {
+    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia - The Guardian",
+    "pubDate": "Fri, 23 Oct 2026 23:35:00 GMT"
+   },
+   {
+    "title": "Northern wet season 2026-27 - Department of Fire and Emergency Services",
+    "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
+   },
+   {
+    "title": "Daring flood rescue amid storms warning - News.com.au",
+    "pubDate": "Fri, 23 Oct 2026 23:24:01 GMT"
+   },
+   {
+    "title": "Driver pulled from sinking car by his hair as flood warnings sweep south east Queensland - Nine.com.au",
+    "pubDate": "Sat, 24 Oct 2026 08:52:14 GMT"
+   },
+   {
+    "title": "Flash floods lash southeast Queensland in record October rainfall - Euronews.com",
+    "pubDate": "Fri, 23 Oct 2026 08:29:25 GMT"
+   },
+   {
+    "title": "The New York Times. . The Australian TV reporter Will Murray told The New York Times how he and a bystander rescued a man from his vehicle seconds before it completely submerged in a Queensland suburb during flash floodi",
+    "pubDate": "Thu, 22 Oct 2026 20:45:06 GMT"
+   },
+   {
+    "title": "Indoor Air Quality Alert: Southwest USA flooding - IQAir",
+    "pubDate": "Thu, 22 Oct 2026 12:45:10 GMT"
+   }
+  ],
+  "au_security_news": [
+   {
+    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
+   },
+   {
+    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
+    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
+   },
+   {
+    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
+   },
+   {
+    "title": "Hidden detail in Australia\u2019s fuel reserves - News.com.au",
+    "pubDate": "Sat, 24 Oct 2026 03:03:30 GMT"
+   },
+   {
+    "title": "From inflation to security: When will Labor make the logical leap on Trump? - The Mandarin",
+    "pubDate": "Sat, 24 Oct 2026 01:33:50 GMT"
+   },
+   {
+    "title": "Willis launches defence unit as Australia lifts spending to 3% - Insurance Business",
+    "pubDate": "Fri, 23 Oct 2026 05:41:34 GMT"
+   },
+   {
+    "title": "Australia backs Fiji\u2019s launch of first Maritime Security Strategy with Bluebottle surveillance drones - The Australia Today",
+    "pubDate": "Fri, 23 Oct 2026 22:06:15 GMT"
+   },
+   {
+    "title": "Turning Up Australia-Japan Cooperation on Energy Security and AI - Asia Society",
+    "pubDate": "Fri, 23 Oct 2026 02:50:39 GMT"
+   }
+  ],
+  "au_health_news": [
+   {
+    "title": "Secondary navigation"
+   },
+   {
+    "title": "You are here"
+   },
+   {
+    "title": "Hearing Services Program provider notice 2026-11 \u2013 Provider webinar"
+   },
+   {
+    "title": "Australian medtech company receives prestigious award nomination"
+   },
+   {
+    "title": "Annual Report \u2013 Office of the National Rural Health Commissioner 2025-26"
+   },
+   {
+    "title": "PBS Approved Suppliers \u2013 End of year closure period 2026"
+   },
+   {
+    "title": "Australian Community Pharmacy Authority (ACPA) meeting dates for 2027"
+   },
+   {
+    "title": "We\u2019re raising awareness about perimenopause and menopause this World Menopause Day (18 October)"
+   },
+   {
+    "title": "Have your say: aged care providers and workers delivering Support at Home"
+   },
+   {
+    "title": "Turning awareness into action: helping GPs discuss cancer screening"
+   }
+  ]
+ }
+}

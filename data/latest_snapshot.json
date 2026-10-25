@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-25T08:45:01.401078+00:00",
+ "collected_utc": "2026-10-25T09:45:01.115125+00:00",
  "earthquakes": [
+  {
+   "mag": 4.6,
+   "place": "Volcano Islands, Japan region",
+   "time": 1792919477412,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.4,
+   "place": "205 km NW of Port-Olry, Vanuatu",
+   "time": 1792917660034,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "82 km SSE of Akutan, Alaska",
@@ -224,45 +240,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "169 km NW of Port-Olry, Vanuatu",
-   "time": 1792834729138,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lr",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "219 km WNW of Port-Olry, Vanuatu",
-   "time": 1792832820782,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lp",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.9,
-   "place": "196 km NW of Port-Olry, Vanuatu",
-   "time": 1792832188815,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "187 km NW of Port-Olry, Vanuatu",
-   "time": 1792831555500,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ll",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-25T03:00:00",
-   "Kp": 0.67,
-   "a_running": 3,
+   "time_tag": "2026-10-25T06:00:00",
+   "Kp": 0.33,
+   "a_running": 2,
    "station_count": 8
   },
   "kp_max_24h": 2.0,
@@ -583,8 +567,8 @@
     },
     {
      "title": "Hurricane Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/084216.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 08:42:16 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/092243.shtml?cone",
+     "pubDate": "Sun, 25 Oct 2026 09:22:43 GMT"
     }
    ]
   }
@@ -873,7 +857,7 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Live: Kangaroos wrap up World Cup weekend against Fiji after Kiwis survive scare",
+    "title": "Live: Kangaroos looking shell-shocked by fast-starting Fijians in World Cup",
     "pubDate": "Sun, 25 Oct 2026 07:55:20 +0000"
    },
    {
@@ -901,7 +885,7 @@
     "pubDate": "Sun, 25 Oct 2026 04:53:08 +0000"
    },
    {
-    "title": "Silver Ferns beat Diamonds in thriller to win Constellation Cup",
+    "title": "Diamonds great says coach 'safe for now' after Constellation Cup loss",
     "pubDate": "Sun, 25 Oct 2026 04:21:37 +0000"
    },
    {
@@ -931,19 +915,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "CARPARK MONA VALE RD, ST IVES",
-    "category": "Not Applicable"
-   },
-   {
     "title": "COOKA HILLS RD, PARKES",
     "category": "Not Applicable"
    },
    {
     "title": "DURRAWEEN LANE, DUBBO NSW",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "EAST SEAHAM RD, EAST SEAHAM",
     "category": "Not Applicable"
    },
    {
@@ -955,15 +931,15 @@
     "category": "Not Applicable"
    },
    {
+    "title": "MARY GILMORE WAY, GRENFELL",
+    "category": "Not Applicable"
+   },
+   {
     "title": "NEW ENGLAND HWY, ABERDEEN",
     "category": "Not Applicable"
    },
    {
-    "title": "NEWELL HWY, GRONG GRONG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "SINGLETON RD, WISEMANS FERRY",
+    "title": "PERSEVERANCE ST, WEST WYALONG",
     "category": "Not Applicable"
    },
    {
@@ -971,19 +947,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "TREVENA LANE, BELLATA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WAKEFIELD RD, RYHOPE",
-    "category": "Not Applicable"
-   },
-   {
     "title": "WISEMANS FERRY RD, SOMERSBY",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WOLLOMBI RD, BISHOPS BRIDGE",
     "category": "Not Applicable"
    },
    {
@@ -1089,6 +1053,10 @@
     "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
    },
    {
+    "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
+    "pubDate": "Sat, 24 Oct 2026 21:25:57 GMT"
+   },
+   {
     "title": "\u2018When, not if\u2019: Chilling claim after MP attack - News.com.au",
     "pubDate": "Sun, 25 Oct 2026 01:54:29 GMT"
    },
@@ -1097,16 +1065,12 @@
     "pubDate": "Sun, 25 Oct 2026 03:37:21 GMT"
    },
    {
-    "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
-    "pubDate": "Sat, 24 Oct 2026 21:25:57 GMT"
-   },
-   {
     "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
     "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
    },
    {
     "title": "Ukraine says Starlink at normal speed after delays impede military - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 13:10:35 GMT"
+    "pubDate": "Sat, 24 Oct 2026 13:09:37 GMT"
    }
   ],
   "au_health_news": [

@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T20:45:01.673343+00:00",
+ "collected_utc": "2026-10-25T21:45:01.798037+00:00",
  "earthquakes": [
+  {
+   "mag": 4.8,
+   "place": "167 km WNW of Port-Olry, Vanuatu",
+   "time": 1792960242515,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vy",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "153 km WNW of Adak, Alaska",
@@ -176,24 +184,16 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4q8",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "53 km NNW of Fef, Indonesia",
-   "time": 1792878111565,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-25T15:00:00",
-   "Kp": 0.33,
-   "a_running": 2,
+   "time_tag": "2026-10-25T18:00:00",
+   "Kp": 1.0,
+   "a_running": 4,
    "station_count": 8
   },
-  "kp_max_24h": 1.67,
+  "kp_max_24h": 2.0,
   "alerts_recent": [
    {
     "id": "K04A",
@@ -223,8 +223,89 @@
   ]
  },
  "neo": {
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
-  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
+  "count": 10,
+  "events": [
+   {
+    "name": "(2017 UQ7)",
+    "diameter_min_m": 24,
+    "diameter_max_m": 53,
+    "hazardous": false,
+    "miss_km": 10212926.30821252,
+    "velocity_kph": 57765.8866938487
+   },
+   {
+    "name": "(2018 UX1)",
+    "diameter_min_m": 41,
+    "diameter_max_m": 91,
+    "hazardous": false,
+    "miss_km": 15412396.44774945,
+    "velocity_kph": 38987.1563270839
+   },
+   {
+    "name": "(2017 TK6)",
+    "diameter_min_m": 32,
+    "diameter_max_m": 70,
+    "hazardous": false,
+    "miss_km": 18428131.157604057,
+    "velocity_kph": 54214.3422162734
+   },
+   {
+    "name": "(2002 CN15)",
+    "diameter_min_m": 184,
+    "diameter_max_m": 411,
+    "hazardous": false,
+    "miss_km": 22219932.35905153,
+    "velocity_kph": 95920.5706341887
+   },
+   {
+    "name": "(2017 TJ2)",
+    "diameter_min_m": 27,
+    "diameter_max_m": 61,
+    "hazardous": false,
+    "miss_km": 39203868.53823012,
+    "velocity_kph": 49612.3127792867
+   },
+   {
+    "name": "(2020 BD11)",
+    "diameter_min_m": 37,
+    "diameter_max_m": 82,
+    "hazardous": false,
+    "miss_km": 39945037.40718129,
+    "velocity_kph": 25575.9557895054
+   },
+   {
+    "name": "(2006 FL10)",
+    "diameter_min_m": 133,
+    "diameter_max_m": 298,
+    "hazardous": false,
+    "miss_km": 49844898.397831224,
+    "velocity_kph": 34920.0494069648
+   },
+   {
+    "name": "(2018 DA2)",
+    "diameter_min_m": 59,
+    "diameter_max_m": 131,
+    "hazardous": false,
+    "miss_km": 58890104.10928886,
+    "velocity_kph": 53013.4236106506
+   },
+   {
+    "name": "(2015 HJ)",
+    "diameter_min_m": 11,
+    "diameter_max_m": 24,
+    "hazardous": false,
+    "miss_km": 59933040.70953958,
+    "velocity_kph": 32437.7711465216
+   },
+   {
+    "name": "(1998 WL4)",
+    "diameter_min_m": 336,
+    "diameter_max_m": 752,
+    "hazardous": false,
+    "miss_km": 60313373.128221706,
+    "velocity_kph": 128914.2680157259
+   }
+  ]
  },
  "who_news": [
   {
@@ -432,8 +513,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/203904.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 20:39:04 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212833.shtml?cone",
+     "pubDate": "Sun, 25 Oct 2026 21:28:33 GMT"
     }
    ]
   },
@@ -464,8 +545,8 @@
     },
     {
      "title": "Tropical Storm Olana Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/204053.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 20:40:53 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/212245.shtml?cone",
+     "pubDate": "Sun, 25 Oct 2026 21:22:45 GMT"
     }
    ]
   }
@@ -681,32 +762,32 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
   },
   {
-   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
-   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
+   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -715,38 +796,58 @@
    "pubDate": "Tue, 20 Oct 2026 17:23:26 GMT"
   },
   {
-   "title": "UN says 19 mn Afghans facing acute food insecurity by April - Yahoo News Singapore",
-   "pubDate": "Tue, 20 Oct 2026 11:23:39 GMT"
+   "title": "UN says 19 mn Afghans facing acute food insecurity by April - France 24",
+   "pubDate": "Tue, 20 Oct 2026 11:27:25 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
-   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+  },
+  {
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
    "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
   },
   {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
-  },
-  {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
+   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "The NT child protection review is another wake-up call on the DV crisis",
+    "title": "Manchester United booed off pitch after calamitous defeat",
+    "pubDate": "Sun, 25 Oct 2026 21:28:48 +0000"
+   },
+   {
+    "title": "Man caves are evolving to become backyard social hubs \u2014 and pubs",
+    "pubDate": "Sun, 25 Oct 2026 21:25:00 +0000"
+   },
+   {
+    "title": "Breaking: Serbian president concedes defeat to student-led movement in election",
+    "pubDate": "Sun, 25 Oct 2026 21:06:44 +0000"
+   },
+   {
+    "title": "Books aim to keep Indigenous children safe online",
+    "pubDate": "Sun, 25 Oct 2026 20:57:33 +0000"
+   },
+   {
+    "title": "Smith will be 'fine' as Australia returns to Cape Town",
+    "pubDate": "Sun, 25 Oct 2026 20:55:48 +0000"
+   },
+   {
+    "title": "NT child protection report shows DV was major risk to Kumanjayi Little Baby",
     "pubDate": "Sun, 25 Oct 2026 20:34:05 +0000"
    },
    {
@@ -764,26 +865,6 @@
    {
     "title": "Live: Wall Street retreats as oil prices continue to rise, ASX set to slip",
     "pubDate": "Sun, 25 Oct 2026 19:59:06 +0000"
-   },
-   {
-    "title": "Skills shortage puts retail butchers on the chopping block",
-    "pubDate": "Sun, 25 Oct 2026 19:58:11 +0000"
-   },
-   {
-    "title": "Essendon sack coach after one-win AFLW season",
-    "pubDate": "Sun, 25 Oct 2026 19:54:09 +0000"
-   },
-   {
-    "title": "Labor proposes Tasmanian election spending caps",
-    "pubDate": "Sun, 25 Oct 2026 19:52:08 +0000"
-   },
-   {
-    "title": "'Lucky country has become the hungry country': Foodbank Australia",
-    "pubDate": "Sun, 25 Oct 2026 19:44:03 +0000"
-   },
-   {
-    "title": "SA 'disproportionately vulnerable' to NDIS changes, report warns",
-    "pubDate": "Sun, 25 Oct 2026 19:13:30 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -798,10 +879,6 @@
    {
     "title": "FB915 Mt Taylor",
     "category": "Planned Burn"
-   },
-   {
-    "title": "CHIFLEY RD, DARGAN",
-    "category": "Not Applicable"
    },
    {
     "title": "COOKA HILLS RD, PARKES",
@@ -884,12 +961,12 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
-   },
-   {
     "title": "Australian National Weather Forecast - Nine.com.au",
     "pubDate": "Sun, 25 Oct 2026 16:50:45 GMT"
+   },
+   {
+    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
    },
    {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
@@ -904,30 +981,34 @@
     "pubDate": "Sun, 25 Oct 2026 07:03:40 GMT"
    },
    {
-    "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
-    "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
-   },
-   {
     "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
     "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
    },
    {
     "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
     "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
+   },
+   {
+    "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
+    "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
    }
   ],
   "au_security_news": [
+   {
+    "title": "Security increased as parliament returns without MP Helen Haines - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sun, 25 Oct 2026 18:30:35 GMT"
+   },
    {
     "title": "Pacific Adventist University Students Included in Australia\u2013PNG Defence Recruitment Pilot - Spectrum Magazine",
     "pubDate": "Sun, 25 Oct 2026 15:49:58 GMT"
    },
    {
-    "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
-    "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
-   },
-   {
     "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
     "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
+   },
+   {
+    "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
+    "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
    },
    {
     "title": "PHP update: Why are so many websites down and when will they return? - SBS",
@@ -944,10 +1025,6 @@
    {
     "title": "Kongsberg plans to bring Zone 5 missiles to Australian market and explore local production - Defence Industry Europe",
     "pubDate": "Sun, 25 Oct 2026 18:18:59 GMT"
-   },
-   {
-    "title": "India and Australia strengthen military cooperation through Exercise AustraHind 2026 - The Indian Sun",
-    "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
    }
   ],
   "au_health_news": [

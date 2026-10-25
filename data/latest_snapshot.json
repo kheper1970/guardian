@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-25T15:00:01.938668+00:00",
+ "collected_utc": "2026-10-25T15:45:01.155164+00:00",
  "earthquakes": [
   {
    "mag": 5.9,
@@ -200,37 +200,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4my",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.8,
-   "place": "Bouvet Island region",
-   "time": 1792855459882,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "217 km NW of Port-Olry, Vanuatu",
-   "time": 1792855165185,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mm",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "215 km NW of Port-Olry, Vanuatu",
-   "time": 1792854460810,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ml",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-25T09:00:00",
-   "Kp": 1.0,
-   "a_running": 4,
+   "time_tag": "2026-10-25T12:00:00",
+   "Kp": 0.67,
+   "a_running": 3,
    "station_count": 8
   },
   "kp_max_24h": 1.67,
@@ -470,8 +446,8 @@
     },
     {
      "title": "Hurricane Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/150016.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 15:00:16 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152908.shtml?cone",
+     "pubDate": "Sun, 25 Oct 2026 15:29:08 GMT"
     }
    ]
   },
@@ -502,8 +478,8 @@
     },
     {
      "title": "Tropical Depression Three-C Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/145528.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 14:55:28 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/152302.shtml?cone",
+     "pubDate": "Sun, 25 Oct 2026 15:23:02 GMT"
     }
    ]
   }
@@ -956,12 +932,12 @@
     "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
    },
    {
-    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
-   },
-   {
     "title": "Finland and Australia sign joint statement on deeper defence cooperation - Nordic Defence Sector",
     "pubDate": "Sun, 25 Oct 2026 11:04:18 GMT"
+   },
+   {
+    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    },
    {
     "title": "India and Australia strengthen military cooperation through Exercise AustraHind 2026 - The Indian Sun",
@@ -972,12 +948,12 @@
     "pubDate": "Sun, 25 Oct 2026 01:54:29 GMT"
    },
    {
-    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
-    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
-   },
-   {
     "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
     "pubDate": "Sat, 24 Oct 2026 21:25:57 GMT"
+   },
+   {
+    "title": "Western Australia to fund security for lawmakers\u2019 homes \u2014 ABC News Australia - UA.NEWS",
+    "pubDate": "Sun, 25 Oct 2026 03:37:21 GMT"
    },
    {
     "title": "Australia\u2019s treasurer says middle powers should co-operate to avoid being hostage to geopolitics - Financial Times",

@@ -18,6 +18,7 @@ REPORTS = BASE / "reports"
 QUAKE_ALERT_MAG = 6.5
 KP_STORM_ALERT = 7.0
 NEO_MISS_ALERT_KM = 1_000_000
+GDACS_BANNER_MAX_AGE_H = 48  # reds older than this stay in body, drop from banner
 
 
 def fmt_quake(q):
@@ -92,12 +93,25 @@ def assess(snapshot):
     lines.append("## GDACS significant alerts (orange/red)")
     if gdacs:
         for g in gdacs[:10]:
-            lines.append(f"- [{g['severity'].upper()}] {g['title']}")
+            when = g.get("pubdate", "")
+            stamp = f" ({when[:16].replace('T', ' ')} UTC)" if when else ""
+            lines.append(f"- [{g['severity'].upper()}]{stamp} {g['title']}")
     else:
         lines.append("None. No orange/red multi-hazard alerts active.")
     lines.append("")
+    now_utc = datetime.now(timezone.utc)
     for g in gdacs:
-        if g["severity"].lower() == "red":
+        if g["severity"].lower() != "red":
+            continue
+        pub = g.get("pubdate", "")
+        fresh = True  # fail-loud: if age unknown, keep the banner alert
+        if pub:
+            try:
+                pub_dt = datetime.strptime(pub, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                fresh = (now_utc - pub_dt).total_seconds() <= GDACS_BANNER_MAX_AGE_H * 3600
+            except Exception:
+                pass
+        if fresh:
             alerts.append(f"GDACS RED: {g['title'][:150]}")
     lines.append("")
 

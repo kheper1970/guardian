@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T03:45:01.693224+00:00",
+ "collected_utc": "2026-10-25T04:45:01.524767+00:00",
  "earthquakes": [
+  {
+   "mag": 5.2,
+   "place": "63 km NNE of Lae, Papua New Guinea",
+   "time": 1792898950551,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+   "type": "earthquake"
+  },
   {
    "mag": 4.8,
    "place": "Bonin Islands, Japan region",
@@ -352,38 +360,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k2",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.3,
-   "place": "216 km W of Sola, Vanuatu",
-   "time": 1792815578628,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.8,
-   "place": "203 km NW of Port-Olry, Vanuatu",
-   "time": 1792815125337,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.7,
-   "place": "205 km NW of Port-Olry, Vanuatu",
-   "time": 1792814736800,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "186 km WNW of Port-Olry, Vanuatu",
-   "time": 1792813895267,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -652,7 +628,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-24T18:00:00Z",
+    "date": "2026-10-25T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -716,7 +692,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-24T18:00:00Z",
+    "date": "2026-10-25T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
    },
    {
@@ -920,6 +896,14 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Live: Diamonds play Constellation Cup on home soil",
+    "pubDate": "Sun, 25 Oct 2026 04:21:37 +0000"
+   },
+   {
+    "title": "Man dies after being crushed by ramp in northern Victoria",
+    "pubDate": "Sun, 25 Oct 2026 03:46:39 +0000"
+   },
+   {
     "title": "Man dies on Tasmania's west coast while waiting for ambulance",
     "pubDate": "Sun, 25 Oct 2026 02:49:15 +0000"
    },
@@ -950,19 +934,11 @@
    {
     "title": "WA government to consider return of Perth to Albany passenger rail service",
     "pubDate": "Sun, 25 Oct 2026 01:02:41 +0000"
-   },
-   {
-    "title": "Federal police chief links threats against MPs directly to political debate",
-    "pubDate": "Sun, 25 Oct 2026 00:57:01 +0000"
-   },
-   {
-    "title": "Missing kayaker found dead near Geelong",
-    "pubDate": "Sun, 25 Oct 2026 00:37:54 +0000"
    }
   ],
   "nsw_rfs_incidents": [
    {
-    "title": "Greygum Tce, Marsden Park",
+    "title": "BALD HILLS RD, BALD HILLS",
     "category": "Advice"
    },
    {
@@ -974,7 +950,19 @@
     "category": "Planned Burn"
    },
    {
+    "title": "BEARBONG",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "CARGO RD, CARGO",
+    "category": "Not Applicable"
+   },
+   {
     "title": "COOKA HILLS RD, PARKES",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "CORUNNA ST, BURREN JUNCTION",
     "category": "Not Applicable"
    },
    {
@@ -983,6 +971,10 @@
    },
    {
     "title": "FOURTEENTH AV, AUSTRAL",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "GROSSES CREEK LINK RD, BUCKAJO",
     "category": "Not Applicable"
    },
    {
@@ -1010,15 +1002,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "OXLEY BRIDGE RD, URANQUINTY",
+    "title": "PETER PAN PARK STEWART AV, HAMMONDVILLE",
     "category": "Not Applicable"
    },
    {
-    "title": "PLUNKETT ST, YERONG CREEK",
+    "title": "PRINCE ST, LOWANNA",
     "category": "Not Applicable"
    },
    {
-    "title": "SEAHAM RD, NELSONS PLAINS",
+    "title": "PRITCHETT ST, YASS",
     "category": "Not Applicable"
    },
    {
@@ -1082,6 +1074,10 @@
     "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
    },
    {
+    "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
+    "pubDate": "Sun, 25 Oct 2026 03:03:38 GMT"
+   },
+   {
     "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
     "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
    },
@@ -1100,10 +1096,6 @@
    {
     "title": "Queensland, NSW, ACT and Victoria to be hit with \u2018wild\u2019 rainy weather - 7NEWS",
     "pubDate": "Sat, 24 Oct 2026 22:58:00 GMT"
-   },
-   {
-    "title": "\u2018Take shelter now\u2019: Emergency warning after CQ dam spills - Adelaide Now",
-    "pubDate": "Sat, 24 Oct 2026 23:41:39 GMT"
    },
    {
     "title": "Northern wet season 2026-27 - Department of Fire and Emergency Services",

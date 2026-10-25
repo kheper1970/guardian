@@ -108,7 +108,7 @@ or your national emergency agency.</p>
 Generated automatically by the Guardian pipeline (open source in this repo).
 Every figure traces to a public feed; sources cited inline.
 Raw data: <a href="latest_snapshot.json">latest snapshot (JSON)</a> &middot;
-<a href="feed.xml">Atom feed</a>.
+<a href="{SITE}feed.xml">Atom feed</a>.
 </div></footer>
 </body>
 </html>"""

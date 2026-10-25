@@ -146,10 +146,19 @@ def collect_gdacs():
         if not (title.startswith("Orange") or title.startswith("Red")):
             continue
         d = re.search(r"<description>(.*?)</description>", item, re.S)
+        pd = re.search(r"<pubDate>(.*?)</pubDate>", item, re.S)
+        pub = ""
+        if pd:
+            try:
+                from email.utils import parsedate_to_datetime
+                pub = parsedate_to_datetime(pd.group(1).strip()).strftime("%Y-%m-%dT%H:%M:%SZ")
+            except Exception:
+                pass
         out.append({
             "severity": title.split()[0],
             "title": title[:250],
             "description": (d.group(1).strip() if d else "")[:400],
+            "pubdate": pub,
         })
     return out
 

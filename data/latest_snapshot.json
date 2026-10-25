@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-25T11:45:01.799221+00:00",
+ "collected_utc": "2026-10-25T12:00:01.792250+00:00",
  "earthquakes": [
   {
    "mag": 5.8,
@@ -7,6 +7,14 @@
    "time": 1792927557400,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "199 km ENE of Nagqu, China",
+   "time": 1792927454089,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx",
    "type": "earthquake"
   },
   {
@@ -232,14 +240,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mg",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "72 km S of Basco, Philippines",
-   "time": 1792842488678,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -332,8 +332,8 @@
   },
   {
    "severity": "Red",
-   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.181 million .",
-   "description": "From 14/10/2026 to 23/10/2026, a Hurricane/Typhoon &gt; 74 mph (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.181 million ."
+   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.291 million .",
+   "description": "From 14/10/2026 to 25/10/2026, a Tropical Storm (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan, China (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.291 million ."
   }
  ],
  "tsunami": {
@@ -757,20 +757,20 @@
    "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
   },
   {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
-  },
-  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
    "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
   },
   {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "\u2018Some aren\u2019t going to make it\u2019: how pressure on farmers threatens UK food security - The Guardian",
+   "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT"
   }
  ],
  "australia": {
@@ -846,15 +846,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "LAURIE RD, DURAL",
-    "category": "Not Applicable"
-   },
-   {
     "title": "NEW ENGLAND HWY, ABERDEEN",
     "category": "Not Applicable"
    },
    {
     "title": "SNOWY MOUNTAINS HWY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "ULOMOGO ST, BROCKLEHURST",
     "category": "Not Applicable"
    }
   ],

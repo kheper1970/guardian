@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T16:45:01.865504+00:00",
+ "collected_utc": "2026-10-25T17:45:01.791770+00:00",
  "earthquakes": [
+  {
+   "mag": 4.7,
+   "place": "19 km NE of Atico, Peru",
+   "time": 1792948309932,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1",
+   "type": "earthquake"
+  },
   {
    "mag": 5.9,
    "place": "218 km ENE of Nagqu, China",
@@ -183,14 +191,6 @@
    "time": 1792868835895,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4nv",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "153 km NW of Port-Olry, Vanuatu",
-   "time": 1792860855523,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4n8",
    "type": "earthquake"
   }
  ],
@@ -830,10 +830,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "SUGARLOAF RANGE RD, WEST WALLSEND",
-    "category": "Not Applicable"
-   },
-   {
     "title": "TARRANTS GAP RD, REIDS FLAT",
     "category": "Not Applicable"
    }
@@ -911,7 +907,7 @@
    },
    {
     "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
-    "pubDate": "Sun, 25 Oct 2026 11:06:42 GMT"
+    "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
    },
    {
     "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
@@ -937,7 +933,7 @@
    },
    {
     "title": "Finland and Australia sign joint statement on deeper defence cooperation - Nordic Defence Sector",
-    "pubDate": "Sun, 25 Oct 2026 11:04:18 GMT"
+    "pubDate": "Sun, 25 Oct 2026 11:03:50 GMT"
    },
    {
     "title": "AUKUS has escaped proper scrutiny for five years. That is about to change - Pearls and Irritations",
@@ -952,8 +948,8 @@
     "pubDate": "Sun, 25 Oct 2026 01:54:29 GMT"
    },
    {
-    "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
-    "pubDate": "Sat, 24 Oct 2026 21:25:57 GMT"
+    "title": "Western Australia to fund security for lawmakers\u2019 homes \u2014 ABC News Australia - UA.NEWS",
+    "pubDate": "Sun, 25 Oct 2026 03:37:21 GMT"
    }
   ],
   "au_health_news": [

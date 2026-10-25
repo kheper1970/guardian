@@ -1,6 +1,30 @@
 {
- "collected_utc": "2026-10-24T23:45:01.274577+00:00",
+ "collected_utc": "2026-10-25T00:45:01.273609+00:00",
  "earthquakes": [
+  {
+   "mag": 5.3,
+   "place": "44 km ESE of Miyazaki, Japan",
+   "time": 1792886376599,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5,
+   "place": "192 km NW of Port-Olry, Vanuatu",
+   "time": 1792885497729,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qp",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.8,
+   "place": "203 km NW of Port-Olry, Vanuatu",
+   "time": 1792885147167,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
+   "type": "earthquake"
+  },
   {
    "mag": 5,
    "place": "210 km NW of Port-Olry, Vanuatu",
@@ -352,29 +376,13 @@
    "tsunami": true,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "195 km NW of Port-Olry, Vanuatu",
-   "time": 1792801664940,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ib",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "209 km ENE of Nagqu, China",
-   "time": 1792800476787,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-24T18:00:00",
-   "Kp": 1.67,
-   "a_running": 6,
+   "time_tag": "2026-10-24T21:00:00",
+   "Kp": 0.67,
+   "a_running": 3,
    "station_count": 8
   },
   "kp_max_24h": 2.0,
@@ -636,7 +644,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-24T12:00:00Z",
+    "date": "2026-10-24T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -700,7 +708,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-24T12:00:00Z",
+    "date": "2026-10-24T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
    },
    {
@@ -904,6 +912,22 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Missing kayaker found dead near Geelong",
+    "pubDate": "Sun, 25 Oct 2026 00:37:54 +0000"
+   },
+   {
+    "title": "Have your cake and eat Freo too at this sweet design event",
+    "pubDate": "Sun, 25 Oct 2026 00:33:21 +0000"
+   },
+   {
+    "title": "Volkanovski underscores UFC greatness with record ninth title win",
+    "pubDate": "Sun, 25 Oct 2026 00:23:49 +0000"
+   },
+   {
+    "title": "WA's young female politicians will not give up despite rise in abuse",
+    "pubDate": "Sun, 25 Oct 2026 00:02:54 +0000"
+   },
+   {
     "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
     "pubDate": "Sat, 24 Oct 2026 23:34:37 +0000"
    },
@@ -912,7 +936,7 @@
     "pubDate": "Sat, 24 Oct 2026 23:27:06 +0000"
    },
    {
-    "title": "Kids playing pool for Australia say there's not much time for homework",
+    "title": "Australian 11yo brings home gold from snooker and eight ball championships",
     "pubDate": "Sat, 24 Oct 2026 23:05:41 +0000"
    },
    {
@@ -926,22 +950,6 @@
    {
     "title": "Konstas crunches another ton for NSW, pushing case for Test recall",
     "pubDate": "Sat, 24 Oct 2026 22:58:18 +0000"
-   },
-   {
-    "title": "Navigator steers home latest patrol ship in centuries-old ceremony",
-    "pubDate": "Sat, 24 Oct 2026 22:34:57 +0000"
-   },
-   {
-    "title": "1,000 native trees planted to turn school playground into tiny forest",
-    "pubDate": "Sat, 24 Oct 2026 22:08:57 +0000"
-   },
-   {
-    "title": "Australia has an Asian history, too, you just have to look for it",
-    "pubDate": "Sat, 24 Oct 2026 22:00:00 +0000"
-   },
-   {
-    "title": "Valkyries shut down Borlase's Dream to square WNBA Finals",
-    "pubDate": "Sat, 24 Oct 2026 21:54:20 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -986,7 +994,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "OLD PITT TOWN RD, GABLES",
+    "title": "NAIMO RD, CORBIE HILL",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "PICTON RD, CORDEAUX",
     "category": "Not Applicable"
    }
   ],
@@ -1062,16 +1074,16 @@
     "pubDate": "Fri, 23 Oct 2026 22:47:45 GMT"
    },
    {
+    "title": "Family sounds warning after pet's snake bite - Sunshine Coast News",
+    "pubDate": "Sat, 24 Oct 2026 18:00:46 GMT"
+   },
+   {
+    "title": "Beach road may close as high tides bring flood risk - Yahoo News Australia",
+    "pubDate": "Sat, 24 Oct 2026 14:06:29 GMT"
+   },
+   {
     "title": "Flash floods lash southeast Queensland in record October rainfall - Euronews.com",
     "pubDate": "Fri, 23 Oct 2026 08:29:25 GMT"
-   },
-   {
-    "title": "Driver pulled from sinking car by his hair as flood warnings sweep south east Queensland - Nine.com.au",
-    "pubDate": "Sat, 24 Oct 2026 08:52:14 GMT"
-   },
-   {
-    "title": "Severe storm outbreaks forecast for eastern states - Yahoo News Australia",
-    "pubDate": "Fri, 23 Oct 2026 05:34:00 GMT"
    }
   ],
   "au_security_news": [
@@ -1082,6 +1094,10 @@
    {
     "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
     "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
+   },
+   {
+    "title": "India and Australia strengthen military cooperation through Exercise AustraHind 2026 - The Indian Sun",
+    "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
    },
    {
     "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
@@ -1102,10 +1118,6 @@
    {
     "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
     "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
-   },
-   {
-    "title": "Willis launches defence unit as Australia lifts spending to 3% - Insurance Business",
-    "pubDate": "Fri, 23 Oct 2026 05:41:34 GMT"
    }
   ],
   "au_health_news": [

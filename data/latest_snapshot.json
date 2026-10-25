@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T02:45:01.972527+00:00",
+ "collected_utc": "2026-10-25T03:45:01.693224+00:00",
  "earthquakes": [
+  {
+   "mag": 4.8,
+   "place": "Bonin Islands, Japan region",
+   "time": 1792895792787,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
+   "type": "earthquake"
+  },
   {
    "mag": 6.2,
    "place": "21 km E of Port-Olry, Vanuatu",
@@ -15,6 +23,14 @@
    "time": 1792894163818,
    "tsunami": true,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "161 km WNW of Port-Olry, Vanuatu",
+   "time": 1792893970299,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
    "type": "earthquake"
   },
   {
@@ -368,33 +384,22 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.2,
-   "place": "202 km NW of Port-Olry, Vanuatu",
-   "time": 1792811875755,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.1,
-   "place": "170 km NW of Port-Olry, Vanuatu",
-   "time": 1792811325463,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-24T21:00:00",
+   "time_tag": "2026-10-25T00:00:00",
    "Kp": 0.67,
    "a_running": 3,
    "station_count": 8
   },
   "kp_max_24h": 2.0,
   "alerts_recent": [
+   {
+    "id": "K04W",
+    "issued": "2026-09-27 00:35:26.167",
+    "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5423\r\nIssue Time: 2026 Sep 27 0035 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 27 0033 UTC\nValid To: 2026 Sep 27 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 d"
+   },
    {
     "id": "EF3A",
     "issued": "2026-09-26 15:51:34.970",
@@ -414,11 +419,6 @@
     "id": "K05W",
     "issued": "2026-09-25 08:35:43.590",
     "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2266\r\nIssue Time: 2026 Sep 25 0835 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Sep 25 0835 UTC\nValid To: 2026 Sep 25 1200 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential I"
-   },
-   {
-    "id": "K04A",
-    "issued": "2026-09-25 03:00:15.997",
-    "message": "Space Weather Message Code: ALTK04\r\nSerial Number: 2686\r\nIssue Time: 2026 Sep 25 0300 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 0257 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagn"
    }
   ]
  },
@@ -621,7 +621,7 @@
     {
      "title": "Hurricane Vance Forecast Discussion Number 15",
      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/250245.shtml",
-     "pubDate": "Sun, 25 Oct 2026 02:45:17 GMT"
+     "pubDate": "Sun, 25 Oct 2026 02:45:24 GMT"
     },
     {
      "title": "Hurricane Vance Wind Speed Probabilities Number 15",
@@ -630,8 +630,8 @@
     },
     {
      "title": "Hurricane Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212243.shtml?cone",
-     "pubDate": "Sat, 24 Oct 2026 21:22:43 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/032249.shtml?cone",
+     "pubDate": "Sun, 25 Oct 2026 03:22:49 GMT"
     }
    ]
   }
@@ -920,6 +920,14 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Man dies on Tasmania's west coast while waiting for ambulance",
+    "pubDate": "Sun, 25 Oct 2026 02:49:15 +0000"
+   },
+   {
+    "title": "Car crushed by tree limb, lightning and 98 km winds in SA",
+    "pubDate": "Sun, 25 Oct 2026 02:46:00 +0000"
+   },
+   {
     "title": "'More and more challenging to do this job': MPs fear rising political tensions",
     "pubDate": "Sun, 25 Oct 2026 02:13:34 +0000"
    },
@@ -936,7 +944,7 @@
     "pubDate": "Sun, 25 Oct 2026 01:33:31 +0000"
    },
    {
-    "title": "Bolsonaro heir could bring Brazil closer to Trump if elected president",
+    "title": "Trump wants to 'restore' US power in Latin America. He could soon be one step closer",
     "pubDate": "Sun, 25 Oct 2026 01:08:40 +0000"
    },
    {
@@ -950,19 +958,11 @@
    {
     "title": "Missing kayaker found dead near Geelong",
     "pubDate": "Sun, 25 Oct 2026 00:37:54 +0000"
-   },
-   {
-    "title": "Have your cake and eat Freo too at this sweet design event",
-    "pubDate": "Sun, 25 Oct 2026 00:33:21 +0000"
-   },
-   {
-    "title": "Volkanovski underscores UFC greatness with record ninth title win",
-    "pubDate": "Sun, 25 Oct 2026 00:23:49 +0000"
    }
   ],
   "nsw_rfs_incidents": [
    {
-    "title": "George Booth Dr, Cameron Park",
+    "title": "Greygum Tce, Marsden Park",
     "category": "Advice"
    },
    {
@@ -982,6 +982,10 @@
     "category": "Not Applicable"
    },
    {
+    "title": "FOURTEENTH AV, AUSTRAL",
+    "category": "Not Applicable"
+   },
+   {
     "title": "HWY, WILCANNIA",
     "category": "Not Applicable"
    },
@@ -994,11 +998,23 @@
     "category": "Not Applicable"
    },
    {
+    "title": "MARTIN RD, BADGERYS CREEK",
+    "category": "Not Applicable"
+   },
+   {
     "title": "MOSS VALE RD, CAMBEWARRA",
     "category": "Not Applicable"
    },
    {
     "title": "MUD FLAT RD, DRAKE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "OXLEY BRIDGE RD, URANQUINTY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "PLUNKETT ST, YERONG CREEK",
     "category": "Not Applicable"
    },
    {
@@ -1082,12 +1098,12 @@
     "pubDate": "Fri, 23 Oct 2026 23:35:00 GMT"
    },
    {
-    "title": "\u2018Take shelter now\u2019: Emergency warning after CQ dam spills - Adelaide Now",
-    "pubDate": "Sat, 24 Oct 2026 23:41:39 GMT"
-   },
-   {
     "title": "Queensland, NSW, ACT and Victoria to be hit with \u2018wild\u2019 rainy weather - 7NEWS",
     "pubDate": "Sat, 24 Oct 2026 22:58:00 GMT"
+   },
+   {
+    "title": "\u2018Take shelter now\u2019: Emergency warning after CQ dam spills - Adelaide Now",
+    "pubDate": "Sat, 24 Oct 2026 23:41:39 GMT"
    },
    {
     "title": "Northern wet season 2026-27 - Department of Fire and Emergency Services",
@@ -1108,24 +1124,24 @@
     "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
    },
    {
+    "title": "Western Australia\u2019s Fuel Security - Western Australian Government",
+    "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
+   },
+   {
     "title": "\u2018When, not if\u2019: Chilling claim after MP attack - News.com.au",
     "pubDate": "Sun, 25 Oct 2026 01:52:30 GMT"
    },
    {
     "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
-    "pubDate": "Sat, 24 Oct 2026 21:25:17 GMT"
-   },
-   {
-    "title": "Western Australia\u2019s Fuel Security - Western Australian Government",
-    "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
-   },
-   {
-    "title": "Ukraine says Starlink at normal speed after delays impede military - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 13:09:37 GMT"
+    "pubDate": "Sat, 24 Oct 2026 21:25:57 GMT"
    },
    {
     "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
     "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
+   },
+   {
+    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    }
   ],
   "au_health_news": [

@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-25T13:45:01.651507+00:00",
+ "collected_utc": "2026-10-25T14:45:01.977634+00:00",
  "earthquakes": [
   {
    "mag": 5.9,
@@ -224,14 +224,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ml",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "216 km NW of Port-Olry, Vanuatu",
-   "time": 1792849980775,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mi",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -325,7 +317,7 @@
   {
    "severity": "Red",
    "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.291 million .",
-   "description": "From 14/10/2026 to 25/10/2026, a Tropical Storm (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan, China (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.291 million ."
+   "description": "From 14/10/2026 to 25/10/2026, a Tropical Storm (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan, China, South Korea (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.291 million ."
   }
  ],
  "tsunami": {
@@ -826,11 +818,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "KIDMAN WAY, THARBOGANG",
+    "title": "JORDAN AV, BONNY HILLS",
     "category": "Not Applicable"
    },
    {
-    "title": "KURRAJONG CR, CONJOLA PARK",
+    "title": "KIDMAN WAY, THARBOGANG",
     "category": "Not Applicable"
    },
    {
@@ -926,8 +918,8 @@
     "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
    },
    {
-    "title": "Melbourne and Sydney in the firing line as storms hit multiple states - Nine.com.au",
-    "pubDate": "Sat, 24 Oct 2026 22:31:06 GMT"
+    "title": "Queensland, NSW, ACT and Victoria to be hit with \u2018wild\u2019 rainy weather - 7NEWS",
+    "pubDate": "Sat, 24 Oct 2026 22:58:00 GMT"
    }
   ],
   "au_security_news": [
@@ -948,12 +940,12 @@
     "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
    },
    {
-    "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
-    "pubDate": "Sat, 24 Oct 2026 21:25:57 GMT"
-   },
-   {
     "title": "\u2018When, not if\u2019: Chilling claim after MP attack - News.com.au",
     "pubDate": "Sun, 25 Oct 2026 01:54:29 GMT"
+   },
+   {
+    "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
+    "pubDate": "Sat, 24 Oct 2026 21:25:57 GMT"
    },
    {
     "title": "Western Australia to fund security for lawmakers\u2019 homes \u2014 ABC News Australia - UA.NEWS",

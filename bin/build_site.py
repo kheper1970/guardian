@@ -23,6 +23,7 @@ from pathlib import Path
 BASE = Path("/home/aiops/dev/guardian")
 PUB = Path("/home/aiops/dev/guardian-publish")
 SITE = "https://kheper1970.github.io/guardian/"
+REPO = "https://github.com/kheper1970/guardian"
 
 CSS = """
 :root { --accent:#c0392b; --bg:#fafafa; --card:#ffffff; --ink:#222; --muted:#666; }
@@ -35,6 +36,9 @@ header.site .wrap { padding-top:0; padding-bottom:0; }
 header.site h1 { margin:0 0 .2rem; font-size:1.6rem; letter-spacing:.5px; }
 header.site p { margin:.2rem 0; color:#aab7c4; font-size:.95rem; }
 header.site a { color:#ffd166; text-decoration:none; }
+nav.mainnav { margin:.6rem 0 0; padding:.5rem 0; font-size:.95rem; }
+nav.mainnav a { display:inline-block; margin-right:1.1rem; font-weight:600; }
+nav.mainnav a:hover { text-decoration:underline; }
 .alert-banner { background:#c0392b; color:#fff; padding:.55rem 1.5rem;
   font-weight:600; letter-spacing:.4px; }
 .alert-banner a { color:#fff; }
@@ -96,6 +100,7 @@ def page(title, body_html, desc, alert=False, extra_head=""):
 {banner}
 <header class="site"><div class="wrap">
 <h1>&#9673; GUARDIAN &mdash; Global Risk Monitor</h1>
+<nav class="mainnav"><a href="{SITE}index.html">Dashboard</a> <a href="{SITE}feed.xml">Atom feed</a> <a href="{REPO}">Source on GitHub</a></nav>
 <p>Automated multi-source digest of public hazard feeds. <b>Not an official warning channel</b> &mdash;
 for emergencies use <a href="https://www.bom.gov.au">BOM</a> (AU),
 <a href="https://ptwc.weather.gov">PTWC</a>, <a href="https://earthquake.usgs.gov">USGS</a>,
@@ -105,7 +110,7 @@ or your national emergency agency.</p>
 {body_html}
 </div></main>
 <footer><div class="wrap">
-Generated automatically by the Guardian pipeline (open source in this repo).
+Generated automatically by the Guardian pipeline (<a href="{REPO}">open source on GitHub</a>).
 Every figure traces to a public feed; sources cited inline.
 Raw data: <a href="{SITE}data/latest_snapshot.json">latest snapshot (JSON)</a> &middot;
 <a href="{SITE}feed.xml">Atom feed</a>.

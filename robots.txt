@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kheper1970.github.io/guardian/sitemap.xml

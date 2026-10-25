@@ -93,6 +93,8 @@ def page(title, body_html, desc, alert=False, extra_head=""):
 <meta name="twitter:description" content="{desc}">
 <meta name="twitter:image" content="{SITE}img/infographic_latest.png">
 <link rel="alternate" type="application/atom+xml" title="Guardian briefing feed" href="{SITE}feed.xml">
+<link rel="icon" type="image/svg+xml" href="{SITE}img/favicon.svg">
+<link rel="alternate icon" type="image/png" href="{SITE}img/favicon.png">
 <style>{CSS}</style>
 {extra_head}
 </head>
@@ -456,6 +458,51 @@ your national agency (BOM/JATWC in Australia, PTWC, USGS, GDACS).</p>
     return latest_day
 
 
+def build_statics():
+    """favicon (SVG + PNG), robots.txt, 404 page - regenerated each build."""
+    svg = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#1c2833"/>
+  <circle cx="32" cy="32" r="19" fill="none" stroke="#f4d03f" stroke-width="4"/>
+  <circle cx="32" cy="32" r="7" fill="#16a085"/>
+  <path d="M32 4 v12 M32 48 v12 M4 32 h12 M48 32 h12" stroke="#f4d03f" stroke-width="4" stroke-linecap="round"/>
+</svg>"""
+    (PUB / "img" / "favicon.svg").write_text(svg)
+    try:
+        from PIL import Image, ImageDraw
+        img = Image.new("RGBA", (64, 64), (28, 40, 51, 255))
+        d = ImageDraw.Draw(img)
+        d.rounded_rectangle([0, 0, 63, 63], radius=12, fill=(28, 40, 51, 255))
+        d.ellipse([13, 13, 51, 51], outline=(244, 208, 63, 255), width=4)
+        d.ellipse([25, 25, 39, 39], fill=(22, 160, 133, 255))
+        d.line([(32, 4), (32, 16)], fill=(244, 208, 63, 255), width=4)
+        d.line([(32, 48), (32, 60)], fill=(244, 208, 63, 255), width=4)
+        d.line([(4, 32), (16, 32)], fill=(244, 208, 63, 255), width=4)
+        d.line([(48, 32), (60, 32)], fill=(244, 208, 63, 255), width=4)
+        img.save(PUB / "img" / "favicon.png")
+    except Exception:
+        pass
+    # sitemap: index + briefings + docs
+    urls = [SITE + "index.html"]
+    for f in sorted((PUB / "briefing").glob("briefing_*.html")):
+        urls.append(SITE + "briefing/" + f.name)
+    for f in sorted(PUB.glob("*.html")):
+        if f.name not in ("index.html", "404.html"):
+            urls.append(SITE + f.name)
+    xml = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for u in urls:
+        xml.append(f'  <url><loc>{u}</loc></url>')
+    xml.append('</urlset>')
+    (PUB / "sitemap.xml").write_text("\n".join(xml) + "\n")
+    (PUB / "robots.txt").write_text(
+        "User-agent: *\nAllow: /\nSitemap: " + SITE + "sitemap.xml\n")
+    body = """<h2>Page not found</h2>
+<p>The page you requested does not exist on this site. Try the
+<a href="index.html">dashboard</a> or the <a href="feed.xml">Atom feed</a>.</p>"""
+    (PUB / "404.html").write_text(page("Guardian - page not found", body, SHORT_DESC))
+    return
+
+
 def main():
     snap, bom = latest_snapshot()
     if snap is None:
@@ -471,6 +518,7 @@ def main():
         shutil.copy(png, PUB / "img" / f"infographic_{day}.png")
     except Exception:
         pass
+    build_statics()
     build_index(snap, bom, briefings)
     print(f"build_site: {n_html} briefing pages, infographic {png.name}, index updated")
     return 0

@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-25T00:45:01.273609+00:00",
+ "collected_utc": "2026-10-25T01:45:01.383901+00:00",
  "earthquakes": [
   {
    "mag": 5.3,
@@ -912,6 +912,22 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Israel presses ahead with West Bank army operation days before election",
+    "pubDate": "Sun, 25 Oct 2026 01:33:31 +0000"
+   },
+   {
+    "title": "Bolsonaro heir could bring Brazil closer to Trump if elected president",
+    "pubDate": "Sun, 25 Oct 2026 01:08:40 +0000"
+   },
+   {
+    "title": "WA government to consider return of Perth to Albany passenger rail service",
+    "pubDate": "Sun, 25 Oct 2026 01:02:41 +0000"
+   },
+   {
+    "title": "Federal police chief links threats against MPs directly to political debate",
+    "pubDate": "Sun, 25 Oct 2026 00:57:01 +0000"
+   },
+   {
     "title": "Missing kayaker found dead near Geelong",
     "pubDate": "Sun, 25 Oct 2026 00:37:54 +0000"
    },
@@ -934,22 +950,6 @@
    {
     "title": "Multiple flood warnings as Queensland braces for more wild weather",
     "pubDate": "Sat, 24 Oct 2026 23:27:06 +0000"
-   },
-   {
-    "title": "Australian 11yo brings home gold from snooker and eight ball championships",
-    "pubDate": "Sat, 24 Oct 2026 23:05:41 +0000"
-   },
-   {
-    "title": "Qualified migrant women forced into 'survival jobs' are paying price",
-    "pubDate": "Sat, 24 Oct 2026 23:00:50 +0000"
-   },
-   {
-    "title": "We both overpromised our physical attributes in an email. It led to love",
-    "pubDate": "Sat, 24 Oct 2026 23:00:00 +0000"
-   },
-   {
-    "title": "Konstas crunches another ton for NSW, pushing case for Test recall",
-    "pubDate": "Sat, 24 Oct 2026 22:58:18 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -982,6 +982,10 @@
     "category": "Not Applicable"
    },
    {
+    "title": "JURD ST, CESSNOCK",
+    "category": "Not Applicable"
+   },
+   {
     "title": "KIDMAN WAY, THARBOGANG",
     "category": "Not Applicable"
    },
@@ -998,7 +1002,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PICTON RD, CORDEAUX",
+    "title": "SNOWY MOUNTAINS HWY",
     "category": "Not Applicable"
    }
   ],
@@ -1058,6 +1062,10 @@
     "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
    },
    {
+    "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
+    "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
+   },
+   {
     "title": "Melbourne and Sydney in the firing line as storms hit multiple states - Nine.com.au",
     "pubDate": "Sat, 24 Oct 2026 22:31:06 GMT"
    },
@@ -1070,30 +1078,26 @@
     "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
    },
    {
+    "title": "Queensland, NSW, ACT and Victoria to be hit with \u2018wild\u2019 rainy weather - 7NEWS",
+    "pubDate": "Sat, 24 Oct 2026 22:58:00 GMT"
+   },
+   {
     "title": "Moment rescuers saved flood-trapped driver - The Australian",
     "pubDate": "Fri, 23 Oct 2026 22:47:45 GMT"
    },
    {
-    "title": "Family sounds warning after pet's snake bite - Sunshine Coast News",
-    "pubDate": "Sat, 24 Oct 2026 18:00:46 GMT"
-   },
-   {
     "title": "Beach road may close as high tides bring flood risk - Yahoo News Australia",
     "pubDate": "Sat, 24 Oct 2026 14:06:29 GMT"
-   },
-   {
-    "title": "Flash floods lash southeast Queensland in record October rainfall - Euronews.com",
-    "pubDate": "Fri, 23 Oct 2026 08:29:25 GMT"
    }
   ],
   "au_security_news": [
    {
-    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
-   },
-   {
     "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
     "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
+   },
+   {
+    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
    },
    {
     "title": "India and Australia strengthen military cooperation through Exercise AustraHind 2026 - The Indian Sun",
@@ -1108,16 +1112,16 @@
     "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
    },
    {
+    "title": "\u2018When, not if\u2019: Chilling claim after MP attack - News.com.au",
+    "pubDate": "Sun, 25 Oct 2026 00:06:58 GMT"
+   },
+   {
     "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
     "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
    },
    {
     "title": "Ukraine says Starlink at normal speed after delays impede military - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Sat, 24 Oct 2026 13:09:37 GMT"
-   },
-   {
-    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    }
   ],
   "au_health_news": [

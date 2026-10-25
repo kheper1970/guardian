@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T04:45:01.524767+00:00",
+ "collected_utc": "2026-10-25T05:45:01.185211+00:00",
  "earthquakes": [
+  {
+   "mag": 4.9,
+   "place": "17 km SE of Ambel\u00f3kipoi, Greece",
+   "time": 1792905344196,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm",
+   "type": "earthquake"
+  },
   {
    "mag": 5.2,
    "place": "63 km NNE of Lae, Papua New Guinea",
@@ -18,9 +26,9 @@
    "type": "earthquake"
   },
   {
-   "mag": 6.2,
-   "place": "21 km E of Port-Olry, Vanuatu",
-   "time": 1792895042714,
+   "mag": 6.1,
+   "place": "25 km ENE of Port-Olry, Vanuatu",
+   "time": 1792895040476,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
    "type": "earthquake"
@@ -311,54 +319,6 @@
    "time": 1792821856367,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "175 km NW of Port-Olry, Vanuatu",
-   "time": 1792820266052,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kh",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "184 km NW of Port-Olry, Vanuatu",
-   "time": 1792820154921,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ke",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.8,
-   "place": "182 km NW of Port-Olry, Vanuatu",
-   "time": 1792819420747,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "219 km WNW of Port-Olry, Vanuatu",
-   "time": 1792818634753,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.1,
-   "place": "217 km NW of Port-Olry, Vanuatu",
-   "time": 1792817361707,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "161 km NW of Port-Olry, Vanuatu",
-   "time": 1792817085324,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k2",
    "type": "earthquake"
   }
  ],
@@ -865,8 +825,16 @@
    "pubDate": "Tue, 20 Oct 2026 17:23:26 GMT"
   },
   {
+   "title": "UN says 19 mn Afghans facing acute food insecurity by April - Yahoo News Singapore",
+   "pubDate": "Tue, 20 Oct 2026 11:23:39 GMT"
+  },
+  {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
+  },
+  {
+   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
+   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
@@ -883,18 +851,26 @@
   {
    "title": "\u2018Some aren\u2019t going to make it\u2019: how pressure on farmers threatens UK food security - The Guardian",
    "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "UToledo Launches 3 New Initiatives to Combat Food Insecurity This Fall - UToledo News",
-   "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Greater Horn of Africa Food Insecurity and Health Crisis, Situation Report No. 1 (April\u2013June 2026) - World Health Organization (WHO)",
-   "pubDate": "Tue, 07 Jul 2026 10:34:09 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Another Perth beach closed as more whale remains found",
+    "pubDate": "Sun, 25 Oct 2026 05:18:08 +0000"
+   },
+   {
+    "title": "Darwin patients' medical information posted to Instagram in privacy breach",
+    "pubDate": "Sun, 25 Oct 2026 05:11:48 +0000"
+   },
+   {
+    "title": "Final MotoGP race at Phillip Island washed out",
+    "pubDate": "Sun, 25 Oct 2026 05:07:25 +0000"
+   },
+   {
+    "title": "Measles-stricken Amish hit hard amid US vaccine misinformation fight",
+    "pubDate": "Sun, 25 Oct 2026 04:53:08 +0000"
+   },
    {
     "title": "Live: Diamonds play Constellation Cup on home soil",
     "pubDate": "Sun, 25 Oct 2026 04:21:37 +0000"
@@ -918,27 +894,11 @@
    {
     "title": "Midwest muso Kevin Morby is no longer America's best kept secret",
     "pubDate": "Sun, 25 Oct 2026 02:00:00 +0000"
-   },
-   {
-    "title": "Antonelli on pole as he eyes record-setting world F1 title",
-    "pubDate": "Sun, 25 Oct 2026 01:53:12 +0000"
-   },
-   {
-    "title": "Israel presses ahead with West Bank army operation days before election",
-    "pubDate": "Sun, 25 Oct 2026 01:33:31 +0000"
-   },
-   {
-    "title": "Trump wants to 'restore' US power in Latin America. He could soon be one step closer",
-    "pubDate": "Sun, 25 Oct 2026 01:08:40 +0000"
-   },
-   {
-    "title": "WA government to consider return of Perth to Albany passenger rail service",
-    "pubDate": "Sun, 25 Oct 2026 01:02:41 +0000"
    }
   ],
   "nsw_rfs_incidents": [
    {
-    "title": "BALD HILLS RD, BALD HILLS",
+    "title": "CAMDEN VALLEY WAY, CASULA",
     "category": "Advice"
    },
    {
@@ -950,11 +910,11 @@
     "category": "Planned Burn"
    },
    {
-    "title": "BEARBONG",
+    "title": "BATHURST RD, ORANGE",
     "category": "Not Applicable"
    },
    {
-    "title": "CARGO RD, CARGO",
+    "title": "BEARBONG",
     "category": "Not Applicable"
    },
    {
@@ -962,19 +922,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "CORUNNA ST, BURREN JUNCTION",
-    "category": "Not Applicable"
-   },
-   {
     "title": "DURRAWEEN LANE, DUBBO NSW",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "FOURTEENTH AV, AUSTRAL",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "GROSSES CREEK LINK RD, BUCKAJO",
     "category": "Not Applicable"
    },
    {
@@ -983,6 +931,10 @@
    },
    {
     "title": "IRRIGATION WAY, MURRAMI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "JILLIBY RD, DOORALONG",
     "category": "Not Applicable"
    },
    {
@@ -1002,7 +954,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PETER PAN PARK STEWART AV, HAMMONDVILLE",
+    "title": "NEW ENGLAND HWY, ABERDEEN",
     "category": "Not Applicable"
    },
    {
@@ -1010,7 +962,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PRITCHETT ST, YASS",
+    "title": "RANGE RD, WHITTINGHAM",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "RD, CANOWINDRA",
     "category": "Not Applicable"
    },
    {
@@ -1074,12 +1030,16 @@
     "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
    },
    {
-    "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
-    "pubDate": "Sun, 25 Oct 2026 03:03:38 GMT"
+    "title": "\u2018Unusually large\u2019 multi-state storm causing flood warnings and severe weather for Australia\u2019s east - The Guardian",
+    "pubDate": "Sun, 25 Oct 2026 05:30:00 GMT"
    },
    {
     "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
     "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
+   },
+   {
+    "title": "\u2018Trifecta\u2019: Severe storms to hit millions - News.com.au",
+    "pubDate": "Sun, 25 Oct 2026 03:56:15 GMT"
    },
    {
     "title": "Melbourne and Sydney in the firing line as storms hit multiple states - Nine.com.au",
@@ -1088,10 +1048,6 @@
    {
     "title": "Severe Storms Threaten Eastern Australia - Mirage News",
     "pubDate": "Sun, 25 Oct 2026 02:34:00 GMT"
-   },
-   {
-    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia - The Guardian",
-    "pubDate": "Fri, 23 Oct 2026 23:35:00 GMT"
    },
    {
     "title": "Queensland, NSW, ACT and Victoria to be hit with \u2018wild\u2019 rainy weather - 7NEWS",
@@ -1116,12 +1072,16 @@
     "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
    },
    {
+    "title": "\u2018When, not if\u2019: Chilling claim after MP attack - News.com.au",
+    "pubDate": "Sun, 25 Oct 2026 01:54:29 GMT"
+   },
+   {
     "title": "Western Australia\u2019s Fuel Security - Western Australian Government",
     "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
    },
    {
-    "title": "\u2018When, not if\u2019: Chilling claim after MP attack - News.com.au",
-    "pubDate": "Sun, 25 Oct 2026 01:52:30 GMT"
+    "title": "Western Australia to fund security for lawmakers\u2019 homes \u2014 ABC News Australia - UA.NEWS",
+    "pubDate": "Sun, 25 Oct 2026 03:37:21 GMT"
    },
    {
     "title": "US Marines head home after six months in Top End - Asia Pacific Defence Reporter",
@@ -1130,10 +1090,6 @@
    {
     "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
     "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
-   },
-   {
-    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    }
   ],
   "au_health_news": [

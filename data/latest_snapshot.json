@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T21:45:01.798037+00:00",
+ "collected_utc": "2026-10-25T22:45:01.758470+00:00",
  "earthquakes": [
+  {
+   "mag": 5.3,
+   "place": "Bonin Islands, Japan region",
+   "time": 1792966455949,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we",
+   "type": "earthquake"
+  },
   {
    "mag": 4.8,
    "place": "167 km WNW of Port-Olry, Vanuatu",
@@ -196,6 +204,16 @@
   "kp_max_24h": 2.0,
   "alerts_recent": [
    {
+    "id": "EF3A",
+    "issued": "2026-09-28 05:00:40.090",
+    "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3747\r\nIssue Time: 2026 Sep 28 0500 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3746\nBegin Time: 2026 Sep 26 1535 UTC\n\nYesterday Maximum 2MeV Flux: 3060 pfu\nMax time: 2026 Sep 27 1720 UTC"
+   },
+   {
+    "id": "EF3A",
+    "issued": "2026-09-27 05:02:04.940",
+    "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3746\r\nIssue Time: 2026 Sep 27 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3745\nBegin Time: 2026 Sep 26 1535 UTC\n\nYesterday Maximum 2MeV Flux: 1260 pfu\nMax time: 2026 Sep 26 1645 UTC"
+   },
+   {
     "id": "K04A",
     "issued": "2026-09-27 00:40:33.327",
     "message": "Space Weather Message Code: ALTK04\r\nSerial Number: 2688\r\nIssue Time: 2026 Sep 27 0040 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 27 0040 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagn"
@@ -209,103 +227,12 @@
     "id": "EF3A",
     "issued": "2026-09-26 15:51:34.970",
     "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3745\r\nIssue Time: 2026 Sep 26 1551 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 26 1535 UTC\nStation: GOES-19\nComment: "
-   },
-   {
-    "id": "K04A",
-    "issued": "2026-09-25 21:58:25.860",
-    "message": "Space Weather Message Code: ALTK04\r\nSerial Number: 2687\r\nIssue Time: 2026 Sep 25 2158 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 2158 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagn"
-   },
-   {
-    "id": "K04W",
-    "issued": "2026-09-25 21:55:03.593",
-    "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5422\r\nIssue Time: 2026 Sep 25 2155 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 25 2154 UTC\nValid To: 2026 Sep 26 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 d"
    }
   ]
  },
  "neo": {
-  "count": 10,
-  "events": [
-   {
-    "name": "(2017 UQ7)",
-    "diameter_min_m": 24,
-    "diameter_max_m": 53,
-    "hazardous": false,
-    "miss_km": 10212926.30821252,
-    "velocity_kph": 57765.8866938487
-   },
-   {
-    "name": "(2018 UX1)",
-    "diameter_min_m": 41,
-    "diameter_max_m": 91,
-    "hazardous": false,
-    "miss_km": 15412396.44774945,
-    "velocity_kph": 38987.1563270839
-   },
-   {
-    "name": "(2017 TK6)",
-    "diameter_min_m": 32,
-    "diameter_max_m": 70,
-    "hazardous": false,
-    "miss_km": 18428131.157604057,
-    "velocity_kph": 54214.3422162734
-   },
-   {
-    "name": "(2002 CN15)",
-    "diameter_min_m": 184,
-    "diameter_max_m": 411,
-    "hazardous": false,
-    "miss_km": 22219932.35905153,
-    "velocity_kph": 95920.5706341887
-   },
-   {
-    "name": "(2017 TJ2)",
-    "diameter_min_m": 27,
-    "diameter_max_m": 61,
-    "hazardous": false,
-    "miss_km": 39203868.53823012,
-    "velocity_kph": 49612.3127792867
-   },
-   {
-    "name": "(2020 BD11)",
-    "diameter_min_m": 37,
-    "diameter_max_m": 82,
-    "hazardous": false,
-    "miss_km": 39945037.40718129,
-    "velocity_kph": 25575.9557895054
-   },
-   {
-    "name": "(2006 FL10)",
-    "diameter_min_m": 133,
-    "diameter_max_m": 298,
-    "hazardous": false,
-    "miss_km": 49844898.397831224,
-    "velocity_kph": 34920.0494069648
-   },
-   {
-    "name": "(2018 DA2)",
-    "diameter_min_m": 59,
-    "diameter_max_m": 131,
-    "hazardous": false,
-    "miss_km": 58890104.10928886,
-    "velocity_kph": 53013.4236106506
-   },
-   {
-    "name": "(2015 HJ)",
-    "diameter_min_m": 11,
-    "diameter_max_m": 24,
-    "hazardous": false,
-    "miss_km": 59933040.70953958,
-    "velocity_kph": 32437.7711465216
-   },
-   {
-    "name": "(1998 WL4)",
-    "diameter_min_m": 336,
-    "diameter_max_m": 752,
-    "hazardous": false,
-    "miss_km": 60313373.128221706,
-    "velocity_kph": 128914.2680157259
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -552,7 +479,7 @@
   }
  ],
  "eonet": {
-  "open_total": 34,
+  "open_total": 33,
   "tracked": [
    {
     "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
@@ -567,7 +494,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-25T12:00:00Z",
+    "date": "2026-10-25T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -631,7 +558,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-25T12:00:00Z",
+    "date": "2026-10-25T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
    },
    {
@@ -745,14 +672,6 @@
     ],
     "date": "2026-10-05T17:33:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25592"
-   },
-   {
-    "title": "Prescribed Fire West Fork RX, Wasatch, Utah",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-05T14:54:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25239"
    }
   ]
  },
@@ -762,32 +681,32 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
-   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
+   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -804,28 +723,48 @@
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
-  },
-  {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
-  },
-  {
    "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
    "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
+  },
+  {
+   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
+   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
+  },
+  {
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
+   "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
-   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Labor promises $6.8b South Coast rail fix days after timetable backflip",
+    "pubDate": "Sun, 25 Oct 2026 22:41:19 +0000"
+   },
+   {
+    "title": "England 'gutted' after second extraordinary ODI defeat in as many games",
+    "pubDate": "Sun, 25 Oct 2026 22:30:22 +0000"
+   },
+   {
+    "title": "Police investigate bullet inscribed with 'RAT' found on Victorian MP's car",
+    "pubDate": "Sun, 25 Oct 2026 22:14:25 +0000"
+   },
+   {
+    "title": "SA premier refers $15b project to ICAC over bikie 'infiltration' fears",
+    "pubDate": "Sun, 25 Oct 2026 22:01:38 +0000"
+   },
+   {
+    "title": "Remote community devastated over closure of Indigenous youth organisation",
+    "pubDate": "Sun, 25 Oct 2026 22:01:02 +0000"
+   },
    {
     "title": "Manchester United booed off pitch after calamitous defeat",
     "pubDate": "Sun, 25 Oct 2026 21:28:48 +0000"
@@ -835,7 +774,7 @@
     "pubDate": "Sun, 25 Oct 2026 21:25:00 +0000"
    },
    {
-    "title": "Breaking: Serbian president concedes defeat to student-led movement in election",
+    "title": "Serbian president concedes defeat to student-led movement in election",
     "pubDate": "Sun, 25 Oct 2026 21:06:44 +0000"
    },
    {
@@ -845,26 +784,6 @@
    {
     "title": "Smith will be 'fine' as Australia returns to Cape Town",
     "pubDate": "Sun, 25 Oct 2026 20:55:48 +0000"
-   },
-   {
-    "title": "NT child protection report shows DV was major risk to Kumanjayi Little Baby",
-    "pubDate": "Sun, 25 Oct 2026 20:34:05 +0000"
-   },
-   {
-    "title": "Dying art of bird calling roars back at 2026 Bournda Bird Olympics",
-    "pubDate": "Sun, 25 Oct 2026 20:31:30 +0000"
-   },
-   {
-    "title": "England legend Anderson disappointed over Lancashire exit",
-    "pubDate": "Sun, 25 Oct 2026 20:30:08 +0000"
-   },
-   {
-    "title": "Live: Crossbenchers back call for MPs to sign civility pledge",
-    "pubDate": "Sun, 25 Oct 2026 20:15:23 +0000"
-   },
-   {
-    "title": "Live: Wall Street retreats as oil prices continue to rise, ASX set to slip",
-    "pubDate": "Sun, 25 Oct 2026 19:59:06 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -898,6 +817,10 @@
    },
    {
     "title": "NEW ENGLAND HWY, ABERDEEN",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "SIR BERTRAM STEVENS DR, LILYVALE",
     "category": "Not Applicable"
    },
    {
@@ -961,12 +884,12 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Australian National Weather Forecast - Nine.com.au",
-    "pubDate": "Sun, 25 Oct 2026 16:50:45 GMT"
-   },
-   {
     "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
+   },
+   {
+    "title": "Australian National Weather Forecast - Nine.com.au",
+    "pubDate": "Sun, 25 Oct 2026 16:50:45 GMT"
    },
    {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
@@ -985,19 +908,15 @@
     "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
    },
    {
-    "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
-    "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
-   },
-   {
     "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
     "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
+   },
+   {
+    "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
+    "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
    }
   ],
   "au_security_news": [
-   {
-    "title": "Security increased as parliament returns without MP Helen Haines - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sun, 25 Oct 2026 18:30:35 GMT"
-   },
    {
     "title": "Pacific Adventist University Students Included in Australia\u2013PNG Defence Recruitment Pilot - Spectrum Magazine",
     "pubDate": "Sun, 25 Oct 2026 15:49:58 GMT"
@@ -1007,24 +926,28 @@
     "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
    },
    {
-    "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
-    "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
+    "title": "Politicians to pay tribute Helen Haines as parliament returns under heightened security - Nine.com.au",
+    "pubDate": "Sun, 25 Oct 2026 22:24:18 GMT"
    },
    {
     "title": "PHP update: Why are so many websites down and when will they return? - SBS",
     "pubDate": "Sun, 25 Oct 2026 14:07:39 GMT"
    },
    {
+    "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
+    "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
+   },
+   {
     "title": "Finland and Australia sign joint statement on deeper defence cooperation - Nordic Defence Sector",
     "pubDate": "Sun, 25 Oct 2026 11:03:50 GMT"
    },
    {
-    "title": "AUKUS has escaped proper scrutiny for five years. That is about to change - Pearls and Irritations",
-    "pubDate": "Sun, 25 Oct 2026 13:54:28 GMT"
-   },
-   {
     "title": "Kongsberg plans to bring Zone 5 missiles to Australian market and explore local production - Defence Industry Europe",
     "pubDate": "Sun, 25 Oct 2026 18:18:59 GMT"
+   },
+   {
+    "title": "AUKUS has escaped proper scrutiny for five years. That is about to change - Pearls and Irritations",
+    "pubDate": "Sun, 25 Oct 2026 13:54:28 GMT"
    }
   ],
   "au_health_news": [

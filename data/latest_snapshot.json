@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T11:30:01.734285+00:00",
+ "collected_utc": "2026-10-25T11:45:01.799221+00:00",
  "earthquakes": [
+  {
+   "mag": 5.8,
+   "place": "209 km ENE of Nagqu, China",
+   "time": 1792927557400,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty",
+   "type": "earthquake"
+  },
   {
    "mag": 5.4,
    "place": "33 km ESE of Ambunti, Papua New Guinea",
@@ -749,20 +757,20 @@
    "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
   },
   {
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
    "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
   },
   {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
-  },
-  {
-   "title": "\u2018Some aren\u2019t going to make it\u2019: how pressure on farmers threatens UK food security - The Guardian",
-   "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT"
   }
  ],
  "australia": {
@@ -809,10 +817,6 @@
    }
   ],
   "nsw_rfs_incidents": [
-   {
-    "title": "Gordon Nixon Av, West Kempsey",
-    "category": "Advice"
-   },
    {
     "title": "Minuma Range",
     "category": "Advice"
@@ -968,8 +972,8 @@
     "pubDate": "Sun, 25 Oct 2026 03:37:21 GMT"
    },
    {
-    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
-    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
+    "title": "Australia\u2019s treasurer says middle powers should co-operate to avoid being hostage to geopolitics - Financial Times",
+    "pubDate": "Sun, 25 Oct 2026 01:00:27 GMT"
    }
   ],
   "au_health_news": [

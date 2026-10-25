@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T22:45:01.758470+00:00",
+ "collected_utc": "2026-10-25T23:45:01.502215+00:00",
  "earthquakes": [
+  {
+   "mag": 4.8,
+   "place": "Bonin Islands, Japan region",
+   "time": 1792966587821,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wi",
+   "type": "earthquake"
+  },
   {
    "mag": 5.3,
    "place": "Bonin Islands, Japan region",
@@ -175,22 +183,6 @@
    "time": 1792885497729,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qp",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "203 km NW of Port-Olry, Vanuatu",
-   "time": 1792885147167,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "210 km NW of Port-Olry, Vanuatu",
-   "time": 1792882028577,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4q8",
    "type": "earthquake"
   }
  ],
@@ -723,28 +715,40 @@
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
-   "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
   },
   {
-   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
-   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
-  },
-  {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
+   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
+  },
+  {
+   "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
+   "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Youth boxing program fights off negativity, provides positive role models",
+    "pubDate": "Sun, 25 Oct 2026 23:41:23 +0000"
+   },
+   {
+    "title": "Fowler's City draw to end winning start",
+    "pubDate": "Sun, 25 Oct 2026 23:31:49 +0000"
+   },
+   {
+    "title": "Police hunt for masked men after four injured in Logan drive-by shooting",
+    "pubDate": "Sun, 25 Oct 2026 22:49:51 +0000"
+   },
    {
     "title": "Labor promises $6.8b South Coast rail fix days after timetable backflip",
     "pubDate": "Sun, 25 Oct 2026 22:41:19 +0000"
@@ -772,18 +776,6 @@
    {
     "title": "Man caves are evolving to become backyard social hubs \u2014 and pubs",
     "pubDate": "Sun, 25 Oct 2026 21:25:00 +0000"
-   },
-   {
-    "title": "Serbian president concedes defeat to student-led movement in election",
-    "pubDate": "Sun, 25 Oct 2026 21:06:44 +0000"
-   },
-   {
-    "title": "Books aim to keep Indigenous children safe online",
-    "pubDate": "Sun, 25 Oct 2026 20:57:33 +0000"
-   },
-   {
-    "title": "Smith will be 'fine' as Australia returns to Cape Town",
-    "pubDate": "Sun, 25 Oct 2026 20:55:48 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -793,6 +785,10 @@
    },
    {
     "title": "SECTOR 5, SMA",
+    "category": "Advice"
+   },
+   {
+    "title": "Wangi Point Rd, Wangi Wangi",
     "category": "Advice"
    },
    {
@@ -820,7 +816,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "SIR BERTRAM STEVENS DR, LILYVALE",
+    "title": "NORTHERN DISTRIBUTOR RD, ORANGE",
     "category": "Not Applicable"
    },
    {
@@ -904,16 +900,16 @@
     "pubDate": "Sun, 25 Oct 2026 07:03:40 GMT"
    },
    {
+    "title": "Storms set to bring flash flooding, large hail to south-east Queensland - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sun, 25 Oct 2026 18:46:45 GMT"
+   },
+   {
     "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
     "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
    },
    {
     "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
     "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
-   },
-   {
-    "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
-    "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
    }
   ],
   "au_security_news": [
@@ -922,20 +918,16 @@
     "pubDate": "Sun, 25 Oct 2026 15:49:58 GMT"
    },
    {
-    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
-   },
-   {
-    "title": "Politicians to pay tribute Helen Haines as parliament returns under heightened security - Nine.com.au",
-    "pubDate": "Sun, 25 Oct 2026 22:24:18 GMT"
-   },
-   {
-    "title": "PHP update: Why are so many websites down and when will they return? - SBS",
-    "pubDate": "Sun, 25 Oct 2026 14:07:39 GMT"
+    "title": "Military man stands trial for wife\u2019s death - Yahoo News Australia",
+    "pubDate": "Sun, 25 Oct 2026 23:21:01 GMT"
    },
    {
     "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
     "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
+   },
+   {
+    "title": "Politicians to pay tribute Helen Haines as parliament returns under heightened security - Nine.com.au",
+    "pubDate": "Sun, 25 Oct 2026 22:24:18 GMT"
    },
    {
     "title": "Finland and Australia sign joint statement on deeper defence cooperation - Nordic Defence Sector",
@@ -946,8 +938,12 @@
     "pubDate": "Sun, 25 Oct 2026 18:18:59 GMT"
    },
    {
-    "title": "AUKUS has escaped proper scrutiny for five years. That is about to change - Pearls and Irritations",
-    "pubDate": "Sun, 25 Oct 2026 13:54:28 GMT"
+    "title": "Ambassador for Arms Control and Counter-Proliferation - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 02:30:10 GMT"
+   },
+   {
+    "title": "Politicians vow to honour Haines as parliament returns - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sun, 25 Oct 2026 18:30:35 GMT"
    }
   ],
   "au_health_news": [

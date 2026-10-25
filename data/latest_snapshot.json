@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-25T12:45:02.004113+00:00",
+ "collected_utc": "2026-10-25T13:45:01.651507+00:00",
  "earthquakes": [
   {
    "mag": 5.9,
@@ -231,14 +231,6 @@
    "time": 1792849980775,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mi",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "195 km NE of Nagqu, China",
-   "time": 1792848394296,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mg",
    "type": "earthquake"
   }
  ],
@@ -493,7 +485,7 @@
   }
  ],
  "eonet": {
-  "open_total": 35,
+  "open_total": 34,
   "tracked": [
    {
     "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
@@ -590,14 +582,6 @@
     ],
     "date": "2026-10-14T10:42:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310"
-   },
-   {
-    "title": "Hurricane Trudy",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-20T00:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290"
    },
    {
     "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
@@ -846,11 +830,19 @@
     "category": "Not Applicable"
    },
    {
+    "title": "KURRAJONG CR, CONJOLA PARK",
+    "category": "Not Applicable"
+   },
+   {
     "title": "NEW ENGLAND HWY, ABERDEEN",
     "category": "Not Applicable"
    },
    {
     "title": "SNOWY MOUNTAINS HWY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "TARRANTS GAP RD, REIDS FLAT",
     "category": "Not Applicable"
    }
   ],
@@ -918,10 +910,6 @@
     "pubDate": "Sun, 25 Oct 2026 09:16:39 GMT"
    },
    {
-    "title": "Australian National Weather Forecast - Nine.com.au",
-    "pubDate": "Sun, 25 Oct 2026 04:52:16 GMT"
-   },
-   {
     "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
     "pubDate": "Sun, 25 Oct 2026 07:03:40 GMT"
    },
@@ -936,6 +924,10 @@
    {
     "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
     "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
+   },
+   {
+    "title": "Melbourne and Sydney in the firing line as storms hit multiple states - Nine.com.au",
+    "pubDate": "Sat, 24 Oct 2026 22:31:06 GMT"
    }
   ],
   "au_security_news": [
@@ -968,8 +960,8 @@
     "pubDate": "Sun, 25 Oct 2026 03:37:21 GMT"
    },
    {
-    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
-    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
+    "title": "Australia\u2019s treasurer says middle powers should co-operate to avoid being hostage to geopolitics - Financial Times",
+    "pubDate": "Sun, 25 Oct 2026 01:00:27 GMT"
    }
   ],
   "au_health_news": [

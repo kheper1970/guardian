@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-25T20:00:01.470107+00:00",
+ "collected_utc": "2026-10-25T20:45:01.673343+00:00",
  "earthquakes": [
   {
    "mag": 4.6,
@@ -184,14 +184,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.3,
-   "place": "101 km SSE of Vilyuchinsk, Russia",
-   "time": 1792874104576,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -308,14 +300,14 @@
     "observatory": "avo",
     "color": "ORANGE",
     "alert": "WATCH",
-    "sent_utc": "2026-10-24 18:28:00"
+    "sent_utc": "2026-10-25 20:24:17"
    },
    {
     "volcano": "Shishaldin",
     "observatory": "avo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-24 18:28:00"
+    "sent_utc": "2026-10-25 20:24:17"
    },
    {
     "volcano": "Kilauea",
@@ -415,65 +407,65 @@
  "nhc_storms": [
   {
    "storm": "Vance",
-   "type": "Hurricane",
+   "type": "Tropical Storm",
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Hurricane Vance Public Advisory Number 17",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/251456.shtml",
-     "pubDate": "Sun, 25 Oct 2026 14:56:55 GMT"
+     "title": "Tropical Storm Vance Public Advisory Number 18",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/252035.shtml",
+     "pubDate": "Sun, 25 Oct 2026 20:35:32 GMT"
     },
     {
-     "title": "Hurricane Vance Forecast Advisory Number 17",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/251456.shtml",
-     "pubDate": "Sun, 25 Oct 2026 14:56:25 GMT"
+     "title": "Tropical Storm Vance Forecast Advisory Number 18",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/252034.shtml",
+     "pubDate": "Sun, 25 Oct 2026 20:35:02 GMT"
     },
     {
-     "title": "Hurricane Vance Forecast Discussion Number 17",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/251459.shtml",
-     "pubDate": "Sun, 25 Oct 2026 14:59:56 GMT"
+     "title": "Tropical Storm Vance Forecast Discussion Number 18",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/252035.shtml",
+     "pubDate": "Sun, 25 Oct 2026 20:36:02 GMT"
     },
     {
-     "title": "Hurricane Vance Wind Speed Probabilities Number 17",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/251457.shtml",
-     "pubDate": "Sun, 25 Oct 2026 14:57:27 GMT"
+     "title": "Tropical Storm Vance Wind Speed Probabilities Number 18",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/252035.shtml",
+     "pubDate": "Sun, 25 Oct 2026 20:35:31 GMT"
     },
     {
-     "title": "Hurricane Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152908.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 15:29:08 GMT"
+     "title": "Tropical Storm Vance Graphics",
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/203904.shtml?cone",
+     "pubDate": "Sun, 25 Oct 2026 20:39:04 GMT"
     }
    ]
   },
   {
-   "storm": "Three-C",
-   "type": "Tropical Depression",
+   "storm": "Olana",
+   "type": "Tropical Storm",
    "basin": "central_pacific",
    "advisories": [
     {
-     "title": "Tropical Depression Three-C Public Advisory Number 1",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP3+shtml/251450.shtml",
-     "pubDate": "Sun, 25 Oct 2026 14:50:56 GMT"
+     "title": "Tropical Storm Olana Public Advisory Number 2",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP3+shtml/252034.shtml",
+     "pubDate": "Sun, 25 Oct 2026 20:35:02 GMT"
     },
     {
-     "title": "Tropical Depression Three-C Forecast Advisory Number 1",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP3+shtml/251449.shtml",
-     "pubDate": "Sun, 25 Oct 2026 14:49:55 GMT"
+     "title": "Tropical Storm Olana Forecast Advisory Number 2",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP3+shtml/252034.shtml",
+     "pubDate": "Sun, 25 Oct 2026 20:35:02 GMT"
     },
     {
-     "title": "Tropical Depression Three-C Forecast Discussion Number 1",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP3+shtml/251453.shtml",
-     "pubDate": "Sun, 25 Oct 2026 14:53:55 GMT"
+     "title": "Tropical Storm Olana Forecast Discussion Number 2",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP3+shtml/252035.shtml",
+     "pubDate": "Sun, 25 Oct 2026 20:36:02 GMT"
     },
     {
-     "title": "Tropical Depression Three-C Wind Speed Probabilities Number 1",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP3+shtml/251451.shtml",
-     "pubDate": "Sun, 25 Oct 2026 14:51:23 GMT"
+     "title": "Tropical Storm Olana Wind Speed Probabilities Number 2",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP3+shtml/252034.shtml",
+     "pubDate": "Sun, 25 Oct 2026 20:35:02 GMT"
     },
     {
-     "title": "Tropical Depression Three-C Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/152302.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 15:23:02 GMT"
+     "title": "Tropical Storm Olana Graphics",
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/204053.shtml?cone",
+     "pubDate": "Sun, 25 Oct 2026 20:40:53 GMT"
     }
    ]
   }
@@ -731,28 +723,52 @@
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
-  },
-  {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
-  },
-  {
    "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
    "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
+  },
+  {
+   "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
+   "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
+  },
+  {
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
+   "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
-   "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "The NT child protection review is another wake-up call on the DV crisis",
+    "pubDate": "Sun, 25 Oct 2026 20:34:05 +0000"
+   },
+   {
+    "title": "Dying art of bird calling roars back at 2026 Bournda Bird Olympics",
+    "pubDate": "Sun, 25 Oct 2026 20:31:30 +0000"
+   },
+   {
+    "title": "England legend Anderson disappointed over Lancashire exit",
+    "pubDate": "Sun, 25 Oct 2026 20:30:08 +0000"
+   },
+   {
+    "title": "Live: Crossbenchers back call for MPs to sign civility pledge",
+    "pubDate": "Sun, 25 Oct 2026 20:15:23 +0000"
+   },
+   {
+    "title": "Live: Wall Street retreats as oil prices continue to rise, ASX set to slip",
+    "pubDate": "Sun, 25 Oct 2026 19:59:06 +0000"
+   },
+   {
+    "title": "Skills shortage puts retail butchers on the chopping block",
+    "pubDate": "Sun, 25 Oct 2026 19:58:11 +0000"
+   },
    {
     "title": "Essendon sack coach after one-win AFLW season",
     "pubDate": "Sun, 25 Oct 2026 19:54:09 +0000"
@@ -768,30 +784,6 @@
    {
     "title": "SA 'disproportionately vulnerable' to NDIS changes, report warns",
     "pubDate": "Sun, 25 Oct 2026 19:13:30 +0000"
-   },
-   {
-    "title": "Weather ruins MotoGP but Phillip Island goes out on high",
-    "pubDate": "Sun, 25 Oct 2026 19:04:57 +0000"
-   },
-   {
-    "title": "Obama jokes about El-Sayed's 'big guns' as he rallies Detroit",
-    "pubDate": "Sun, 25 Oct 2026 19:04:28 +0000"
-   },
-   {
-    "title": "Live: Antonelli on pole with chance to become F1 world champion",
-    "pubDate": "Sun, 25 Oct 2026 19:01:58 +0000"
-   },
-   {
-    "title": "Jewellery, tableware and a cherub in fight over Titanic artefacts",
-    "pubDate": "Sun, 25 Oct 2026 19:01:10 +0000"
-   },
-   {
-    "title": "Grandfather's death not reported to coroner despite hospital blunders",
-    "pubDate": "Sun, 25 Oct 2026 18:58:09 +0000"
-   },
-   {
-    "title": "No toll and easy access: What first passengers say of new Sydney airport",
-    "pubDate": "Sun, 25 Oct 2026 18:56:14 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -808,15 +800,15 @@
     "category": "Planned Burn"
    },
    {
+    "title": "CHIFLEY RD, DARGAN",
+    "category": "Not Applicable"
+   },
+   {
     "title": "COOKA HILLS RD, PARKES",
     "category": "Not Applicable"
    },
    {
     "title": "DURRAWEEN LANE, DUBBO NSW",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "FOREST RD, WYEE",
     "category": "Not Applicable"
    },
    {
@@ -934,12 +926,12 @@
     "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
    },
    {
-    "title": "PHP update: Why are so many websites down and when will they return? - SBS",
-    "pubDate": "Sun, 25 Oct 2026 14:07:39 GMT"
+    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
    },
    {
-    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
+    "title": "PHP update: Why are so many websites down and when will they return? - SBS",
+    "pubDate": "Sun, 25 Oct 2026 14:07:39 GMT"
    },
    {
     "title": "Finland and Australia sign joint statement on deeper defence cooperation - Nordic Defence Sector",
@@ -950,12 +942,12 @@
     "pubDate": "Sun, 25 Oct 2026 13:54:28 GMT"
    },
    {
-    "title": "India and Australia strengthen military cooperation through Exercise AustraHind 2026 - The Indian Sun",
-    "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
-   },
-   {
     "title": "Kongsberg plans to bring Zone 5 missiles to Australian market and explore local production - Defence Industry Europe",
     "pubDate": "Sun, 25 Oct 2026 18:18:59 GMT"
+   },
+   {
+    "title": "India and Australia strengthen military cooperation through Exercise AustraHind 2026 - The Indian Sun",
+    "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
    }
   ],
   "au_health_news": [

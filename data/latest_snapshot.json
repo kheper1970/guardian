@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T10:45:01.959080+00:00",
+ "collected_utc": "2026-10-25T11:30:01.734285+00:00",
  "earthquakes": [
+  {
+   "mag": 5.4,
+   "place": "33 km ESE of Ambunti, Papua New Guinea",
+   "time": 1792924227588,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "Volcano Islands, Japan region",
@@ -223,22 +231,6 @@
    "time": 1792842488678,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "148 km NNW of Kilmia, Yemen",
-   "time": 1792840827157,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m6",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "196 km W of Sola, Vanuatu",
-   "time": 1792840440121,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5",
    "type": "earthquake"
   }
  ],
@@ -508,7 +500,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-25T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -572,7 +564,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-25T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
    },
    {
@@ -757,20 +749,20 @@
    "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
   },
   {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
-  },
-  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
    "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
   },
   {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "\u2018Some aren\u2019t going to make it\u2019: how pressure on farmers threatens UK food security - The Guardian",
+   "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT"
   }
  ],
  "australia": {
@@ -780,7 +772,7 @@
     "pubDate": "Sun, 25 Oct 2026 10:25:04 +0000"
    },
    {
-    "title": "Live: Trbojevic hat-trick settles Kangaroos' nerves after Fiji threatens upset",
+    "title": "Live: Kangaroos escape with World Cup win after Fiji threatens upset",
     "pubDate": "Sun, 25 Oct 2026 07:55:20 +0000"
    },
    {
@@ -818,6 +810,10 @@
   ],
   "nsw_rfs_incidents": [
    {
+    "title": "Gordon Nixon Av, West Kempsey",
+    "category": "Advice"
+   },
+   {
     "title": "Minuma Range",
     "category": "Advice"
    },
@@ -838,10 +834,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "GURNER AV, AUSTRAL",
-    "category": "Not Applicable"
-   },
-   {
     "title": "IRRIGATION WAY, MURRAMI",
     "category": "Not Applicable"
    },
@@ -850,15 +842,15 @@
     "category": "Not Applicable"
    },
    {
+    "title": "LAURIE RD, DURAL",
+    "category": "Not Applicable"
+   },
+   {
     "title": "NEW ENGLAND HWY, ABERDEEN",
     "category": "Not Applicable"
    },
    {
     "title": "SNOWY MOUNTAINS HWY",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WINDSOR RD, ROUSE HILL",
     "category": "Not Applicable"
    }
   ],
@@ -938,12 +930,12 @@
     "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
    },
    {
-    "title": "Melbourne and Sydney in the firing line as storms hit multiple states - Nine.com.au",
-    "pubDate": "Sat, 24 Oct 2026 22:31:06 GMT"
+    "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
+    "pubDate": "Sun, 25 Oct 2026 11:06:42 GMT"
    },
    {
-    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia - The Guardian",
-    "pubDate": "Fri, 23 Oct 2026 23:35:00 GMT"
+    "title": "Severe Storms Threaten Eastern Australia - Mirage News",
+    "pubDate": "Sun, 25 Oct 2026 02:34:00 GMT"
    }
   ],
   "au_security_news": [
@@ -952,8 +944,12 @@
     "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
    },
    {
-    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
+    "title": "Finland and Australia sign joint statement on deeper defence cooperation - Nordic Defence Sector",
+    "pubDate": "Sun, 25 Oct 2026 11:04:18 GMT"
+   },
+   {
+    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    },
    {
     "title": "India and Australia strengthen military cooperation through Exercise AustraHind 2026 - The Indian Sun",
@@ -970,10 +966,6 @@
    {
     "title": "Western Australia to fund security for lawmakers\u2019 homes \u2014 ABC News Australia - UA.NEWS",
     "pubDate": "Sun, 25 Oct 2026 03:37:21 GMT"
-   },
-   {
-    "title": "Australia\u2019s treasurer says middle powers should co-operate to avoid being hostage to geopolitics - Financial Times",
-    "pubDate": "Sun, 25 Oct 2026 01:00:27 GMT"
    },
    {
     "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",

@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-25T05:45:01.185211+00:00",
+ "collected_utc": "2026-10-25T06:45:01.164887+00:00",
  "earthquakes": [
+  {
+   "mag": 4.5,
+   "place": "74 km SSE of Onagawa Ch\u014d, Japan",
+   "time": 1792908262644,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
+   "type": "earthquake"
+  },
   {
    "mag": 4.9,
    "place": "17 km SE of Ambel\u00f3kipoi, Greece",
@@ -296,35 +304,11 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.5,
-   "place": "55 km NNE of Port-Olry, Vanuatu",
-   "time": 1792824189602,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "206 km NW of Port-Olry, Vanuatu",
-   "time": 1792822856869,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kt",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.3,
-   "place": "174 km NW of Port-Olry, Vanuatu",
-   "time": 1792821856367,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-25T00:00:00",
+   "time_tag": "2026-10-25T03:00:00",
    "Kp": 0.67,
    "a_running": 3,
    "station_count": 8
@@ -791,32 +775,32 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
   },
   {
-   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
-   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
+   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
+   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -856,11 +840,15 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Fishermen racing crocs for crabs in Wadeye as new industry emerges",
+    "pubDate": "Sun, 25 Oct 2026 05:48:08 +0000"
+   },
+   {
     "title": "Another Perth beach closed as more whale remains found",
     "pubDate": "Sun, 25 Oct 2026 05:18:08 +0000"
    },
    {
-    "title": "Darwin patients' medical information posted to Instagram in privacy breach",
+    "title": "Darwin pregnant patients' medical information posted to Instagram in breach",
     "pubDate": "Sun, 25 Oct 2026 05:11:48 +0000"
    },
    {
@@ -868,11 +856,11 @@
     "pubDate": "Sun, 25 Oct 2026 05:07:25 +0000"
    },
    {
-    "title": "Measles-stricken Amish hit hard amid US vaccine misinformation fight",
+    "title": "Deadly measles spread hitting US state's Amish hard amid White House row",
     "pubDate": "Sun, 25 Oct 2026 04:53:08 +0000"
    },
    {
-    "title": "Live: Diamonds play Constellation Cup on home soil",
+    "title": "Live: Silver Ferns beat Diamonds in thriller to win Constellation Cup",
     "pubDate": "Sun, 25 Oct 2026 04:21:37 +0000"
    },
    {
@@ -890,15 +878,15 @@
    {
     "title": "'More and more challenging to do this job': MPs fear rising political tensions",
     "pubDate": "Sun, 25 Oct 2026 02:13:34 +0000"
-   },
-   {
-    "title": "Midwest muso Kevin Morby is no longer America's best kept secret",
-    "pubDate": "Sun, 25 Oct 2026 02:00:00 +0000"
    }
   ],
   "nsw_rfs_incidents": [
    {
     "title": "CAMDEN VALLEY WAY, CASULA",
+    "category": "Advice"
+   },
+   {
+    "title": "Figtree Dr, Sydney Olympic Park",
     "category": "Advice"
    },
    {
@@ -910,10 +898,6 @@
     "category": "Planned Burn"
    },
    {
-    "title": "BATHURST RD, ORANGE",
-    "category": "Not Applicable"
-   },
-   {
     "title": "BEARBONG",
     "category": "Not Applicable"
    },
@@ -922,7 +906,23 @@
     "category": "Not Applicable"
    },
    {
+    "title": "DORRINGTON RD, RATHMINES",
+    "category": "Not Applicable"
+   },
+   {
     "title": "DURRAWEEN LANE, DUBBO NSW",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "FERNDALE LANE, WOLUMLA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HELEN AV, LEMON TREE PASSAGE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HUME HWY, BOXERS CREEK",
     "category": "Not Applicable"
    },
    {
@@ -934,19 +934,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "JILLIBY RD, DOORALONG",
-    "category": "Not Applicable"
-   },
-   {
     "title": "KIDMAN WAY, THARBOGANG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MARTIN RD, BADGERYS CREEK",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MOSS VALE RD, CAMBEWARRA",
     "category": "Not Applicable"
    },
    {
@@ -958,19 +946,19 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PRINCE ST, LOWANNA",
+    "title": "NEWELL HWY, GRONG GRONG",
     "category": "Not Applicable"
    },
    {
-    "title": "RANGE RD, WHITTINGHAM",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "RD, CANOWINDRA",
+    "title": "SECTOR 5, SMA",
     "category": "Not Applicable"
    },
    {
     "title": "SNOWY MOUNTAINS HWY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "THE WATERFRONT TOWN CTR COVE BVD, SHELL COVE",
     "category": "Not Applicable"
    }
   ],
@@ -1034,12 +1022,12 @@
     "pubDate": "Sun, 25 Oct 2026 05:30:00 GMT"
    },
    {
-    "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
-    "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
+    "title": "\u2018Trifecta\u2019: Severe storms to hit millions - News.com.au",
+    "pubDate": "Sun, 25 Oct 2026 04:04:51 GMT"
    },
    {
-    "title": "\u2018Trifecta\u2019: Severe storms to hit millions - News.com.au",
-    "pubDate": "Sun, 25 Oct 2026 03:56:15 GMT"
+    "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
+    "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
    },
    {
     "title": "Melbourne and Sydney in the firing line as storms hit multiple states - Nine.com.au",
@@ -1054,8 +1042,8 @@
     "pubDate": "Sat, 24 Oct 2026 22:58:00 GMT"
    },
    {
-    "title": "Northern wet season 2026-27 - Department of Fire and Emergency Services",
-    "pubDate": "Fri, 23 Oct 2026 05:49:26 GMT"
+    "title": "Moment rescuers saved flood-trapped driver - The Australian",
+    "pubDate": "Fri, 23 Oct 2026 22:47:45 GMT"
    }
   ],
   "au_security_news": [
@@ -1064,20 +1052,20 @@
     "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
    },
    {
-    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
+    "title": "Press conference, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:55 GMT"
    },
    {
     "title": "India and Australia strengthen military cooperation through Exercise AustraHind 2026 - The Indian Sun",
     "pubDate": "Sat, 24 Oct 2026 23:00:07 GMT"
    },
    {
-    "title": "\u2018When, not if\u2019: Chilling claim after MP attack - News.com.au",
-    "pubDate": "Sun, 25 Oct 2026 01:54:29 GMT"
-   },
-   {
     "title": "Western Australia\u2019s Fuel Security - Western Australian Government",
     "pubDate": "Fri, 23 Oct 2026 07:53:15 GMT"
+   },
+   {
+    "title": "\u2018When, not if\u2019: Chilling claim after MP attack - News.com.au",
+    "pubDate": "Sun, 25 Oct 2026 01:54:29 GMT"
    },
    {
     "title": "Western Australia to fund security for lawmakers\u2019 homes \u2014 ABC News Australia - UA.NEWS",
@@ -1088,8 +1076,8 @@
     "pubDate": "Sat, 24 Oct 2026 21:25:57 GMT"
    },
    {
-    "title": "Fresh travel warning as Aussie base hit in Middle East - The Canberra Times",
-    "pubDate": "Sat, 24 Oct 2026 03:42:06 GMT"
+    "title": "From inflation to security: When will Labor make the logical leap on Trump? - The Mandarin",
+    "pubDate": "Sat, 24 Oct 2026 01:33:50 GMT"
    }
   ],
   "au_health_news": [

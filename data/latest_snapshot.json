@@ -1,10 +1,10 @@
 {
- "collected_utc": "2026-10-25T12:00:01.792250+00:00",
+ "collected_utc": "2026-10-25T12:15:01.684245+00:00",
  "earthquakes": [
   {
-   "mag": 5.8,
-   "place": "209 km ENE of Nagqu, China",
-   "time": 1792927557400,
+   "mag": 5.9,
+   "place": "218 km ENE of Nagqu, China",
+   "time": 1792927557101,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty",
    "type": "earthquake"
@@ -244,12 +244,12 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-25T06:00:00",
-   "Kp": 0.33,
-   "a_running": 2,
+   "time_tag": "2026-10-25T09:00:00",
+   "Kp": 1.0,
+   "a_running": 4,
    "station_count": 8
   },
-  "kp_max_24h": 2.0,
+  "kp_max_24h": 1.67,
   "alerts_recent": [
    {
     "id": "K04A",
@@ -707,36 +707,36 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
    "title": "Transport of Radioactive Material - World Nuclear Association",
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
-   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
+   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
+   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -780,7 +780,7 @@
     "pubDate": "Sun, 25 Oct 2026 10:25:04 +0000"
    },
    {
-    "title": "Live: Kangaroos escape with World Cup win after Fiji threatens upset",
+    "title": "Kangaroos escape with World Cup win after Fiji threatens upset",
     "pubDate": "Sun, 25 Oct 2026 07:55:20 +0000"
    },
    {

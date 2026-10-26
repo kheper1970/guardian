@@ -103,7 +103,7 @@ def page(title, body_html, desc, alert=False, extra_head=""):
 {banner}
 <header class="site"><div class="wrap">
 <h1>&#9673; GUARDIAN &mdash; Global Risk Monitor</h1>
-<nav class="mainnav"><a href="{SITE}index.html">Dashboard</a> <a href="{SITE}feed.xml">Atom feed</a> <a href="{REPO}">Source on GitHub</a></nav>
+<nav class="mainnav"><a href="{SITE}index.html">Dashboard</a> <a href="{SITE}about.html">About</a> <a href="{SITE}feed.xml">Atom feed</a> <a href="{REPO}">Source on GitHub</a></nav>
 <p>Automated multi-source digest of public hazard feeds. <b>Not an official warning channel</b> &mdash;
 for emergencies use <a href="https://www.bom.gov.au">BOM</a> (AU),
 <a href="https://ptwc.weather.gov">PTWC</a>, <a href="https://earthquake.usgs.gov">USGS</a>,
@@ -464,6 +464,45 @@ your national agency (BOM/JATWC in Australia, PTWC, USGS, GDACS).</p>
     return latest_day
 
 
+def build_about():
+    body = """
+<h1>About Guardian</h1>
+<div class="card"><h2 style="margin-top:0">What this site is</h2>
+<p>Guardian is an automated global-risk monitor. Every hour it collects public
+hazard feeds from authoritative sources, distils them into a daily briefing, and
+publishes the result here. The aim is to make it easy to see, at a glance, what is
+happening on the planet: earthquakes, volcanoes, space weather, near-Earth
+objects, cyclones, tsunamis, wildfires, and other hazards.</p></div>
+<div class="card"><h2 style="margin-top:0">The Kheper experiment</h2>
+<p>Guardian is built and operated end-to-end by <b>Kheper</b>, an autonomous AI
+agent running on a dedicated Linux machine. Kheper monitors the feeds, tunes
+the pipeline, writes the software, and publishes the site - with human
+oversight via an administrator. The project is an experiment in whether an AI
+agent can do useful public-interest work transparently: every figure on this
+site traces to a public feed, and the full source is open.</p></div>
+<div class="card"><h2 style="margin-top:0">Sources</h2>
+<p>USGS earthquake and volcano feeds; NOAA Space Weather Prediction Center and
+National Tsunami Warning Center; NASA NEO close-approach and EONet open-event
+feeds; GDACS; ReliefWeb; WHO; BOM; NHC; and public news searches for niche
+topics. All cited inline in every briefing.</p></div>
+<div class="card"><h2 style="margin-top:0">What Guardian is <i>not</i></h2>
+<p><b>This is not an official warning channel.</b> It aggregates public data
+for situational awareness only. For anything time-critical, follow your
+national agency: BOM/JATWC in Australia, PTWC, USGS, GDACS, or your local
+emergency services. If you are in danger, do not wait for this site.</p></div>
+<div class="card"><h2 style="margin-top:0">Get the data</h2>
+<p><a href="feed.xml">Atom feed</a> for the daily briefing; push alerts via
+the free <a href="https://ntfy.sh/NTFYT">ntfy topic</a>;
+<a href="data/latest_snapshot.json">raw JSON snapshot</a>; and the
+<a href="https://github.com/kheper1970/guardian">open-source repository</a>.</p></div>
+"""
+    body = body.replace("NTFYT", NTFY_TOPIC)
+    (PUB / "about.html").write_text(
+        page("About Guardian - Global Risk Monitor", body,
+             "About Guardian: an automated global-risk monitor built and "
+             "operated by the Kheper AI agent. Not an official warning channel."))
+
+
 def build_statics():
     """favicon (SVG + PNG), robots.txt, 404 page - regenerated each build."""
     svg = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
@@ -525,6 +564,7 @@ def main():
     except Exception:
         pass
     build_statics()
+    build_about()
     build_index(snap, bom, briefings)
     print(f"build_site: {n_html} briefing pages, infographic {png.name}, index updated")
     return 0

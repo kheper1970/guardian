@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-26T01:45:01.134973+00:00",
+ "collected_utc": "2026-10-26T02:45:01.199654+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -20,7 +20,7 @@
   {
    "mag": 5.3,
    "place": "Bonin Islands, Japan region",
-   "time": 1792966455949,
+   "time": 1792966456010,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we",
    "type": "earthquake"
@@ -144,46 +144,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "Bonin Islands, Japan region",
-   "time": 1792895792787,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
-   "type": "earthquake"
-  },
-  {
-   "mag": 6.1,
-   "place": "25 km ENE of Port-Olry, Vanuatu",
-   "time": 1792895040476,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
-   "type": "earthquake"
-  },
-  {
-   "mag": 6.5,
-   "place": "Bonin Islands, Japan region",
-   "time": 1792894163818,
-   "tsunami": true,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.1,
-   "place": "161 km WNW of Port-Olry, Vanuatu",
-   "time": 1792893970299,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.1,
-   "place": "166 km WNW of Port-Olry, Vanuatu",
-   "time": 1792892783382,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -269,6 +229,12 @@
   }
  ],
  "gdacs": [
+  {
+   "severity": "Orange",
+   "title": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+   "description": "From 26/10/2026 to 26/10/2026, a Tropical Storm (maximum wind speed of 120 km/h) TWO-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+   "pubdate": "2026-10-26T01:51:40Z"
+  },
   {
    "severity": "Red",
    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
@@ -411,29 +377,29 @@
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Vance Public Advisory Number 18",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/252035.shtml",
-     "pubDate": "Sun, 25 Oct 2026 20:35:32 GMT"
+     "title": "Tropical Storm Vance Public Advisory Number 19",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/260236.shtml",
+     "pubDate": "Mon, 26 Oct 2026 02:37:05 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Advisory Number 18",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/252034.shtml",
-     "pubDate": "Sun, 25 Oct 2026 20:35:02 GMT"
+     "title": "Tropical Storm Vance Forecast Advisory Number 19",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/260235.shtml",
+     "pubDate": "Mon, 26 Oct 2026 02:35:34 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Discussion Number 18",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/252035.shtml",
-     "pubDate": "Sun, 25 Oct 2026 20:36:02 GMT"
+     "title": "Tropical Storm Vance Forecast Discussion Number 19",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/260237.shtml",
+     "pubDate": "Mon, 26 Oct 2026 02:38:06 GMT"
     },
     {
-     "title": "Tropical Storm Vance Wind Speed Probabilities Number 18",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/252035.shtml",
-     "pubDate": "Sun, 25 Oct 2026 20:35:31 GMT"
+     "title": "Tropical Storm Vance Wind Speed Probabilities Number 19",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/260237.shtml",
+     "pubDate": "Mon, 26 Oct 2026 02:37:36 GMT"
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212833.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 21:28:33 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/024104.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 02:41:04 GMT"
     }
    ]
   },
@@ -443,35 +409,35 @@
    "basin": "central_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Olana Public Advisory Number 2",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP3+shtml/252034.shtml",
-     "pubDate": "Sun, 25 Oct 2026 20:35:02 GMT"
+     "title": "Tropical Storm Olana Public Advisory Number 3",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP3+shtml/260231.shtml",
+     "pubDate": "Mon, 26 Oct 2026 02:32:07 GMT"
     },
     {
-     "title": "Tropical Storm Olana Forecast Advisory Number 2",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP3+shtml/252034.shtml",
-     "pubDate": "Sun, 25 Oct 2026 20:35:02 GMT"
+     "title": "Tropical Storm Olana Forecast Advisory Number 3",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP3+shtml/260231.shtml",
+     "pubDate": "Mon, 26 Oct 2026 02:31:36 GMT"
     },
     {
-     "title": "Tropical Storm Olana Forecast Discussion Number 2",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP3+shtml/252035.shtml",
-     "pubDate": "Sun, 25 Oct 2026 20:36:02 GMT"
+     "title": "Tropical Storm Olana Forecast Discussion Number 3",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP3+shtml/260232.shtml",
+     "pubDate": "Mon, 26 Oct 2026 02:32:30 GMT"
     },
     {
-     "title": "Tropical Storm Olana Wind Speed Probabilities Number 2",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP3+shtml/252034.shtml",
-     "pubDate": "Sun, 25 Oct 2026 20:35:02 GMT"
+     "title": "Tropical Storm Olana Wind Speed Probabilities Number 3",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP3+shtml/260231.shtml",
+     "pubDate": "Mon, 26 Oct 2026 02:32:05 GMT"
     },
     {
      "title": "Tropical Storm Olana Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/212245.shtml?cone",
-     "pubDate": "Sun, 25 Oct 2026 21:22:45 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/023406.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 02:34:06 GMT"
     }
    ]
   }
  ],
  "eonet": {
-  "open_total": 33,
+  "open_total": 32,
   "tracked": [
    {
     "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
@@ -656,14 +622,6 @@
     ],
     "date": "2026-10-05T23:14:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25117"
-   },
-   {
-    "title": "Prescribed Fire RX MFD Morrison Peak, Missoula, Montana",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-05T17:33:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25592"
    }
   ]
  },
@@ -738,7 +696,23 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Zempilas eyes 'road less travelled' as WA Liberals face two diverging paths",
+    "title": "Lamarre-Condon told friend he misinterpreted alleged confession, court hears",
+    "pubDate": "Mon, 26 Oct 2026 02:40:29 +0000"
+   },
+   {
+    "title": "Rome demonstrators storm Colosseum as Europe's youth protests spread",
+    "pubDate": "Mon, 26 Oct 2026 02:16:31 +0000"
+   },
+   {
+    "title": "Woman granted bail after allegedly trying to snatch teen's hijab",
+    "pubDate": "Mon, 26 Oct 2026 02:09:43 +0000"
+   },
+   {
+    "title": "Worker dies in hospital after being dragged under ute at service station",
+    "pubDate": "Mon, 26 Oct 2026 01:50:29 +0000"
+   },
+   {
+    "title": "Zempilas echoes 'The Road Not Taken' as WA Liberals face difficult choice",
     "pubDate": "Mon, 26 Oct 2026 01:39:39 +0000"
    },
    {
@@ -760,25 +734,13 @@
    {
     "title": "'Meant to be in Perth': Passengers confused by Sydney's new airport",
     "pubDate": "Mon, 26 Oct 2026 00:01:50 +0000"
-   },
-   {
-    "title": "Women take bushfire preparation into their own hands",
-    "pubDate": "Mon, 26 Oct 2026 00:00:13 +0000"
-   },
-   {
-    "title": "Youth boxing program fights off negativity, provides positive role models",
-    "pubDate": "Sun, 25 Oct 2026 23:41:23 +0000"
-   },
-   {
-    "title": "Fowler's City draw to end winning start",
-    "pubDate": "Sun, 25 Oct 2026 23:31:49 +0000"
-   },
-   {
-    "title": "Police say they don't expect retaliation for Logan drive-by shooting",
-    "pubDate": "Sun, 25 Oct 2026 22:49:51 +0000"
    }
   ],
   "nsw_rfs_incidents": [
+   {
+    "title": "MOUNT TALLABUNG RD",
+    "category": "Advice"
+   },
    {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
@@ -786,18 +748,6 @@
    {
     "title": "FB915 Mt Taylor",
     "category": "Planned Burn"
-   },
-   {
-    "title": "BOATFALLS DR, CLARENCE TOWN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "BOWLINE ST",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "CASTLEREAGH HWY, CULLEN BULLEN",
-    "category": "Not Applicable"
    },
    {
     "title": "IRRIGATION WAY, MURRAMI",
@@ -808,7 +758,19 @@
     "category": "Not Applicable"
    },
    {
+    "title": "MOUNT ARROWSMITH RD, MILPARINKA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MOUNT NOMBI RD, NOMBI",
+    "category": "Not Applicable"
+   },
+   {
     "title": "NEW ENGLAND HWY, ABERDEEN",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "PACIFIC HWY, JACKY BULBIN FLAT",
     "category": "Not Applicable"
    },
    {
@@ -884,10 +846,6 @@
     "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
    },
    {
-    "title": "Australian National Weather Forecast - Nine.com.au",
-    "pubDate": "Sun, 25 Oct 2026 16:50:45 GMT"
-   },
-   {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
     "pubDate": "Sun, 25 Oct 2026 06:34:00 GMT"
    },
@@ -910,6 +868,10 @@
    {
     "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
     "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
+   },
+   {
+    "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
+    "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
    }
   ],
   "au_security_news": [
@@ -920,6 +882,10 @@
    {
     "title": "Thales opens Western Sydney sonar facility - Australian Defence Magazine",
     "pubDate": "Mon, 26 Oct 2026 00:18:43 GMT"
+   },
+   {
+    "title": "Moseley\u2019s ambassador post to advance Australia\u2019s security interests - The Mandarin",
+    "pubDate": "Mon, 26 Oct 2026 01:44:14 GMT"
    },
    {
     "title": "Politicians vow to honour Haines as parliament returns - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
@@ -940,10 +906,6 @@
    {
     "title": "Future Generation Australia Limited Stapled Security Estimates \u2013 ASX:FGX - TradingView",
     "pubDate": "Sun, 25 Oct 2026 22:08:57 GMT"
-   },
-   {
-    "title": "Australia to learn from Greece\u2019s UN Role - The Greek Herald",
-    "pubDate": "Sun, 25 Oct 2026 23:41:25 GMT"
    }
   ],
   "au_health_news": [

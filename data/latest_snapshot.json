@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-26T00:45:01.208588+00:00",
+ "collected_utc": "2026-10-26T01:30:01.448980+00:00",
  "earthquakes": [
   {
    "mag": 4.8,
@@ -730,7 +730,11 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Breaking: Brazilian president Luiz In\u00e1cio Lula da Silva set to reclaim presidency",
+    "title": "Melbourne Market board quits over appointment of former Demons chief Paul Guerra",
+    "pubDate": "Mon, 26 Oct 2026 00:47:47 +0000"
+   },
+   {
+    "title": "Breaking: Brazil's Luiz In\u00e1cio Lula da Silva re-elected president",
     "pubDate": "Mon, 26 Oct 2026 00:36:24 +0000"
    },
    {
@@ -742,7 +746,7 @@
     "pubDate": "Mon, 26 Oct 2026 00:27:03 +0000"
    },
    {
-    "title": "Passenger says 'double check' after landing at wrong Sydney airport",
+    "title": "'Meant to be in Perth': Passengers confused by Sydney's new airport",
     "pubDate": "Mon, 26 Oct 2026 00:01:50 +0000"
    },
    {
@@ -758,23 +762,15 @@
     "pubDate": "Sun, 25 Oct 2026 23:31:49 +0000"
    },
    {
-    "title": "Police hunt for masked men after four injured in Logan drive-by shooting",
+    "title": "Police say they don't expect retaliation for Logan drive-by shooting",
     "pubDate": "Sun, 25 Oct 2026 22:49:51 +0000"
    },
    {
     "title": "Labor promises $6.8b South Coast rail fix days after timetable backflip",
     "pubDate": "Sun, 25 Oct 2026 22:41:19 +0000"
-   },
-   {
-    "title": "England 'gutted' after second extraordinary ODI defeat in as many games",
-    "pubDate": "Sun, 25 Oct 2026 22:30:22 +0000"
    }
   ],
   "nsw_rfs_incidents": [
-   {
-    "title": "KIDMAN WAY, WALLANTHERY",
-    "category": "Advice"
-   },
    {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
@@ -784,7 +780,15 @@
     "category": "Planned Burn"
    },
    {
-    "title": "DURRAWEEN LANE, DUBBO NSW",
+    "title": "BOATFALLS DR, CLARENCE TOWN",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "BOWLINE ST",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "CASTLEREAGH HWY, CULLEN BULLEN",
     "category": "Not Applicable"
    },
    {
@@ -796,15 +800,11 @@
     "category": "Not Applicable"
    },
    {
+    "title": "MOUNTAIN SPRING DR, KENDALL",
+    "category": "Not Applicable"
+   },
+   {
     "title": "NEW ENGLAND HWY, ABERDEEN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "NEWPORT RD, DORA CREEK",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "NORTHERN DISTRIBUTOR RD, ORANGE",
     "category": "Not Applicable"
    },
    {
@@ -816,11 +816,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "TAYLOR AV, THORNTON",
+    "title": "Thornleigh Road",
     "category": "Not Applicable"
    },
    {
-    "title": "Thornleigh Road",
+    "title": "YATHONG NATURE RESERVE IRYMPLE",
     "category": "Not Applicable"
    }
   ],
@@ -876,8 +876,8 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Women take bushfire preparation into their own hands - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 26 Oct 2026 00:03:41 GMT"
+    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
    },
    {
     "title": "Australian National Weather Forecast - Nine.com.au",
@@ -900,12 +900,12 @@
     "pubDate": "Sun, 25 Oct 2026 07:03:40 GMT"
    },
    {
-    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
-   },
-   {
     "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
     "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
+   },
+   {
+    "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
+    "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
    }
   ],
   "au_security_news": [
@@ -919,27 +919,27 @@
    },
    {
     "title": "Politicians vow to honour Haines as parliament returns - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sun, 25 Oct 2026 21:26:28 GMT"
+    "pubDate": "Sun, 25 Oct 2026 18:30:35 GMT"
    },
    {
     "title": "PHP update: Why are so many websites down and when will they return? - SBS",
     "pubDate": "Sun, 25 Oct 2026 21:17:11 GMT"
    },
    {
-    "title": "Pacific Adventist University Students Included in Australia\u2013PNG Defence Recruitment Pilot - Spectrum Magazine",
-    "pubDate": "Sun, 25 Oct 2026 15:49:58 GMT"
-   },
-   {
     "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
     "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
+   },
+   {
+    "title": "Pacific Adventist University Students Included in Australia\u2013PNG Defence Recruitment Pilot - Spectrum Magazine",
+    "pubDate": "Sun, 25 Oct 2026 15:49:58 GMT"
    },
    {
     "title": "Future Generation Australia Limited Stapled Security Estimates \u2013 ASX:FGX - TradingView",
     "pubDate": "Sun, 25 Oct 2026 22:08:57 GMT"
    },
    {
-    "title": "Australia to learn from Greece\u2019s UN Role - The Greek Herald",
-    "pubDate": "Sun, 25 Oct 2026 23:41:25 GMT"
+    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
+    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
    }
   ],
   "au_health_news": [

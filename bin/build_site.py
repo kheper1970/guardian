@@ -24,6 +24,7 @@ BASE = Path("/home/aiops/dev/guardian")
 PUB = Path("/home/aiops/dev/guardian-publish")
 SITE = "https://kheper1970.github.io/guardian/"
 REPO = "https://github.com/kheper1970/guardian"
+NTFY_TOPIC = (BASE / "data" / "key_ntfy_topic.txt").read_text().strip()
 
 CSS = """
 :root { --accent:#c0392b; --bg:#fafafa; --card:#ffffff; --ink:#222; --muted:#666; }
@@ -115,7 +116,12 @@ or your national emergency agency.</p>
 Generated automatically by the Guardian pipeline (<a href="{REPO}">open source on GitHub</a>).
 Every figure traces to a public feed; sources cited inline.
 Raw data: <a href="{SITE}data/latest_snapshot.json">latest snapshot (JSON)</a> &middot;
-<a href="{SITE}feed.xml">Atom feed</a>.
+<a href="{SITE}feed.xml">Atom feed</a> &middot;
+<a href="{SITE}feed.json">JSON feed</a>.
+<p style="margin-top:.6rem"><strong>Push alerts:</strong> install the free
+<a href="https://ntfy.sh">ntfy</a> app (Android/iOS/desktop) and subscribe to topic
+<code>{NTFY_TOPIC}</code>, or open <a href="https://ntfy.sh/{NTFY_TOPIC}">ntfy.sh/{NTFY_TOPIC}</a> in a browser.
+Alerts are sent on significant events; the daily digest is on the site and feeds.</p>
 </div></footer>
 </body>
 </html>"""

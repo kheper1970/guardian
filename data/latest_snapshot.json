@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-26T20:45:01.535472+00:00",
+ "collected_utc": "2026-10-26T21:45:01.374347+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -140,9 +140,9 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-26T15:00:00",
-   "Kp": 1.33,
-   "a_running": 5,
+   "time_tag": "2026-10-26T18:00:00",
+   "Kp": 0.67,
+   "a_running": 3,
    "station_count": 8
   },
   "kp_max_24h": 2.0,
@@ -223,8 +223,8 @@
  "gdacs": [
   {
    "severity": "Red",
-   "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.146 million .",
-   "description": "From 26/10/2026 to 26/10/2026, a Hurricane/Typhoon &gt; 74 mph (maximum wind speed of 194 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 3.146 million .",
+   "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.028 million .",
+   "description": "From 26/10/2026 to 26/10/2026, a Hurricane/Typhoon &gt; 74 mph (maximum wind speed of 185 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 6.028 million .",
    "pubdate": "2026-10-26T01:51:40Z"
   },
   {
@@ -390,8 +390,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/204302.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 20:43:02 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212824.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 21:28:24 GMT"
     }
    ]
   },
@@ -422,8 +422,8 @@
     },
     {
      "title": "Tropical Depression Olana Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/203505.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 20:35:05 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/212241.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 21:22:41 GMT"
     }
    ]
   }
@@ -627,36 +627,36 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
-  },
-  {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
    "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "Transport of Radioactive Material - World Nuclear Association",
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
-   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
+   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -666,7 +666,7 @@
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Mon, 26 Oct 2026 20:11:24 GMT"
+   "pubDate": "Mon, 26 Oct 2026 21:07:48 GMT"
   },
   {
    "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
@@ -696,6 +696,30 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Fines of up to $120k for dumping pet fish in Adelaide river",
+    "pubDate": "Mon, 26 Oct 2026 21:32:17 +0000"
+   },
+   {
+    "title": "Live: Anthropic to hit stock market with 'eye-popping' growth and massive losses",
+    "pubDate": "Mon, 26 Oct 2026 21:29:59 +0000"
+   },
+   {
+    "title": "Sydney University hires Jacinda Ardern as lecturer and mentor",
+    "pubDate": "Mon, 26 Oct 2026 21:07:40 +0000"
+   },
+   {
+    "title": "Prison officers fear deaths in custody under Queensland bill",
+    "pubDate": "Mon, 26 Oct 2026 21:04:06 +0000"
+   },
+   {
+    "title": "Experts warn gas scheme ripe for manipulation",
+    "pubDate": "Mon, 26 Oct 2026 20:47:39 +0000"
+   },
+   {
+    "title": "De Minaur pulls off massive comeback to improve ATP Finals hopes",
+    "pubDate": "Mon, 26 Oct 2026 20:44:44 +0000"
+   },
+   {
     "title": "MP claims Melbourne property allowance despite attendance concerns",
     "pubDate": "Mon, 26 Oct 2026 20:33:24 +0000"
    },
@@ -710,30 +734,6 @@
    {
     "title": "Live: Nine politicians get electorate office security upgrades after Haines attack",
     "pubDate": "Mon, 26 Oct 2026 20:06:06 +0000"
-   },
-   {
-    "title": "October rainfall records under threat across south-east Queensland",
-    "pubDate": "Mon, 26 Oct 2026 20:03:58 +0000"
-   },
-   {
-    "title": "Farmers wear cost as starving flying foxes damage banana, berry crops",
-    "pubDate": "Mon, 26 Oct 2026 20:00:12 +0000"
-   },
-   {
-    "title": "Mildura becomes home of the Big Sultana",
-    "pubDate": "Mon, 26 Oct 2026 19:55:21 +0000"
-   },
-   {
-    "title": "Age pensioners who want to keep working say system punishes them",
-    "pubDate": "Mon, 26 Oct 2026 19:45:46 +0000"
-   },
-   {
-    "title": "Three decades on, stigma remains 'huge barrier' to care for drug users",
-    "pubDate": "Mon, 26 Oct 2026 19:43:58 +0000"
-   },
-   {
-    "title": "Labuschagne must beat mental block to overcome the 30s in third Test",
-    "pubDate": "Mon, 26 Oct 2026 19:43:41 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -746,7 +746,15 @@
     "category": "Advice"
    },
    {
-    "title": "GLEN MARTIN RD, GLEN WILLIAM",
+    "title": "BARRIER HWY, NOONA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "BRAIDWOOD RD, SASSAFRAS",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "BULLARA ST, PAMBULA",
     "category": "Not Applicable"
    },
    {
@@ -759,6 +767,10 @@
    },
    {
     "title": "MOUNT NOMBI RD, NOMBI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MOUNTAIN TOP RD, GEORGICA",
     "category": "Not Applicable"
    },
    {
@@ -840,12 +852,12 @@
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
-    "title": "Ex-councillor, farmer dies in floodwaters - News.com.au",
-    "pubDate": "Mon, 26 Oct 2026 10:29:29 GMT"
-   },
-   {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
     "pubDate": "Sun, 25 Oct 2026 06:34:00 GMT"
+   },
+   {
+    "title": "Ex-councillor, farmer dies in floodwaters - News.com.au",
+    "pubDate": "Mon, 26 Oct 2026 10:29:29 GMT"
    },
    {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
@@ -856,8 +868,8 @@
     "pubDate": "Mon, 26 Oct 2026 06:55:35 GMT"
    },
    {
-    "title": "Man dies as flood emergency grips Queensland - The Nightly",
-    "pubDate": "Mon, 26 Oct 2026 06:14:07 GMT"
+    "title": "Severe weather update: Severe storm outbreak for eastern Australia - The Bureau of Meteorology",
+    "pubDate": "Sat, 24 Oct 2026 23:41:06 GMT"
    }
   ],
   "au_security_news": [
@@ -874,8 +886,16 @@
     "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
    },
    {
+    "title": "KONGSBERG secures contract with Pilbara Ports in Australia - Asia Pacific Defence Reporter",
+    "pubDate": "Mon, 26 Oct 2026 21:14:44 GMT"
+   },
+   {
     "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
-    "pubDate": "Mon, 26 Oct 2026 19:35:37 GMT"
+    "pubDate": "Mon, 26 Oct 2026 21:05:38 GMT"
+   },
+   {
+    "title": "Cyber security threats rise as AI menace gathers pace - Yahoo News Australia",
+    "pubDate": "Mon, 26 Oct 2026 18:00:00 GMT"
    },
    {
     "title": "Sappers complete major works in PNG - news.defence.gov.au",
@@ -884,14 +904,6 @@
    {
     "title": "Australia, Finland reaffirm defence cooperation with signed statement - Defence Connect",
     "pubDate": "Mon, 26 Oct 2026 03:19:02 GMT"
-   },
-   {
-    "title": "Cyber security threats rise as AI menace gathers pace - Yahoo News Australia",
-    "pubDate": "Mon, 26 Oct 2026 18:00:00 GMT"
-   },
-   {
-    "title": "The cracks in Australia\u2019s defence policy: The Navy is being set up for failure - Crikey",
-    "pubDate": "Mon, 26 Oct 2026 00:21:58 GMT"
    }
   ],
   "au_health_news": [

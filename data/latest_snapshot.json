@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-26T02:45:01.199654+00:00",
+ "collected_utc": "2026-10-26T03:00:01.170539+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -696,6 +696,14 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Australia's second largest veggie company admits 'cartel conduct'",
+    "pubDate": "Mon, 26 Oct 2026 02:52:05 +0000"
+   },
+   {
+    "title": "Prisoner loses court case over access to Vegemite",
+    "pubDate": "Mon, 26 Oct 2026 02:45:24 +0000"
+   },
+   {
     "title": "Lamarre-Condon told friend he misinterpreted alleged confession, court hears",
     "pubDate": "Mon, 26 Oct 2026 02:40:29 +0000"
    },
@@ -726,14 +734,6 @@
    {
     "title": "Victorian Liberals to ban 'globalise the intifada' chant if elected",
     "pubDate": "Mon, 26 Oct 2026 00:30:50 +0000"
-   },
-   {
-    "title": "Antonelli is two points away from the F1 title, and can win it next week",
-    "pubDate": "Mon, 26 Oct 2026 00:27:03 +0000"
-   },
-   {
-    "title": "'Meant to be in Perth': Passengers confused by Sydney's new airport",
-    "pubDate": "Mon, 26 Oct 2026 00:01:50 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -750,15 +750,15 @@
     "category": "Planned Burn"
    },
    {
+    "title": "APPLEBY LANE, APPLEBY",
+    "category": "Not Applicable"
+   },
+   {
     "title": "IRRIGATION WAY, MURRAMI",
     "category": "Not Applicable"
    },
    {
     "title": "KIDMAN WAY, THARBOGANG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MOUNT ARROWSMITH RD, MILPARINKA",
     "category": "Not Applicable"
    },
    {

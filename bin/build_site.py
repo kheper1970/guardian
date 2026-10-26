@@ -190,7 +190,7 @@ def make_infographic(snapshot, bom, out_png):
     # ---- header band
     fig.text(0.04, 0.955, "GUARDIAN", fontsize=30, fontweight="bold",
              color=INK, ha="left", va="center")
-    fig.text(0.175, 0.955, "GLOBAL RISK SNAPSHOT", fontsize=19,
+    fig.text(0.222, 0.955, "GLOBAL RISK SNAPSHOT", fontsize=19,
              color=RED, fontweight="bold", ha="left", va="center")
     fig.text(0.96, 0.955, f"{datestr}  ·  {gen_time} UTC",
              fontsize=13, color=MUTED, ha="right", va="center")

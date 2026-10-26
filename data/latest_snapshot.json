@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-26T22:45:02.049709+00:00",
+ "collected_utc": "2026-10-26T23:45:01.265498+00:00",
  "earthquakes": [
+  {
+   "mag": 4.5,
+   "place": "91 km ENE of Pamandzi, Mayotte",
+   "time": 1793054028680,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd1",
+   "type": "earthquake"
+  },
   {
    "mag": 4.7,
    "place": "98 km S of Encounter Bay, Australia",
@@ -229,12 +237,6 @@
   },
   {
    "severity": "Red",
-   "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
-   "description": "On 10/22/2026 2:33:40 PM, an earthquake occurred in China potentially affecting 10 thousand (in MMI&gt;=VII). The earthquake had Magnitude 7M, Depth:18km.",
-   "pubdate": "2026-10-22T14:54:15Z"
-  },
-  {
-   "severity": "Red",
    "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.291 million .",
    "description": "From 14/10/2026 to 25/10/2026, a Tropical Storm (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan, China, South Korea (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.291 million .",
    "pubdate": "2026-10-14T14:31:53Z"
@@ -436,7 +438,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-26T12:00:00Z",
+    "date": "2026-10-26T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729"
    },
    {
@@ -444,7 +446,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-26T12:00:00Z",
+    "date": "2026-10-26T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730"
    },
    {
@@ -452,7 +454,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-26T12:00:00Z",
+    "date": "2026-10-26T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -468,7 +470,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-26T12:00:00Z",
+    "date": "2026-10-26T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -639,12 +641,12 @@
    "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
    "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
    "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
@@ -661,12 +663,16 @@
  ],
  "famine_news": [
   {
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
+   "pubDate": "Mon, 26 Oct 2026 23:11:05 GMT"
+  },
+  {
    "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Mon, 26 Oct 2026 21:07:48 GMT"
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
@@ -677,26 +683,46 @@
    "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   },
   {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
-   "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
+   "title": "Greater Horn of Africa Food Insecurity and Health Crisis, Situation Report No. 1 (April\u2013June 2026) - World Health Organization (WHO)",
+   "pubDate": "Tue, 07 Jul 2026 10:34:09 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Outback mining jobs are on the rise, with no workers to fill them",
+    "title": "Darwin city mall reopened after false report of 'credible threat'",
+    "pubDate": "Mon, 26 Oct 2026 23:39:23 +0000"
+   },
+   {
+    "title": "First-time farmer solves mulberry packing problem with dental drill",
+    "pubDate": "Mon, 26 Oct 2026 23:28:13 +0000"
+   },
+   {
+    "title": "Kane breaks 25-year English drought to claim top football award",
+    "pubDate": "Mon, 26 Oct 2026 23:20:27 +0000"
+   },
+   {
+    "title": "Armed bandits killed in getaway car rollover and shootout with PNG police",
+    "pubDate": "Mon, 26 Oct 2026 23:02:14 +0000"
+   },
+   {
+    "title": "Dying SES employee fights to have workers' compensation claim recognised",
+    "pubDate": "Mon, 26 Oct 2026 22:59:26 +0000"
+   },
+   {
+    "title": "Bystander saves 88yo woman after home set on fire by balaclava-clad man",
+    "pubDate": "Mon, 26 Oct 2026 22:52:15 +0000"
+   },
+   {
+    "title": "Outback mining jobs are on the rise with no workers to fill them",
     "pubDate": "Mon, 26 Oct 2026 22:30:29 +0000"
    },
    {
@@ -710,30 +736,6 @@
    {
     "title": "Country residents paying three times to keep local doctors",
     "pubDate": "Mon, 26 Oct 2026 21:59:26 +0000"
-   },
-   {
-    "title": "Magnitude-4.9 earthquake strikes off South Australia coast",
-    "pubDate": "Mon, 26 Oct 2026 21:45:11 +0000"
-   },
-   {
-    "title": "Fines of up to $120k for dumping pet fish in Adelaide river",
-    "pubDate": "Mon, 26 Oct 2026 21:32:17 +0000"
-   },
-   {
-    "title": "Live: Anthropic to hit stock market with 'eye-popping' growth and massive losses",
-    "pubDate": "Mon, 26 Oct 2026 21:29:59 +0000"
-   },
-   {
-    "title": "Sydney University hires Jacinda Ardern as lecturer and mentor",
-    "pubDate": "Mon, 26 Oct 2026 21:07:40 +0000"
-   },
-   {
-    "title": "Prison officers fear deaths in custody under Queensland bill",
-    "pubDate": "Mon, 26 Oct 2026 21:04:06 +0000"
-   },
-   {
-    "title": "Experts warn gas scheme ripe for manipulation",
-    "pubDate": "Mon, 26 Oct 2026 20:47:39 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -742,19 +744,15 @@
     "category": "Advice"
    },
    {
-    "title": "BARRIER HWY, NOONA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "BOWRAL RD, MITTAGONG",
-    "category": "Not Applicable"
-   },
-   {
     "title": "BULLARA ST, PAMBULA",
     "category": "Not Applicable"
    },
    {
-    "title": "HUME HWY, LITTLE BILLABONG",
+    "title": "CLAINES CR, WENTWORTH FALLS",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HUME MTWY",
     "category": "Not Applicable"
    },
    {
@@ -778,7 +776,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PACIFIC MTWY (NORTHBOUND)",
+    "title": "PINE ST, ALBION PARK RAIL",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "PORTERS RD, KENTHURST",
     "category": "Not Applicable"
    },
    {
@@ -862,42 +864,38 @@
     "pubDate": "Mon, 26 Oct 2026 13:03:39 GMT"
    },
    {
-    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
-   },
-   {
     "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
-    "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
-    "pubDate": "Sun, 25 Oct 2026 06:34:00 GMT"
+    "title": "Woman spearheads bushfire safety push after friends 'didn't know what to do' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
    },
    {
     "title": "Ex-councillor, farmer dies in floodwaters - News.com.au",
     "pubDate": "Mon, 26 Oct 2026 10:29:29 GMT"
    },
    {
+    "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
+    "pubDate": "Sun, 25 Oct 2026 06:34:00 GMT"
+   },
+   {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
     "pubDate": "Mon, 26 Oct 2026 07:20:00 GMT"
    },
    {
-    "title": "Emergency warning lifted, numerous roads remain shut - The Courier Mail",
-    "pubDate": "Mon, 26 Oct 2026 06:55:35 GMT"
+    "title": "Flood warnings issued in Queensland \u2014 ABC News Australia - UA.NEWS",
+    "pubDate": "Sun, 25 Oct 2026 00:01:47 GMT"
    },
    {
-    "title": "Man dies as flood emergency grips Queensland - The Nightly",
-    "pubDate": "Mon, 26 Oct 2026 06:14:07 GMT"
+    "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
+    "pubDate": "Sun, 25 Oct 2026 03:03:40 GMT"
    }
   ],
   "au_security_news": [
    {
     "title": "$245 million to strengthen local manufacturing for Australia\u2019s defence capability - Marine Business News",
     "pubDate": "Mon, 26 Oct 2026 20:01:49 GMT"
-   },
-   {
-    "title": "To secure supply, Australia needs to engage with Africa\u2019s mineral sovereignty - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Mon, 26 Oct 2026 19:06:06 GMT"
    },
    {
     "title": "Former Rio Tinto executive tapped for major Defence role - AFR",
@@ -908,8 +906,16 @@
     "pubDate": "Mon, 26 Oct 2026 21:50:15 GMT"
    },
    {
+    "title": "To secure supply, Australia needs to engage with Africa\u2019s mineral sovereignty - The Strategist | ASPI's analysis and commentary site",
+    "pubDate": "Mon, 26 Oct 2026 19:03:58 GMT"
+   },
+   {
+    "title": "First AUKUS nuclear sub to come to Australia revealed - InDaily South Australia",
+    "pubDate": "Mon, 26 Oct 2026 22:48:37 GMT"
+   },
+   {
     "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
-    "pubDate": "Mon, 26 Oct 2026 22:35:38 GMT"
+    "pubDate": "Mon, 26 Oct 2026 21:05:38 GMT"
    },
    {
     "title": "Mystery struggle: Top SA security group plunged into administration - Adelaide Now",
@@ -918,10 +924,6 @@
    {
     "title": "Former Rio chief takes on Canberra\u2019s billion-dollar defence blob - The Australian",
     "pubDate": "Mon, 26 Oct 2026 11:43:01 GMT"
-   },
-   {
-    "title": "Cyber security threats rise as AI menace gathers pace - Yahoo News Australia",
-    "pubDate": "Mon, 26 Oct 2026 18:00:00 GMT"
    }
   ],
   "au_health_news": [

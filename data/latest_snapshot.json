@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-26T14:45:01.695531+00:00",
+ "collected_utc": "2026-10-26T15:45:01.552170+00:00",
  "earthquakes": [
   {
    "mag": 5.2,
@@ -144,11 +144,27 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1",
    "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "203 km ENE of Nagqu, China",
+   "time": 1792946808312,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ux",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "222 km NW of Port-Olry, Vanuatu",
+   "time": 1792945545745,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4uv",
+   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-26T09:00:00",
+   "time_tag": "2026-10-26T12:00:00",
    "Kp": 2.0,
    "a_running": 7,
    "station_count": 8
@@ -183,81 +199,8 @@
   ]
  },
  "neo": {
-  "count": 9,
-  "events": [
-   {
-    "name": "516803 (2010 JG88)",
-    "diameter_min_m": 332,
-    "diameter_max_m": 741,
-    "hazardous": false,
-    "miss_km": 12978705.59649507,
-    "velocity_kph": 73445.7356710211
-   },
-   {
-    "name": "(2002 TA69)",
-    "diameter_min_m": 521,
-    "diameter_max_m": 1164,
-    "hazardous": false,
-    "miss_km": 13378772.786670148,
-    "velocity_kph": 83219.2142169586
-   },
-   {
-    "name": "(2018 GZ)",
-    "diameter_min_m": 7,
-    "diameter_max_m": 16,
-    "hazardous": false,
-    "miss_km": 21164664.944929037,
-    "velocity_kph": 12565.2958386346
-   },
-   {
-    "name": "(2017 RJ15)",
-    "diameter_min_m": 113,
-    "diameter_max_m": 254,
-    "hazardous": false,
-    "miss_km": 37859887.198225774,
-    "velocity_kph": 31051.5160972227
-   },
-   {
-    "name": "(2018 UA1)",
-    "diameter_min_m": 277,
-    "diameter_max_m": 619,
-    "hazardous": true,
-    "miss_km": 45093384.61389527,
-    "velocity_kph": 73474.2645370801
-   },
-   {
-    "name": "(2019 UM6)",
-    "diameter_min_m": 78,
-    "diameter_max_m": 175,
-    "hazardous": false,
-    "miss_km": 46355017.54743028,
-    "velocity_kph": 32270.11064715
-   },
-   {
-    "name": "(2009 WM105)",
-    "diameter_min_m": 67,
-    "diameter_max_m": 149,
-    "hazardous": false,
-    "miss_km": 53924009.99794421,
-    "velocity_kph": 56159.7763205016
-   },
-   {
-    "name": "(2016 XD2)",
-    "diameter_min_m": 41,
-    "diameter_max_m": 92,
-    "hazardous": false,
-    "miss_km": 64867720.105932295,
-    "velocity_kph": 71372.1280550965
-   },
-   {
-    "name": "488509 (2000 UW13)",
-    "diameter_min_m": 201,
-    "diameter_max_m": 449,
-    "hazardous": false,
-    "miss_km": 66425278.809385695,
-    "velocity_kph": 67073.2296998069
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -471,8 +414,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/144244.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 14:42:44 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152846.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 15:28:46 GMT"
     }
    ]
   },
@@ -503,192 +446,14 @@
     },
     {
      "title": "Tropical Depression Olana Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/143712.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 14:37:12 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/152249.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 15:22:49 GMT"
     }
    ]
   }
  ],
  "eonet": {
-  "open_total": 31,
-  "tracked": [
-   {
-    "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-22T21:45:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590"
-   },
-   {
-    "title": "Hurricane Vance",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-26T06:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
-   },
-   {
-    "title": "Tropical Cyclone Agueda",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-23T18:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457"
-   },
-   {
-    "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-18T08:25:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455"
-   },
-   {
-    "title": "Wildfire Bras, Sanders, Montana",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-17T23:28:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25591"
-   },
-   {
-    "title": "Wildfire COOLEY, Mendocino, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T20:14:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450"
-   },
-   {
-    "title": "Wildfire NORTE, Orange, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T14:52:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25452"
-   },
-   {
-    "title": "Prescribed Fire Rx Polk 9275, Polk, Texas",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T08:31:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25454"
-   },
-   {
-    "title": "Wildfire HENDERSON, San Diego, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-15T17:11:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25451"
-   },
-   {
-    "title": "Super Typhoon Champi",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-25T18:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
-   },
-   {
-    "title": "Prescribed Fire Newman 2 Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-15T11:29:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25456"
-   },
-   {
-    "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-14T10:42:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310"
-   },
-   {
-    "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-13T10:24:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311"
-   },
-   {
-    "title": "Prescribed Fire SRF 2026 Rx Implementation, Humboldt, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-12T16:27:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25312"
-   },
-   {
-    "title": "Wildfire Buckhorn 2, Cassia, Idaho",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-10T14:58:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238"
-   },
-   {
-    "title": "Wildfire PK, Sheridan, Wyoming",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T19:26:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233"
-   },
-   {
-    "title": "Wildfire CYRUS, Kern, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T17:15:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232"
-   },
-   {
-    "title": "Prescribed Fire Bridger Trail Unit - KPERP Rx NKRD CY26, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T11:49:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25234"
-   },
-   {
-    "title": "Wildfire Craig Lake 1, Baraga, Michigan",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-08T18:05:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25309"
-   },
-   {
-    "title": "Prescribed Fire COOPER UNIT - KPERP RX NKRD  CY26, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-08T12:16:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25235"
-   },
-   {
-    "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-07T10:45:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119"
-   },
-   {
-    "title": "Prescribed Fire Bartlett Creek RX, Custer, Idaho",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-06T11:34:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25240"
-   }
-  ]
+  "error": "TimeoutError: The read operation timed out"
  },
  "nuclear_news": [
   {
@@ -731,7 +496,7 @@
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Mon, 26 Oct 2026 14:25:25 GMT"
+   "pubDate": "Mon, 26 Oct 2026 15:07:48 GMT"
   },
   {
    "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
@@ -760,6 +525,14 @@
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Will Donald Trump or AI blow up financial markets first?",
+    "pubDate": "Mon, 26 Oct 2026 15:00:00 +0000"
+   },
+   {
+    "title": "Economic pain collides with regulatory changes for small businesses",
+    "pubDate": "Mon, 26 Oct 2026 15:00:00 +0000"
+   },
    {
     "title": "US marine charged over Japanese woman's murder",
     "pubDate": "Mon, 26 Oct 2026 13:52:39 +0000"
@@ -791,14 +564,6 @@
    {
     "title": "NSW premier says barracks sale a 'big missed opportunity'",
     "pubDate": "Mon, 26 Oct 2026 07:11:24 +0000"
-   },
-   {
-    "title": "Fatigue concerns after Virgin jet cut in front of Qantas plane",
-    "pubDate": "Mon, 26 Oct 2026 07:11:22 +0000"
-   },
-   {
-    "title": "'Tyranny of distance' weighs against big cycling call",
-    "pubDate": "Mon, 26 Oct 2026 07:10:10 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -809,10 +574,6 @@
    {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
-   },
-   {
-    "title": "ANAMBAH RD, ANAMBAH",
-    "category": "Not Applicable"
    },
    {
     "title": "IRRIGATION WAY, MURRAMI",
@@ -909,42 +670,46 @@
     "pubDate": "Mon, 26 Oct 2026 10:29:29 GMT"
    },
    {
-    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
-    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
-   },
-   {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
     "pubDate": "Sun, 25 Oct 2026 06:34:00 GMT"
+   },
+   {
+    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
+    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
    },
    {
     "title": "Emergency warning lifted, numerous roads remain shut - The Courier Mail",
     "pubDate": "Mon, 26 Oct 2026 06:55:35 GMT"
    },
    {
-    "title": "Man dies as flood emergency grips Queensland - The Nightly",
-    "pubDate": "Mon, 26 Oct 2026 06:21:52 GMT"
-   },
-   {
     "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
+   },
+   {
+    "title": "Man dies as flood emergency grips Queensland - The Nightly",
+    "pubDate": "Mon, 26 Oct 2026 06:21:52 GMT"
    }
   ],
   "au_security_news": [
-   {
-    "title": "Former Rio Tinto executive tapped for major Defence role - AFR",
-    "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
-   },
    {
     "title": "The cracks in Australia\u2019s defence policy: The Navy is being set up for failure - Crikey",
     "pubDate": "Mon, 26 Oct 2026 00:21:58 GMT"
    },
    {
-    "title": "Australia, Finland reaffirm defence cooperation with signed statement - www.defenceconnect.com.au",
-    "pubDate": "Mon, 26 Oct 2026 03:19:02 GMT"
+    "title": "Former Rio Tinto executive tapped for major Defence role - AFR",
+    "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
    },
    {
     "title": "Albanese government enlists Rio Tinto exec for new defence gig - The Australian",
-    "pubDate": "Mon, 26 Oct 2026 12:02:11 GMT"
+    "pubDate": "Mon, 26 Oct 2026 13:32:11 GMT"
+   },
+   {
+    "title": "Beyond the Pukpuk Treaty, Australia\u2019s Strategic Footprint in PNG Grows - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+    "pubDate": "Mon, 26 Oct 2026 14:58:32 GMT"
+   },
+   {
+    "title": "Australia, Finland reaffirm defence cooperation with signed statement - www.defenceconnect.com.au",
+    "pubDate": "Mon, 26 Oct 2026 03:19:02 GMT"
    },
    {
     "title": "Mystery struggle: Top SA security group plunged into administration - Adelaide Now",
@@ -955,12 +720,8 @@
     "pubDate": "Sun, 25 Oct 2026 23:57:06 GMT"
    },
    {
-    "title": "Politicians vow to honour Haines as parliament returns - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sun, 25 Oct 2026 21:26:28 GMT"
-   },
-   {
-    "title": "Moseley\u2019s ambassador post to advance Australia\u2019s security interests - The Mandarin",
-    "pubDate": "Mon, 26 Oct 2026 01:44:14 GMT"
+    "title": "NSW premier says barracks sale a 'big missed opportunity' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Mon, 26 Oct 2026 07:11:24 GMT"
    }
   ],
   "au_health_news": [

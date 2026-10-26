@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-26T17:45:01.148449+00:00",
+ "collected_utc": "2026-10-26T18:45:01.627467+00:00",
  "earthquakes": [
+  {
+   "mag": 4.5,
+   "place": "74 km SE of Rasht, Tajikistan",
+   "time": 1793038024209,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5",
+   "type": "earthquake"
+  },
   {
    "mag": 5.2,
    "place": "205 km NW of Port-Olry, Vanuatu",
@@ -15,14 +23,6 @@
    "time": 1793014686778,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "87 km SSE of Akutan, Alaska",
-   "time": 1793014684221,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfhvld",
    "type": "earthquake"
   },
   {
@@ -128,29 +128,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vy",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "153 km WNW of Adak, Alaska",
-   "time": 1792950598419,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.2,
-   "place": "59 km SW of Ashk\u0101sham, Afghanistan",
-   "time": 1792950263735,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-26T12:00:00",
-   "Kp": 2.0,
-   "a_running": 7,
+   "time_tag": "2026-10-26T15:00:00",
+   "Kp": 1.33,
+   "a_running": 5,
    "station_count": 8
   },
   "kp_max_24h": 2.0,
@@ -280,7 +264,7 @@
     "observatory": "hvo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-25 18:37:11"
+    "sent_utc": "2026-10-26 18:10:12"
    },
    {
     "volcano": "Ahyi Seamount",
@@ -682,35 +666,67 @@
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Mon, 26 Oct 2026 17:09:54 GMT"
+   "pubDate": "Mon, 26 Oct 2026 18:07:48 GMT"
   },
   {
    "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
    "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
-   "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
-  },
-  {
    "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
    "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   },
   {
-   "title": "Can emergency cash buy food security? - UNU | United Nations University",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+   "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
+   "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
-   "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
   },
   {
    "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
    "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Can emergency cash buy food security? - UNU | United Nations University",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Childcare is undergoing a 'reckoning' but safety gaps remain",
+    "pubDate": "Mon, 26 Oct 2026 18:30:11 +0000"
+   },
+   {
+    "title": "How much do you know about nature's small wonders? Try our insect quiz",
+    "pubDate": "Mon, 26 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "Why a big discount during Black Friday sales isn't necessarily a great deal",
+    "pubDate": "Mon, 26 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "How a shocking death led to the downfall of To Catch a Predator",
+    "pubDate": "Mon, 26 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "Melbourne Cup Day the last chance to enrol to vote in Victoria's election",
+    "pubDate": "Mon, 26 Oct 2026 18:10:02 +0000"
+   },
+   {
+    "title": "Almost half of all comments on MPs' social media flagged as abusive",
+    "pubDate": "Mon, 26 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Top cyber spy braces for more AI-powered hacking attacks",
+    "pubDate": "Mon, 26 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Why the manosphere sees 'desperate young men as moneybags'",
+    "pubDate": "Mon, 26 Oct 2026 18:00:00 +0000"
+   },
    {
     "title": "Anthropic files to list on stock market in potential $US1.5tn float",
     "pubDate": "Mon, 26 Oct 2026 15:49:00 +0000"
@@ -718,41 +734,13 @@
    {
     "title": "Will Donald Trump or AI blow up financial markets first?",
     "pubDate": "Mon, 26 Oct 2026 15:00:00 +0000"
-   },
-   {
-    "title": "Economic pain collides with regulatory changes for small businesses",
-    "pubDate": "Mon, 26 Oct 2026 15:00:00 +0000"
-   },
-   {
-    "title": "US marine charged over Japanese woman's murder",
-    "pubDate": "Mon, 26 Oct 2026 13:52:39 +0000"
-   },
-   {
-    "title": "Jordan arrests three relatives over deadly church attack",
-    "pubDate": "Mon, 26 Oct 2026 13:46:23 +0000"
-   },
-   {
-    "title": "Chris Brown avoids jail time over London nightclub brawl",
-    "pubDate": "Mon, 26 Oct 2026 13:40:19 +0000"
-   },
-   {
-    "title": "Liberal candidate's husband allegedly assaulted over campaign sign",
-    "pubDate": "Mon, 26 Oct 2026 09:45:49 +0000"
-   },
-   {
-    "title": "Rescuers praised after hauling young dugong to safety",
-    "pubDate": "Mon, 26 Oct 2026 09:04:18 +0000"
-   },
-   {
-    "title": "Dr Redmayne aims to lift Brisbane Heat's WBBL fortunes",
-    "pubDate": "Mon, 26 Oct 2026 08:40:42 +0000"
-   },
-   {
-    "title": "Parliament grieves as cardboard cockatoo serves as Helen Haines tribute",
-    "pubDate": "Mon, 26 Oct 2026 07:47:12 +0000"
    }
   ],
   "nsw_rfs_incidents": [
+   {
+    "title": "Gascoigne Rd, Birrong",
+    "category": "Advice"
+   },
    {
     "title": "MOUNT TALLABUNG RD",
     "category": "Advice"
@@ -771,10 +759,6 @@
    },
    {
     "title": "MOUNT NOMBI RD, NOMBI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "TANILBA AV, TANILBA BAY",
     "category": "Not Applicable"
    },
    {
@@ -848,12 +832,12 @@
     "pubDate": "Mon, 26 Oct 2026 13:03:39 GMT"
    },
    {
-    "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
-    "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
-   },
-   {
     "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
+   },
+   {
+    "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
+    "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
     "title": "Ex-councillor, farmer dies in floodwaters - News.com.au",
@@ -872,42 +856,42 @@
     "pubDate": "Mon, 26 Oct 2026 06:55:35 GMT"
    },
    {
-    "title": "Woman spearheads bushfire safety push after friends 'didn't know what to do' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 26 Oct 2026 00:05:32 GMT"
+    "title": "Man dies as flood emergency grips Queensland - The Nightly",
+    "pubDate": "Mon, 26 Oct 2026 06:14:07 GMT"
    }
   ],
   "au_security_news": [
    {
+    "title": "Mystery struggle: Top SA security group plunged into administration - Adelaide Now",
+    "pubDate": "Mon, 26 Oct 2026 04:06:32 GMT"
+   },
+   {
     "title": "Former Rio Tinto executive tapped for major Defence role - AFR",
     "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
+   },
+   {
+    "title": "Sappers complete major works in PNG - news.defence.gov.au",
+    "pubDate": "Mon, 26 Oct 2026 00:30:53 GMT"
    },
    {
     "title": "The cracks in Australia\u2019s defence policy: The Navy is being set up for failure - Crikey",
     "pubDate": "Mon, 26 Oct 2026 00:21:58 GMT"
    },
    {
-    "title": "Mystery struggle: Top SA security group plunged into administration - Adelaide Now",
-    "pubDate": "Mon, 26 Oct 2026 04:06:32 GMT"
-   },
-   {
     "title": "Australia, Finland reaffirm defence cooperation with signed statement - www.defenceconnect.com.au",
     "pubDate": "Mon, 26 Oct 2026 03:19:02 GMT"
-   },
-   {
-    "title": "Beyond the Pukpuk Treaty, Australia\u2019s Strategic Footprint in PNG Grows - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-    "pubDate": "Mon, 26 Oct 2026 14:58:32 GMT"
    },
    {
     "title": "Albanese government enlists Rio Tinto exec for new defence gig - The Australian",
     "pubDate": "Mon, 26 Oct 2026 12:32:12 GMT"
    },
    {
-    "title": "Thales boosts Australia\u2019s defence capabilities with new sonar facility in Western Sydney - Asia Pacific Defence Reporter",
-    "pubDate": "Sun, 25 Oct 2026 23:57:06 GMT"
+    "title": "Beyond the Pukpuk Treaty, Australia\u2019s Strategic Footprint in PNG Grows - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+    "pubDate": "Mon, 26 Oct 2026 14:58:32 GMT"
    },
    {
-    "title": "NSW premier says barracks sale a 'big missed opportunity' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 26 Oct 2026 07:11:24 GMT"
+    "title": "Cyber security threats rise as AI menace gathers pace - Yahoo News Australia",
+    "pubDate": "Mon, 26 Oct 2026 18:00:00 GMT"
    }
   ],
   "au_health_news": [

@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-26T03:00:01.170539+00:00",
+ "collected_utc": "2026-10-26T03:45:01.675988+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -136,21 +136,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.2,
-   "place": "63 km NNE of Lae, Papua New Guinea",
-   "time": 1792898950551,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-25T21:00:00",
-   "Kp": 1.0,
-   "a_running": 4,
+   "time_tag": "2026-10-26T00:00:00",
+   "Kp": 0.33,
+   "a_running": 2,
    "station_count": 8
   },
   "kp_max_24h": 2.0,
@@ -398,8 +390,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/024104.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 02:41:04 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/032826.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 03:28:26 GMT"
     }
    ]
   },
@@ -430,8 +422,8 @@
     },
     {
      "title": "Tropical Storm Olana Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/023406.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 02:34:06 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/032238.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 03:22:38 GMT"
     }
    ]
   }
@@ -696,6 +688,26 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Three-game Bledisloe Cup series looms as new deal struck",
+    "pubDate": "Mon, 26 Oct 2026 03:39:15 +0000"
+   },
+   {
+    "title": "Second death increases call for action on health system in 'crisis'",
+    "pubDate": "Mon, 26 Oct 2026 03:37:12 +0000"
+   },
+   {
+    "title": "RLWC quick hits: Big crowds and bigger scorelines in week two",
+    "pubDate": "Mon, 26 Oct 2026 03:28:38 +0000"
+   },
+   {
+    "title": "Law must change on aged care algorithm to allow human override, ombudsman says",
+    "pubDate": "Mon, 26 Oct 2026 03:08:00 +0000"
+   },
+   {
+    "title": "'Our motherland needs us': The Israeli expats flying home to vote",
+    "pubDate": "Mon, 26 Oct 2026 03:04:29 +0000"
+   },
+   {
     "title": "Australia's second largest veggie company admits 'cartel conduct'",
     "pubDate": "Mon, 26 Oct 2026 02:52:05 +0000"
    },
@@ -704,7 +716,7 @@
     "pubDate": "Mon, 26 Oct 2026 02:45:24 +0000"
    },
    {
-    "title": "Lamarre-Condon told friend he misinterpreted alleged confession, court hears",
+    "title": "Jury hears jail phone calls between Lamarre-Condon and friend",
     "pubDate": "Mon, 26 Oct 2026 02:40:29 +0000"
    },
    {
@@ -714,26 +726,6 @@
    {
     "title": "Woman granted bail after allegedly trying to snatch teen's hijab",
     "pubDate": "Mon, 26 Oct 2026 02:09:43 +0000"
-   },
-   {
-    "title": "Worker dies in hospital after being dragged under ute at service station",
-    "pubDate": "Mon, 26 Oct 2026 01:50:29 +0000"
-   },
-   {
-    "title": "Zempilas echoes 'The Road Not Taken' as WA Liberals face difficult choice",
-    "pubDate": "Mon, 26 Oct 2026 01:39:39 +0000"
-   },
-   {
-    "title": "Melbourne Market board quits over appointment of former Demons chief Paul Guerra",
-    "pubDate": "Mon, 26 Oct 2026 00:47:47 +0000"
-   },
-   {
-    "title": "Brazil's Luiz In\u00e1cio Lula da Silva re-elected president",
-    "pubDate": "Mon, 26 Oct 2026 00:36:24 +0000"
-   },
-   {
-    "title": "Victorian Liberals to ban 'globalise the intifada' chant if elected",
-    "pubDate": "Mon, 26 Oct 2026 00:30:50 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -748,10 +740,6 @@
    {
     "title": "FB915 Mt Taylor",
     "category": "Planned Burn"
-   },
-   {
-    "title": "APPLEBY LANE, APPLEBY",
-    "category": "Not Applicable"
    },
    {
     "title": "IRRIGATION WAY, MURRAMI",
@@ -866,12 +854,12 @@
     "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
    },
    {
-    "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
-    "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
+    "title": "Severe weather update: Severe storm outbreak for eastern Australia - The Bureau of Meteorology",
+    "pubDate": "Sat, 24 Oct 2026 23:41:06 GMT"
    },
    {
-    "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
-    "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
+    "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
+    "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
    }
   ],
   "au_security_news": [
@@ -892,20 +880,20 @@
     "pubDate": "Sun, 25 Oct 2026 18:30:35 GMT"
    },
    {
+    "title": "Defence, Industry Deepen Ties at Expo - Mirage News",
+    "pubDate": "Mon, 26 Oct 2026 01:58:00 GMT"
+   },
+   {
+    "title": "Arlo brings its first solar-powered security camera to Australia - GadgetGuy",
+    "pubDate": "Mon, 26 Oct 2026 03:16:16 GMT"
+   },
+   {
     "title": "PHP update: Why are so many websites down and when will they return? - SBS",
     "pubDate": "Sun, 25 Oct 2026 21:17:11 GMT"
    },
    {
-    "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up? - The Guardian",
-    "pubDate": "Sat, 24 Oct 2026 22:33:00 GMT"
-   },
-   {
     "title": "Pacific Adventist University Students Included in Australia\u2013PNG Defence Recruitment Pilot - Spectrum Magazine",
     "pubDate": "Sun, 25 Oct 2026 15:49:58 GMT"
-   },
-   {
-    "title": "Future Generation Australia Limited Stapled Security Estimates \u2013 ASX:FGX - TradingView",
-    "pubDate": "Sun, 25 Oct 2026 22:08:57 GMT"
    }
   ],
   "au_health_news": [

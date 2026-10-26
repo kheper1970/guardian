@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-26T01:30:01.448980+00:00",
+ "collected_utc": "2026-10-26T01:45:01.134973+00:00",
  "earthquakes": [
+  {
+   "mag": 4.9,
+   "place": "205 km NW of Port-Olry, Vanuatu",
+   "time": 1792977740998,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
+   "type": "earthquake"
+  },
   {
    "mag": 4.8,
    "place": "Bonin Islands, Japan region",
@@ -730,11 +738,15 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Zempilas eyes 'road less travelled' as WA Liberals face two diverging paths",
+    "pubDate": "Mon, 26 Oct 2026 01:39:39 +0000"
+   },
+   {
     "title": "Melbourne Market board quits over appointment of former Demons chief Paul Guerra",
     "pubDate": "Mon, 26 Oct 2026 00:47:47 +0000"
    },
    {
-    "title": "Breaking: Brazil's Luiz In\u00e1cio Lula da Silva re-elected president",
+    "title": "Brazil's Luiz In\u00e1cio Lula da Silva re-elected president",
     "pubDate": "Mon, 26 Oct 2026 00:36:24 +0000"
    },
    {
@@ -764,10 +776,6 @@
    {
     "title": "Police say they don't expect retaliation for Logan drive-by shooting",
     "pubDate": "Sun, 25 Oct 2026 22:49:51 +0000"
-   },
-   {
-    "title": "Labor promises $6.8b South Coast rail fix days after timetable backflip",
-    "pubDate": "Sun, 25 Oct 2026 22:41:19 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -797,10 +805,6 @@
    },
    {
     "title": "KIDMAN WAY, THARBOGANG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MOUNTAIN SPRING DR, KENDALL",
     "category": "Not Applicable"
    },
    {
@@ -876,8 +880,8 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
+    "title": "Women take bushfire preparation into their own hands - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
    },
    {
     "title": "Australian National Weather Forecast - Nine.com.au",
@@ -900,12 +904,12 @@
     "pubDate": "Sun, 25 Oct 2026 07:03:40 GMT"
    },
    {
-    "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
-    "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
+    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
    },
    {
-    "title": "Large Storm System Triggers Eastern Australia Warnings - Oz Arab Media",
-    "pubDate": "Sun, 25 Oct 2026 12:30:27 GMT"
+    "title": "Severe thunderstorms and flooding hit Australia as major storm system spreads - Beinsure",
+    "pubDate": "Sun, 25 Oct 2026 11:26:27 GMT"
    }
   ],
   "au_security_news": [
@@ -938,8 +942,8 @@
     "pubDate": "Sun, 25 Oct 2026 22:08:57 GMT"
    },
    {
-    "title": "Doorstop, Australia-Papua New Guinea Ministerial Forum - Australian Minister for Foreign Affairs",
-    "pubDate": "Sat, 24 Oct 2026 10:04:54 GMT"
+    "title": "Australia to learn from Greece\u2019s UN Role - The Greek Herald",
+    "pubDate": "Sun, 25 Oct 2026 23:41:25 GMT"
    }
   ],
   "au_health_news": [

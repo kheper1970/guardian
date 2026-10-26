@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-26T08:45:02.056855+00:00",
+ "collected_utc": "2026-10-26T09:45:01.429941+00:00",
  "earthquakes": [
+  {
+   "mag": 4.5,
+   "place": "107 km WNW of Tumxuk, China",
+   "time": 1793000896240,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yi",
+   "type": "earthquake"
+  },
   {
    "mag": 5,
    "place": "45 km NNW of Ende, Indonesia",
@@ -90,6 +98,14 @@
    "type": "earthquake"
   },
   {
+   "mag": 4.6,
+   "place": "155 km WSW of Ternate, Indonesia",
+   "time": 1792930145522,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4u2",
+   "type": "earthquake"
+  },
+  {
    "mag": 5.9,
    "place": "218 km ENE of Nagqu, China",
    "time": 1792927557101,
@@ -112,19 +128,11 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "Volcano Islands, Japan region",
-   "time": 1792919477412,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-26T03:00:00",
+   "time_tag": "2026-10-26T06:00:00",
    "Kp": 1.0,
    "a_running": 4,
    "station_count": 8
@@ -374,8 +382,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/084104.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 08:41:04 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/092820.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 09:28:20 GMT"
     }
    ]
   },
@@ -406,8 +414,8 @@
     },
     {
      "title": "Tropical Storm Olana Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/083305.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 08:33:05 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/092239.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 09:22:39 GMT"
     }
    ]
   }
@@ -623,8 +631,8 @@
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
-   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
+   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
+   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -664,6 +672,10 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Rescuers praised after hauling young dugong to safety",
+    "pubDate": "Mon, 26 Oct 2026 09:04:18 +0000"
+   },
+   {
     "title": "Dr Redmayne aims to lift Brisbane Heat's WBBL fortunes",
     "pubDate": "Mon, 26 Oct 2026 08:40:42 +0000"
    },
@@ -698,10 +710,6 @@
    {
     "title": "Netanyahu posts mushroom cloud, talks cryptocurrency as election looms",
     "pubDate": "Mon, 26 Oct 2026 06:33:53 +0000"
-   },
-   {
-    "title": "Jury told alleged murder victim may have died from 'broken heart'",
-    "pubDate": "Mon, 26 Oct 2026 06:18:55 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -718,15 +726,19 @@
     "category": "Advice"
    },
    {
-    "title": "BORJESON CCT, CALDERWOOD",
+    "title": "BALFOUR ST, CULCAIRN",
     "category": "Not Applicable"
    },
    {
-    "title": "FINDLEY RD, BRINGELLY",
+    "title": "BORDER CR, POTTSVILLE",
     "category": "Not Applicable"
    },
    {
     "title": "IRRIGATION WAY, MURRAMI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "JAMES RD, CROOM",
     "category": "Not Applicable"
    },
    {
@@ -735,10 +747,6 @@
    },
    {
     "title": "MOUNT NOMBI RD, NOMBI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "PANDANUS PDE",
     "category": "Not Applicable"
    },
    {
@@ -755,6 +763,10 @@
    },
    {
     "title": "WHYLANDRA CROSSING RD, RAWSONVILLE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WILGA RD, WHITTON",
     "category": "Not Applicable"
    },
    {
@@ -820,16 +832,16 @@
   ],
   "au_emergency_news": [
    {
+    "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
+    "pubDate": "Mon, 26 Oct 2026 08:24:41 GMT"
+   },
+   {
     "title": "Man found dead in floodwaters in southern Queensland as state is battered by heavy rain - Nine.com.au",
     "pubDate": "Mon, 26 Oct 2026 07:24:49 GMT"
    },
    {
-    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
-   },
-   {
-    "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
-    "pubDate": "Mon, 26 Oct 2026 08:24:41 GMT"
+    "title": "Man found dead in Queensland floodwaters - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Mon, 26 Oct 2026 06:11:34 GMT"
    },
    {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
@@ -844,12 +856,12 @@
     "pubDate": "Sun, 25 Oct 2026 09:16:39 GMT"
    },
    {
-    "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
-    "pubDate": "Sun, 25 Oct 2026 03:03:40 GMT"
+    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
    },
    {
-    "title": "Campers rescued as storms threaten south-east Queensland - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sun, 25 Oct 2026 18:46:45 GMT"
+    "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
+    "pubDate": "Sun, 25 Oct 2026 03:03:40 GMT"
    }
   ],
   "au_security_news": [
@@ -878,8 +890,8 @@
     "pubDate": "Mon, 26 Oct 2026 00:30:53 GMT"
    },
    {
-    "title": "Powerful new Reolink flagship security camera launches locally - GadgetGuy",
-    "pubDate": "Mon, 26 Oct 2026 03:41:35 GMT"
+    "title": "Arlo brings its first solar-powered security camera to Australia - GadgetGuy",
+    "pubDate": "Mon, 26 Oct 2026 03:16:16 GMT"
    },
    {
     "title": "Thales boosts Australia\u2019s sovereign defence capabilities with the opening by the Minister for Defence Industry of a new sonar facility in Western Sydney - Thales",

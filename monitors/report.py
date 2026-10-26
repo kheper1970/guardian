@@ -254,11 +254,25 @@ def assess(snapshot):
             for n in (emg or [])[:5]:
                 lines.append(f"  - {n.get('title')} ({n.get('pubDate','')[:16]})")
                 low = (n.get('title') or '').lower()
-                trigger = (("evacuat" in low or "state of emergency" in low
-                            or "emergency warning" in low or "cyclone" in low
-                            or "bushfire" in low)
-                           and not any(w in low for w in ("predict", "forecast",
-                                                          "season", "prepare")))
+                # Strong signals alone are enough; weak topic words need
+                # active-event language. Advocacy/preparedness stories never
+                # trigger (reduce false-positive public alerts).
+                strong = ("evacuat" in low or "state of emergency" in low
+                          or "emergency warning" in low or "landfall" in low
+                          or "out of control" in low)
+                strong = strong or "evacuat" in low
+                weak_topic = ("cyclone" in low or "bushfire" in low
+                              or "flood" in low or "storm" in low)
+                active_marker = any(w in low for w in (
+                    "hits", "strikes", "threaten", "bears down", "category",
+                    "destructive", "landfall", "out of control", "evacuat",
+                    "warning issued", "alert issued"))
+                advocacy = any(w in low for w in (
+                    "predict", "forecast", "season", "prepare", "safety push",
+                    "campaign", "urges", "push for", "didn't know", "anniversary",
+                    "inquiry", "study", "research", "survey", "program", "drill",
+                    "exercise", "lesson", "memorial", "how to", "tips", "explainer"))
+                trigger = (strong or (weak_topic and active_marker)) and not advocacy
                 if trigger:
                     alerts.append(f"AU EMERGENCY KEYWORD HIT: {n.get('title')[:150]}")
         sec = au.get("au_security_news", [])

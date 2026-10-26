@@ -1,6 +1,30 @@
 {
- "collected_utc": "2026-10-26T21:45:01.374347+00:00",
+ "collected_utc": "2026-10-26T22:45:02.049709+00:00",
  "earthquakes": [
+  {
+   "mag": 4.7,
+   "place": "98 km S of Encounter Bay, Australia",
+   "time": 1793049491526,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttci",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "20 km NNW of La Ligua, Chile",
+   "time": 1793047931505,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc8",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "89 km SSE of Pondaguitan, Philippines",
+   "time": 1793047285106,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc6",
+   "type": "earthquake"
+  },
   {
    "mag": 4.9,
    "place": "100 km E of La Tirana, Chile",
@@ -111,30 +135,6 @@
    "time": 1792977740998,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "Bonin Islands, Japan region",
-   "time": 1792966587821,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wi",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.3,
-   "place": "Bonin Islands, Japan region",
-   "time": 1792966456010,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "170 km ENE of Nagqu, China",
-   "time": 1792965695793,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wc",
    "type": "earthquake"
   }
  ],
@@ -669,20 +669,20 @@
    "pubDate": "Mon, 26 Oct 2026 21:07:48 GMT"
   },
   {
-   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
-   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
-  },
-  {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
+   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   },
   {
    "title": "Somalia - UN World Food Programme",
    "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
@@ -695,6 +695,26 @@
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Outback mining jobs are on the rise, with no workers to fill them",
+    "pubDate": "Mon, 26 Oct 2026 22:30:29 +0000"
+   },
+   {
+    "title": "Choreographer behind Kylie's grand final show prepares to reveal final work",
+    "pubDate": "Mon, 26 Oct 2026 22:00:00 +0000"
+   },
+   {
+    "title": "Veteran rugby prop cited for allegedly grabbing opponent's genitals",
+    "pubDate": "Mon, 26 Oct 2026 21:59:53 +0000"
+   },
+   {
+    "title": "Country residents paying three times to keep local doctors",
+    "pubDate": "Mon, 26 Oct 2026 21:59:26 +0000"
+   },
+   {
+    "title": "Magnitude-4.9 earthquake strikes off South Australia coast",
+    "pubDate": "Mon, 26 Oct 2026 21:45:11 +0000"
+   },
    {
     "title": "Fines of up to $120k for dumping pet fish in Adelaide river",
     "pubDate": "Mon, 26 Oct 2026 21:32:17 +0000"
@@ -714,33 +734,9 @@
    {
     "title": "Experts warn gas scheme ripe for manipulation",
     "pubDate": "Mon, 26 Oct 2026 20:47:39 +0000"
-   },
-   {
-    "title": "De Minaur pulls off massive comeback to improve ATP Finals hopes",
-    "pubDate": "Mon, 26 Oct 2026 20:44:44 +0000"
-   },
-   {
-    "title": "MP claims Melbourne property allowance despite attendance concerns",
-    "pubDate": "Mon, 26 Oct 2026 20:33:24 +0000"
-   },
-   {
-    "title": "Roosters stunningly withdraw contract offer to halfback Sam Walker",
-    "pubDate": "Mon, 26 Oct 2026 20:30:25 +0000"
-   },
-   {
-    "title": "Decomposing whale carcass reemerges on Sydney's Malabar Beach",
-    "pubDate": "Mon, 26 Oct 2026 20:23:51 +0000"
-   },
-   {
-    "title": "Live: Nine politicians get electorate office security upgrades after Haines attack",
-    "pubDate": "Mon, 26 Oct 2026 20:06:06 +0000"
    }
   ],
   "nsw_rfs_incidents": [
-   {
-    "title": "MOUNT TALLABUNG RD",
-    "category": "Advice"
-   },
    {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
@@ -750,11 +746,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BRAIDWOOD RD, SASSAFRAS",
+    "title": "BOWRAL RD, MITTAGONG",
     "category": "Not Applicable"
    },
    {
     "title": "BULLARA ST, PAMBULA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HUME HWY, LITTLE BILLABONG",
     "category": "Not Applicable"
    },
    {
@@ -766,11 +766,19 @@
     "category": "Not Applicable"
    },
    {
+    "title": "MARYS MOUNT RD, GOULBURN",
+    "category": "Not Applicable"
+   },
+   {
     "title": "MOUNT NOMBI RD, NOMBI",
     "category": "Not Applicable"
    },
    {
     "title": "MOUNTAIN TOP RD, GEORGICA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "PACIFIC MTWY (NORTHBOUND)",
     "category": "Not Applicable"
    },
    {
@@ -780,9 +788,19 @@
    {
     "title": "Thornleigh Road",
     "category": "Not Applicable"
+   },
+   {
+    "title": "UPPER MANGROVE CREEK RD, UPPER MANGROVE",
+    "category": "Not Applicable"
    }
   ],
   "au_quakes": [
+   {
+    "mag": 4.7,
+    "place": "98 km S of Encounter Bay, Australia",
+    "time": 1793049491526,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttci"
+   },
    {
     "mag": 4.8,
     "place": "41 km WNW of Kupang, Indonesia",
@@ -861,15 +879,15 @@
    },
    {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
-    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
+    "pubDate": "Mon, 26 Oct 2026 07:20:00 GMT"
    },
    {
     "title": "Emergency warning lifted, numerous roads remain shut - The Courier Mail",
     "pubDate": "Mon, 26 Oct 2026 06:55:35 GMT"
    },
    {
-    "title": "Severe weather update: Severe storm outbreak for eastern Australia - The Bureau of Meteorology",
-    "pubDate": "Sat, 24 Oct 2026 23:41:06 GMT"
+    "title": "Man dies as flood emergency grips Queensland - The Nightly",
+    "pubDate": "Mon, 26 Oct 2026 06:14:07 GMT"
    }
   ],
   "au_security_news": [
@@ -886,24 +904,24 @@
     "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
    },
    {
-    "title": "KONGSBERG secures contract with Pilbara Ports in Australia - Asia Pacific Defence Reporter",
-    "pubDate": "Mon, 26 Oct 2026 21:14:44 GMT"
+    "title": "Navantia Australia to launch underwater technology hub in Melbourne - Asia Pacific Defence Reporter",
+    "pubDate": "Mon, 26 Oct 2026 21:50:15 GMT"
    },
    {
     "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
-    "pubDate": "Mon, 26 Oct 2026 21:05:38 GMT"
+    "pubDate": "Mon, 26 Oct 2026 22:35:38 GMT"
+   },
+   {
+    "title": "Mystery struggle: Top SA security group plunged into administration - Adelaide Now",
+    "pubDate": "Mon, 26 Oct 2026 04:06:32 GMT"
+   },
+   {
+    "title": "Former Rio chief takes on Canberra\u2019s billion-dollar defence blob - The Australian",
+    "pubDate": "Mon, 26 Oct 2026 11:43:01 GMT"
    },
    {
     "title": "Cyber security threats rise as AI menace gathers pace - Yahoo News Australia",
     "pubDate": "Mon, 26 Oct 2026 18:00:00 GMT"
-   },
-   {
-    "title": "Sappers complete major works in PNG - news.defence.gov.au",
-    "pubDate": "Mon, 26 Oct 2026 00:30:53 GMT"
-   },
-   {
-    "title": "Australia, Finland reaffirm defence cooperation with signed statement - Defence Connect",
-    "pubDate": "Mon, 26 Oct 2026 03:19:02 GMT"
    }
   ],
   "au_health_news": [

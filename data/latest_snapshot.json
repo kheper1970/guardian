@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-26T10:45:01.961953+00:00",
+ "collected_utc": "2026-10-26T11:45:01.800297+00:00",
  "earthquakes": [
+  {
+   "mag": 5,
+   "place": "218 km NW of Port-Olry, Vanuatu",
+   "time": 1793013475055,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6",
+   "type": "earthquake"
+  },
   {
    "mag": 5.5,
    "place": "283 km E of Levuka, Fiji",
@@ -119,22 +127,6 @@
    "time": 1792930145522,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4u2",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.9,
-   "place": "218 km ENE of Nagqu, China",
-   "time": 1792927557101,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.1,
-   "place": "199 km ENE of Nagqu, China",
-   "time": 1792927454089,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx",
    "type": "earthquake"
   }
  ],
@@ -444,7 +436,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-26T00:00:00Z",
+    "date": "2026-10-26T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -654,7 +646,7 @@
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Mon, 26 Oct 2026 10:37:48 GMT"
+   "pubDate": "Mon, 26 Oct 2026 11:08:32 GMT"
   },
   {
    "title": "UN says 19 mn Afghans facing acute food insecurity by April - Yahoo News Singapore",
@@ -734,10 +726,6 @@
     "category": "Advice"
    },
    {
-    "title": "BELLS LANE, BADAGARANG",
-    "category": "Not Applicable"
-   },
-   {
     "title": "IRRIGATION WAY, MURRAMI",
     "category": "Not Applicable"
    },
@@ -747,10 +735,6 @@
    },
    {
     "title": "MOUNT NOMBI RD, NOMBI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "SANCTUARY POINT RD, SANCTUARY POINT",
     "category": "Not Applicable"
    },
    {
@@ -836,8 +820,8 @@
     "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
    },
    {
-    "title": "Man dies as monster storm hits - News.com.au",
-    "pubDate": "Mon, 26 Oct 2026 08:03:25 GMT"
+    "title": "Ex-councillor, farmer dies in floodwaters - News.com.au",
+    "pubDate": "Mon, 26 Oct 2026 10:29:29 GMT"
    },
    {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
@@ -858,8 +842,16 @@
   ],
   "au_security_news": [
    {
+    "title": "Former Rio Tinto executive tapped for major Defence role - AFR",
+    "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
+   },
+   {
     "title": "The cracks in Australia\u2019s defence policy: The Navy is being set up for failure - Crikey",
     "pubDate": "Mon, 26 Oct 2026 00:21:58 GMT"
+   },
+   {
+    "title": "Albanese government enlists Rio Tinto exec for new defence gig - The Australian",
+    "pubDate": "Mon, 26 Oct 2026 11:30:10 GMT"
    },
    {
     "title": "Mystery struggle: Top SA security group plunged into administration - Adelaide Now",
@@ -878,16 +870,8 @@
     "pubDate": "Mon, 26 Oct 2026 01:44:14 GMT"
    },
    {
-    "title": "Arlo brings its first solar-powered security camera to Australia - GadgetGuy",
-    "pubDate": "Mon, 26 Oct 2026 03:16:16 GMT"
-   },
-   {
-    "title": "Thales boosts Australia\u2019s sovereign defence capabilities with the opening by the Minister for Defence Industry of a new sonar facility in Western Sydney - Thales",
-    "pubDate": "Mon, 26 Oct 2026 06:00:00 GMT"
-   },
-   {
-    "title": "Thales opens Sydney sonar facility for Hunter-class frigates, submarines and uncrewed systems - Defence Industry Europe",
-    "pubDate": "Mon, 26 Oct 2026 09:16:06 GMT"
+    "title": "Sappers complete major works in PNG - news.defence.gov.au",
+    "pubDate": "Mon, 26 Oct 2026 00:30:53 GMT"
    }
   ],
   "au_health_news": [

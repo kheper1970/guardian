@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-26T19:30:01.696643+00:00",
+ "collected_utc": "2026-10-26T19:45:02.044519+00:00",
  "earthquakes": [
   {
    "mag": 4.5,
@@ -167,81 +167,8 @@
   ]
  },
  "neo": {
-  "count": 9,
-  "events": [
-   {
-    "name": "516803 (2010 JG88)",
-    "diameter_min_m": 332,
-    "diameter_max_m": 741,
-    "hazardous": false,
-    "miss_km": 12978705.59649507,
-    "velocity_kph": 73445.7356710211
-   },
-   {
-    "name": "(2002 TA69)",
-    "diameter_min_m": 521,
-    "diameter_max_m": 1164,
-    "hazardous": false,
-    "miss_km": 13378772.786670148,
-    "velocity_kph": 83219.2142169586
-   },
-   {
-    "name": "(2018 GZ)",
-    "diameter_min_m": 7,
-    "diameter_max_m": 16,
-    "hazardous": false,
-    "miss_km": 21164664.944929037,
-    "velocity_kph": 12565.2958386346
-   },
-   {
-    "name": "(2017 RJ15)",
-    "diameter_min_m": 113,
-    "diameter_max_m": 254,
-    "hazardous": false,
-    "miss_km": 37859887.198225774,
-    "velocity_kph": 31051.5160972227
-   },
-   {
-    "name": "(2018 UA1)",
-    "diameter_min_m": 277,
-    "diameter_max_m": 619,
-    "hazardous": true,
-    "miss_km": 45093384.61389527,
-    "velocity_kph": 73474.2645370801
-   },
-   {
-    "name": "(2019 UM6)",
-    "diameter_min_m": 78,
-    "diameter_max_m": 175,
-    "hazardous": false,
-    "miss_km": 46355017.54743028,
-    "velocity_kph": 32270.11064715
-   },
-   {
-    "name": "(2009 WM105)",
-    "diameter_min_m": 67,
-    "diameter_max_m": 149,
-    "hazardous": false,
-    "miss_km": 53924009.99794421,
-    "velocity_kph": 56159.7763205016
-   },
-   {
-    "name": "(2016 XD2)",
-    "diameter_min_m": 41,
-    "diameter_max_m": 92,
-    "hazardous": false,
-    "miss_km": 64867720.105932295,
-    "velocity_kph": 71372.1280550965
-   },
-   {
-    "name": "488509 (2000 UW13)",
-    "diameter_min_m": 201,
-    "diameter_max_m": 449,
-    "hazardous": false,
-    "miss_km": 66425278.809385695,
-    "velocity_kph": 67073.2296998069
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -692,36 +619,36 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 10:15:15 GMT"
-  },
-  {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
    "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "Transport of Radioactive Material - World Nuclear Association",
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
-   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
+   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -730,12 +657,12 @@
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
+   "pubDate": "Mon, 26 Oct 2026 19:37:48 GMT"
   },
   {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Mon, 26 Oct 2026 18:07:48 GMT"
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
@@ -761,6 +688,10 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Medical centre targeted in Melbourne arson attack",
+    "pubDate": "Mon, 26 Oct 2026 19:30:22 +0000"
+   },
+   {
     "title": "Child protection 'informally' removed SA children against mothers' wishes",
     "pubDate": "Mon, 26 Oct 2026 19:17:43 +0000"
    },
@@ -769,7 +700,7 @@
     "pubDate": "Mon, 26 Oct 2026 19:03:16 +0000"
    },
    {
-    "title": "Plans unveiled to tighten sunscreen testing after SPF scandal",
+    "title": "Tough new testing rules for sunscreens in the wake of SPF scandal",
     "pubDate": "Mon, 26 Oct 2026 19:01:42 +0000"
    },
    {
@@ -795,10 +726,6 @@
    {
     "title": "Parents of transgender children urge MPs to support conversion ban",
     "pubDate": "Mon, 26 Oct 2026 18:47:10 +0000"
-   },
-   {
-    "title": "Childcare is undergoing a 'reckoning' but safety gaps remain",
-    "pubDate": "Mon, 26 Oct 2026 18:30:11 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -939,12 +866,16 @@
     "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
    },
    {
-    "title": "The cracks in Australia\u2019s defence policy: The Navy is being set up for failure - Crikey",
-    "pubDate": "Mon, 26 Oct 2026 00:21:58 GMT"
+    "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
+    "pubDate": "Mon, 26 Oct 2026 19:35:37 GMT"
    },
    {
     "title": "NSW premier says barracks sale a 'big missed opportunity' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Mon, 26 Oct 2026 07:11:24 GMT"
+   },
+   {
+    "title": "The cracks in Australia\u2019s defence policy: The Navy is being set up for failure - Crikey",
+    "pubDate": "Mon, 26 Oct 2026 00:21:58 GMT"
    },
    {
     "title": "Sappers complete major works in PNG - news.defence.gov.au",
@@ -957,10 +888,6 @@
    {
     "title": "Cyber security threats rise as AI menace gathers pace - Yahoo News Australia",
     "pubDate": "Mon, 26 Oct 2026 18:00:00 GMT"
-   },
-   {
-    "title": "Beyond the Pukpuk Treaty, Australia\u2019s Strategic Footprint in PNG Grows - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-    "pubDate": "Mon, 26 Oct 2026 14:58:32 GMT"
    }
   ],
   "au_health_news": [

@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-26T09:45:01.429941+00:00",
+ "collected_utc": "2026-10-26T10:45:01.961953+00:00",
  "earthquakes": [
+  {
+   "mag": 5.5,
+   "place": "283 km E of Levuka, Fiji",
+   "time": 1793009581234,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.5,
+   "place": "56 km S of Kuril\u2019sk, Russia",
+   "time": 1793002233644,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yj",
+   "type": "earthquake"
+  },
   {
    "mag": 4.5,
    "place": "107 km WNW of Tumxuk, China",
@@ -119,14 +135,6 @@
    "time": 1792927454089,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.4,
-   "place": "33 km ESE of Ambunti, Papua New Guinea",
-   "time": 1792924227588,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
    "type": "earthquake"
   }
  ],
@@ -631,34 +639,34 @@
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
-   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
+   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
+  {
+   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
+   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
+  },
   {
    "title": "Food Insecurity and Child Malnutrition Worsen in Afghanistan Despite Strong Agricultural Season - Inter Press Service",
    "pubDate": "Tue, 20 Oct 2026 17:23:26 GMT"
   },
   {
-   "title": "UN says 19 mn Afghans facing acute food insecurity by April - France 24",
-   "pubDate": "Tue, 20 Oct 2026 11:27:25 GMT"
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
+   "pubDate": "Mon, 26 Oct 2026 10:37:48 GMT"
+  },
+  {
+   "title": "UN says 19 mn Afghans facing acute food insecurity by April - Yahoo News Singapore",
+   "pubDate": "Tue, 20 Oct 2026 11:23:39 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
-   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
-  },
-  {
    "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
    "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
-  },
-  {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
@@ -671,6 +679,10 @@
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Liberal candidate's husband allegedly assaulted over campaign sign",
+    "pubDate": "Mon, 26 Oct 2026 09:45:49 +0000"
+   },
    {
     "title": "Rescuers praised after hauling young dugong to safety",
     "pubDate": "Mon, 26 Oct 2026 09:04:18 +0000"
@@ -706,10 +718,6 @@
    {
     "title": "'Get a reality check': Cartoon maker refuses to apologise to Jacqui Lambie",
     "pubDate": "Mon, 26 Oct 2026 06:40:38 +0000"
-   },
-   {
-    "title": "Netanyahu posts mushroom cloud, talks cryptocurrency as election looms",
-    "pubDate": "Mon, 26 Oct 2026 06:33:53 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -726,19 +734,11 @@
     "category": "Advice"
    },
    {
-    "title": "BALFOUR ST, CULCAIRN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "BORDER CR, POTTSVILLE",
+    "title": "BELLS LANE, BADAGARANG",
     "category": "Not Applicable"
    },
    {
     "title": "IRRIGATION WAY, MURRAMI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "JAMES RD, CROOM",
     "category": "Not Applicable"
    },
    {
@@ -747,6 +747,10 @@
    },
    {
     "title": "MOUNT NOMBI RD, NOMBI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "SANCTUARY POINT RD, SANCTUARY POINT",
     "category": "Not Applicable"
    },
    {
@@ -759,18 +763,6 @@
    },
    {
     "title": "Thornleigh Road",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WHYLANDRA CROSSING RD, RAWSONVILLE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WILGA RD, WHITTON",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "YATHONG RD IRYMPLE",
     "category": "Not Applicable"
    }
   ],
@@ -832,36 +824,36 @@
   ],
   "au_emergency_news": [
    {
+    "title": "Man found dead in floodwaters in southern Queensland as state is battered by heavy rain - Nine.com.au",
+    "pubDate": "Mon, 26 Oct 2026 09:03:09 GMT"
+   },
+   {
     "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
     "pubDate": "Mon, 26 Oct 2026 08:24:41 GMT"
    },
    {
-    "title": "Man found dead in floodwaters in southern Queensland as state is battered by heavy rain - Nine.com.au",
-    "pubDate": "Mon, 26 Oct 2026 07:24:49 GMT"
+    "title": "Woman spearheads bushfire safety push after friends 'didn't know what to do' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
    },
    {
-    "title": "Man found dead in Queensland floodwaters - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 26 Oct 2026 06:11:34 GMT"
+    "title": "Man dies as monster storm hits - News.com.au",
+    "pubDate": "Mon, 26 Oct 2026 08:03:25 GMT"
    },
    {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
     "pubDate": "Sun, 25 Oct 2026 06:34:00 GMT"
    },
    {
+    "title": "Man dies as flood emergency grips Queensland - The Nightly",
+    "pubDate": "Mon, 26 Oct 2026 06:14:07 GMT"
+   },
+   {
+    "title": "Millions still in firing line of severe storms as east coast regions brace for flash flooding - News24",
+    "pubDate": "Mon, 26 Oct 2026 04:30:11 GMT"
+   },
+   {
     "title": "Dongara holds fire safety training for women \u2014 ABC News Australia - UA.NEWS",
     "pubDate": "Mon, 26 Oct 2026 00:26:07 GMT"
-   },
-   {
-    "title": "\u2018Severe\u2019: Wild weather lashes Australia\u2019s east - News.com.au",
-    "pubDate": "Sun, 25 Oct 2026 09:16:39 GMT"
-   },
-   {
-    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
-   },
-   {
-    "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
-    "pubDate": "Sun, 25 Oct 2026 03:03:40 GMT"
    }
   ],
   "au_security_news": [
@@ -886,16 +878,16 @@
     "pubDate": "Mon, 26 Oct 2026 01:44:14 GMT"
    },
    {
-    "title": "Sappers complete major works in PNG - news.defence.gov.au",
-    "pubDate": "Mon, 26 Oct 2026 00:30:53 GMT"
-   },
-   {
     "title": "Arlo brings its first solar-powered security camera to Australia - GadgetGuy",
     "pubDate": "Mon, 26 Oct 2026 03:16:16 GMT"
    },
    {
     "title": "Thales boosts Australia\u2019s sovereign defence capabilities with the opening by the Minister for Defence Industry of a new sonar facility in Western Sydney - Thales",
     "pubDate": "Mon, 26 Oct 2026 06:00:00 GMT"
+   },
+   {
+    "title": "Thales opens Sydney sonar facility for Hunter-class frigates, submarines and uncrewed systems - Defence Industry Europe",
+    "pubDate": "Mon, 26 Oct 2026 09:16:06 GMT"
    }
   ],
   "au_health_news": [

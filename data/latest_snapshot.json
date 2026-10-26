@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-26T07:45:01.146910+00:00",
+ "collected_utc": "2026-10-26T08:45:02.056855+00:00",
  "earthquakes": [
   {
    "mag": 5,
@@ -120,22 +120,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.4,
-   "place": "205 km NW of Port-Olry, Vanuatu",
-   "time": 1792917660034,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "82 km SSE of Akutan, Alaska",
-   "time": 1792914272506,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t8",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -222,9 +206,9 @@
  ],
  "gdacs": [
   {
-   "severity": "Orange",
-   "title": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
-   "description": "From 26/10/2026 to 26/10/2026, a Tropical Storm (maximum wind speed of 120 km/h) TWO-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+   "severity": "Red",
+   "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million .",
+   "description": "From 26/10/2026 to 26/10/2026, a Hurricane/Typhoon &gt; 74 mph (maximum wind speed of 204 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 3.049 million .",
    "pubdate": "2026-10-26T01:51:40Z"
   },
   {
@@ -369,29 +353,29 @@
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Vance Public Advisory Number 19",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/260236.shtml",
-     "pubDate": "Mon, 26 Oct 2026 02:37:05 GMT"
+     "title": "Tropical Storm Vance Public Advisory Number 20",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/260836.shtml",
+     "pubDate": "Mon, 26 Oct 2026 08:37:10 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Advisory Number 19",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/260235.shtml",
-     "pubDate": "Mon, 26 Oct 2026 02:35:34 GMT"
+     "title": "Tropical Storm Vance Forecast Advisory Number 20",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/260836.shtml",
+     "pubDate": "Mon, 26 Oct 2026 08:36:40 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Discussion Number 19",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/260237.shtml",
-     "pubDate": "Mon, 26 Oct 2026 02:38:06 GMT"
+     "title": "Tropical Storm Vance Forecast Discussion Number 20",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/260838.shtml",
+     "pubDate": "Mon, 26 Oct 2026 08:38:35 GMT"
     },
     {
-     "title": "Tropical Storm Vance Wind Speed Probabilities Number 19",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/260237.shtml",
-     "pubDate": "Mon, 26 Oct 2026 02:37:36 GMT"
+     "title": "Tropical Storm Vance Wind Speed Probabilities Number 20",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/260837.shtml",
+     "pubDate": "Mon, 26 Oct 2026 08:37:40 GMT"
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/032826.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 03:28:26 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/084104.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 08:41:04 GMT"
     }
    ]
   },
@@ -401,29 +385,29 @@
    "basin": "central_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Olana Public Advisory Number 3",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP3+shtml/260231.shtml",
-     "pubDate": "Mon, 26 Oct 2026 02:32:07 GMT"
+     "title": "Tropical Storm Olana Public Advisory Number 4",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP3+shtml/260830.shtml",
+     "pubDate": "Mon, 26 Oct 2026 08:31:05 GMT"
     },
     {
-     "title": "Tropical Storm Olana Forecast Advisory Number 3",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP3+shtml/260231.shtml",
-     "pubDate": "Mon, 26 Oct 2026 02:31:36 GMT"
+     "title": "Tropical Storm Olana Forecast Advisory Number 4",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP3+shtml/260830.shtml",
+     "pubDate": "Mon, 26 Oct 2026 08:30:37 GMT"
     },
     {
-     "title": "Tropical Storm Olana Forecast Discussion Number 3",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP3+shtml/260232.shtml",
-     "pubDate": "Mon, 26 Oct 2026 02:32:30 GMT"
+     "title": "Tropical Storm Olana Forecast Discussion Number 4",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP3+shtml/260831.shtml",
+     "pubDate": "Mon, 26 Oct 2026 08:31:36 GMT"
     },
     {
-     "title": "Tropical Storm Olana Wind Speed Probabilities Number 3",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP3+shtml/260231.shtml",
-     "pubDate": "Mon, 26 Oct 2026 02:32:05 GMT"
+     "title": "Tropical Storm Olana Wind Speed Probabilities Number 4",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP3+shtml/260830.shtml",
+     "pubDate": "Mon, 26 Oct 2026 08:31:05 GMT"
     },
     {
      "title": "Tropical Storm Olana Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/032238.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 03:22:38 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/083305.shtml?cone",
+     "pubDate": "Mon, 26 Oct 2026 08:33:05 GMT"
     }
    ]
   }
@@ -657,30 +641,38 @@
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
+   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
   },
   {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+   "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
+   "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
+  },
+  {
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
+   "pubDate": "Fri, 23 Oct 2026 05:58:00 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Millions of Afghans to face food insecurity by next year, UN warns - Modern Ghana",
-   "pubDate": "Wed, 21 Oct 2026 10:00:16 GMT"
-  },
-  {
-   "title": "Greater Horn of Africa Food Insecurity and Health Crisis, Situation Report No. 1 (April\u2013June 2026) - World Health Organization (WHO)",
-   "pubDate": "Tue, 07 Jul 2026 10:34:09 GMT"
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Defence personnel begin packing as Sydney's Victoria Barracks sale looms",
+    "title": "Dr Redmayne aims to lift Brisbane Heat's WBBL fortunes",
+    "pubDate": "Mon, 26 Oct 2026 08:40:42 +0000"
+   },
+   {
+    "title": "Parliament grieves as cardboard cockatoo serves as Helen Haines tribute",
+    "pubDate": "Mon, 26 Oct 2026 07:47:12 +0000"
+   },
+   {
+    "title": "NSW premier says barracks sale a 'big missed opportunity'",
     "pubDate": "Mon, 26 Oct 2026 07:11:24 +0000"
    },
    {
@@ -692,7 +684,7 @@
     "pubDate": "Mon, 26 Oct 2026 07:10:10 +0000"
    },
    {
-    "title": "Boy, 13, stays behind bars after Perth drive-by shooting charges",
+    "title": "Boy, 13, stays locked up after Perth drive-by shooting charges",
     "pubDate": "Mon, 26 Oct 2026 07:04:11 +0000"
    },
    {
@@ -704,20 +696,12 @@
     "pubDate": "Mon, 26 Oct 2026 06:40:38 +0000"
    },
    {
-    "title": "Netanyahu's fight to stay in office amid fears of Iran escalation",
+    "title": "Netanyahu posts mushroom cloud, talks cryptocurrency as election looms",
     "pubDate": "Mon, 26 Oct 2026 06:33:53 +0000"
    },
    {
     "title": "Jury told alleged murder victim may have died from 'broken heart'",
     "pubDate": "Mon, 26 Oct 2026 06:18:55 +0000"
-   },
-   {
-    "title": "Man found dead in Queensland floodwaters",
-    "pubDate": "Mon, 26 Oct 2026 06:11:34 +0000"
-   },
-   {
-    "title": "Convicted paedophile arrested and extradited to SA",
-    "pubDate": "Mon, 26 Oct 2026 06:10:10 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -734,6 +718,14 @@
     "category": "Advice"
    },
    {
+    "title": "BORJESON CCT, CALDERWOOD",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "FINDLEY RD, BRINGELLY",
+    "category": "Not Applicable"
+   },
+   {
     "title": "IRRIGATION WAY, MURRAMI",
     "category": "Not Applicable"
    },
@@ -746,11 +738,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "NAPIER LANE, NAPIER LANE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "PACIFIC HWY, BROADWATER",
+    "title": "PANDANUS PDE",
     "category": "Not Applicable"
    },
    {
@@ -763,6 +751,10 @@
    },
    {
     "title": "Thornleigh Road",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WHYLANDRA CROSSING RD, RAWSONVILLE",
     "category": "Not Applicable"
    },
    {
@@ -828,24 +820,20 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Woman spearheads bushfire safety push after friends 'didn't know what to do' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
-   },
-   {
     "title": "Man found dead in floodwaters in southern Queensland as state is battered by heavy rain - Nine.com.au",
-    "pubDate": "Mon, 26 Oct 2026 07:18:45 GMT"
+    "pubDate": "Mon, 26 Oct 2026 07:24:49 GMT"
    },
    {
-    "title": "Man dies as flood emergency grips Queensland - The Nightly",
-    "pubDate": "Mon, 26 Oct 2026 06:14:07 GMT"
+    "title": "Multiple flood warnings as Queensland braces for more wild weather - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sat, 24 Oct 2026 23:27:06 GMT"
+   },
+   {
+    "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
+    "pubDate": "Mon, 26 Oct 2026 08:24:41 GMT"
    },
    {
     "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
     "pubDate": "Sun, 25 Oct 2026 06:34:00 GMT"
-   },
-   {
-    "title": "Man found dead in Queensland floodwaters - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 26 Oct 2026 07:25:11 GMT"
    },
    {
     "title": "Dongara holds fire safety training for women \u2014 ABC News Australia - UA.NEWS",
@@ -858,6 +846,10 @@
    {
     "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
     "pubDate": "Sun, 25 Oct 2026 03:03:40 GMT"
+   },
+   {
+    "title": "Campers rescued as storms threaten south-east Queensland - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Sun, 25 Oct 2026 18:46:45 GMT"
    }
   ],
   "au_security_news": [
@@ -874,12 +866,16 @@
     "pubDate": "Sun, 25 Oct 2026 23:57:06 GMT"
    },
    {
-    "title": "Defence personnel begin packing as Sydney's Victoria Barracks sale looms - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "title": "NSW premier says barracks sale a 'big missed opportunity' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Mon, 26 Oct 2026 07:11:24 GMT"
    },
    {
     "title": "Moseley\u2019s ambassador post to advance Australia\u2019s security interests - The Mandarin",
     "pubDate": "Mon, 26 Oct 2026 01:44:14 GMT"
+   },
+   {
+    "title": "Sappers complete major works in PNG - news.defence.gov.au",
+    "pubDate": "Mon, 26 Oct 2026 00:30:53 GMT"
    },
    {
     "title": "Powerful new Reolink flagship security camera launches locally - GadgetGuy",
@@ -888,10 +884,6 @@
    {
     "title": "Thales boosts Australia\u2019s sovereign defence capabilities with the opening by the Minister for Defence Industry of a new sonar facility in Western Sydney - Thales",
     "pubDate": "Mon, 26 Oct 2026 06:00:00 GMT"
-   },
-   {
-    "title": "Aussie Bushmaster military export to gain deadly 100km strike range in changing face of war: 'Critical' - Yahoo News Australia",
-    "pubDate": "Mon, 26 Oct 2026 04:23:00 GMT"
    }
   ],
   "au_health_news": [

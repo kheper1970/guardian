@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T12:45:01.886590+00:00",
+ "collected_utc": "2026-10-27T13:45:01.435965+00:00",
  "earthquakes": [
   {
    "mag": 4.6,
@@ -597,6 +597,10 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Mon, 26 Oct 2026 16:10:23 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
@@ -605,28 +609,24 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -670,7 +670,7 @@
     "pubDate": "Tue, 27 Oct 2026 10:35:24 +0000"
    },
    {
-    "title": "Men charged with national security offences over incident at US base in England",
+    "title": "Two charged with helping Iran over RAF Fairford incident",
     "pubDate": "Tue, 27 Oct 2026 10:23:15 +0000"
    },
    {
@@ -874,6 +874,10 @@
     "pubDate": "Tue, 27 Oct 2026 11:00:00 GMT"
    },
    {
+    "title": "\u2018Are you waiting for me to be attacked?\u2019 Fatima Payman slams PM over office security - The Guardian",
+    "pubDate": "Tue, 27 Oct 2026 05:19:00 GMT"
+   },
+   {
     "title": "Australian gov\u2019t commits $245M to defence manufacturing facility in WA - Australian Manufacturing",
     "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
    },
@@ -888,10 +892,6 @@
    {
     "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
     "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
-   },
-   {
-    "title": "\u2018Are you waiting for me to be attacked?\u2019 Fatima Payman slams PM over office security - The Guardian",
-    "pubDate": "Tue, 27 Oct 2026 05:19:00 GMT"
    }
   ],
   "au_health_news": [

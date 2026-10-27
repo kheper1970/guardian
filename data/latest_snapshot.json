@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-27T22:45:01.700800+00:00",
+ "collected_utc": "2026-10-27T23:45:01.585681+00:00",
  "earthquakes": [
+  {
+   "mag": 5.4,
+   "place": "197 km WSW of Merizo Village, Guam",
+   "time": 1793142856760,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke",
+   "type": "earthquake"
+  },
   {
    "mag": 5.4,
    "place": "210 km ENE of Nagqu, China",
@@ -135,14 +143,6 @@
    "time": 1793060708167,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "98 km NNW of Tobelo, Indonesia",
-   "time": 1793055142912,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd3",
    "type": "earthquake"
   }
  ],
@@ -446,7 +446,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-27T12:00:00Z",
+    "date": "2026-10-27T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -605,16 +605,16 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
@@ -633,8 +633,8 @@
    "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   },
   {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
+   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -667,12 +667,32 @@
    "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
   },
   {
-   "title": "US, UK among 31 countries warning of \u2018alarming\u2019 Sudan famine - Free Malaysia Today",
-   "pubDate": "Tue, 27 Oct 2026 03:16:16 GMT"
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Fossil fuel ad ban could 'jeopardise' TDU village, SA government says",
+    "pubDate": "Tue, 27 Oct 2026 23:23:01 +0000"
+   },
+   {
+    "title": "Fisherman lost at sea for 41 days rescued off Kiribati",
+    "pubDate": "Tue, 27 Oct 2026 23:14:50 +0000"
+   },
+   {
+    "title": "Roads closed and shops damaged after tobacco shop fire in Cobden",
+    "pubDate": "Tue, 27 Oct 2026 23:11:57 +0000"
+   },
+   {
+    "title": "WA towns back growing trend of smart glasses bans, citing privacy fears",
+    "pubDate": "Tue, 27 Oct 2026 23:02:53 +0000"
+   },
+   {
+    "title": "Arsenal knocked out of League Cup by fourth-tier minnow in all-time upset",
+    "pubDate": "Tue, 27 Oct 2026 22:54:59 +0000"
+   },
    {
     "title": "Federal government invests $180m in rare earths mine in western Victoria",
     "pubDate": "Tue, 27 Oct 2026 22:32:34 +0000"
@@ -692,26 +712,6 @@
    {
     "title": "Teen charged over Sydney house fire with 88yo woman inside",
     "pubDate": "Tue, 27 Oct 2026 21:25:27 +0000"
-   },
-   {
-    "title": "WA set to become first state to legalise plug-in solar panels, batteries",
-    "pubDate": "Tue, 27 Oct 2026 21:14:39 +0000"
-   },
-   {
-    "title": "Maya Joint makes mockery of rankings with big win in Tokyo",
-    "pubDate": "Tue, 27 Oct 2026 21:07:38 +0000"
-   },
-   {
-    "title": "Queensland mayor steps down citing 'smear campaign'",
-    "pubDate": "Tue, 27 Oct 2026 21:04:52 +0000"
-   },
-   {
-    "title": "Archaeology students work beside traditional owners at ancient site",
-    "pubDate": "Tue, 27 Oct 2026 21:04:04 +0000"
-   },
-   {
-    "title": "Victoria rattled by 18th earthquake in a month",
-    "pubDate": "Tue, 27 Oct 2026 20:48:36 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -847,41 +847,41 @@
    },
    {
     "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
-    "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
+    "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
    },
    {
     "title": "Former councillor dies in floodwaters on Queensland's Fraser Coast - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Tue, 27 Oct 2026 08:00:00 GMT"
    },
    {
-    "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
-    "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
-   },
-   {
     "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
     "pubDate": "Mon, 26 Oct 2026 13:03:39 GMT"
+   },
+   {
+    "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
+    "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
    },
    {
     "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
-    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
-    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
-   },
-   {
     "title": "Emergency warning lifted, numerous roads remain shut - News.com.au",
     "pubDate": "Mon, 26 Oct 2026 02:14:10 GMT"
+   },
+   {
+    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
+    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
    }
   ],
   "au_security_news": [
    {
-    "title": "The $9 billion fuel bill raising questions about Australia's energy security - SBS",
-    "pubDate": "Tue, 27 Oct 2026 20:32:19 GMT"
+    "title": "Cyber security in action - Defence News",
+    "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
    },
    {
-    "title": "Urban assaults, fighter jets and winching over water - Defence News",
-    "pubDate": "Tue, 27 Oct 2026 05:50:50 GMT"
+    "title": "The $9 billion fuel bill raising questions about Australia's energy security - SBS",
+    "pubDate": "Tue, 27 Oct 2026 20:32:19 GMT"
    },
    {
     "title": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident - The Guardian",

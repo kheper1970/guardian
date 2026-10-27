@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T16:45:02.012061+00:00",
+ "collected_utc": "2026-10-27T17:45:01.446467+00:00",
  "earthquakes": [
   {
    "mag": 5,
@@ -31,6 +31,14 @@
    "time": 1793112189497,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgh",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "41 km S of Farkh\u0101r, Afghanistan",
+   "time": 1793110146874,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgc",
    "type": "earthquake"
   },
   {
@@ -629,6 +637,10 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
@@ -637,34 +649,34 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
   {
    "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
+  },
+  {
+   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
+   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
    "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
@@ -689,14 +701,18 @@
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
-   "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
-   "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Flavio Bolsonaro has passports cancelled as whereabouts unclear",
+    "pubDate": "Tue, 27 Oct 2026 17:43:34 +0000"
+   },
+   {
+    "title": "Nordic leaders press Putin to end Ukraine war in rare phone call",
+    "pubDate": "Tue, 27 Oct 2026 17:22:09 +0000"
+   },
    {
     "title": "Fighting paused in Ukrainian city under deal announced by Melania Trump",
     "pubDate": "Tue, 27 Oct 2026 10:35:24 +0000"
@@ -728,14 +744,6 @@
    {
     "title": "Man charged with murder over alleged fatal stabbing of partner",
     "pubDate": "Tue, 27 Oct 2026 08:36:01 +0000"
-   },
-   {
-    "title": "Former Qld education worker charged with historical child sex offences",
-    "pubDate": "Tue, 27 Oct 2026 08:16:58 +0000"
-   },
-   {
-    "title": "Dementia deaths in Australia surpass one in 10 of all fatalities",
-    "pubDate": "Tue, 27 Oct 2026 08:02:24 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -882,20 +890,20 @@
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
-    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
-    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
-   },
-   {
-    "title": "AI will make cyber outages inevitable\" Australia's top cyber offial warns as business losses climb - Insurance Business",
-    "pubDate": "Tue, 27 Oct 2026 01:55:52 GMT"
-   },
-   {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
     "pubDate": "Mon, 26 Oct 2026 23:23:15 GMT"
    },
    {
-    "title": "Giant hail falls as dangerous storms lash Queensland - News24",
-    "pubDate": "Tue, 27 Oct 2026 09:12:19 GMT"
+    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
+    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
+   },
+   {
+    "title": "Millions still in firing line of severe storms as east coast regions brace for flash flooding - News24",
+    "pubDate": "Mon, 26 Oct 2026 04:30:11 GMT"
+   },
+   {
+    "title": "Emergency warning lifted, numerous roads remain shut - The Courier Mail",
+    "pubDate": "Mon, 26 Oct 2026 03:26:57 GMT"
    }
   ],
   "au_security_news": [
@@ -920,12 +928,12 @@
     "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
    },
    {
-    "title": "Kellie Parker appointed as National Armaments Director - Australian Defence Magazine",
-    "pubDate": "Tue, 27 Oct 2026 04:03:56 GMT"
+    "title": "Aukus continues at pace with announcement of first US sub assigned to rotational force - Forces News",
+    "pubDate": "Tue, 27 Oct 2026 13:08:01 GMT"
    },
    {
-    "title": "Two charged with helping Iran over RAF Fairford incident - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Tue, 27 Oct 2026 10:23:15 GMT"
+    "title": "Kellie Parker appointed as National Armaments Director - Australian Defence Magazine",
+    "pubDate": "Tue, 27 Oct 2026 04:03:56 GMT"
    },
    {
     "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",

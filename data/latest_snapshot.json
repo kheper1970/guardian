@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-27T18:45:01.820485+00:00",
+ "collected_utc": "2026-10-27T19:45:01.688425+00:00",
  "earthquakes": [
+  {
+   "mag": 5.4,
+   "place": "210 km ENE of Nagqu, China",
+   "time": 1793127473135,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis",
+   "type": "earthquake"
+  },
   {
    "mag": 4.9,
    "place": "70 km WNW of Callaguip, Philippines",
@@ -167,14 +175,6 @@
    "time": 1793047285106,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc6",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "100 km E of La Tirana, Chile",
-   "time": 1793043376160,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh",
    "type": "earthquake"
   }
  ],
@@ -424,8 +424,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152310.shtml?cone",
-     "pubDate": "Tue, 27 Oct 2026 15:23:10 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/190037.shtml?cone",
+     "pubDate": "Tue, 27 Oct 2026 19:00:37 GMT"
     }
    ]
   }
@@ -706,44 +706,44 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Australia's rising road toll reverses hard-won safety improvements",
-    "pubDate": "Tue, 27 Oct 2026 18:35:44 +0000"
+    "title": "Thousands NSW drivers overcharged in green slip postcode blunder",
+    "pubDate": "Tue, 27 Oct 2026 19:40:41 +0000"
    },
    {
-    "title": "How Australian publishers tell if a book has been written by AI",
-    "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000"
+    "title": "Ancient tree with strong smell wins Tree of the Year",
+    "pubDate": "Tue, 27 Oct 2026 19:33:05 +0000"
    },
    {
-    "title": "Test your Halloween movie knowledge with our spooky quiz",
-    "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000"
+    "title": "Live: Polls to close in Israel's most seismic election in decades",
+    "pubDate": "Tue, 27 Oct 2026 19:30:11 +0000"
    },
    {
-    "title": "Quiz: Welcome to the travel Thunderdome",
-    "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000"
+    "title": "Man charged over allegedly false Bondi terror attack injury claim",
+    "pubDate": "Tue, 27 Oct 2026 19:18:36 +0000"
    },
    {
-    "title": "Twelve-year-old wins national slam poetry competition with 'Dear ChatGPT'",
-    "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000"
+    "title": "Women at NSW correctional facility left without access to period products",
+    "pubDate": "Tue, 27 Oct 2026 19:06:51 +0000"
    },
    {
-    "title": "'Critical habitat' decision could affect Macquarie Harbour salmon farms",
-    "pubDate": "Tue, 27 Oct 2026 18:28:47 +0000"
+    "title": "More supervision of university exams to combat AI use",
+    "pubDate": "Tue, 27 Oct 2026 19:04:59 +0000"
    },
    {
-    "title": "Business Council names Victoria worst state for business, again",
-    "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000"
+    "title": "A watered down ICAC gets called up for a full-bodied political scandal",
+    "pubDate": "Tue, 27 Oct 2026 19:04:15 +0000"
    },
    {
-    "title": "Crossbench push to give Australians a free way to fight back against big tech",
-    "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000"
+    "title": "Council removes former mayor's name from plaques after assault of teen",
+    "pubDate": "Tue, 27 Oct 2026 19:03:10 +0000"
    },
    {
-    "title": "Will AI crush the things that make life meaningful?",
-    "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000"
+    "title": "Federal MP's partner builds social media tool after seeing the hate she receives",
+    "pubDate": "Tue, 27 Oct 2026 18:52:31 +0000"
    },
    {
-    "title": "50,000 people could get compensation for unlawful Centrelink suspensions",
-    "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000"
+    "title": "Police investigate fatal shooting in Melbourne's north",
+    "pubDate": "Tue, 27 Oct 2026 18:49:57 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -894,16 +894,16 @@
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
+    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
+    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
+   },
+   {
+    "title": "AI will make cyber outages inevitable\" Australia's top cyber offial warns as business losses climb - Insurance Business",
+    "pubDate": "Tue, 27 Oct 2026 01:55:52 GMT"
+   },
+   {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
     "pubDate": "Mon, 26 Oct 2026 23:23:15 GMT"
-   },
-   {
-    "title": "Emergency warning lifted, numerous roads remain shut - News.com.au",
-    "pubDate": "Mon, 26 Oct 2026 02:14:10 GMT"
-   },
-   {
-    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
-    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
    }
   ],
   "au_security_news": [
@@ -912,16 +912,20 @@
     "pubDate": "Tue, 27 Oct 2026 05:50:50 GMT"
    },
    {
+    "title": "Japan, Australia, US should build a second-island-chain air bridge - The Strategist | ASPI's analysis and commentary site",
+    "pubDate": "Tue, 27 Oct 2026 19:03:05 GMT"
+   },
+   {
+    "title": "Crude Awakening: How Australia Ranks on Fuel Security - Climate Council",
+    "pubDate": "Tue, 27 Oct 2026 13:01:00 GMT"
+   },
+   {
     "title": "Australia introduces new legislation to protect Defence bases, personnel from drones - www.defenceconnect.com.au",
     "pubDate": "Tue, 27 Oct 2026 05:10:26 GMT"
    },
    {
     "title": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident - The Guardian",
     "pubDate": "Tue, 27 Oct 2026 14:02:00 GMT"
-   },
-   {
-    "title": "Defence recruits former Rio Tinto chief to spearhead military manufacturing push - The Mandarin",
-    "pubDate": "Tue, 27 Oct 2026 18:35:58 GMT"
    },
    {
     "title": "Japan\u2013Australia energy relationship pivots to mutual security - East Asia Forum",
@@ -934,10 +938,6 @@
    {
     "title": "Kellie Parker appointed as National Armaments Director - Australian Defence Magazine",
     "pubDate": "Tue, 27 Oct 2026 04:03:56 GMT"
-   },
-   {
-    "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
-    "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
    }
   ],
   "au_health_news": [

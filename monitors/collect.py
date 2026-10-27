@@ -336,11 +336,18 @@ def collect_australia():
 
     try:
         raw = fetch("https://www.health.gov.au/news", as_json=False)
-        titles = re.findall(r"<h[23][^>]*>(?:<[^>]+>)*([^<]{10,140})", raw)
+        # Capture heading attributes too so screen-reader-only chrome
+        # (class="visually-hidden" / "au-sronly") can be filtered by class,
+        # not by fragile keyword lists.
+        titles = re.findall(r"<h[23]\b([^>]*)>(?:<[^>]+>)*([^<]{10,140})", raw)
         junk = {"News", "About us", "Contact us", "Resources",
                 "Programs & initiatives", "Topics", "Search"}
         seen, uniq = set(), []
-        for t in titles:
+        for attrs, t in titles:
+            a = attrs.lower()
+            if ("sronly" in a or "visually-hidden" in a
+                    or "visuallyhidden" in a):
+                continue
             t = t.strip()
             if t and t not in seen and t not in junk:
                 seen.add(t)

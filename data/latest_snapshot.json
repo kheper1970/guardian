@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T03:45:01.911982+00:00",
+ "collected_utc": "2026-10-27T04:45:01.295327+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -159,14 +159,6 @@
    "time": 1792990415102,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "41 km WNW of Kupang, Indonesia",
-   "time": 1792987162208,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
    "type": "earthquake"
   }
  ],
@@ -655,32 +647,32 @@
  ],
  "famine_news": [
   {
+   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
+   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Tue, 27 Oct 2026 03:07:48 GMT"
-  },
-  {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
-   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
+   "pubDate": "Tue, 27 Oct 2026 04:37:48 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
    "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
+   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
+   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
+  },
+  {
    "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
    "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   },
   {
-   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
   },
   {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
@@ -690,6 +682,26 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Parents of 4yo killed in Canberra crash call for 'lightest possible sentence'",
+    "pubDate": "Tue, 27 Oct 2026 04:31:10 +0000"
+   },
+   {
+    "title": "Borlase's WNBA dream fading after Game 5 finals loss to Valkyries",
+    "pubDate": "Tue, 27 Oct 2026 04:21:25 +0000"
+   },
+   {
+    "title": "Meta merges apps and device accounts under one system",
+    "pubDate": "Tue, 27 Oct 2026 03:53:47 +0000"
+   },
+   {
+    "title": "First Australian charged under deepfake pornography laws avoids jail",
+    "pubDate": "Tue, 27 Oct 2026 03:50:14 +0000"
+   },
+   {
+    "title": "Scientists video REM-like sleep in Australian jumping spider species",
+    "pubDate": "Tue, 27 Oct 2026 03:49:29 +0000"
+   },
+   {
     "title": "Court rejects 'jarring' Gold Coast high-rise",
     "pubDate": "Tue, 27 Oct 2026 03:42:55 +0000"
    },
@@ -698,41 +710,21 @@
     "pubDate": "Tue, 27 Oct 2026 03:39:02 +0000"
    },
    {
-    "title": "New Queensland laws ironing out a legal loophole on pornographic 'deepfakes'",
+    "title": "New Queensland laws iron out legal loophole on pornographic deepfakes",
     "pubDate": "Tue, 27 Oct 2026 03:34:04 +0000"
    },
    {
-    "title": "Teen remains critical as police appeal for information after Logan shooting",
+    "title": "Teen still in a critical condition after drive-by shooting south of Brisbane",
     "pubDate": "Tue, 27 Oct 2026 03:22:28 +0000"
    },
    {
     "title": "Mayoral candidate drops unfair dismissal case against Ambulance Tasmania",
     "pubDate": "Tue, 27 Oct 2026 03:21:44 +0000"
-   },
-   {
-    "title": "MPs uninvited in wake of Christmas 'cancelling' fallout",
-    "pubDate": "Tue, 27 Oct 2026 03:10:42 +0000"
-   },
-   {
-    "title": "Lamarre-Condon reported work-related trauma on way to handing himself in",
-    "pubDate": "Tue, 27 Oct 2026 02:44:09 +0000"
-   },
-   {
-    "title": "Anthropic tries to outrun AI bubble with record-breaking IPO",
-    "pubDate": "Tue, 27 Oct 2026 02:22:26 +0000"
-   },
-   {
-    "title": "Williams eyes Melbourne Cup success with horse he'll meet in the yard",
-    "pubDate": "Tue, 27 Oct 2026 02:20:47 +0000"
-   },
-   {
-    "title": "Five things I'm asked about dwarfism, and my honest responses",
-    "pubDate": "Tue, 27 Oct 2026 02:02:01 +0000"
    }
   ],
   "nsw_rfs_incidents": [
    {
-    "title": "MEREDITH CR, ST HELENS PARK",
+    "title": "LACHLAN VALLEY WAY, LAKE BREWSTER",
     "category": "Advice"
    },
    {
@@ -740,15 +732,15 @@
     "category": "Advice"
    },
    {
-    "title": "BLOODWOOD RD, FIDDLETOWN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "BROADWAY ST, COBRAM",
-    "category": "Not Applicable"
-   },
-   {
     "title": "CLAINES CR, WENTWORTH FALLS",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "EMU PARK RD, SANGER",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HOGBIN DR, COFFS HARBOUR",
     "category": "Not Applicable"
    },
    {
@@ -760,10 +752,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "LACHLAN VALLEY WAY, LAKE BREWSTER",
-    "category": "Not Applicable"
-   },
-   {
     "title": "MARYS MOUNT RD, GOULBURN",
     "category": "Not Applicable"
    },
@@ -772,15 +760,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "RD, TARAGO",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "TARRANTS GAP RD, REIDS FLAT",
+    "title": "THE WOOL RD, BASIN VIEW",
     "category": "Not Applicable"
    },
    {
     "title": "Thornleigh Road",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WESTVIEW RD, ARMIDALE",
     "category": "Not Applicable"
    }
   ],
@@ -869,15 +857,15 @@
    },
    {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
-    "pubDate": "Mon, 26 Oct 2026 07:20:00 GMT"
+    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
+   },
+   {
+    "title": "Severe weather update: Further severe thunderstorms for Qld and NSW - The Bureau of Meteorology",
+    "pubDate": "Mon, 26 Oct 2026 04:24:56 GMT"
    },
    {
     "title": "Dongara holds fire safety training for women \u2014 ABC News Australia - UA.NEWS",
     "pubDate": "Mon, 26 Oct 2026 00:26:07 GMT"
-   },
-   {
-    "title": "\u2018Trifecta\u2019: Severe storms hit millions - Adelaide Now",
-    "pubDate": "Sun, 25 Oct 2026 04:13:55 GMT"
    }
   ],
   "au_security_news": [
@@ -886,32 +874,32 @@
     "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
    },
    {
-    "title": "Former Rio Tinto Australia CEO appointed as National Armaments Director - www.defenceconnect.com.au",
-    "pubDate": "Tue, 27 Oct 2026 00:06:08 GMT"
-   },
-   {
     "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
     "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
+   },
+   {
+    "title": "Former Rio Tinto Australia CEO appointed as National Armaments Director - www.defenceconnect.com.au",
+    "pubDate": "Tue, 27 Oct 2026 00:06:08 GMT"
    },
    {
     "title": "$245 million to strengthen local manufacturing for Australia\u2019s defence capability - Marine Business News",
     "pubDate": "Mon, 26 Oct 2026 20:01:49 GMT"
    },
    {
+    "title": "Former Rio Tinto executive tapped for major Defence role - AFR",
+    "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
+   },
+   {
+    "title": "Cyber security threats rise as AI menace gathers pace - Australian Conveyancer",
+    "pubDate": "Tue, 27 Oct 2026 03:07:56 GMT"
+   },
+   {
     "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
-    "pubDate": "Tue, 27 Oct 2026 03:05:41 GMT"
+    "pubDate": "Tue, 27 Oct 2026 02:37:56 GMT"
    },
    {
-    "title": "Navantia Australia to launch underwater technology hub in Melbourne - Asia Pacific Defence Reporter",
-    "pubDate": "Mon, 26 Oct 2026 21:50:15 GMT"
-   },
-   {
-    "title": "To secure supply, Australia needs to engage with Africa\u2019s mineral sovereignty - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Mon, 26 Oct 2026 19:06:06 GMT"
-   },
-   {
-    "title": "Australia warns of \u2018unprecedented\u2019 AI threat - The Australian",
-    "pubDate": "Tue, 27 Oct 2026 00:42:06 GMT"
+    "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns - The Guardian",
+    "pubDate": "Tue, 27 Oct 2026 00:52:00 GMT"
    }
   ],
   "au_health_news": [

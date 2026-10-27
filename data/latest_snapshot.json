@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T04:45:01.295327+00:00",
+ "collected_utc": "2026-10-27T05:45:01.756608+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -144,22 +144,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yi",
    "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "45 km NNW of Ende, Indonesia",
-   "time": 1792990420479,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "182 km NW of Port-Olry, Vanuatu",
-   "time": 1792990415102,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -171,6 +155,11 @@
   },
   "kp_max_24h": 2.0,
   "alerts_recent": [
+   {
+    "id": "TIVA",
+    "issued": "2026-09-30 03:39:25.207",
+    "message": "Space Weather Message Code: ALTTP4\r\nSerial Number: 718\r\nIssue Time: 2026 Sep 30 0339 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 30 0256 UTC\nComment: Observed by PAL\n"
+   },
    {
     "id": "TIIA",
     "issued": "2026-09-30 03:38:29.203",
@@ -190,11 +179,6 @@
     "id": "EF3A",
     "issued": "2026-09-28 05:00:40.090",
     "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3747\r\nIssue Time: 2026 Sep 28 0500 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3746\nBegin Time: 2026 Sep 26 1535 UTC\n\nYesterday Maximum 2MeV Flux: 3060 pfu\nMax time: 2026 Sep 27 1720 UTC"
-   },
-   {
-    "id": "EF3A",
-    "issued": "2026-09-27 05:02:04.940",
-    "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3746\r\nIssue Time: 2026 Sep 27 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3745\nBegin Time: 2026 Sep 26 1535 UTC\n\nYesterday Maximum 2MeV Flux: 1260 pfu\nMax time: 2026 Sep 26 1645 UTC"
    }
   ]
  },
@@ -613,10 +597,6 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Mon, 26 Oct 2026 16:10:23 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
@@ -625,24 +605,28 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
+   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -652,7 +636,7 @@
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Tue, 27 Oct 2026 04:37:48 GMT"
+   "pubDate": "Tue, 27 Oct 2026 05:13:53 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
@@ -682,6 +666,34 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Bad report card for government businesses being propped up",
+    "pubDate": "Tue, 27 Oct 2026 05:41:58 +0000"
+   },
+   {
+    "title": "Former RAAF pilot stood to gain more than $5m from wife's death, court hears",
+    "pubDate": "Tue, 27 Oct 2026 05:36:47 +0000"
+   },
+   {
+    "title": "Scammers target major holiday parks across Australia in cybersecurity breach",
+    "pubDate": "Tue, 27 Oct 2026 05:24:30 +0000"
+   },
+   {
+    "title": "Echoes from disused water tower become music for 'magical' performance",
+    "pubDate": "Tue, 27 Oct 2026 05:19:52 +0000"
+   },
+   {
+    "title": "After days of delay, state regulators confirm probe into methane plume at Chevron",
+    "pubDate": "Tue, 27 Oct 2026 05:09:36 +0000"
+   },
+   {
+    "title": "How WhatsApp 'army' flipped Brazil election and halted Trumpian trend",
+    "pubDate": "Tue, 27 Oct 2026 04:54:44 +0000"
+   },
+   {
+    "title": "Community opposes proposed data centre near dark sky reserve",
+    "pubDate": "Tue, 27 Oct 2026 04:53:49 +0000"
+   },
+   {
     "title": "Parents of 4yo killed in Canberra crash call for 'lightest possible sentence'",
     "pubDate": "Tue, 27 Oct 2026 04:31:10 +0000"
    },
@@ -692,37 +704,13 @@
    {
     "title": "Meta merges apps and device accounts under one system",
     "pubDate": "Tue, 27 Oct 2026 03:53:47 +0000"
-   },
-   {
-    "title": "First Australian charged under deepfake pornography laws avoids jail",
-    "pubDate": "Tue, 27 Oct 2026 03:50:14 +0000"
-   },
-   {
-    "title": "Scientists video REM-like sleep in Australian jumping spider species",
-    "pubDate": "Tue, 27 Oct 2026 03:49:29 +0000"
-   },
-   {
-    "title": "Court rejects 'jarring' Gold Coast high-rise",
-    "pubDate": "Tue, 27 Oct 2026 03:42:55 +0000"
-   },
-   {
-    "title": "Huge gas-fired power station plan quietly revealed amid renewables fanfare",
-    "pubDate": "Tue, 27 Oct 2026 03:39:02 +0000"
-   },
-   {
-    "title": "New Queensland laws iron out legal loophole on pornographic deepfakes",
-    "pubDate": "Tue, 27 Oct 2026 03:34:04 +0000"
-   },
-   {
-    "title": "Teen still in a critical condition after drive-by shooting south of Brisbane",
-    "pubDate": "Tue, 27 Oct 2026 03:22:28 +0000"
-   },
-   {
-    "title": "Mayoral candidate drops unfair dismissal case against Ambulance Tasmania",
-    "pubDate": "Tue, 27 Oct 2026 03:21:44 +0000"
    }
   ],
   "nsw_rfs_incidents": [
+   {
+    "title": "HATFIELD PENARIE RD, BALRANALD",
+    "category": "Advice"
+   },
    {
     "title": "LACHLAN VALLEY WAY, LAKE BREWSTER",
     "category": "Advice"
@@ -757,6 +745,14 @@
    },
    {
     "title": "MOUNT NOMBI RD, NOMBI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "PALMYRA AV, SHANES PARK",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "SILVER CITY HWY, BROKEN HILL",
     "category": "Not Applicable"
    },
    {
@@ -860,18 +856,26 @@
     "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
    },
    {
-    "title": "Severe weather update: Further severe thunderstorms for Qld and NSW - The Bureau of Meteorology",
-    "pubDate": "Mon, 26 Oct 2026 04:24:56 GMT"
+    "title": "Emergency warning lifted, numerous roads remain shut - The Courier Mail",
+    "pubDate": "Mon, 26 Oct 2026 06:55:35 GMT"
    },
    {
-    "title": "Dongara holds fire safety training for women \u2014 ABC News Australia - UA.NEWS",
-    "pubDate": "Mon, 26 Oct 2026 00:26:07 GMT"
+    "title": "Severe weather update: Further severe thunderstorms for Qld and NSW - The Bureau of Meteorology",
+    "pubDate": "Mon, 26 Oct 2026 04:24:56 GMT"
    }
   ],
   "au_security_news": [
    {
+    "title": "Ship strengthens ties with namesake region - news.defence.gov.au",
+    "pubDate": "Tue, 27 Oct 2026 03:01:29 GMT"
+   },
+   {
     "title": "Australian gov\u2019t commits $245M to defence manufacturing facility in WA - Australian Manufacturing",
     "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
+   },
+   {
+    "title": "Kellie Parker appointed as National Armaments Director - Australian Defence Magazine",
+    "pubDate": "Tue, 27 Oct 2026 04:03:56 GMT"
    },
    {
     "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
@@ -890,16 +894,8 @@
     "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
    },
    {
-    "title": "Cyber security threats rise as AI menace gathers pace - Australian Conveyancer",
-    "pubDate": "Tue, 27 Oct 2026 03:07:56 GMT"
-   },
-   {
     "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
-    "pubDate": "Tue, 27 Oct 2026 02:37:56 GMT"
-   },
-   {
-    "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns - The Guardian",
-    "pubDate": "Tue, 27 Oct 2026 00:52:00 GMT"
+    "pubDate": "Tue, 27 Oct 2026 04:35:42 GMT"
    }
   ],
   "au_health_news": [

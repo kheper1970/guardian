@@ -1,6 +1,30 @@
 {
- "collected_utc": "2026-10-27T14:45:01.246211+00:00",
+ "collected_utc": "2026-10-27T15:45:01.731612+00:00",
  "earthquakes": [
+  {
+   "mag": 5,
+   "place": "27 km W of R\u00edo Grande, Panama",
+   "time": 1793114762987,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgm",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.4,
+   "place": "128 km S of Pundong, Indonesia",
+   "time": 1793112240933,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "156 km S of Pundong, Indonesia",
+   "time": 1793112189497,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgh",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "5 km ENE of Tierra y Libertad, Mexico",
@@ -136,21 +160,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "154 km NW of Port-Olry, Vanuatu",
-   "time": 1793027305118,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttby",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-27T09:00:00",
-   "Kp": 1.33,
-   "a_running": 5,
+   "time_tag": "2026-10-27T12:00:00",
+   "Kp": 2.0,
+   "a_running": 7,
    "station_count": 8
   },
   "kp_max_24h": 2.67,
@@ -392,8 +408,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/144318.shtml?cone",
-     "pubDate": "Tue, 27 Oct 2026 14:43:18 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152310.shtml?cone",
+     "pubDate": "Tue, 27 Oct 2026 15:23:10 GMT"
     }
    ]
   }
@@ -597,39 +613,43 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
+   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
+  {
+   "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
+   "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
+  },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here's what to buy - The Independent",
    "pubDate": "Tue, 27 Oct 2026 08:51:00 GMT"
@@ -657,10 +677,6 @@
   {
    "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
    "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
-  },
-  {
-   "title": "Can emergency cash buy food security? - UNU | United Nations University",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   }
  ],
  "australia": {
@@ -892,12 +908,12 @@
     "pubDate": "Tue, 27 Oct 2026 12:00:00 GMT"
    },
    {
-    "title": "Kellie Parker appointed as National Armaments Director - Australian Defence Magazine",
-    "pubDate": "Tue, 27 Oct 2026 04:03:56 GMT"
+    "title": "Aukus continues at pace with announcement of first US sub assigned to rotational force - Forces News",
+    "pubDate": "Tue, 27 Oct 2026 13:08:01 GMT"
    },
    {
-    "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
-    "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
+    "title": "Kellie Parker appointed as National Armaments Director - Australian Defence Magazine",
+    "pubDate": "Tue, 27 Oct 2026 04:03:56 GMT"
    }
   ],
   "au_health_news": [

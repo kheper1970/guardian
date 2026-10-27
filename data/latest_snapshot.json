@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T19:45:01.688425+00:00",
+ "collected_utc": "2026-10-27T20:45:01.969691+00:00",
  "earthquakes": [
   {
    "mag": 5.4,
@@ -167,14 +167,6 @@
    "time": 1793047931505,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc8",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "89 km SSE of Pondaguitan, Philippines",
-   "time": 1793047285106,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc6",
    "type": "earthquake"
   }
  ],
@@ -431,209 +423,7 @@
   }
  ],
  "eonet": {
-  "open_total": 34,
-  "tracked": [
-   {
-    "title": "Tropical Cyclone Arnab",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-27T12:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729"
-   },
-   {
-    "title": "Tropical Storm Olana",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-27T00:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730"
-   },
-   {
-    "title": "Wildfire Range  47B, Forrest, Mississippi",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-24T17:10:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769"
-   },
-   {
-    "title": "Typhoon In-fa",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-27T12:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
-   },
-   {
-    "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-22T21:45:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590"
-   },
-   {
-    "title": "Hurricane Vance",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-27T12:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
-   },
-   {
-    "title": "Prescribed Fire Frog Tank 2 Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-21T15:57:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25768"
-   },
-   {
-    "title": "Tropical Cyclone Agueda",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-23T18:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457"
-   },
-   {
-    "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-18T08:25:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455"
-   },
-   {
-    "title": "Wildfire Bras, Sanders, Montana",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-17T23:28:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25591"
-   },
-   {
-    "title": "Wildfire COOLEY, Mendocino, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T20:14:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450"
-   },
-   {
-    "title": "Wildfire NORTE, Orange, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T14:52:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25452"
-   },
-   {
-    "title": "Prescribed Fire Rx Polk 9275, Polk, Texas",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T08:31:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25454"
-   },
-   {
-    "title": "Wildfire HENDERSON, San Diego, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-15T17:11:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25451"
-   },
-   {
-    "title": "Super Typhoon Champi",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-25T18:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
-   },
-   {
-    "title": "Prescribed Fire Newman 2 Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-15T11:29:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25456"
-   },
-   {
-    "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-14T10:42:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310"
-   },
-   {
-    "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-13T10:24:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311"
-   },
-   {
-    "title": "Prescribed Fire SRF 2026 Rx Implementation, Humboldt, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-12T16:27:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25312"
-   },
-   {
-    "title": "Wildfire Buckhorn 2, Cassia, Idaho",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-10T14:58:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238"
-   },
-   {
-    "title": "Wildfire PK, Sheridan, Wyoming",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T19:26:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233"
-   },
-   {
-    "title": "Wildfire CYRUS, Kern, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T17:15:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232"
-   },
-   {
-    "title": "Prescribed Fire Bridger Trail Unit - KPERP Rx NKRD CY26, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T11:49:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25234"
-   },
-   {
-    "title": "Wildfire Craig Lake 1, Baraga, Michigan",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-08T18:05:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25309"
-   },
-   {
-    "title": "Prescribed Fire COOPER UNIT - KPERP RX NKRD  CY26, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-08T12:16:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25235"
-   }
-  ]
+  "error": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
  },
  "nuclear_news": [
   {
@@ -691,59 +481,59 @@
    "pubDate": "Tue, 27 Oct 2026 08:51:00 GMT"
   },
   {
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+  },
+  {
    "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
-   "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
-   "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
-  },
-  {
-   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+   "title": "Can emergency cash buy food security? - UNU | United Nations University",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Thousands NSW drivers overcharged in green slip postcode blunder",
-    "pubDate": "Tue, 27 Oct 2026 19:40:41 +0000"
+    "title": "Schoolgirl's family calls for $1m reward to help solve cold case",
+    "pubDate": "Tue, 27 Oct 2026 20:37:58 +0000"
    },
    {
-    "title": "Ancient tree with strong smell wins Tree of the Year",
-    "pubDate": "Tue, 27 Oct 2026 19:33:05 +0000"
+    "title": "NT Health backtracks on claim only five patients impacted by privacy breach",
+    "pubDate": "Tue, 27 Oct 2026 20:37:49 +0000"
    },
    {
-    "title": "Live: Polls to close in Israel's most seismic election in decades",
-    "pubDate": "Tue, 27 Oct 2026 19:30:11 +0000"
+    "title": "Police use DNA advances to identify another Ted Bundy victim from 70s",
+    "pubDate": "Tue, 27 Oct 2026 20:34:20 +0000"
    },
    {
-    "title": "Man charged over allegedly false Bondi terror attack injury claim",
-    "pubDate": "Tue, 27 Oct 2026 19:18:36 +0000"
+    "title": "Trump embarks on Texas campaign swing to shore up votes for lagging ally",
+    "pubDate": "Tue, 27 Oct 2026 20:25:31 +0000"
    },
    {
-    "title": "Women at NSW correctional facility left without access to period products",
-    "pubDate": "Tue, 27 Oct 2026 19:06:51 +0000"
+    "title": "Live: ASX poised to edge up ahead of inflation release",
+    "pubDate": "Tue, 27 Oct 2026 20:19:09 +0000"
    },
    {
-    "title": "More supervision of university exams to combat AI use",
-    "pubDate": "Tue, 27 Oct 2026 19:04:59 +0000"
+    "title": "Australia clawed its way back into the third Test, but big challenges await",
+    "pubDate": "Tue, 27 Oct 2026 20:16:44 +0000"
    },
    {
-    "title": "A watered down ICAC gets called up for a full-bodied political scandal",
-    "pubDate": "Tue, 27 Oct 2026 19:04:15 +0000"
+    "title": "Live: Australia Post CEO reveals 'mind-blowing' bonus",
+    "pubDate": "Tue, 27 Oct 2026 20:01:42 +0000"
    },
    {
-    "title": "Council removes former mayor's name from plaques after assault of teen",
-    "pubDate": "Tue, 27 Oct 2026 19:03:10 +0000"
+    "title": "One Nation colouring book intended for kids depicts Bluey being robbed",
+    "pubDate": "Tue, 27 Oct 2026 20:00:58 +0000"
    },
    {
-    "title": "Federal MP's partner builds social media tool after seeing the hate she receives",
-    "pubDate": "Tue, 27 Oct 2026 18:52:31 +0000"
+    "title": "Regional Australians are feeling lonely, but these Old Bastards are helping",
+    "pubDate": "Wed, 28 Oct 2026 07:30:00 +0000"
    },
    {
-    "title": "Police investigate fatal shooting in Melbourne's north",
-    "pubDate": "Tue, 27 Oct 2026 18:49:57 +0000"
+    "title": "Woman moved on desk chair after waiting 12 hours for an ambulance",
+    "pubDate": "Tue, 27 Oct 2026 19:45:00 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -874,8 +664,16 @@
   ],
   "au_emergency_news": [
    {
+    "title": "Should Australians be preparing for disaster? Some are \u2013 but don\u2019t call them \u2018preppers\u2019 - The Conversation",
+    "pubDate": "Tue, 27 Oct 2026 00:03:00 GMT"
+   },
+   {
     "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
-    "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
+    "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
+   },
+   {
+    "title": "Former councillor dies in floodwaters on Queensland's Fraser Coast - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Tue, 27 Oct 2026 08:00:00 GMT"
    },
    {
     "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
@@ -884,10 +682,6 @@
    {
     "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
     "pubDate": "Mon, 26 Oct 2026 13:03:39 GMT"
-   },
-   {
-    "title": "Woman spearheads bushfire safety push after friends 'didn't know what to do' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
    },
    {
     "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
@@ -900,10 +694,6 @@
    {
     "title": "AI will make cyber outages inevitable\" Australia's top cyber offial warns as business losses climb - Insurance Business",
     "pubDate": "Tue, 27 Oct 2026 01:55:52 GMT"
-   },
-   {
-    "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
-    "pubDate": "Mon, 26 Oct 2026 23:23:15 GMT"
    }
   ],
   "au_security_news": [
@@ -916,24 +706,24 @@
     "pubDate": "Tue, 27 Oct 2026 19:03:05 GMT"
    },
    {
+    "title": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident - The Guardian",
+    "pubDate": "Tue, 27 Oct 2026 19:28:00 GMT"
+   },
+   {
     "title": "Crude Awakening: How Australia Ranks on Fuel Security - Climate Council",
     "pubDate": "Tue, 27 Oct 2026 13:01:00 GMT"
    },
    {
-    "title": "Australia introduces new legislation to protect Defence bases, personnel from drones - www.defenceconnect.com.au",
-    "pubDate": "Tue, 27 Oct 2026 05:10:26 GMT"
+    "title": "The $9 billion fuel bill raising questions about Australia's energy security - SBS",
+    "pubDate": "Tue, 27 Oct 2026 20:32:19 GMT"
    },
    {
-    "title": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident - The Guardian",
-    "pubDate": "Tue, 27 Oct 2026 14:02:00 GMT"
+    "title": "Australia introduces new legislation to protect Defence bases, personnel from drones - Defence Connect",
+    "pubDate": "Tue, 27 Oct 2026 05:10:26 GMT"
    },
    {
     "title": "Japan\u2013Australia energy relationship pivots to mutual security - East Asia Forum",
     "pubDate": "Tue, 27 Oct 2026 11:00:00 GMT"
-   },
-   {
-    "title": "Australian gov\u2019t commits $245M to defence manufacturing facility in WA - Australian Manufacturing",
-    "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
    },
    {
     "title": "Kellie Parker appointed as National Armaments Director - Australian Defence Magazine",

@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T21:45:01.905413+00:00",
+ "collected_utc": "2026-10-27T22:45:01.700800+00:00",
  "earthquakes": [
   {
    "mag": 5.4,
@@ -143,14 +143,6 @@
    "time": 1793055142912,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd3",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "96 km ENE of Pamandzi, Mayotte",
-   "time": 1793054028538,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd1",
    "type": "earthquake"
   }
  ],
@@ -651,16 +643,12 @@
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
   },
   {
+   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
+   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
+  },
+  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
-  },
-  {
-   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
-   "pubDate": "Tue, 27 Oct 2026 16:30:00 GMT"
-  },
-  {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here's what to buy - The Independent",
@@ -671,16 +659,28 @@
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
-   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
    "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
+  },
+  {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
+   "title": "US, UK among 31 countries warning of \u2018alarming\u2019 Sudan famine - Free Malaysia Today",
+   "pubDate": "Tue, 27 Oct 2026 03:16:16 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Federal government invests $180m in rare earths mine in western Victoria",
+    "pubDate": "Tue, 27 Oct 2026 22:32:34 +0000"
+   },
+   {
+    "title": "NBA's shortest-ever player to have jersey retired",
+    "pubDate": "Tue, 27 Oct 2026 22:12:31 +0000"
+   },
    {
     "title": "Private school headmaster sounds warning on ATAR decline",
     "pubDate": "Tue, 27 Oct 2026 21:40:06 +0000"
@@ -706,20 +706,12 @@
     "pubDate": "Tue, 27 Oct 2026 21:04:52 +0000"
    },
    {
-    "title": "Archaeologist students hoping to repair Indigenous relations",
+    "title": "Archaeology students work beside traditional owners at ancient site",
     "pubDate": "Tue, 27 Oct 2026 21:04:04 +0000"
    },
    {
-    "title": "Eastern Victoria rattled by 18th earthquake in a month",
+    "title": "Victoria rattled by 18th earthquake in a month",
     "pubDate": "Tue, 27 Oct 2026 20:48:36 +0000"
-   },
-   {
-    "title": "Schoolgirl's family calls for $1m reward to help solve cold case",
-    "pubDate": "Tue, 27 Oct 2026 20:37:58 +0000"
-   },
-   {
-    "title": "NT Health admits more patients affected by Instagram post privacy breach",
-    "pubDate": "Tue, 27 Oct 2026 20:37:49 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -855,7 +847,7 @@
    },
    {
     "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
-    "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
+    "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
    },
    {
     "title": "Former councillor dies in floodwaters on Queensland's Fraser Coast - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
@@ -874,12 +866,12 @@
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
-    "title": "Emergency warning lifted, numerous roads remain shut - News.com.au",
-    "pubDate": "Mon, 26 Oct 2026 02:14:10 GMT"
+    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
+    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
    },
    {
-    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
-    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
+    "title": "Emergency warning lifted, numerous roads remain shut - News.com.au",
+    "pubDate": "Mon, 26 Oct 2026 02:14:10 GMT"
    }
   ],
   "au_security_news": [

@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-27T10:45:01.615596+00:00",
+ "collected_utc": "2026-10-27T11:45:01.778935+00:00",
  "earthquakes": [
+  {
+   "mag": 5.2,
+   "place": "191 km NW of Port-Olry, Vanuatu",
+   "time": 1793098235418,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5,
+   "place": "184 km NW of Port-Olry, Vanuatu",
+   "time": 1793095591916,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj",
+   "type": "earthquake"
+  },
   {
    "mag": 5,
    "place": "206 km NW of Port-Olry, Vanuatu",
@@ -119,30 +135,6 @@
    "time": 1793016810652,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "81 km SSE of Akutan, Alaska",
-   "time": 1793014686778,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "218 km NW of Port-Olry, Vanuatu",
-   "time": 1793013475055,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "South Sandwich Islands region",
-   "time": 1793012515933,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z3",
    "type": "earthquake"
   }
  ],
@@ -597,10 +589,6 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Mon, 26 Oct 2026 16:10:23 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
@@ -609,24 +597,28 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
+   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -639,24 +631,24 @@
    "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
-   "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
-  },
-  {
    "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
+  },
+  {
+   "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
+   "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
    "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
    "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
-   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
-  },
-  {
    "title": "US, UK among 31 countries warning of \u2018alarming\u2019 Sudan famine - Free Malaysia Today",
    "pubDate": "Tue, 27 Oct 2026 03:16:16 GMT"
+  },
+  {
+   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
+   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
@@ -853,7 +845,7 @@
    },
    {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
-    "pubDate": "Mon, 26 Oct 2026 23:35:07 GMT"
+    "pubDate": "Mon, 26 Oct 2026 23:23:15 GMT"
    },
    {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
@@ -870,8 +862,8 @@
     "pubDate": "Tue, 27 Oct 2026 05:10:26 GMT"
    },
    {
-    "title": "Former Rio chief takes on Canberra\u2019s billion-dollar defence blob - The Australian",
-    "pubDate": "Tue, 27 Oct 2026 06:54:34 GMT"
+    "title": "Japan\u2013Australia energy relationship pivots to mutual security - East Asia Forum",
+    "pubDate": "Tue, 27 Oct 2026 11:00:00 GMT"
    },
    {
     "title": "Australian gov\u2019t commits $245M to defence manufacturing facility in WA - Australian Manufacturing",
@@ -882,16 +874,16 @@
     "pubDate": "Tue, 27 Oct 2026 04:03:56 GMT"
    },
    {
-    "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
-    "pubDate": "Tue, 27 Oct 2026 07:35:45 GMT"
+    "title": "Australian PM flags improved security for politicians following attack - chinadailyhk",
+    "pubDate": "Tue, 27 Oct 2026 10:19:38 GMT"
+   },
+   {
+    "title": "\u2018Are you waiting for me to be attacked?\u2019 Fatima Payman slams PM over office security - The Guardian",
+    "pubDate": "Tue, 27 Oct 2026 05:19:00 GMT"
    },
    {
     "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
     "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
-   },
-   {
-    "title": "Defence budget cuts loom as AUKUS squeeze bites - The Nightly",
-    "pubDate": "Tue, 27 Oct 2026 08:26:15 GMT"
    }
   ],
   "au_health_news": [

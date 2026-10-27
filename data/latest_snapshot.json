@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T07:45:01.194352+00:00",
+ "collected_utc": "2026-10-27T08:45:01.655089+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -128,22 +128,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "56 km S of Kuril\u2019sk, Russia",
-   "time": 1793002233644,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yj",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "107 km WNW of Tumxuk, China",
-   "time": 1793000896240,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yi",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -231,8 +215,8 @@
  "gdacs": [
   {
    "severity": "Red",
-   "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.667 million .",
-   "description": "From 26/10/2026 to 27/10/2026, a Hurricane/Typhoon &gt; 74 mph (maximum wind speed of 185 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 4.667 million .",
+   "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.447 million .",
+   "description": "From 26/10/2026 to 27/10/2026, a Hurricane/Typhoon &gt; 74 mph (maximum wind speed of 222 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 7.447 million .",
    "pubdate": "2026-10-26T01:51:40Z"
   },
   {
@@ -631,8 +615,12 @@
  ],
  "famine_news": [
   {
+   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
+   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Tue, 27 Oct 2026 07:37:48 GMT"
+   "pubDate": "Tue, 27 Oct 2026 08:13:17 GMT"
   },
   {
    "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
@@ -651,10 +639,6 @@
    "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   },
   {
-   "title": "US, UK among 31 countries warning of \u2018alarming\u2019 Sudan famine - Free Malaysia Today",
-   "pubDate": "Tue, 27 Oct 2026 03:16:16 GMT"
-  },
-  {
    "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
    "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   },
@@ -666,7 +650,23 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Live: Smith set to miss South Africa series finale due to neck injury",
+    "title": "Man charged with murder over alleged fatal stabbing of partner",
+    "pubDate": "Tue, 27 Oct 2026 08:36:01 +0000"
+   },
+   {
+    "title": "Former Qld education worker charged with historical child sex offences",
+    "pubDate": "Tue, 27 Oct 2026 08:16:58 +0000"
+   },
+   {
+    "title": "Dementia deaths in Australia surpass one in 10 of all fatalities",
+    "pubDate": "Tue, 27 Oct 2026 08:02:24 +0000"
+   },
+   {
+    "title": "China tipped to 'step forward' as Woodside exits Timor-Leste gas project",
+    "pubDate": "Tue, 27 Oct 2026 07:53:58 +0000"
+   },
+   {
+    "title": "Live: Inglis replaces injured Smith as Australia elects to field first",
     "pubDate": "Tue, 27 Oct 2026 07:30:17 +0000"
    },
    {
@@ -688,22 +688,6 @@
    {
     "title": "Mother grieves for son killed in 'skid car' crash as driver is jailed",
     "pubDate": "Tue, 27 Oct 2026 06:33:04 +0000"
-   },
-   {
-    "title": "Woman stabbed ex-girlfriend while partner restrained her, murder trial told",
-    "pubDate": "Tue, 27 Oct 2026 06:23:12 +0000"
-   },
-   {
-    "title": "Tasmania Devils' inaugural VFL captain axed after pub incident",
-    "pubDate": "Tue, 27 Oct 2026 06:17:52 +0000"
-   },
-   {
-    "title": "Giant, spiked hail falls as 'very dangerous' storms hit Queensland",
-    "pubDate": "Tue, 27 Oct 2026 06:15:52 +0000"
-   },
-   {
-    "title": "Music mogul Jay-Z picks himself to perform at next Super Bowl",
-    "pubDate": "Tue, 27 Oct 2026 06:03:33 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -724,8 +708,8 @@
     "category": "Advice"
    },
    {
-    "title": "CLAINES CR, WENTWORTH FALLS",
-    "category": "Not Applicable"
+    "title": "Sterling Way, Hamlyn Terrace",
+    "category": "Advice"
    },
    {
     "title": "DUKES RD, LAKE ALBERT",
@@ -745,10 +729,6 @@
    },
    {
     "title": "MOUNT NOMBI RD, NOMBI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "NEW ENGLAND HWY, METFORD",
     "category": "Not Applicable"
    },
    {
@@ -844,12 +824,12 @@
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
-    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
-    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
-   },
-   {
     "title": "Woman spearheads bushfire safety push after friends 'didn't know what to do' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
+   },
+   {
+    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
+    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
    },
    {
     "title": "AI will make cyber outages inevitable\" Australia's top cyber offial warns as business losses climb - Insurance Business",
@@ -870,6 +850,10 @@
     "pubDate": "Tue, 27 Oct 2026 05:50:50 GMT"
    },
    {
+    "title": "Australia introduces new legislation to protect Defence bases, personnel from drones - www.defenceconnect.com.au",
+    "pubDate": "Tue, 27 Oct 2026 05:10:26 GMT"
+   },
+   {
     "title": "Former Rio chief takes on Canberra\u2019s billion-dollar defence blob - The Australian",
     "pubDate": "Tue, 27 Oct 2026 06:54:34 GMT"
    },
@@ -886,16 +870,12 @@
     "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
    },
    {
-    "title": "Former Rio Tinto Australia CEO appointed as National Armaments Director - www.defenceconnect.com.au",
-    "pubDate": "Tue, 27 Oct 2026 00:06:08 GMT"
-   },
-   {
-    "title": "$245 million to strengthen local manufacturing for Australia\u2019s defence capability - Marine Business News",
-    "pubDate": "Mon, 26 Oct 2026 20:01:49 GMT"
-   },
-   {
     "title": "Cyber security threats rise as AI menace gathers pace - Australian Conveyancer",
-    "pubDate": "Tue, 27 Oct 2026 03:07:56 GMT"
+    "pubDate": "Tue, 27 Oct 2026 06:39:23 GMT"
+   },
+   {
+    "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
+    "pubDate": "Tue, 27 Oct 2026 06:05:43 GMT"
    }
   ],
   "au_health_news": [

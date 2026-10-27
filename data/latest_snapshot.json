@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-27T01:45:01.081240+00:00",
+ "collected_utc": "2026-10-27T02:45:01.532235+00:00",
  "earthquakes": [
+  {
+   "mag": 4.9,
+   "place": "69 km WSW of Kirakira, Solomon Islands",
+   "time": 1793066575847,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "203 km SSE of Tateyama, Japan",
@@ -387,61 +395,29 @@
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Vance Public Advisory Number 22",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/262034.shtml",
-     "pubDate": "Mon, 26 Oct 2026 20:34:14 GMT"
+     "title": "Tropical Storm Vance Public Advisory Number 23",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/270231.shtml",
+     "pubDate": "Tue, 27 Oct 2026 02:31:20 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Advisory Number 22",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/262033.shtml",
-     "pubDate": "Mon, 26 Oct 2026 20:33:51 GMT"
+     "title": "Tropical Storm Vance Forecast Advisory Number 23",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/270230.shtml",
+     "pubDate": "Tue, 27 Oct 2026 02:30:48 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Discussion Number 22",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/262034.shtml",
-     "pubDate": "Mon, 26 Oct 2026 20:34:45 GMT"
+     "title": "Tropical Storm Vance Forecast Discussion Number 23",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/270231.shtml",
+     "pubDate": "Tue, 27 Oct 2026 02:31:48 GMT"
     },
     {
-     "title": "Tropical Storm Vance Wind Speed Probabilities Number 22",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/262034.shtml",
-     "pubDate": "Mon, 26 Oct 2026 20:34:14 GMT"
+     "title": "Tropical Storm Vance Wind Speed Probabilities Number 23",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/270231.shtml",
+     "pubDate": "Tue, 27 Oct 2026 02:31:20 GMT"
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212824.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 21:28:24 GMT"
-    }
-   ]
-  },
-  {
-   "storm": "Olana",
-   "type": "Tropical Depression",
-   "basin": "central_pacific",
-   "advisories": [
-    {
-     "title": "Tropical Depression Olana Public Advisory Number 6",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP3+shtml/262033.shtml",
-     "pubDate": "Mon, 26 Oct 2026 20:33:19 GMT"
-    },
-    {
-     "title": "Tropical Depression Olana Forecast Advisory Number 6",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP3+shtml/262032.shtml",
-     "pubDate": "Mon, 26 Oct 2026 20:32:45 GMT"
-    },
-    {
-     "title": "Tropical Depression Olana Forecast Discussion Number 6",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP3+shtml/262033.shtml",
-     "pubDate": "Mon, 26 Oct 2026 20:33:46 GMT"
-    },
-    {
-     "title": "Tropical Depression Olana Wind Speed Probabilities Number 6",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP3+shtml/262033.shtml",
-     "pubDate": "Mon, 26 Oct 2026 20:33:19 GMT"
-    },
-    {
-     "title": "Tropical Depression Olana Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/212241.shtml?cone",
-     "pubDate": "Mon, 26 Oct 2026 21:22:41 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/023505.shtml?cone",
+     "pubDate": "Tue, 27 Oct 2026 02:35:05 GMT"
     }
    ]
   }
@@ -645,6 +621,10 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Mon, 26 Oct 2026 16:10:23 GMT"
+  },
+  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
@@ -671,16 +651,16 @@
   {
    "title": "Transport of Radioactive Material - World Nuclear Association",
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
-  },
-  {
-   "title": "IAEA says a drone targeted Zaporizhzhia nuclear power plant's external radiation control laboratory - Reuters",
-   "pubDate": "Sun, 03 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
    "pubDate": "Tue, 27 Oct 2026 01:37:48 GMT"
+  },
+  {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
@@ -695,26 +675,38 @@
    "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   },
   {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Food insecurity growing across Nova Scotia, HungerCounts report indicates - - The Laker",
-   "pubDate": "Sun, 25 Oct 2026 18:34:48 GMT"
+   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
+   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Should we replace controversial colonial statues? Hobart just did",
+    "title": "This could be the biggest investment bet in the history of global capitalism",
+    "pubDate": "Tue, 27 Oct 2026 02:22:26 +0000"
+   },
+   {
+    "title": "Williams eyes Melbourne Cup success with horse he'll meet in the yard",
+    "pubDate": "Tue, 27 Oct 2026 02:20:47 +0000"
+   },
+   {
+    "title": "Five things I'm asked about dwarfism, and my honest responses",
+    "pubDate": "Tue, 27 Oct 2026 02:02:01 +0000"
+   },
+   {
+    "title": "Department sinks PM's claim $6m golf club grant was to fix sewage issues",
+    "pubDate": "Tue, 27 Oct 2026 01:53:00 +0000"
+   },
+   {
+    "title": "Should we replace colonial statues? Hobart just did",
     "pubDate": "Tue, 27 Oct 2026 01:12:25 +0000"
    },
    {
@@ -736,22 +728,6 @@
    {
     "title": "Randa Abdel-Fattah to appear at Adelaide Writers' Week",
     "pubDate": "Tue, 27 Oct 2026 00:30:14 +0000"
-   },
-   {
-    "title": "Brisbane hospital boards lack Indigenous voices despite legal requirements",
-    "pubDate": "Mon, 26 Oct 2026 23:59:10 +0000"
-   },
-   {
-    "title": "Queensland youth advocate claims government cut budget in retaliation",
-    "pubDate": "Mon, 26 Oct 2026 23:57:12 +0000"
-   },
-   {
-    "title": "Alleged High Country killer Greg Lynn denied bail",
-    "pubDate": "Mon, 26 Oct 2026 23:46:41 +0000"
-   },
-   {
-    "title": "Darwin city mall reopened after false report of 'credible threat'",
-    "pubDate": "Mon, 26 Oct 2026 23:39:23 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -764,11 +740,19 @@
     "category": "Advice"
    },
    {
+    "title": "BENDOOLEY ST, BOWRAL",
+    "category": "Not Applicable"
+   },
+   {
     "title": "BLOODWOOD RD, FIDDLETOWN",
     "category": "Not Applicable"
    },
    {
     "title": "CLAINES CR, WENTWORTH FALLS",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HARBOUR BVD, HARRINGTON",
     "category": "Not Applicable"
    },
    {
@@ -788,15 +772,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PEBBLY HILL RD, CATTAI",
-    "category": "Not Applicable"
-   },
-   {
     "title": "TARRANTS GAP RD, REIDS FLAT",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "TAYLORS FLAT RD, TAYLORS FLAT",
     "category": "Not Applicable"
    },
    {
@@ -892,15 +868,23 @@
     "pubDate": "Mon, 26 Oct 2026 07:20:00 GMT"
    },
    {
-    "title": "Emergency warning lifted, numerous roads remain shut - The Courier Mail",
-    "pubDate": "Mon, 26 Oct 2026 06:55:35 GMT"
-   },
-   {
     "title": "\u2018Trifecta\u2019: Severe storms hit millions - The Australian",
     "pubDate": "Sun, 25 Oct 2026 03:03:40 GMT"
+   },
+   {
+    "title": "Dongara holds fire safety training for women \u2014 ABC News Australia - UA.NEWS",
+    "pubDate": "Mon, 26 Oct 2026 00:26:07 GMT"
    }
   ],
   "au_security_news": [
+   {
+    "title": "Australian gov\u2019t commits $245M to defence manufacturing facility in WA - Australian Manufacturing",
+    "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
+   },
+   {
+    "title": "Former Rio Tinto Australia CEO appointed as National Armaments Director - www.defenceconnect.com.au",
+    "pubDate": "Tue, 27 Oct 2026 00:06:08 GMT"
+   },
    {
     "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
     "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
@@ -919,19 +903,11 @@
    },
    {
     "title": "Australia warns of \u2018unprecedented\u2019 AI threat - The Australian",
-    "pubDate": "Tue, 27 Oct 2026 00:24:17 GMT"
+    "pubDate": "Tue, 27 Oct 2026 01:12:05 GMT"
    },
    {
-    "title": "The 2026 US Midterm Elections: Ramifications for Australia - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-    "pubDate": "Tue, 27 Oct 2026 00:38:35 GMT"
-   },
-   {
-    "title": "Australia warns AI will make cyber disruptions increasingly unavoidable - Proactive Investors Australia",
-    "pubDate": "Mon, 26 Oct 2026 23:46:54 GMT"
-   },
-   {
-    "title": "First AUKUS nuclear sub to come to Australia revealed - Michael West Media",
-    "pubDate": "Mon, 26 Oct 2026 22:45:20 GMT"
+    "title": "Cyber security threats rise as AI menace gathers pace - Australian Conveyancer",
+    "pubDate": "Mon, 26 Oct 2026 22:28:35 GMT"
    }
   ],
   "au_health_news": [

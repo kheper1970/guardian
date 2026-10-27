@@ -65,10 +65,32 @@ def assess(snapshot):
                  f"(storm threshold G3 = Kp {KP_STORM_ALERT})")
     if kp_max is not None and kp_max >= KP_STORM_ALERT:
         alerts.append(f"GEOMAGNETIC STORM: Kp reached {kp_max} in last 24h")
-    for a in sw.get("alerts_recent", [])[-3:]:
-        first = (a.get("message") or "").splitlines()
-        headline = next((l for l in first if l.strip()), "")[:120]
-        lines.append(f"- SWPC alert {a.get('id')}: {headline}")
+    # SWPC alerts: newest first, dedup by message code (continuation serials),
+    # and show the meaningful ALERT/WATCH line rather than the boilerplate header.
+    swpc_sorted = sorted(sw.get("alerts_recent") or [],
+                         key=lambda a: str(a.get("issued") or ""), reverse=True)
+    seen_codes = set()
+    for a in swpc_sorted:
+        code = a.get("id")
+        if code in seen_codes:
+            continue
+        seen_codes.add(code)
+        if len(seen_codes) > 3:
+            break
+        msg = (a.get("message") or "").splitlines()
+        headline = ""
+        for l in msg:
+            ls = l.strip()
+            if ls and ls.upper().startswith(("ALERT", "WATCH", "WARNING", "SUMMARY", "CANCEL", "EXTENDED")):
+                headline = ls
+                break
+        if not headline:
+            for l in msg:
+                ls = l.strip()
+                if ls and not ls.lower().startswith(("space weather message code", "serial number", "issue time")):
+                    headline = ls
+                    break
+        lines.append(f"- SWPC alert {code} ({a.get('issued','')[:16]}): {headline[:120]}")
     lines.append("")
 
     neo = snapshot.get("neo", {})

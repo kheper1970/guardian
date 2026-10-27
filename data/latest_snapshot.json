@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-27T11:45:01.778935+00:00",
+ "collected_utc": "2026-10-27T12:45:01.886590+00:00",
  "earthquakes": [
+  {
+   "mag": 4.6,
+   "place": "5 km ENE of Tierra y Libertad, Mexico",
+   "time": 1793102471952,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "100 km W of El Aguilar, Argentina",
+   "time": 1793101282141,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
+   "type": "earthquake"
+  },
   {
    "mag": 5.2,
    "place": "191 km NW of Port-Olry, Vanuatu",
@@ -128,21 +144,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttby",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.2,
-   "place": "205 km NW of Port-Olry, Vanuatu",
-   "time": 1793016810652,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-27T06:00:00",
-   "Kp": 1.67,
-   "a_running": 6,
+   "time_tag": "2026-10-27T09:00:00",
+   "Kp": 1.33,
+   "a_running": 5,
    "station_count": 8
   },
   "kp_max_24h": 2.67,
@@ -384,8 +392,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/092241.shtml?cone",
-     "pubDate": "Tue, 27 Oct 2026 09:22:41 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/124242.shtml?cone",
+     "pubDate": "Tue, 27 Oct 2026 12:42:42 GMT"
     }
    ]
   }
@@ -820,12 +828,12 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
-    "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
-   },
-   {
     "title": "Former councillor dies in floodwaters on Queensland's Fraser Coast - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Tue, 27 Oct 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
+    "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
    },
    {
     "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
@@ -836,20 +844,20 @@
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
-    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
-    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
-   },
-   {
-    "title": "AI will make cyber outages inevitable\" Australia's top cyber offial warns as business losses climb - Insurance Business",
-    "pubDate": "Tue, 27 Oct 2026 01:54:28 GMT"
-   },
-   {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
     "pubDate": "Mon, 26 Oct 2026 23:23:15 GMT"
    },
    {
+    "title": "Adelaide hit by \"significant\" earthquake \u2013 aftershock warning in effect - Insurance Business",
+    "pubDate": "Tue, 27 Oct 2026 01:50:02 GMT"
+   },
+   {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
     "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
+   },
+   {
+    "title": "Millions still in firing line of severe storms as east coast regions brace for flash flooding - News24",
+    "pubDate": "Mon, 26 Oct 2026 04:30:11 GMT"
    }
   ],
   "au_security_news": [
@@ -878,12 +886,12 @@
     "pubDate": "Tue, 27 Oct 2026 10:19:38 GMT"
    },
    {
-    "title": "\u2018Are you waiting for me to be attacked?\u2019 Fatima Payman slams PM over office security - The Guardian",
-    "pubDate": "Tue, 27 Oct 2026 05:19:00 GMT"
-   },
-   {
     "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
     "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
+   },
+   {
+    "title": "\u2018Are you waiting for me to be attacked?\u2019 Fatima Payman slams PM over office security - The Guardian",
+    "pubDate": "Tue, 27 Oct 2026 05:19:00 GMT"
    }
   ],
   "au_health_news": [

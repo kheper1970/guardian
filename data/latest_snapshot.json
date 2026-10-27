@@ -1,6 +1,30 @@
 {
- "collected_utc": "2026-10-27T08:45:01.655089+00:00",
+ "collected_utc": "2026-10-27T09:45:02.039755+00:00",
  "earthquakes": [
+  {
+   "mag": 5,
+   "place": "206 km NW of Port-Olry, Vanuatu",
+   "time": 1793092855730,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5,
+   "place": "95 km NNE of Hihifo, Tonga",
+   "time": 1793092065122,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.8,
+   "place": "196 km NW of Port-Olry, Vanuatu",
+   "time": 1793091323290,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
+   "type": "earthquake"
+  },
   {
    "mag": 4.9,
    "place": "69 km WSW of Kirakira, Solomon Islands",
@@ -132,9 +156,9 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-27T03:00:00",
-   "Kp": 2.67,
-   "a_running": 12,
+   "time_tag": "2026-10-27T06:00:00",
+   "Kp": 1.67,
+   "a_running": 6,
    "station_count": 8
   },
   "kp_max_24h": 2.67,
@@ -355,29 +379,29 @@
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Vance Public Advisory Number 23",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/270231.shtml",
-     "pubDate": "Tue, 27 Oct 2026 02:31:20 GMT"
+     "title": "Tropical Storm Vance Public Advisory Number 24",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/270848.shtml",
+     "pubDate": "Tue, 27 Oct 2026 08:48:52 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Advisory Number 23",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/270230.shtml",
-     "pubDate": "Tue, 27 Oct 2026 02:30:48 GMT"
+     "title": "Tropical Storm Vance Forecast Advisory Number 24",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/270848.shtml",
+     "pubDate": "Tue, 27 Oct 2026 08:48:22 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Discussion Number 23",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/270231.shtml",
-     "pubDate": "Tue, 27 Oct 2026 02:31:48 GMT"
+     "title": "Tropical Storm Vance Forecast Discussion Number 24",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/270849.shtml",
+     "pubDate": "Tue, 27 Oct 2026 08:49:52 GMT"
     },
     {
-     "title": "Tropical Storm Vance Wind Speed Probabilities Number 23",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/270231.shtml",
-     "pubDate": "Tue, 27 Oct 2026 02:31:20 GMT"
+     "title": "Tropical Storm Vance Wind Speed Probabilities Number 24",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/270848.shtml",
+     "pubDate": "Tue, 27 Oct 2026 08:48:52 GMT"
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/032822.shtml?cone",
-     "pubDate": "Tue, 27 Oct 2026 03:28:22 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/092241.shtml?cone",
+     "pubDate": "Tue, 27 Oct 2026 09:22:41 GMT"
     }
    ]
   }
@@ -589,28 +613,28 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
-   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
+   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -620,7 +644,7 @@
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Tue, 27 Oct 2026 08:13:17 GMT"
+   "pubDate": "Tue, 27 Oct 2026 09:07:48 GMT"
   },
   {
    "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
@@ -650,6 +674,18 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Loyal back to reclaim Sydney to Hobart record",
+    "pubDate": "Tue, 27 Oct 2026 09:15:10 +0000"
+   },
+   {
+    "title": "Chinese sponsors cut ties with Kylian Mbapp\u00e9 after Mao meme backlash",
+    "pubDate": "Tue, 27 Oct 2026 08:54:59 +0000"
+   },
+   {
+    "title": "Company director charged over alleged kickbacks in Pilbara corruption scandal",
+    "pubDate": "Tue, 27 Oct 2026 08:50:42 +0000"
+   },
+   {
     "title": "Man charged with murder over alleged fatal stabbing of partner",
     "pubDate": "Tue, 27 Oct 2026 08:36:01 +0000"
    },
@@ -666,7 +702,7 @@
     "pubDate": "Tue, 27 Oct 2026 07:53:58 +0000"
    },
    {
-    "title": "Live: Inglis replaces injured Smith as Australia elects to field first",
+    "title": "Live: Aussie bowlers toiling as runs flow for South African openers",
     "pubDate": "Tue, 27 Oct 2026 07:30:17 +0000"
    },
    {
@@ -676,18 +712,6 @@
    {
     "title": "Walsh back at fullback in Kangaroos team to face Cook Islands",
     "pubDate": "Tue, 27 Oct 2026 06:51:57 +0000"
-   },
-   {
-    "title": "Four charged over suspected arson attack on home with family inside",
-    "pubDate": "Tue, 27 Oct 2026 06:41:04 +0000"
-   },
-   {
-    "title": "Gaza ceasefire hasn't stopped Israel committing genocide, UN inquiry finds",
-    "pubDate": "Tue, 27 Oct 2026 06:34:19 +0000"
-   },
-   {
-    "title": "Mother grieves for son killed in 'skid car' crash as driver is jailed",
-    "pubDate": "Tue, 27 Oct 2026 06:33:04 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -701,6 +725,10 @@
    },
    {
     "title": "MEREDITH CR, ST HELENS PARK",
+    "category": "Advice"
+   },
+   {
+    "title": "RIVAL PL, SHALVEY",
     "category": "Advice"
    },
    {
@@ -732,19 +760,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PALMYRA AV, SHANES PARK",
-    "category": "Not Applicable"
-   },
-   {
     "title": "RIVER RD, KYALITE",
     "category": "Not Applicable"
    },
    {
-    "title": "Thornleigh Road",
+    "title": "STERLING WAY, HAMLYN TERRACE",
     "category": "Not Applicable"
    },
    {
-    "title": "WESTVIEW RD, ARMIDALE",
+    "title": "Thornleigh Road",
     "category": "Not Applicable"
    }
   ],
@@ -836,12 +860,12 @@
     "pubDate": "Tue, 27 Oct 2026 01:54:28 GMT"
    },
    {
-    "title": "\u2018Severe\u2019: Wild weather lashes Australia\u2019s east - News.com.au",
-    "pubDate": "Sun, 25 Oct 2026 09:16:39 GMT"
-   },
-   {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
     "pubDate": "Mon, 26 Oct 2026 23:35:07 GMT"
+   },
+   {
+    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
+    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
    }
   ],
   "au_security_news": [
@@ -866,16 +890,16 @@
     "pubDate": "Tue, 27 Oct 2026 04:03:56 GMT"
    },
    {
+    "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
+    "pubDate": "Tue, 27 Oct 2026 07:35:45 GMT"
+   },
+   {
     "title": "Albanese promises Australian MPs security upgrade after Haines attack - Politico",
     "pubDate": "Tue, 27 Oct 2026 01:41:00 GMT"
    },
    {
     "title": "Cyber security threats rise as AI menace gathers pace - Australian Conveyancer",
     "pubDate": "Tue, 27 Oct 2026 06:39:23 GMT"
-   },
-   {
-    "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
-    "pubDate": "Tue, 27 Oct 2026 06:05:43 GMT"
    }
   ],
   "au_health_news": [

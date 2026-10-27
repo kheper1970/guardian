@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-27T17:45:01.446467+00:00",
+ "collected_utc": "2026-10-27T18:45:01.820485+00:00",
  "earthquakes": [
+  {
+   "mag": 4.9,
+   "place": "70 km WNW of Callaguip, Philippines",
+   "time": 1793117273845,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tth4",
+   "type": "earthquake"
+  },
   {
    "mag": 5,
    "place": "south of the Fiji Islands",
@@ -168,21 +176,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.5,
-   "place": "74 km SE of Rasht, Tajikistan",
-   "time": 1793038024209,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-27T12:00:00",
-   "Kp": 2.0,
-   "a_running": 7,
+   "time_tag": "2026-10-27T15:00:00",
+   "Kp": 1.0,
+   "a_running": 4,
    "station_count": 8
   },
   "kp_max_24h": 2.67,
@@ -292,21 +292,21 @@
     "observatory": "avo",
     "color": "ORANGE",
     "alert": "WATCH",
-    "sent_utc": "2026-10-26 18:52:55"
+    "sent_utc": "2026-10-27 18:45:38"
    },
    {
     "volcano": "Shishaldin",
     "observatory": "avo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-26 18:52:55"
+    "sent_utc": "2026-10-27 18:45:38"
    },
    {
     "volcano": "Kilauea",
     "observatory": "hvo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-26 18:10:12"
+    "sent_utc": "2026-10-27 18:10:51"
    },
    {
     "volcano": "Ahyi Seamount",
@@ -637,10 +637,6 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
@@ -649,24 +645,28 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
+   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -695,55 +695,55 @@
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
-   "title": "When Getting Food Means Filling Out Forms - NYC Food Policy Center",
-   "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+   "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
+   "pubDate": "Fri, 23 Oct 2026 15:47:32 GMT"
   },
   {
-   "title": "Can emergency cash buy food security? - UNU | United Nations University",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Flavio Bolsonaro has passports cancelled as whereabouts unclear",
-    "pubDate": "Tue, 27 Oct 2026 17:43:34 +0000"
+    "title": "Australia's rising road toll reverses hard-won safety improvements",
+    "pubDate": "Tue, 27 Oct 2026 18:35:44 +0000"
    },
    {
-    "title": "Nordic leaders press Putin to end Ukraine war in rare phone call",
-    "pubDate": "Tue, 27 Oct 2026 17:22:09 +0000"
+    "title": "How Australian publishers tell if a book has been written by AI",
+    "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000"
    },
    {
-    "title": "Fighting paused in Ukrainian city under deal announced by Melania Trump",
-    "pubDate": "Tue, 27 Oct 2026 10:35:24 +0000"
+    "title": "Test your Halloween movie knowledge with our spooky quiz",
+    "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000"
    },
    {
-    "title": "Two charged with helping Iran over RAF Fairford incident",
-    "pubDate": "Tue, 27 Oct 2026 10:23:15 +0000"
+    "title": "Quiz: Welcome to the travel Thunderdome",
+    "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000"
    },
    {
-    "title": "AFP boss warns boys as young as 12 being radicalised at home",
-    "pubDate": "Tue, 27 Oct 2026 10:13:56 +0000"
+    "title": "Twelve-year-old wins national slam poetry competition with 'Dear ChatGPT'",
+    "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000"
    },
    {
-    "title": "Greens launch $21-a-week tax cut in bid to 'replace Labor'",
-    "pubDate": "Tue, 27 Oct 2026 10:00:07 +0000"
+    "title": "'Critical habitat' decision could affect Macquarie Harbour salmon farms",
+    "pubDate": "Tue, 27 Oct 2026 18:28:47 +0000"
    },
    {
-    "title": "Loyal back to reclaim Sydney to Hobart record",
-    "pubDate": "Tue, 27 Oct 2026 09:15:10 +0000"
+    "title": "Business Council names Victoria worst state for business, again",
+    "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000"
    },
    {
-    "title": "Chinese sponsors cut ties with Kylian Mbapp\u00e9 after Mao meme backlash",
-    "pubDate": "Tue, 27 Oct 2026 08:54:59 +0000"
+    "title": "Crossbench push to give Australians a free way to fight back against big tech",
+    "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000"
    },
    {
-    "title": "Company director charged over alleged kickbacks in Pilbara corruption scandal",
-    "pubDate": "Tue, 27 Oct 2026 08:50:42 +0000"
+    "title": "Will AI crush the things that make life meaningful?",
+    "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000"
    },
    {
-    "title": "Man charged with murder over alleged fatal stabbing of partner",
-    "pubDate": "Tue, 27 Oct 2026 08:36:01 +0000"
+    "title": "50,000 people could get compensation for unlawful Centrelink suspensions",
+    "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -874,6 +874,10 @@
   ],
   "au_emergency_news": [
    {
+    "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
+    "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
+   },
+   {
     "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
     "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
    },
@@ -894,16 +898,12 @@
     "pubDate": "Mon, 26 Oct 2026 23:23:15 GMT"
    },
    {
+    "title": "Emergency warning lifted, numerous roads remain shut - News.com.au",
+    "pubDate": "Mon, 26 Oct 2026 02:14:10 GMT"
+   },
+   {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
     "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
-   },
-   {
-    "title": "Millions still in firing line of severe storms as east coast regions brace for flash flooding - News24",
-    "pubDate": "Mon, 26 Oct 2026 04:30:11 GMT"
-   },
-   {
-    "title": "Emergency warning lifted, numerous roads remain shut - The Courier Mail",
-    "pubDate": "Mon, 26 Oct 2026 03:26:57 GMT"
    }
   ],
   "au_security_news": [
@@ -920,16 +920,16 @@
     "pubDate": "Tue, 27 Oct 2026 14:02:00 GMT"
    },
    {
+    "title": "Defence recruits former Rio Tinto chief to spearhead military manufacturing push - The Mandarin",
+    "pubDate": "Tue, 27 Oct 2026 18:35:58 GMT"
+   },
+   {
     "title": "Japan\u2013Australia energy relationship pivots to mutual security - East Asia Forum",
     "pubDate": "Tue, 27 Oct 2026 11:00:00 GMT"
    },
    {
     "title": "Australian gov\u2019t commits $245M to defence manufacturing facility in WA - Australian Manufacturing",
     "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
-   },
-   {
-    "title": "Aukus continues at pace with announcement of first US sub assigned to rotational force - Forces News",
-    "pubDate": "Tue, 27 Oct 2026 13:08:01 GMT"
    },
    {
     "title": "Kellie Parker appointed as National Armaments Director - Australian Defence Magazine",

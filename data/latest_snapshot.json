@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T05:45:01.756608+00:00",
+ "collected_utc": "2026-10-27T06:45:02.079873+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -148,12 +148,12 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-27T00:00:00",
-   "Kp": 1.67,
-   "a_running": 6,
+   "time_tag": "2026-10-27T03:00:00",
+   "Kp": 2.67,
+   "a_running": 12,
    "station_count": 8
   },
-  "kp_max_24h": 2.0,
+  "kp_max_24h": 2.67,
   "alerts_recent": [
    {
     "id": "TIVA",
@@ -183,8 +183,49 @@
   ]
  },
  "neo": {
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
-  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
+  "count": 5,
+  "events": [
+   {
+    "name": "(2018 VX1)",
+    "diameter_min_m": 8,
+    "diameter_max_m": 19,
+    "hazardous": false,
+    "miss_km": 13818177.649308736,
+    "velocity_kph": 31449.2576339107
+   },
+   {
+    "name": "(2017 UP6)",
+    "diameter_min_m": 16,
+    "diameter_max_m": 36,
+    "hazardous": false,
+    "miss_km": 36538923.00145941,
+    "velocity_kph": 71618.2329938515
+   },
+   {
+    "name": "(2019 UQ6)",
+    "diameter_min_m": 19,
+    "diameter_max_m": 43,
+    "hazardous": false,
+    "miss_km": 43622914.02622641,
+    "velocity_kph": 71376.7699563847
+   },
+   {
+    "name": "(2011 OB57)",
+    "diameter_min_m": 17,
+    "diameter_max_m": 38,
+    "hazardous": false,
+    "miss_km": 56389129.34211435,
+    "velocity_kph": 65326.3155857282
+   },
+   {
+    "name": "(2010 AL30)",
+    "diameter_min_m": 10,
+    "diameter_max_m": 22,
+    "hazardous": false,
+    "miss_km": 56901416.67135994,
+    "velocity_kph": 31490.0204385197
+   }
+  ]
  },
  "who_news": [
   {
@@ -406,7 +447,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-26T18:00:00Z",
+    "date": "2026-10-27T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729"
    },
    {
@@ -414,7 +455,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-26T18:00:00Z",
+    "date": "2026-10-27T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730"
    },
    {
@@ -422,7 +463,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-26T18:00:00Z",
+    "date": "2026-10-27T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -597,6 +638,10 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Mon, 26 Oct 2026 16:10:23 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
@@ -605,28 +650,24 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -636,7 +677,7 @@
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Tue, 27 Oct 2026 05:13:53 GMT"
+   "pubDate": "Tue, 27 Oct 2026 06:07:48 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
@@ -666,44 +707,44 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Bad report card for government businesses being propped up",
-    "pubDate": "Tue, 27 Oct 2026 05:41:58 +0000"
+    "title": "Four charged over suspected arson attack on home with family inside",
+    "pubDate": "Tue, 27 Oct 2026 06:41:04 +0000"
    },
    {
-    "title": "Former RAAF pilot stood to gain more than $5m from wife's death, court hears",
-    "pubDate": "Tue, 27 Oct 2026 05:36:47 +0000"
+    "title": "Gaza ceasefire hasn't stopped Israel committing genocide, UN inquiry finds",
+    "pubDate": "Tue, 27 Oct 2026 06:34:19 +0000"
    },
    {
-    "title": "Scammers target major holiday parks across Australia in cybersecurity breach",
-    "pubDate": "Tue, 27 Oct 2026 05:24:30 +0000"
+    "title": "Mother grieves for son killed in 'skid car' crash as driver is jailed",
+    "pubDate": "Tue, 27 Oct 2026 06:33:04 +0000"
    },
    {
-    "title": "Echoes from disused water tower become music for 'magical' performance",
-    "pubDate": "Tue, 27 Oct 2026 05:19:52 +0000"
+    "title": "Chilling final moments of murdered WA woman revealed in court",
+    "pubDate": "Tue, 27 Oct 2026 06:23:12 +0000"
    },
    {
-    "title": "After days of delay, state regulators confirm probe into methane plume at Chevron",
-    "pubDate": "Tue, 27 Oct 2026 05:09:36 +0000"
+    "title": "Tasmania Devils' inaugural VFL captain axed after pub incident",
+    "pubDate": "Tue, 27 Oct 2026 06:17:52 +0000"
    },
    {
-    "title": "How WhatsApp 'army' flipped Brazil election and halted Trumpian trend",
-    "pubDate": "Tue, 27 Oct 2026 04:54:44 +0000"
+    "title": "Giant, spiked hail falls as 'very dangerous' storms hit Queensland",
+    "pubDate": "Tue, 27 Oct 2026 06:15:52 +0000"
    },
    {
-    "title": "Community opposes proposed data centre near dark sky reserve",
-    "pubDate": "Tue, 27 Oct 2026 04:53:49 +0000"
+    "title": "Music mogul Jay-Z picks himself to perform at next Super Bowl",
+    "pubDate": "Tue, 27 Oct 2026 06:03:33 +0000"
    },
    {
-    "title": "Parents of 4yo killed in Canberra crash call for 'lightest possible sentence'",
-    "pubDate": "Tue, 27 Oct 2026 04:31:10 +0000"
+    "title": "AFL abandons Opening Round for season 2027",
+    "pubDate": "Tue, 27 Oct 2026 05:59:59 +0000"
    },
    {
-    "title": "Borlase's WNBA dream fading after Game 5 finals loss to Valkyries",
-    "pubDate": "Tue, 27 Oct 2026 04:21:25 +0000"
+    "title": "UN experts disappointed shackling and strip-searching bills blocked",
+    "pubDate": "Tue, 27 Oct 2026 05:59:39 +0000"
    },
    {
-    "title": "Meta merges apps and device accounts under one system",
-    "pubDate": "Tue, 27 Oct 2026 03:53:47 +0000"
+    "title": "Owner of missing dog devastated by AI photo scam",
+    "pubDate": "Tue, 27 Oct 2026 05:48:33 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -716,6 +757,10 @@
     "category": "Advice"
    },
    {
+    "title": "MEREDITH CR, ST HELENS PARK",
+    "category": "Advice"
+   },
+   {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
    },
@@ -724,11 +769,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "EMU PARK RD, SANGER",
+    "title": "COREEN CL, BEROWRA HEIGHTS",
     "category": "Not Applicable"
    },
    {
-    "title": "HOGBIN DR, COFFS HARBOUR",
+    "title": "EMU PARK RD, SANGER",
     "category": "Not Applicable"
    },
    {
@@ -740,23 +785,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "MARYS MOUNT RD, GOULBURN",
-    "category": "Not Applicable"
-   },
-   {
     "title": "MOUNT NOMBI RD, NOMBI",
     "category": "Not Applicable"
    },
    {
     "title": "PALMYRA AV, SHANES PARK",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "SILVER CITY HWY, BROKEN HILL",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "THE WOOL RD, BASIN VIEW",
     "category": "Not Applicable"
    },
    {
@@ -840,35 +873,31 @@
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
+    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
+    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
+   },
+   {
     "title": "Woman spearheads bushfire safety push after friends 'didn't know what to do' - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
+   },
+   {
+    "title": "AI will make cyber outages inevitable\" Australia's top cyber offial warns as business losses climb - Insurance Business",
+    "pubDate": "Tue, 27 Oct 2026 01:54:28 GMT"
    },
    {
     "title": "\u2018Severe\u2019: Wild weather lashes Australia\u2019s east - News.com.au",
     "pubDate": "Sun, 25 Oct 2026 09:16:39 GMT"
    },
    {
-    "title": "\u2018Unusually large\u2019 multi-state storm causing severe weather for Australia\u2019s east \u2013 with more on the way - The Guardian",
-    "pubDate": "Sun, 25 Oct 2026 06:34:00 GMT"
+    "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
+    "pubDate": "Mon, 26 Oct 2026 23:35:07 GMT"
    },
    {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
     "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
-   },
-   {
-    "title": "Emergency warning lifted, numerous roads remain shut - The Courier Mail",
-    "pubDate": "Mon, 26 Oct 2026 06:55:35 GMT"
-   },
-   {
-    "title": "Severe weather update: Further severe thunderstorms for Qld and NSW - The Bureau of Meteorology",
-    "pubDate": "Mon, 26 Oct 2026 04:24:56 GMT"
    }
   ],
   "au_security_news": [
-   {
-    "title": "Ship strengthens ties with namesake region - news.defence.gov.au",
-    "pubDate": "Tue, 27 Oct 2026 03:01:29 GMT"
-   },
    {
     "title": "Australian gov\u2019t commits $245M to defence manufacturing facility in WA - Australian Manufacturing",
     "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
@@ -890,12 +919,16 @@
     "pubDate": "Mon, 26 Oct 2026 20:01:49 GMT"
    },
    {
-    "title": "Former Rio Tinto executive tapped for major Defence role - AFR",
-    "pubDate": "Mon, 26 Oct 2026 11:30:00 GMT"
+    "title": "Cyber security threats rise as AI menace gathers pace - Australian Conveyancer",
+    "pubDate": "Tue, 27 Oct 2026 03:07:56 GMT"
    },
    {
-    "title": "Melbourne tech leads Australia\u2019s charge to become world-class - Herald Sun",
-    "pubDate": "Tue, 27 Oct 2026 04:35:42 GMT"
+    "title": "Navantia Australia to launch underwater technology hub in Melbourne - Asia Pacific Defence Reporter",
+    "pubDate": "Mon, 26 Oct 2026 21:56:19 GMT"
+   },
+   {
+    "title": "To secure supply, Australia needs to engage with Africa\u2019s mineral sovereignty - The Strategist | ASPI's analysis and commentary site",
+    "pubDate": "Mon, 26 Oct 2026 19:06:06 GMT"
    }
   ],
   "au_health_news": [

@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-27T06:45:02.079873+00:00",
+ "collected_utc": "2026-10-27T07:45:01.194352+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -183,49 +183,8 @@
   ]
  },
  "neo": {
-  "count": 5,
-  "events": [
-   {
-    "name": "(2018 VX1)",
-    "diameter_min_m": 8,
-    "diameter_max_m": 19,
-    "hazardous": false,
-    "miss_km": 13818177.649308736,
-    "velocity_kph": 31449.2576339107
-   },
-   {
-    "name": "(2017 UP6)",
-    "diameter_min_m": 16,
-    "diameter_max_m": 36,
-    "hazardous": false,
-    "miss_km": 36538923.00145941,
-    "velocity_kph": 71618.2329938515
-   },
-   {
-    "name": "(2019 UQ6)",
-    "diameter_min_m": 19,
-    "diameter_max_m": 43,
-    "hazardous": false,
-    "miss_km": 43622914.02622641,
-    "velocity_kph": 71376.7699563847
-   },
-   {
-    "name": "(2011 OB57)",
-    "diameter_min_m": 17,
-    "diameter_max_m": 38,
-    "hazardous": false,
-    "miss_km": 56389129.34211435,
-    "velocity_kph": 65326.3155857282
-   },
-   {
-    "name": "(2010 AL30)",
-    "diameter_min_m": 10,
-    "diameter_max_m": 22,
-    "hazardous": false,
-    "miss_km": 56901416.67135994,
-    "velocity_kph": 31490.0204385197
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -638,10 +597,6 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Mon, 26 Oct 2026 16:10:23 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
@@ -668,16 +623,20 @@
   {
    "title": "Transport of Radioactive Material - World Nuclear Association",
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
+   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
   {
-   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
-   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
+   "pubDate": "Tue, 27 Oct 2026 07:37:48 GMT"
   },
   {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019 in new government guidance - The Independent",
-   "pubDate": "Tue, 27 Oct 2026 06:07:48 GMT"
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "UK, 31 partners warn of rising famine risk in Sudan, call for urgent action - Anadolu Ajans\u0131",
@@ -692,12 +651,12 @@
    "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   },
   {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+   "title": "US, UK among 31 countries warning of \u2018alarming\u2019 Sudan famine - Free Malaysia Today",
+   "pubDate": "Tue, 27 Oct 2026 03:16:16 GMT"
   },
   {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
@@ -706,6 +665,18 @@
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Live: Smith set to miss South Africa series finale due to neck injury",
+    "pubDate": "Tue, 27 Oct 2026 07:30:17 +0000"
+   },
+   {
+    "title": "Rescue helicopter gets 'pass mark' despite workplace concerns",
+    "pubDate": "Tue, 27 Oct 2026 07:10:17 +0000"
+   },
+   {
+    "title": "Walsh back at fullback in Kangaroos team to face Cook Islands",
+    "pubDate": "Tue, 27 Oct 2026 06:51:57 +0000"
+   },
    {
     "title": "Four charged over suspected arson attack on home with family inside",
     "pubDate": "Tue, 27 Oct 2026 06:41:04 +0000"
@@ -719,7 +690,7 @@
     "pubDate": "Tue, 27 Oct 2026 06:33:04 +0000"
    },
    {
-    "title": "Chilling final moments of murdered WA woman revealed in court",
+    "title": "Woman stabbed ex-girlfriend while partner restrained her, murder trial told",
     "pubDate": "Tue, 27 Oct 2026 06:23:12 +0000"
    },
    {
@@ -733,18 +704,6 @@
    {
     "title": "Music mogul Jay-Z picks himself to perform at next Super Bowl",
     "pubDate": "Tue, 27 Oct 2026 06:03:33 +0000"
-   },
-   {
-    "title": "AFL abandons Opening Round for season 2027",
-    "pubDate": "Tue, 27 Oct 2026 05:59:59 +0000"
-   },
-   {
-    "title": "UN experts disappointed shackling and strip-searching bills blocked",
-    "pubDate": "Tue, 27 Oct 2026 05:59:39 +0000"
-   },
-   {
-    "title": "Owner of missing dog devastated by AI photo scam",
-    "pubDate": "Tue, 27 Oct 2026 05:48:33 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -769,7 +728,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "COREEN CL, BEROWRA HEIGHTS",
+    "title": "DUKES RD, LAKE ALBERT",
     "category": "Not Applicable"
    },
    {
@@ -789,7 +748,15 @@
     "category": "Not Applicable"
    },
    {
+    "title": "NEW ENGLAND HWY, METFORD",
+    "category": "Not Applicable"
+   },
+   {
     "title": "PALMYRA AV, SHANES PARK",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "RIVER RD, KYALITE",
     "category": "Not Applicable"
    },
    {
@@ -865,6 +832,10 @@
   ],
   "au_emergency_news": [
    {
+    "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
+    "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
+   },
+   {
     "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
     "pubDate": "Mon, 26 Oct 2026 13:03:39 GMT"
    },
@@ -891,13 +862,17 @@
    {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
     "pubDate": "Mon, 26 Oct 2026 23:35:07 GMT"
-   },
-   {
-    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
-    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
    }
   ],
   "au_security_news": [
+   {
+    "title": "Urban assaults, fighter jets and winching over water - Defence News",
+    "pubDate": "Tue, 27 Oct 2026 05:50:50 GMT"
+   },
+   {
+    "title": "Former Rio chief takes on Canberra\u2019s billion-dollar defence blob - The Australian",
+    "pubDate": "Tue, 27 Oct 2026 06:54:34 GMT"
+   },
    {
     "title": "Australian gov\u2019t commits $245M to defence manufacturing facility in WA - Australian Manufacturing",
     "pubDate": "Tue, 27 Oct 2026 02:31:16 GMT"
@@ -921,14 +896,6 @@
    {
     "title": "Cyber security threats rise as AI menace gathers pace - Australian Conveyancer",
     "pubDate": "Tue, 27 Oct 2026 03:07:56 GMT"
-   },
-   {
-    "title": "Navantia Australia to launch underwater technology hub in Melbourne - Asia Pacific Defence Reporter",
-    "pubDate": "Mon, 26 Oct 2026 21:56:19 GMT"
-   },
-   {
-    "title": "To secure supply, Australia needs to engage with Africa\u2019s mineral sovereignty - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Mon, 26 Oct 2026 19:06:06 GMT"
    }
   ],
   "au_health_news": [

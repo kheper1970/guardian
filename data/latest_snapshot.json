@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-28T17:45:01.477836+00:00",
+ "collected_utc": "2026-10-28T18:45:01.687947+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -180,9 +180,9 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-28T12:00:00",
-   "Kp": 0.67,
-   "a_running": 3,
+   "time_tag": "2026-10-28T15:00:00",
+   "Kp": 1.33,
+   "a_running": 5,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -215,57 +215,8 @@
   ]
  },
  "neo": {
-  "count": 6,
-  "events": [
-   {
-    "name": "(2018 GS1)",
-    "diameter_min_m": 81,
-    "diameter_max_m": 180,
-    "hazardous": false,
-    "miss_km": 4240878.045094743,
-    "velocity_kph": 33549.810807828
-   },
-   {
-    "name": "518810 (2010 CF19)",
-    "diameter_min_m": 113,
-    "diameter_max_m": 254,
-    "hazardous": true,
-    "miss_km": 22895177.351198107,
-    "velocity_kph": 20345.8248160687
-   },
-   {
-    "name": "(2003 RL10)",
-    "diameter_min_m": 323,
-    "diameter_max_m": 721,
-    "hazardous": false,
-    "miss_km": 33830447.19224015,
-    "velocity_kph": 52334.0901192524
-   },
-   {
-    "name": "(2016 NL56)",
-    "diameter_min_m": 175,
-    "diameter_max_m": 391,
-    "hazardous": true,
-    "miss_km": 47711801.862103686,
-    "velocity_kph": 50594.8083303006
-   },
-   {
-    "name": "(2019 SE9)",
-    "diameter_min_m": 25,
-    "diameter_max_m": 55,
-    "hazardous": false,
-    "miss_km": 58487173.152128585,
-    "velocity_kph": 52895.8290852691
-   },
-   {
-    "name": "(2014 JS57)",
-    "diameter_min_m": 89,
-    "diameter_max_m": 200,
-    "hazardous": false,
-    "miss_km": 65569040.72488965,
-    "velocity_kph": 40395.4791958105
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -480,7 +431,7 @@
   }
  ],
  "eonet": {
-  "open_total": 34,
+  "open_total": 33,
   "tracked": [
    {
     "title": "Tropical Cyclone Arnab",
@@ -673,49 +624,41 @@
     ],
     "date": "2026-10-08T18:05:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25309"
-   },
-   {
-    "title": "Prescribed Fire COOPER UNIT - KPERP RX NKRD  CY26, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-08T12:16:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25235"
    }
   ]
  },
  "nuclear_news": [
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
   },
   {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
    "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -724,24 +667,20 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
   },
   {
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Mali - UN World Food Programme",
-   "pubDate": "Tue, 08 Sep 2026 07:14:10 GMT"
-  },
-  {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
+  },
+  {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
+   "title": "Can emergency cash buy food security? - UNU | United Nations University",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
@@ -750,49 +689,53 @@
   {
    "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
+  },
+  {
+   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
+   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Far-right activist Tommy Robinson found guilty of harassing journalists",
-    "pubDate": "Wed, 28 Oct 2026 17:39:21 +0000"
+    "title": "Faster, deadlier Russian drones shift warfare into horrifying new phase",
+    "pubDate": "Wed, 28 Oct 2026 18:40:57 +0000"
    },
    {
-    "title": "At least three killed as powerful Cyclone Arnab hits India's east coast",
-    "pubDate": "Wed, 28 Oct 2026 15:35:22 +0000"
+    "title": "See how the price of everything has changed with inflation",
+    "pubDate": "Wed, 28 Oct 2026 18:40:12 +0000"
    },
    {
-    "title": "Russell Brand tells jury friends won't defend him over sex crime allegations",
-    "pubDate": "Wed, 28 Oct 2026 14:39:57 +0000"
+    "title": "Robert Pattinson is on the hunt for predators in gripping new thriller",
+    "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000"
    },
    {
-    "title": "Flavio Bolsonaro arrives in Miami after fleeing Brazil",
-    "pubDate": "Wed, 28 Oct 2026 14:02:19 +0000"
+    "title": "Test your Halloween movie knowledge with our spooky quiz",
+    "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000"
    },
    {
-    "title": "Tales from Outer Suburbia and Addition among Screen Music winners",
-    "pubDate": "Wed, 28 Oct 2026 12:00:00 +0000"
+    "title": "Indigenous culinary school serving up talent to top restaurants",
+    "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000"
    },
    {
-    "title": "Defence official claimed she flagged plans for social media ban request",
-    "pubDate": "Wed, 28 Oct 2026 10:33:20 +0000"
+    "title": "The 'inexplicable' order that put two trains on a collision course in Spain",
+    "pubDate": "Wed, 28 Oct 2026 18:12:21 +0000"
    },
    {
-    "title": "At least 68 dead as high-speed trains collide in Spain",
-    "pubDate": "Wed, 28 Oct 2026 10:11:01 +0000"
+    "title": "Fence constructed in bid to stop illegal dumping in Melbourne's south-east",
+    "pubDate": "Wed, 28 Oct 2026 18:09:54 +0000"
    },
    {
-    "title": "Hundreds stranded as 'cruise for life' operator goes bust over fuel costs",
-    "pubDate": "Wed, 28 Oct 2026 09:46:30 +0000"
+    "title": "How the Mongrel Mob became an issue in the NZ election",
+    "pubDate": "Wed, 28 Oct 2026 18:00:00 +0000"
    },
    {
-    "title": "'We haven't got it right': Collingwood to review AFLW",
-    "pubDate": "Wed, 28 Oct 2026 08:49:10 +0000"
+    "title": "CSIRO criticised for lack of transparency over gas leak",
+    "pubDate": "Wed, 28 Oct 2026 18:00:00 +0000"
    },
    {
-    "title": "Sex offender on the run after escaping from gym",
-    "pubDate": "Wed, 28 Oct 2026 08:32:27 +0000"
+    "title": "Bad inflation result lays bare the ugly truth: there is no easy way out",
+    "pubDate": "Wed, 28 Oct 2026 18:00:00 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -837,7 +780,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "GEORGE BOOTH DR, STOCKRINGTON",
+    "title": "GOLDEN HWY, MERRIWA",
     "category": "Not Applicable"
    },
    {
@@ -969,8 +912,20 @@
     "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
    },
    {
+    "title": "Defence budget cuts loom as AUKUS squeeze bites - The Nightly",
+    "pubDate": "Wed, 28 Oct 2026 16:50:41 GMT"
+   },
+   {
+    "title": "Cyber security in action - Defence News",
+    "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
+   },
+   {
     "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
     "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
+   },
+   {
+    "title": "\u2018Dangerously unprepared\u2019: Union and Viva Energy issue fuel security warning to Albanese - SMH.com.au",
+    "pubDate": "Wed, 28 Oct 2026 18:00:00 GMT"
    },
    {
     "title": "Building the next regional partnership - The Australian",
@@ -979,18 +934,6 @@
    {
     "title": "Industry plan aims to boost local firms - The Australian",
     "pubDate": "Wed, 28 Oct 2026 17:25:03 GMT"
-   },
-   {
-    "title": "National security strategy must be broadened - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 12:33:56 GMT"
-   },
-   {
-    "title": "Lost in space: \u2018catastrophic\u2019 security gap - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 17:25:08 GMT"
-   },
-   {
-    "title": "ADF needs to think of plentiful, not bespoke - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 12:33:50 GMT"
    }
   ],
   "au_health_news": [

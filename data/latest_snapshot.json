@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-28T09:45:01.093510+00:00",
+ "collected_utc": "2026-10-28T10:45:01.188792+00:00",
  "earthquakes": [
+  {
+   "mag": 4.8,
+   "place": "29 km SSW of Sarangani, Philippines",
+   "time": 1793179976341,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz",
+   "type": "earthquake"
+  },
   {
    "mag": 4.7,
    "place": "39 km SSW of Serrezuela, Argentina",
@@ -167,14 +175,6 @@
    "time": 1793098235418,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "184 km NW of Port-Olry, Vanuatu",
-   "time": 1793095591916,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj",
    "type": "earthquake"
   }
  ],
@@ -424,8 +424,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/032242.shtml?cone",
-     "pubDate": "Wed, 28 Oct 2026 03:22:42 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/103507.shtml?cone",
+     "pubDate": "Wed, 28 Oct 2026 10:35:07 GMT"
     }
    ]
   }
@@ -637,36 +637,36 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -683,10 +683,6 @@
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
   },
@@ -695,16 +691,32 @@
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   },
   {
-   "title": "Mali - UN World Food Programme",
-   "pubDate": "Tue, 08 Sep 2026 07:14:10 GMT"
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
   },
   {
-   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
-   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
+   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
+   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
+  },
+  {
+   "title": "Can emergency cash buy food security? - UNU | United Nations University",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Defence official claimed she flagged plans for social media ban request",
+    "pubDate": "Wed, 28 Oct 2026 10:33:20 +0000"
+   },
+   {
+    "title": "Breaking: At least 10 dead as high-speed trains collide in Spain",
+    "pubDate": "Wed, 28 Oct 2026 10:11:01 +0000"
+   },
+   {
+    "title": "Hundreds stranded as 'cruise for life' operator goes bust over fuel costs",
+    "pubDate": "Wed, 28 Oct 2026 09:46:30 +0000"
+   },
    {
     "title": "'We haven't got it right': Collingwood to review AFLW",
     "pubDate": "Wed, 28 Oct 2026 08:49:10 +0000"
@@ -718,11 +730,11 @@
     "pubDate": "Wed, 28 Oct 2026 08:07:51 +0000"
    },
    {
-    "title": "Live: Australia hoping to avoid clean sweep in Constellation Cup",
+    "title": "Live: Australia avoids Constellation Cup clean sweep with victory in Melbourne",
     "pubDate": "Wed, 28 Oct 2026 07:42:03 +0000"
    },
    {
-    "title": "Live: Australia begins day two at crease after Starc blitz flattens South Africa",
+    "title": "Live: Labuschagne falls for a duck as Australia stumbles after bright start",
     "pubDate": "Wed, 28 Oct 2026 07:30:17 +0000"
    },
    {
@@ -732,18 +744,6 @@
    {
     "title": "Puppy farmer jailed after more than 100 dogs found in 'horrendous' conditions",
     "pubDate": "Wed, 28 Oct 2026 07:08:26 +0000"
-   },
-   {
-    "title": "Peptide users seeking free syringes overwhelm harm-minimisation charities",
-    "pubDate": "Wed, 28 Oct 2026 06:46:34 +0000"
-   },
-   {
-    "title": "Beale called up for Wallabies Spring Tour ahead of Rugby World Cup",
-    "pubDate": "Wed, 28 Oct 2026 06:39:14 +0000"
-   },
-   {
-    "title": "Alexander brothers sentenced over 'monstrous' sex trafficking",
-    "pubDate": "Wed, 28 Oct 2026 06:29:17 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -765,10 +765,6 @@
    },
    {
     "title": "SECTOR 5, SMA",
-    "category": "Advice"
-   },
-   {
-    "title": "Spinnaker Dr, Moorebank",
     "category": "Advice"
    },
    {
@@ -800,10 +796,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "HAMMERLI WAY, SHALVEY",
-    "category": "Not Applicable"
-   },
-   {
     "title": "HUME HWY, WOODLANDS",
     "category": "Not Applicable"
    },
@@ -820,11 +812,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "MURRAY RD, YOOGALI",
+    "title": "OLD HUME HWY, TUMBLONG",
     "category": "Not Applicable"
    },
    {
-    "title": "OLD HUME HWY, TUMBLONG",
+    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "SMITH RD, BILLIMARI",
     "category": "Not Applicable"
    }
   ],
@@ -906,6 +902,10 @@
     "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
    },
    {
+    "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage - pv magazine Global",
+    "pubDate": "Wed, 28 Oct 2026 08:05:18 GMT"
+   },
+   {
     "title": "Landline switchover could cut people off in emergency, minister warned - Yahoo News Australia",
     "pubDate": "Tue, 27 Oct 2026 20:54:52 GMT"
    },
@@ -924,10 +924,6 @@
    {
     "title": "Severe storms and flood warnings across east coast - 7NEWS",
     "pubDate": "Wed, 28 Oct 2026 02:54:00 GMT"
-   },
-   {
-    "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
-    "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
    }
   ],
   "au_security_news": [
@@ -940,6 +936,14 @@
     "pubDate": "Wed, 28 Oct 2026 05:15:00 GMT"
    },
    {
+    "title": "Government introduces new bill to protect Defence assets from drones - Australian Aviation",
+    "pubDate": "Wed, 28 Oct 2026 09:45:00 GMT"
+   },
+   {
+    "title": "Iron Dome down under: Defence seeks anti-Chinese missile shield - The Australian",
+    "pubDate": "Wed, 28 Oct 2026 10:30:28 GMT"
+   },
+   {
     "title": "Former Rio Tinto exec to oversee Australia\u2019s defence procurement - Mining.com.au",
     "pubDate": "Wed, 28 Oct 2026 06:22:30 GMT"
    },
@@ -948,20 +952,12 @@
     "pubDate": "Tue, 27 Oct 2026 20:32:19 GMT"
    },
    {
-    "title": "Secret report reveals command failures contributed to alleged war crimes - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 08:23:05 GMT"
-   },
-   {
     "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
     "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
    },
    {
     "title": "Australian rifles, private guns and PNG\u2019s 2027 election - Lowy Institute",
     "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
-   },
-   {
-    "title": "Crude Awakening: How Australia Ranks on Fuel Security - Climate Council",
-    "pubDate": "Tue, 27 Oct 2026 13:01:00 GMT"
    }
   ],
   "au_health_news": [

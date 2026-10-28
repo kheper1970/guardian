@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-28T03:45:01.638196+00:00",
+ "collected_utc": "2026-10-28T04:45:02.069613+00:00",
  "earthquakes": [
   {
    "mag": 5.6,
@@ -657,12 +657,12 @@
    "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
    "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "Transport of Radioactive Material - World Nuclear Association",
@@ -687,10 +687,6 @@
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
@@ -701,49 +697,53 @@
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here's what to buy - The Independent",
    "pubDate": "Tue, 27 Oct 2026 08:51:00 GMT"
+  },
+  {
+   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
+   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "Erin Patterson mushroom murder appeal decision to be handed down on Friday",
+    "pubDate": "Wed, 28 Oct 2026 04:39:22 +0000"
+   },
+   {
+    "title": "US Democrats forced to face left-wing momentum as midterms loom",
+    "pubDate": "Wed, 28 Oct 2026 04:35:03 +0000"
+   },
+   {
+    "title": "Triple-fatal plane crash 'likely' followed instructor's mid-air rule breach",
+    "pubDate": "Wed, 28 Oct 2026 04:31:12 +0000"
+   },
+   {
+    "title": "Man accused of injuring police officer during e-bike crackdown faces court",
+    "pubDate": "Wed, 28 Oct 2026 04:29:34 +0000"
+   },
+   {
+    "title": "Riverfire fireworks delayed after CFMEU members let on to construction site",
+    "pubDate": "Wed, 28 Oct 2026 04:29:04 +0000"
+   },
+   {
+    "title": "Fox axing from Devils VFL not due to single incident, club says",
+    "pubDate": "Wed, 28 Oct 2026 04:14:37 +0000"
+   },
+   {
+    "title": "Netanyahu and opposition on equal footing in Israeli election with no clear winner",
+    "pubDate": "Wed, 28 Oct 2026 03:56:15 +0000"
+   },
+   {
+    "title": "Chair of childcare operator quits after abuse scandal",
+    "pubDate": "Wed, 28 Oct 2026 03:55:18 +0000"
+   },
+   {
+    "title": "Treasurer not ready to 'put up white flag' on troubled hospital's $3.2b budget",
+    "pubDate": "Wed, 28 Oct 2026 03:55:02 +0000"
+   },
+   {
     "title": "13yo alleged extremist a victim of 'big tech', court hears",
     "pubDate": "Wed, 28 Oct 2026 03:38:13 +0000"
-   },
-   {
-    "title": "Cows found on tropical island national park months after major flood",
-    "pubDate": "Wed, 28 Oct 2026 03:31:15 +0000"
-   },
-   {
-    "title": "Court jails disqualified driver high on meth over fatal crash",
-    "pubDate": "Wed, 28 Oct 2026 03:22:43 +0000"
-   },
-   {
-    "title": "Australia providing 'extraordinary' support to ICC staff amid Trump sanctions",
-    "pubDate": "Wed, 28 Oct 2026 03:10:07 +0000"
-   },
-   {
-    "title": "Breaking: Childcare paedophile Ashley Paul Griffith extradited to NSW",
-    "pubDate": "Wed, 28 Oct 2026 03:03:33 +0000"
-   },
-   {
-    "title": "Lamarre-Condon told ex-colleague he'd 'done something bad', jury hears",
-    "pubDate": "Wed, 28 Oct 2026 02:42:37 +0000"
-   },
-   {
-    "title": "Jones accuser admits lying to police over assault by different person",
-    "pubDate": "Wed, 28 Oct 2026 02:31:09 +0000"
-   },
-   {
-    "title": "The timeline of Fl\u00e1vio Bolsonaro's escape from Brazil after failed election",
-    "pubDate": "Wed, 28 Oct 2026 02:26:17 +0000"
-   },
-   {
-    "title": "Rockliff voices support for ban on conversion practices as debate starts",
-    "pubDate": "Wed, 28 Oct 2026 02:12:27 +0000"
-   },
-   {
-    "title": "Two ironies emerge out of Israel's deadlocked election",
-    "pubDate": "Wed, 28 Oct 2026 01:59:27 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -882,34 +882,34 @@
     "pubDate": "Tue, 27 Oct 2026 20:54:52 GMT"
    },
    {
-    "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
-    "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
-   },
-   {
     "title": "Man dies as flood emergency grips Queensland - The Nightly",
     "pubDate": "Wed, 28 Oct 2026 02:58:20 GMT"
+   },
+   {
+    "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
+    "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
    },
    {
     "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
+    "title": "Severe storms and flood warnings across east coast - 7NEWS",
+    "pubDate": "Wed, 28 Oct 2026 02:54:00 GMT"
+   },
+   {
     "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
     "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
    },
    {
-    "title": "Campers rescued as storms threaten south-east Queensland - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 26 Oct 2026 06:13:35 GMT"
-   },
-   {
-    "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
-    "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
+    "title": "October rainfall records under threat across south-east Queensland - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Mon, 26 Oct 2026 20:03:58 GMT"
    }
   ],
   "au_security_news": [
    {
-    "title": "Cyber security in action - Defence News",
-    "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
+    "title": "Helping build what shaped her - Defence News",
+    "pubDate": "Wed, 28 Oct 2026 01:36:56 GMT"
    },
    {
     "title": "The $9 billion fuel bill raising questions about Australia's energy security - SBS",
@@ -920,12 +920,16 @@
     "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
    },
    {
-    "title": "Australia names National Armaments Director - Asia Pacific Defence Reporter",
-    "pubDate": "Tue, 27 Oct 2026 21:24:11 GMT"
+    "title": "Government introduces new bill to protect Defence assets from drones - Australian Aviation",
+    "pubDate": "Wed, 28 Oct 2026 03:40:27 GMT"
    },
    {
     "title": "Australian orgs replacing security roles with AI - Technology Decisions",
     "pubDate": "Wed, 28 Oct 2026 01:27:22 GMT"
+   },
+   {
+    "title": "Australia names National Armaments Director - Asia Pacific Defence Reporter",
+    "pubDate": "Tue, 27 Oct 2026 21:24:11 GMT"
    },
    {
     "title": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident - The Guardian",
@@ -934,10 +938,6 @@
    {
     "title": "Crude Awakening: How Australia Ranks on Fuel Security - Climate Council",
     "pubDate": "Tue, 27 Oct 2026 13:01:00 GMT"
-   },
-   {
-    "title": "Japan, Australia, US should build a second-island-chain air bridge - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Tue, 27 Oct 2026 19:03:05 GMT"
    }
   ],
   "au_health_news": [

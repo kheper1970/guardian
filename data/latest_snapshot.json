@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-28T10:45:01.188792+00:00",
+ "collected_utc": "2026-10-28T11:45:01.381633+00:00",
  "earthquakes": [
   {
    "mag": 4.8,
@@ -159,22 +159,6 @@
    "time": 1793102471952,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "100 km W of El Aguilar, Argentina",
-   "time": 1793101282141,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.2,
-   "place": "191 km NW of Port-Olry, Vanuatu",
-   "time": 1793098235418,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
    "type": "earthquake"
   }
  ],
@@ -637,36 +621,36 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
-  },
-  {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
+   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -710,7 +694,7 @@
     "pubDate": "Wed, 28 Oct 2026 10:33:20 +0000"
    },
    {
-    "title": "Breaking: At least 10 dead as high-speed trains collide in Spain",
+    "title": "Breaking: At least 30 dead as high-speed trains collide in Spain",
     "pubDate": "Wed, 28 Oct 2026 10:11:01 +0000"
    },
    {
@@ -734,7 +718,7 @@
     "pubDate": "Wed, 28 Oct 2026 07:42:03 +0000"
    },
    {
-    "title": "Live: Labuschagne falls for a duck as Australia stumbles after bright start",
+    "title": "Live: Green given reprieve after contested catch, Labuschagne falls for a duck",
     "pubDate": "Wed, 28 Oct 2026 07:30:17 +0000"
    },
    {
@@ -784,6 +768,10 @@
     "category": "Not Applicable"
    },
    {
+    "title": "BELGRAVIA RD, DUBBO",
+    "category": "Not Applicable"
+   },
+   {
     "title": "BROOKS RD, BINNAWAY",
     "category": "Not Applicable"
    },
@@ -792,11 +780,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "EMU PARK RD, SANGER",
+    "title": "CAMP ST, GRENFELL",
     "category": "Not Applicable"
    },
    {
-    "title": "HUME HWY, WOODLANDS",
+    "title": "EMU PARK RD, SANGER",
     "category": "Not Applicable"
    },
    {
@@ -812,15 +800,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "OLD HUME HWY, TUMBLONG",
+    "title": "NEW ENGLAND HWY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "OLD COOMA RD, GOOGONG",
     "category": "Not Applicable"
    },
    {
     "title": "OLD WILLBRIGGIE RD, GRIFFITH",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "SMITH RD, BILLIMARI",
     "category": "Not Applicable"
    }
   ],
@@ -932,16 +920,12 @@
     "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
    },
    {
-    "title": "Australia continues US nuclear-powered submarine maintenance - Australian Defence Magazine",
-    "pubDate": "Wed, 28 Oct 2026 05:15:00 GMT"
+    "title": "Iron Dome down under: Defence seeks anti-Chinese missile shield - The Australian",
+    "pubDate": "Wed, 28 Oct 2026 10:30:28 GMT"
    },
    {
     "title": "Government introduces new bill to protect Defence assets from drones - Australian Aviation",
     "pubDate": "Wed, 28 Oct 2026 09:45:00 GMT"
-   },
-   {
-    "title": "Iron Dome down under: Defence seeks anti-Chinese missile shield - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 10:30:28 GMT"
    },
    {
     "title": "Former Rio Tinto exec to oversee Australia\u2019s defence procurement - Mining.com.au",
@@ -952,12 +936,16 @@
     "pubDate": "Tue, 27 Oct 2026 20:32:19 GMT"
    },
    {
+    "title": "Australian rifles, private guns and PNG\u2019s 2027 election - Lowy Institute",
+    "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
+   },
+   {
     "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
     "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
    },
    {
-    "title": "Australian rifles, private guns and PNG\u2019s 2027 election - Lowy Institute",
-    "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
+    "title": "Crude Awakening: How Australia Ranks on Fuel Security - Climate Council",
+    "pubDate": "Tue, 27 Oct 2026 13:01:00 GMT"
    }
   ],
   "au_health_news": [

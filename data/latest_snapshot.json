@@ -1,10 +1,18 @@
 {
- "collected_utc": "2026-10-28T00:45:02.077465+00:00",
+ "collected_utc": "2026-10-28T01:45:01.419149+00:00",
  "earthquakes": [
   {
+   "mag": 5.2,
+   "place": "6 km NW of Balangonan, Philippines",
+   "time": 1793149914979,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
+   "type": "earthquake"
+  },
+  {
    "mag": 5.1,
-   "place": "7 km ENE of Pangyan, Philippines",
-   "time": 1793144632335,
+   "place": "7 km N of Balangonan, Philippines",
+   "time": 1793144631480,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
    "type": "earthquake"
@@ -135,14 +143,6 @@
    "time": 1793066575847,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "203 km SSE of Tateyama, Japan",
-   "time": 1793063873898,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
    "type": "earthquake"
   }
  ],
@@ -640,7 +640,7 @@
  "famine_news": [
   {
    "title": "Heat, Food Insecurity, Disease Make Climate a Global Health Emergency: Lancet Countdown - The Energy Mix",
-   "pubDate": "Wed, 28 Oct 2026 00:24:48 GMT"
+   "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
    "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
@@ -655,10 +655,6 @@
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here's what to buy - The Independent",
    "pubDate": "Tue, 27 Oct 2026 08:51:00 GMT"
   },
@@ -667,18 +663,30 @@
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
-   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
+   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
+  },
+  {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "NT hospital staff exposed to smell of decomposing bodies, left sick, union says",
+    "pubDate": "Wed, 28 Oct 2026 01:34:29 +0000"
+   },
+   {
+    "title": "Former Australian Open champ Stan Wawrinka ends illustrious career",
+    "pubDate": "Wed, 28 Oct 2026 00:54:15 +0000"
+   },
+   {
     "title": "Breaking: Inflation surges more than expected ahead of RBA meeting",
     "pubDate": "Wed, 28 Oct 2026 00:38:39 +0000"
    },
    {
-    "title": "Residents declare 'war' over proposed water park",
+    "title": "Residents declare war over proposed water park",
     "pubDate": "Wed, 28 Oct 2026 00:26:00 +0000"
    },
    {
@@ -704,14 +712,6 @@
    {
     "title": "Roads closed and shops damaged after tobacco shop fire in Cobden",
     "pubDate": "Tue, 27 Oct 2026 23:11:57 +0000"
-   },
-   {
-    "title": "WA towns back growing trend of smart glasses bans, citing privacy fears",
-    "pubDate": "Tue, 27 Oct 2026 23:02:53 +0000"
-   },
-   {
-    "title": "Arsenal knocked out of League Cup by fourth-tier minnow in all-time upset",
-    "pubDate": "Tue, 27 Oct 2026 22:54:59 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -846,24 +846,24 @@
     "pubDate": "Tue, 27 Oct 2026 00:03:00 GMT"
    },
    {
+    "title": "Landline switchover could cut people off in emergency, minister warned - Yahoo News Australia",
+    "pubDate": "Tue, 27 Oct 2026 20:54:52 GMT"
+   },
+   {
     "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
     "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
    },
    {
-    "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
-    "pubDate": "Mon, 26 Oct 2026 13:03:39 GMT"
-   },
-   {
-    "title": "Former councillor dies in floodwaters on Queensland's Fraser Coast - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Tue, 27 Oct 2026 08:00:00 GMT"
+    "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
+    "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
    {
     "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
     "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
    },
    {
-    "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
-    "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
+    "title": "Campers rescued as storms threaten south-east Queensland - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Mon, 26 Oct 2026 06:13:35 GMT"
    },
    {
     "title": "Emergency warning lifted, numerous roads remain shut - News.com.au",
@@ -884,6 +884,10 @@
     "pubDate": "Tue, 27 Oct 2026 20:32:19 GMT"
    },
    {
+    "title": "Australian rifles, private guns and PNG\u2019s 2027 election - Lowy Institute",
+    "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
+   },
+   {
     "title": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident - The Guardian",
     "pubDate": "Tue, 27 Oct 2026 20:49:00 GMT"
    },
@@ -900,15 +904,14 @@
     "pubDate": "Tue, 27 Oct 2026 21:23:01 GMT"
    },
    {
-    "title": "Australia introduces new legislation to protect Defence bases, personnel from drones - Defence Connect",
-    "pubDate": "Tue, 27 Oct 2026 05:10:26 GMT"
-   },
-   {
-    "title": "Japan\u2013Australia energy relationship pivots to mutual security - East Asia Forum",
-    "pubDate": "Tue, 27 Oct 2026 11:00:00 GMT"
+    "title": "US picks first nuclear submarine for AUKUS base in Australia - Nine.com.au",
+    "pubDate": "Tue, 27 Oct 2026 23:13:17 GMT"
    }
   ],
   "au_health_news": [
+   {
+    "title": "2025 Residents\u2019 Experience Survey results are in"
+   },
    {
     "title": "Survey: In-home aged care service list review"
    },
@@ -935,9 +938,6 @@
    },
    {
     "title": "Turning awareness into action: helping GPs discuss cancer screening"
-   },
-   {
-    "title": "Care for a carer this Carers Week"
    }
   ]
  }

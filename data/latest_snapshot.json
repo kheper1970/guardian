@@ -1,10 +1,18 @@
 {
- "collected_utc": "2026-10-28T22:45:01.399685+00:00",
+ "collected_utc": "2026-10-28T23:45:01.671915+00:00",
  "earthquakes": [
   {
+   "mag": 4.6,
+   "place": "17 km N of Kushiro, Japan",
+   "time": 1793229230764,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttv1",
+   "type": "earthquake"
+  },
+  {
    "mag": 5.7,
-   "place": "276 km WSW of Tual, Indonesia",
-   "time": 1793225204731,
+   "place": "271 km WSW of Tual, Indonesia",
+   "time": 1793225205820,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua",
    "type": "earthquake"
@@ -191,22 +199,6 @@
    "time": 1793149914979,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.1,
-   "place": "7 km N of Balangonan, Philippines",
-   "time": 1793144631480,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.4,
-   "place": "193 km WSW of Merizo Village, Guam",
-   "time": 1793142857420,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke",
    "type": "earthquake"
   }
  ],
@@ -463,14 +455,14 @@
   }
  ],
  "eonet": {
-  "open_total": 33,
+  "open_total": 32,
   "tracked": [
    {
     "title": "Tropical Cyclone Arnab",
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T00:00:00Z",
+    "date": "2026-10-28T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729"
    },
    {
@@ -494,7 +486,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T12:00:00Z",
+    "date": "2026-10-28T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -510,7 +502,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T12:00:00Z",
+    "date": "2026-10-28T18:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -648,14 +640,6 @@
     ],
     "date": "2026-10-09T11:49:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25234"
-   },
-   {
-    "title": "Wildfire Craig Lake 1, Baraga, Michigan",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-08T18:05:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25309"
    }
   ]
  },
@@ -665,12 +649,12 @@
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
    "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
    "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
@@ -703,16 +687,16 @@
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
   },
   {
-   "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
-   "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
    "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
    "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
+  },
+  {
+   "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
+   "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
@@ -730,6 +714,22 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Catch management a concern as SA hopes to reopen snapper fishery",
+    "pubDate": "Wed, 28 Oct 2026 23:30:53 +0000"
+   },
+   {
+    "title": "Councils left to pay for WA's aging EV charging network",
+    "pubDate": "Wed, 28 Oct 2026 23:01:01 +0000"
+   },
+   {
+    "title": "Leaked letter reveals regulator's 'concerns' about gas giant Santos",
+    "pubDate": "Wed, 28 Oct 2026 22:58:22 +0000"
+   },
+   {
+    "title": "Scans reveal extent of Steve Smith's neck injury ahead of Test summer",
+    "pubDate": "Wed, 28 Oct 2026 22:53:11 +0000"
+   },
+   {
     "title": "Bega Group requests more milk from FNQ farmers",
     "pubDate": "Wed, 28 Oct 2026 22:31:44 +0000"
    },
@@ -742,7 +742,7 @@
     "pubDate": "Wed, 28 Oct 2026 21:47:44 +0000"
    },
    {
-    "title": "Labor to fix 25 Victorian roads as election sweetener ahead of November poll",
+    "title": "Labor promises to fix 25 Victorian roads as election sweetener",
     "pubDate": "Wed, 28 Oct 2026 21:19:34 +0000"
    },
    {
@@ -752,22 +752,6 @@
    {
     "title": "Trial starts for man accused of murdering Victorian woman Carlee Smith",
     "pubDate": "Wed, 28 Oct 2026 20:37:47 +0000"
-   },
-   {
-    "title": "A three-ball statement gives Australia hope of a flourishing future",
-    "pubDate": "Wed, 28 Oct 2026 20:36:43 +0000"
-   },
-   {
-    "title": "Live: Albanese warns inflation challenges 'won't be solved overnight'",
-    "pubDate": "Wed, 28 Oct 2026 20:29:46 +0000"
-   },
-   {
-    "title": "Live: US staring down December and March rate hikes as Fed leaves rates on hold",
-    "pubDate": "Wed, 28 Oct 2026 20:23:36 +0000"
-   },
-   {
-    "title": "Trump expands hunt for voter fraud ahead of midterms",
-    "pubDate": "Wed, 28 Oct 2026 20:12:24 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -784,7 +768,7 @@
     "category": "Advice"
    },
    {
-    "title": "PICTON LANE, HEBDEN",
+    "title": "Pangee Street, Nyngan",
     "category": "Advice"
    },
    {
@@ -793,10 +777,6 @@
    },
    {
     "title": "SECTOR 5, SMA",
-    "category": "Advice"
-   },
-   {
-    "title": "STURT HWY, EUROLEY",
     "category": "Advice"
    },
    {
@@ -812,7 +792,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BURREN BORE RD, BURREN JUNCTION",
+    "title": "CARISBROOK CT, TABLE TOP",
     "category": "Not Applicable"
    },
    {
@@ -828,10 +808,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "KYOGLE RD, BYANGUM",
-    "category": "Not Applicable"
-   },
-   {
     "title": "MALONEYS RD, LUE",
     "category": "Not Applicable"
    },
@@ -844,7 +820,15 @@
     "category": "Not Applicable"
    },
    {
+    "title": "NEWELL HWY, TOMINGLEY",
+    "category": "Not Applicable"
+   },
+   {
     "title": "OLD WILLBRIGGIE RD, GRIFFITH",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WARIALDA RD, COOLATAI",
     "category": "Not Applicable"
    }
   ],
@@ -922,6 +906,10 @@
     "pubDate": "Tue, 27 Oct 2026 00:03:00 GMT"
    },
    {
+    "title": "Bushfire smoke chokes output from solar farms, even more than 100 km away, researchers find - Renew Economy",
+    "pubDate": "Wed, 28 Oct 2026 22:09:22 GMT"
+   },
+   {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
     "pubDate": "Wed, 28 Oct 2026 16:50:30 GMT"
    },
@@ -944,36 +932,32 @@
    {
     "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
     "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
-   },
-   {
-    "title": "Map Shows Nations Urging People to Stockpile Food as France Issues Warning - Newsweek",
-    "pubDate": "Wed, 28 Oct 2026 15:39:00 GMT"
    }
   ],
   "au_security_news": [
    {
-    "title": "Modern warfare: ADF aims at new frontiers - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 15:53:05 GMT"
-   },
-   {
-    "title": "Australia\u2019s $30 billion base boom needs scrutiny too - Lowy Institute",
-    "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
-   },
-   {
     "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
+   },
+   {
+    "title": "Modern warfare: ADF aims at new frontiers - The Australian",
+    "pubDate": "Wed, 28 Oct 2026 15:53:05 GMT"
    },
    {
     "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
     "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
    },
    {
-    "title": "Federal government open to recruiting Pacific Islanders into Australian Defence Force - National Indigenous Times",
-    "pubDate": "Wed, 28 Oct 2026 20:30:00 GMT"
+    "title": "Australia\u2019s $30 billion base boom needs scrutiny too - Lowy Institute",
+    "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
    },
    {
     "title": "Australian SAS officers knew about unlawful \u2018throwdowns\u2019 on dead Afghans, report says - The Guardian",
     "pubDate": "Wed, 28 Oct 2026 22:22:00 GMT"
+   },
+   {
+    "title": "Federal government open to recruiting Pacific Islanders into Australian Defence Force - National Indigenous Times",
+    "pubDate": "Wed, 28 Oct 2026 20:30:00 GMT"
    },
    {
     "title": "Defence budget cuts loom as AUKUS squeeze bites - The Nightly",

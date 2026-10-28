@@ -337,7 +337,18 @@ def main():
     if not snaps:
         print("no snapshots found", file=sys.stderr)
         return 1
-    snapshot = json.loads(Path(snaps[-1]).read_text())
+    snapshot = None
+    for p in reversed(snaps):
+        try:
+            snapshot = json.loads(Path(p).read_text())
+            if p != snaps[-1]:
+                print(f"WARNING: newest snapshot unreadable; fell back to {Path(p).name}", file=sys.stderr)
+            break
+        except json.JSONDecodeError:
+            continue
+    if snapshot is None:
+        print("no readable snapshot found", file=sys.stderr)
+        return 1
     lines, alerts = assess(snapshot)
 
     day = snapshot["collected_utc"][:10]

@@ -438,7 +438,9 @@ def main():
         time.sleep(1)
 
     out_path = DATA / f"snapshot_{stamp}.json"
-    out_path.write_text(json.dumps(snapshot, indent=1))
+    tmp_path = DATA / f"snapshot_{stamp}.json.tmp"
+    tmp_path.write_text(json.dumps(snapshot, indent=1))
+    tmp_path.replace(out_path)  # atomic rename; readers never see partial file
     print(f"snapshot -> {out_path.name}")
     prune_snapshots()
     return 0

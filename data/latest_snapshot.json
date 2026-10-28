@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-28T02:45:01.979058+00:00",
+ "collected_utc": "2026-10-28T03:45:01.638196+00:00",
  "earthquakes": [
+  {
+   "mag": 5.6,
+   "place": "174 km NW of Port-Olry, Vanuatu",
+   "time": 1793156388387,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
+   "type": "earthquake"
+  },
   {
    "mag": 6,
    "place": "214 km NW of Port-Olry, Vanuatu",
@@ -172,9 +180,9 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-27T21:00:00",
-   "Kp": 1.0,
-   "a_running": 4,
+   "time_tag": "2026-10-28T00:00:00",
+   "Kp": 2.33,
+   "a_running": 9,
    "station_count": 8
   },
   "kp_max_24h": 2.67,
@@ -416,8 +424,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/023837.shtml?cone",
-     "pubDate": "Wed, 28 Oct 2026 02:38:37 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/032242.shtml?cone",
+     "pubDate": "Wed, 28 Oct 2026 03:22:42 GMT"
     }
    ]
   }
@@ -649,12 +657,12 @@
    "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Transport of Radioactive Material - World Nuclear Association",
@@ -671,16 +679,20 @@
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
   },
   {
+   "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
+   "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
+  },
+  {
    "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   },
   {
-   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
-   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
-  },
-  {
    "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
    "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
+   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
    "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
@@ -689,16 +701,36 @@
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here's what to buy - The Independent",
    "pubDate": "Tue, 27 Oct 2026 08:51:00 GMT"
-  },
-  {
-   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Accuser tells court Alan Jones was 'generous' for many years",
+    "title": "13yo alleged extremist a victim of 'big tech', court hears",
+    "pubDate": "Wed, 28 Oct 2026 03:38:13 +0000"
+   },
+   {
+    "title": "Cows found on tropical island national park months after major flood",
+    "pubDate": "Wed, 28 Oct 2026 03:31:15 +0000"
+   },
+   {
+    "title": "Court jails disqualified driver high on meth over fatal crash",
+    "pubDate": "Wed, 28 Oct 2026 03:22:43 +0000"
+   },
+   {
+    "title": "Australia providing 'extraordinary' support to ICC staff amid Trump sanctions",
+    "pubDate": "Wed, 28 Oct 2026 03:10:07 +0000"
+   },
+   {
+    "title": "Breaking: Childcare paedophile Ashley Paul Griffith extradited to NSW",
+    "pubDate": "Wed, 28 Oct 2026 03:03:33 +0000"
+   },
+   {
+    "title": "Lamarre-Condon told ex-colleague he'd 'done something bad', jury hears",
+    "pubDate": "Wed, 28 Oct 2026 02:42:37 +0000"
+   },
+   {
+    "title": "Jones accuser admits lying to police over assault by different person",
     "pubDate": "Wed, 28 Oct 2026 02:31:09 +0000"
    },
    {
@@ -712,30 +744,6 @@
    {
     "title": "Two ironies emerge out of Israel's deadlocked election",
     "pubDate": "Wed, 28 Oct 2026 01:59:27 +0000"
-   },
-   {
-    "title": "ABC tells One Nation to remove cartoon with violent depiction of Bluey",
-    "pubDate": "Wed, 28 Oct 2026 01:58:58 +0000"
-   },
-   {
-    "title": "How Libby Trickett is talking to her kids about the ultra-thinness trend",
-    "pubDate": "Wed, 28 Oct 2026 01:58:08 +0000"
-   },
-   {
-    "title": "Global study counts almost 3 million climate change-related deaths",
-    "pubDate": "Wed, 28 Oct 2026 01:52:40 +0000"
-   },
-   {
-    "title": "Councils struggle to access millions in flood recovery funding",
-    "pubDate": "Wed, 28 Oct 2026 01:44:57 +0000"
-   },
-   {
-    "title": "NT hospital staff exposed to smell of decomposing bodies, left sick, union says",
-    "pubDate": "Wed, 28 Oct 2026 01:34:29 +0000"
-   },
-   {
-    "title": "Former Australian Open champ Stan Wawrinka ends illustrious career",
-    "pubDate": "Wed, 28 Oct 2026 00:54:15 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -878,6 +886,10 @@
     "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
    },
    {
+    "title": "Man dies as flood emergency grips Queensland - The Nightly",
+    "pubDate": "Wed, 28 Oct 2026 02:58:20 GMT"
+   },
+   {
     "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
     "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
    },
@@ -892,10 +904,6 @@
    {
     "title": "Fatal flood emergency as torrential rain batters Queensland - 7NEWS",
     "pubDate": "Mon, 26 Oct 2026 07:13:00 GMT"
-   },
-   {
-    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
-    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
    }
   ],
   "au_security_news": [
@@ -912,24 +920,24 @@
     "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
    },
    {
-    "title": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident - The Guardian",
-    "pubDate": "Tue, 27 Oct 2026 20:49:00 GMT"
+    "title": "Australia names National Armaments Director - Asia Pacific Defence Reporter",
+    "pubDate": "Tue, 27 Oct 2026 21:24:11 GMT"
    },
    {
-    "title": "Japan, Australia, US should build a second-island-chain air bridge - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Tue, 27 Oct 2026 19:03:05 GMT"
+    "title": "Australian orgs replacing security roles with AI - Technology Decisions",
+    "pubDate": "Wed, 28 Oct 2026 01:27:22 GMT"
+   },
+   {
+    "title": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident - The Guardian",
+    "pubDate": "Tue, 27 Oct 2026 20:49:00 GMT"
    },
    {
     "title": "Crude Awakening: How Australia Ranks on Fuel Security - Climate Council",
     "pubDate": "Tue, 27 Oct 2026 13:01:00 GMT"
    },
    {
-    "title": "Australia names National Armaments Director - Asia Pacific Defence Reporter",
-    "pubDate": "Tue, 27 Oct 2026 21:23:01 GMT"
-   },
-   {
-    "title": "Carey to lead Hurricanes' WBBL title defence - cricket.com.au",
-    "pubDate": "Tue, 27 Oct 2026 22:00:00 GMT"
+    "title": "Japan, Australia, US should build a second-island-chain air bridge - The Strategist | ASPI's analysis and commentary site",
+    "pubDate": "Tue, 27 Oct 2026 19:03:05 GMT"
    }
   ],
   "au_health_news": [

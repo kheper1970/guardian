@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-28T20:45:01.416789+00:00",
+ "collected_utc": "2026-10-28T21:45:01.403406+00:00",
  "earthquakes": [
   {
    "mag": 5.3,
@@ -188,9 +188,9 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-28T15:00:00",
-   "Kp": 1.33,
-   "a_running": 5,
+   "time_tag": "2026-10-28T18:00:00",
+   "Kp": 2.33,
+   "a_running": 9,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -432,8 +432,8 @@
     },
     {
      "title": "Tropical Depression Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/203745.shtml?cone",
-     "pubDate": "Wed, 28 Oct 2026 20:37:45 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212246.shtml?cone",
+     "pubDate": "Wed, 28 Oct 2026 21:22:46 GMT"
     }
    ]
   }
@@ -637,20 +637,16 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
    "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
    "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
@@ -667,6 +663,10 @@
   {
    "title": "Transport of Radioactive Material - World Nuclear Association",
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
+   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -675,36 +675,44 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
-  },
-  {
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
   },
   {
-   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
-   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
+   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
+   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
+  },
+  {
+   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
+   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
+  },
+  {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Labor to fix 25 Victorian roads as election sweetener ahead of November poll",
+    "pubDate": "Wed, 28 Oct 2026 21:19:34 +0000"
+   },
+   {
+    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war",
+    "pubDate": "Wed, 28 Oct 2026 20:53:39 +0000"
+   },
    {
     "title": "Trial starts for man accused of murdering Victorian woman Carlee Smith",
     "pubDate": "Wed, 28 Oct 2026 20:37:47 +0000"
@@ -730,20 +738,12 @@
     "pubDate": "Wed, 28 Oct 2026 20:02:33 +0000"
    },
    {
-    "title": "Breaking: Man arrested after woman dies in Armidale stabbing",
+    "title": "Man arrested after woman dies in Armidale stabbing",
     "pubDate": "Wed, 28 Oct 2026 19:59:01 +0000"
    },
    {
     "title": "Quick hits: Green survives Rorschach test as Aussies put Cape Town to sleep",
     "pubDate": "Wed, 28 Oct 2026 19:57:53 +0000"
-   },
-   {
-    "title": "Dozens of trees poisoned along valuable and beloved Sunshine Coast beachfront",
-    "pubDate": "Wed, 28 Oct 2026 19:49:06 +0000"
-   },
-   {
-    "title": "Police fatally shoot woman allegedly armed with axe in Adelaide's east",
-    "pubDate": "Wed, 28 Oct 2026 19:47:05 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -772,8 +772,8 @@
     "category": "Advice"
    },
    {
-    "title": "(WESTERN MTWY), EASTERN CREEK",
-    "category": "Not Applicable"
+    "title": "PORTERS HR STAGE 3",
+    "category": "Planned Burn"
    },
    {
     "title": "AUBURN-MOMALONG RD, SAVERNAKE",
@@ -789,6 +789,10 @@
    },
    {
     "title": "BURREN BORE RD, BURREN JUNCTION",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "CYRIL SMITH CCT, TABULAM",
     "category": "Not Applicable"
    },
    {
@@ -809,6 +813,10 @@
    },
    {
     "title": "MANILLA RD, ATTUNGA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MANNING POINT RD, MITCHELLS ISLAND",
     "category": "Not Applicable"
    },
    {
@@ -906,20 +914,20 @@
     "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
    },
    {
-    "title": "Map shows countries urging residents to stockpile food as France issues warning - Newsweek",
-    "pubDate": "Wed, 28 Oct 2026 15:39:00 GMT"
+    "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage - pv magazine Global",
+    "pubDate": "Wed, 28 Oct 2026 08:19:53 GMT"
    },
    {
     "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
-    "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
+    "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
    },
    {
-    "title": "Australian Parliament Pays Tribute to Injured MP Helen Haines, Calls for Respectful Public Debate - kendranewsaustralia.com.au",
-    "pubDate": "Wed, 28 Oct 2026 11:14:36 GMT"
+    "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",
+    "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT"
    },
    {
-    "title": "Severe storms and flood warnings across east coast - 7NEWS",
-    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
+    "title": "Map Shows Nations Urging People to Stockpile Food as France Issues Warning - Newsweek",
+    "pubDate": "Wed, 28 Oct 2026 15:39:00 GMT"
    }
   ],
   "au_security_news": [
@@ -932,6 +940,10 @@
     "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
    },
    {
+    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
+   },
+   {
     "title": "Federal government open to recruiting Pacific Islanders into Australian Defence Force - National Indigenous Times",
     "pubDate": "Wed, 28 Oct 2026 20:30:00 GMT"
    },
@@ -940,20 +952,16 @@
     "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
    },
    {
+    "title": "Defence budget cuts loom as AUKUS squeeze bites - The Nightly",
+    "pubDate": "Wed, 28 Oct 2026 16:50:41 GMT"
+   },
+   {
     "title": "Fault Lines \u2013 Taiwanese drones, Timorese deals and New Caledonian diplomacy - The Strategist | ASPI's analysis and commentary site",
     "pubDate": "Wed, 28 Oct 2026 19:05:45 GMT"
    },
    {
-    "title": "\u2018Dangerously unprepared\u2019: Union and Viva Energy issue fuel security warning to Albanese - SMH.com.au",
-    "pubDate": "Wed, 28 Oct 2026 18:00:00 GMT"
-   },
-   {
     "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
     "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
-   },
-   {
-    "title": "National security strategy must be broadened - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 14:34:02 GMT"
    }
   ],
   "au_health_news": [

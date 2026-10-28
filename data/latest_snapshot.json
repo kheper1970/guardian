@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-28T14:45:01.357055+00:00",
+ "collected_utc": "2026-10-28T15:45:01.195952+00:00",
  "earthquakes": [
+  {
+   "mag": 5.5,
+   "place": "5 km ESE of Asahi, Japan",
+   "time": 1793200072050,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe",
+   "type": "earthquake"
+  },
   {
    "mag": 4.5,
    "place": "13 km WSW of \u0100wash, Ethiopia",
@@ -168,29 +176,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tth4",
    "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "south of the Fiji Islands",
-   "time": 1793115102073,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgq",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "27 km W of R\u00edo Grande, Panama",
-   "time": 1793114762987,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgm",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-28T09:00:00",
-   "Kp": 1.67,
-   "a_running": 6,
+   "time_tag": "2026-10-28T12:00:00",
+   "Kp": 0.67,
+   "a_running": 3,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -432,8 +424,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/143905.shtml?cone",
-     "pubDate": "Wed, 28 Oct 2026 14:39:05 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152314.shtml?cone",
+     "pubDate": "Wed, 28 Oct 2026 15:23:14 GMT"
     }
    ]
   }
@@ -683,42 +675,46 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
-  },
-  {
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
   },
   {
-   "title": "Mali - UN World Food Programme",
-   "pubDate": "Tue, 08 Sep 2026 07:14:10 GMT"
-  },
-  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
   },
   {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
+   "title": "Can emergency cash buy food security? - UNU | United Nations University",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
    "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
+  },
+  {
+   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
+   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "At least three killed as powerful Cyclone Arnab hits India's east coast",
+    "pubDate": "Wed, 28 Oct 2026 15:35:22 +0000"
+   },
+   {
     "title": "Russell Brand tells jury friends won't defend him over sex crime allegations",
     "pubDate": "Wed, 28 Oct 2026 14:39:57 +0000"
    },
    {
-    "title": "Breaking: Flavio Bolsonaro arrives in Miami after fleeing Brazil",
+    "title": "Flavio Bolsonaro arrives in Miami after fleeing Brazil",
     "pubDate": "Wed, 28 Oct 2026 14:02:19 +0000"
    },
    {
@@ -730,7 +726,7 @@
     "pubDate": "Wed, 28 Oct 2026 10:33:20 +0000"
    },
    {
-    "title": "At least 64 dead as high-speed trains collide in Spain",
+    "title": "At least 68 dead as high-speed trains collide in Spain",
     "pubDate": "Wed, 28 Oct 2026 10:11:01 +0000"
    },
    {
@@ -748,10 +744,6 @@
    {
     "title": "Lawyer suggests 'excessive self-defence' in fatal stabbing",
     "pubDate": "Wed, 28 Oct 2026 08:07:51 +0000"
-   },
-   {
-    "title": "Diamonds avoid clean sweep in Constellation Cup",
-    "pubDate": "Wed, 28 Oct 2026 07:42:03 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -784,14 +776,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BEACH ST, TUNCURRY",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "BRIDGMAN RD, OBANVALE",
-    "category": "Not Applicable"
-   },
-   {
     "title": "BROOKS RD, BINNAWAY",
     "category": "Not Applicable"
    },
@@ -808,15 +792,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "LILLYPILLY RD, LEETON",
-    "category": "Not Applicable"
-   },
-   {
     "title": "MALONEYS RD, LUE",
     "category": "Not Applicable"
    },
    {
     "title": "MANILLA RD, ATTUNGA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "NEW ENGLAND HWY, TENTERFIELD",
     "category": "Not Applicable"
    },
    {
@@ -902,24 +886,24 @@
     "pubDate": "Tue, 27 Oct 2026 00:03:00 GMT"
    },
    {
-    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready - WIRED",
-    "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
-   },
-   {
     "title": "Flash floods swamp southeast Australia as record October rainfall forces school closures - Yahoo News Canada",
     "pubDate": "Wed, 28 Oct 2026 13:43:19 GMT"
+   },
+   {
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready - WIRED",
+    "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
    },
    {
     "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage - pv magazine Global",
     "pubDate": "Wed, 28 Oct 2026 08:19:53 GMT"
    },
    {
-    "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
-    "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
-   },
-   {
     "title": "Man dies as flood emergency grips Queensland - The Nightly",
     "pubDate": "Wed, 28 Oct 2026 02:58:20 GMT"
+   },
+   {
+    "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
+    "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
    },
    {
     "title": "Severe storms and flood warnings across east coast - 7NEWS",
@@ -933,7 +917,7 @@
   "au_security_news": [
    {
     "title": "Modern warfare: ADF aims at new frontiers - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 13:30:00 GMT"
+    "pubDate": "Wed, 28 Oct 2026 13:32:13 GMT"
    },
    {
     "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
@@ -945,7 +929,7 @@
    },
    {
     "title": "Government introduces new bill to protect Defence assets from drones - Australian Aviation",
-    "pubDate": "Wed, 28 Oct 2026 09:45:00 GMT"
+    "pubDate": "Wed, 28 Oct 2026 09:52:32 GMT"
    },
    {
     "title": "The $9 billion fuel bill raising questions about Australia's energy security - SBS",
@@ -956,12 +940,12 @@
     "pubDate": "Wed, 28 Oct 2026 06:33:41 GMT"
    },
    {
-    "title": "Australian rifles, private guns and PNG\u2019s 2027 election - Lowy Institute",
-    "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
+    "title": "EXCLUSIVE: Finland looking to invest in Australian satellite and uncrewed vehicle technology, says ambassador - www.defenceconnect.com.au",
+    "pubDate": "Wed, 28 Oct 2026 01:45:48 GMT"
    },
    {
-    "title": "Australia: Police use temporary powers in WA to ban protesters from defence conference and continue to arrest climate protesters - Civicus Monitor",
-    "pubDate": "Wed, 28 Oct 2026 12:45:00 GMT"
+    "title": "Australian rifles, private guns and PNG\u2019s 2027 election - Lowy Institute",
+    "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
    }
   ],
   "au_health_news": [

@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-28T11:45:01.381633+00:00",
+ "collected_utc": "2026-10-28T12:45:01.590915+00:00",
  "earthquakes": [
+  {
+   "mag": 5,
+   "place": "Reykjanes Ridge",
+   "time": 1793188577454,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.5,
+   "place": "Reykjanes Ridge",
+   "time": 1793187469980,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
+   "type": "earthquake"
+  },
   {
    "mag": 4.8,
    "place": "29 km SSW of Sarangani, Philippines",
@@ -152,21 +168,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgc",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "5 km ENE of Tierra y Libertad, Mexico",
-   "time": 1793102471952,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-28T06:00:00",
-   "Kp": 2.33,
-   "a_running": 9,
+   "time_tag": "2026-10-28T09:00:00",
+   "Kp": 1.67,
+   "a_running": 6,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -408,8 +416,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/103507.shtml?cone",
-     "pubDate": "Wed, 28 Oct 2026 10:35:07 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/120634.shtml?cone",
+     "pubDate": "Wed, 28 Oct 2026 12:06:34 GMT"
     }
    ]
   }
@@ -446,7 +454,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T00:00:00Z",
+    "date": "2026-10-28T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -462,7 +470,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T00:00:00Z",
+    "date": "2026-10-28T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -621,36 +629,36 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
    "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
-   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -690,11 +698,15 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Tales from Outer Suburbia and Addition among Screen Music winners",
+    "pubDate": "Wed, 28 Oct 2026 12:00:00 +0000"
+   },
+   {
     "title": "Defence official claimed she flagged plans for social media ban request",
     "pubDate": "Wed, 28 Oct 2026 10:33:20 +0000"
    },
    {
-    "title": "Breaking: At least 30 dead as high-speed trains collide in Spain",
+    "title": "At least 30 dead as high-speed trains collide in Spain",
     "pubDate": "Wed, 28 Oct 2026 10:11:01 +0000"
    },
    {
@@ -714,20 +726,16 @@
     "pubDate": "Wed, 28 Oct 2026 08:07:51 +0000"
    },
    {
-    "title": "Live: Australia avoids Constellation Cup clean sweep with victory in Melbourne",
+    "title": "Diamonds avoid clean sweep in Constellation Cup",
     "pubDate": "Wed, 28 Oct 2026 07:42:03 +0000"
    },
    {
-    "title": "Live: Green given reprieve after contested catch, Labuschagne falls for a duck",
+    "title": "Live: Green, Renshaw score half tons after close calls, Labuschagne falls for a duck",
     "pubDate": "Wed, 28 Oct 2026 07:30:17 +0000"
    },
    {
     "title": "Victorian caravan maker Essential Caravans enters voluntary administration",
     "pubDate": "Wed, 28 Oct 2026 07:08:53 +0000"
-   },
-   {
-    "title": "Puppy farmer jailed after more than 100 dogs found in 'horrendous' conditions",
-    "pubDate": "Wed, 28 Oct 2026 07:08:26 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -768,19 +776,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BELGRAVIA RD, DUBBO",
-    "category": "Not Applicable"
-   },
-   {
     "title": "BROOKS RD, BINNAWAY",
     "category": "Not Applicable"
    },
    {
     "title": "BURREN BORE RD, BURREN JUNCTION",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "CAMP ST, GRENFELL",
     "category": "Not Applicable"
    },
    {
@@ -804,11 +804,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "OLD COOMA RD, GOOGONG",
+    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
     "category": "Not Applicable"
    },
    {
-    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
+    "title": "SMITH RD, BILLIMARI",
     "category": "Not Applicable"
    }
   ],
@@ -906,12 +906,12 @@
     "pubDate": "Wed, 28 Oct 2026 02:58:20 GMT"
    },
    {
-    "title": "Dairy farmer and former councillor found dead in Queensland floods - Nine.com.au",
-    "pubDate": "Mon, 26 Oct 2026 11:45:57 GMT"
-   },
-   {
     "title": "Severe storms and flood warnings across east coast - 7NEWS",
     "pubDate": "Wed, 28 Oct 2026 02:54:00 GMT"
+   },
+   {
+    "title": "Australian Parliament Pays Tribute to Injured MP Helen Haines, Calls for Respectful Public Debate - kendranewsaustralia.com.au",
+    "pubDate": "Wed, 28 Oct 2026 11:15:06 GMT"
    }
   ],
   "au_security_news": [
@@ -920,8 +920,12 @@
     "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
    },
    {
-    "title": "Iron Dome down under: Defence seeks anti-Chinese missile shield - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 10:30:28 GMT"
+    "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
+    "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
+   },
+   {
+    "title": "Iron Dome Down Under: Defence seeks anti-Chinese missile shield - The Australian",
+    "pubDate": "Wed, 28 Oct 2026 10:30:44 GMT"
    },
    {
     "title": "Government introduces new bill to protect Defence assets from drones - Australian Aviation",
@@ -929,23 +933,19 @@
    },
    {
     "title": "Former Rio Tinto exec to oversee Australia\u2019s defence procurement - Mining.com.au",
-    "pubDate": "Wed, 28 Oct 2026 06:22:30 GMT"
+    "pubDate": "Wed, 28 Oct 2026 06:33:41 GMT"
    },
    {
     "title": "The $9 billion fuel bill raising questions about Australia's energy security - SBS",
     "pubDate": "Tue, 27 Oct 2026 20:32:19 GMT"
    },
    {
+    "title": "EXCLUSIVE: Finland looking to invest in Australian satellite and uncrewed vehicle technology, says ambassador - www.defenceconnect.com.au",
+    "pubDate": "Wed, 28 Oct 2026 01:45:48 GMT"
+   },
+   {
     "title": "Australian rifles, private guns and PNG\u2019s 2027 election - Lowy Institute",
     "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
-   },
-   {
-    "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
-    "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
-   },
-   {
-    "title": "Crude Awakening: How Australia Ranks on Fuel Security - Climate Council",
-    "pubDate": "Tue, 27 Oct 2026 13:01:00 GMT"
    }
   ],
   "au_health_news": [

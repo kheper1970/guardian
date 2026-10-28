@@ -1,10 +1,18 @@
 {
- "collected_utc": "2026-10-27T23:45:01.585681+00:00",
+ "collected_utc": "2026-10-28T00:45:02.077465+00:00",
  "earthquakes": [
   {
+   "mag": 5.1,
+   "place": "7 km ENE of Pangyan, Philippines",
+   "time": 1793144632335,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
+   "type": "earthquake"
+  },
+  {
    "mag": 5.4,
-   "place": "197 km WSW of Merizo Village, Guam",
-   "time": 1793142856760,
+   "place": "193 km WSW of Merizo Village, Guam",
+   "time": 1793142857420,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke",
    "type": "earthquake"
@@ -136,21 +144,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "54 km E of Tomioka, Japan",
-   "time": 1793060708167,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-27T18:00:00",
-   "Kp": 2.0,
-   "a_running": 7,
+   "time_tag": "2026-10-27T21:00:00",
+   "Kp": 1.0,
+   "a_running": 4,
    "station_count": 8
   },
   "kp_max_24h": 2.67,
@@ -605,16 +605,16 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
@@ -633,11 +633,15 @@
    "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   },
   {
-   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
-   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
+   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
   }
  ],
  "famine_news": [
+  {
+   "title": "Heat, Food Insecurity, Disease Make Climate a Global Health Emergency: Lancet Countdown - The Energy Mix",
+   "pubDate": "Wed, 28 Oct 2026 00:24:48 GMT"
+  },
   {
    "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
@@ -651,6 +655,10 @@
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here's what to buy - The Independent",
    "pubDate": "Tue, 27 Oct 2026 08:51:00 GMT"
   },
@@ -659,26 +667,38 @@
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
-   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
-   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
-  },
-  {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
-   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "Breaking: Inflation surges more than expected ahead of RBA meeting",
+    "pubDate": "Wed, 28 Oct 2026 00:38:39 +0000"
+   },
+   {
+    "title": "Residents declare 'war' over proposed water park",
+    "pubDate": "Wed, 28 Oct 2026 00:26:00 +0000"
+   },
+   {
+    "title": "Giant ball of 2.8 million eels gathers off Tasmania's coast to spawn",
+    "pubDate": "Wed, 28 Oct 2026 00:02:11 +0000"
+   },
+   {
+    "title": "Access to the pill and UTI treatment is changing. Is it a win for women?",
+    "pubDate": "Tue, 27 Oct 2026 23:47:21 +0000"
+   },
+   {
+    "title": "Star Casino fined $260m for money laundering violations",
+    "pubDate": "Tue, 27 Oct 2026 23:45:23 +0000"
+   },
+   {
     "title": "Fossil fuel ad ban could 'jeopardise' TDU village, SA government says",
     "pubDate": "Tue, 27 Oct 2026 23:23:01 +0000"
    },
    {
-    "title": "Fisherman lost at sea for 41 days rescued off Kiribati",
+    "title": "Kiribati fishermen find man alone, dehydrated and lost at sea",
     "pubDate": "Tue, 27 Oct 2026 23:14:50 +0000"
    },
    {
@@ -692,26 +712,6 @@
    {
     "title": "Arsenal knocked out of League Cup by fourth-tier minnow in all-time upset",
     "pubDate": "Tue, 27 Oct 2026 22:54:59 +0000"
-   },
-   {
-    "title": "Federal government invests $180m in rare earths mine in western Victoria",
-    "pubDate": "Tue, 27 Oct 2026 22:32:34 +0000"
-   },
-   {
-    "title": "NBA's shortest-ever player to have jersey retired",
-    "pubDate": "Tue, 27 Oct 2026 22:12:31 +0000"
-   },
-   {
-    "title": "Private school headmaster sounds warning on ATAR decline",
-    "pubDate": "Tue, 27 Oct 2026 21:40:06 +0000"
-   },
-   {
-    "title": "MusicSA chair on 'post-apocalypse' industry ahead of Good Music Month",
-    "pubDate": "Tue, 27 Oct 2026 21:35:46 +0000"
-   },
-   {
-    "title": "Teen charged over Sydney house fire with 88yo woman inside",
-    "pubDate": "Tue, 27 Oct 2026 21:25:27 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -850,12 +850,12 @@
     "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
    },
    {
-    "title": "Former councillor dies in floodwaters on Queensland's Fraser Coast - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Tue, 27 Oct 2026 08:00:00 GMT"
-   },
-   {
     "title": "Flood warnings and water shortages after storm - Yahoo News Australia",
     "pubDate": "Mon, 26 Oct 2026 13:03:39 GMT"
+   },
+   {
+    "title": "Former councillor dies in floodwaters on Queensland's Fraser Coast - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Tue, 27 Oct 2026 08:00:00 GMT"
    },
    {
     "title": "Aircraft Deployed Early to Protect WA Grain Growers - Mirage News",

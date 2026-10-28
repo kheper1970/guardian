@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-28T15:45:01.195952+00:00",
+ "collected_utc": "2026-10-28T16:45:01.987929+00:00",
  "earthquakes": [
+  {
+   "mag": 4.7,
+   "place": "81 km ENE of Mazha, China",
+   "time": 1793202055130,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpk",
+   "type": "earthquake"
+  },
   {
    "mag": 5.5,
    "place": "5 km ESE of Asahi, Japan",
@@ -167,14 +175,6 @@
    "time": 1793127473135,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "70 km WNW of Callaguip, Philippines",
-   "time": 1793117273845,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tth4",
    "type": "earthquake"
   }
  ],
@@ -462,7 +462,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T06:00:00Z",
+    "date": "2026-10-28T12:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -478,7 +478,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T06:00:00Z",
+    "date": "2026-10-28T12:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -637,6 +637,10 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
@@ -645,28 +649,24 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -675,8 +675,20 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
+  },
+  {
+   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Mali - UN World Food Programme",
+   "pubDate": "Tue, 08 Sep 2026 07:14:10 GMT"
   },
   {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
@@ -687,20 +699,8 @@
    "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
   },
   {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
-   "title": "Can emergency cash buy food security? - UNU | United Nations University",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
    "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
-  },
-  {
-   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
-   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   }
  ],
  "australia": {
@@ -800,15 +800,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "NEW ENGLAND HWY, TENTERFIELD",
-    "category": "Not Applicable"
-   },
-   {
     "title": "OLD WILLBRIGGIE RD, GRIFFITH",
     "category": "Not Applicable"
    },
    {
     "title": "SMITH RD, BILLIMARI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WOODBURN CORAKI RD, CORAKI",
     "category": "Not Applicable"
    }
   ],
@@ -917,7 +917,11 @@
   "au_security_news": [
    {
     "title": "Modern warfare: ADF aims at new frontiers - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 13:32:13 GMT"
+    "pubDate": "Wed, 28 Oct 2026 15:53:05 GMT"
+   },
+   {
+    "title": "Australia\u2019s $30 billion base boom needs scrutiny too - Lowy Institute",
+    "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
    },
    {
     "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
@@ -942,10 +946,6 @@
    {
     "title": "EXCLUSIVE: Finland looking to invest in Australian satellite and uncrewed vehicle technology, says ambassador - www.defenceconnect.com.au",
     "pubDate": "Wed, 28 Oct 2026 01:45:48 GMT"
-   },
-   {
-    "title": "Australian rifles, private guns and PNG\u2019s 2027 election - Lowy Institute",
-    "pubDate": "Wed, 28 Oct 2026 01:00:00 GMT"
    }
   ],
   "au_health_news": [

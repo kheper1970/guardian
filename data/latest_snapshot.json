@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-28T19:45:02.061125+00:00",
+ "collected_utc": "2026-10-28T20:45:01.416789+00:00",
  "earthquakes": [
+  {
+   "mag": 5.3,
+   "place": "159 km WNW of Tobelo, Indonesia",
+   "time": 1793217407711,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tttl",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.2,
+   "place": "Reykjanes Ridge",
+   "time": 1793216732958,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttth",
+   "type": "earthquake"
+  },
   {
    "mag": 4.7,
    "place": "81 km ENE of Mazha, China",
@@ -391,33 +407,33 @@
  "nhc_storms": [
   {
    "storm": "Vance",
-   "type": "Tropical Storm",
+   "type": "Tropical Depression",
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Vance Public Advisory Number 29",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/281432.shtml",
-     "pubDate": "Wed, 28 Oct 2026 14:33:04 GMT"
+     "title": "Tropical Depression Vance Public Advisory Number 30",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/282032.shtml",
+     "pubDate": "Wed, 28 Oct 2026 20:32:41 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Advisory Number 29",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/281432.shtml",
-     "pubDate": "Wed, 28 Oct 2026 14:32:33 GMT"
+     "title": "Tropical Depression Vance Forecast Advisory Number 30",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/282032.shtml",
+     "pubDate": "Wed, 28 Oct 2026 20:32:11 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Discussion Number 29",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/281433.shtml",
-     "pubDate": "Wed, 28 Oct 2026 14:33:35 GMT"
+     "title": "Tropical Depression Vance Forecast Discussion Number 30",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/282033.shtml",
+     "pubDate": "Wed, 28 Oct 2026 20:33:47 GMT"
     },
     {
-     "title": "Tropical Storm Vance Wind Speed Probabilities Number 29",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/281432.shtml",
-     "pubDate": "Wed, 28 Oct 2026 14:33:04 GMT"
+     "title": "Tropical Depression Vance Wind Speed Probabilities Number 30",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/282033.shtml",
+     "pubDate": "Wed, 28 Oct 2026 20:33:10 GMT"
     },
     {
-     "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/191910.shtml?cone",
-     "pubDate": "Wed, 28 Oct 2026 19:19:10 GMT"
+     "title": "Tropical Depression Vance Graphics",
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/203745.shtml?cone",
+     "pubDate": "Wed, 28 Oct 2026 20:37:45 GMT"
     }
    ]
   }
@@ -625,32 +641,32 @@
    "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -659,8 +675,16 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
+  },
+  {
+   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
@@ -671,63 +695,55 @@
    "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
-   "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
-   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
-   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
-  },
-  {
-   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
-   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
+   "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Qld child safety workers walk off the job amid crushing workloads",
-    "pubDate": "Wed, 28 Oct 2026 19:35:44 +0000"
+    "title": "Trial starts for man accused of murdering Victorian woman Carlee Smith",
+    "pubDate": "Wed, 28 Oct 2026 20:37:47 +0000"
    },
    {
-    "title": "Helen Haines's offices reopen after attack that shocked nation",
-    "pubDate": "Wed, 28 Oct 2026 19:33:32 +0000"
+    "title": "On a day that could have ended Test careers, a few young ones flourish",
+    "pubDate": "Wed, 28 Oct 2026 20:36:43 +0000"
    },
    {
-    "title": "Woman ended up in mental health facility after leaving abusive ex",
-    "pubDate": "Wed, 28 Oct 2026 19:33:31 +0000"
+    "title": "Live: Tax office boss concedes consultation failures on credit card ban",
+    "pubDate": "Wed, 28 Oct 2026 20:29:46 +0000"
    },
    {
-    "title": "Israel's president urges 'open mind' as election rivals struggle for majority",
-    "pubDate": "Wed, 28 Oct 2026 19:32:05 +0000"
+    "title": "Live: US Fed holds rates unchanged, chance of local rise more than 75pc",
+    "pubDate": "Wed, 28 Oct 2026 20:23:36 +0000"
    },
    {
-    "title": "'Convincing' scam email used real booking number, check-in dates",
-    "pubDate": "Wed, 28 Oct 2026 19:21:44 +0000"
+    "title": "Trump expands hunt for voter fraud ahead of midterms",
+    "pubDate": "Wed, 28 Oct 2026 20:12:24 +0000"
    },
    {
-    "title": "Surgeon disqualified for fraudulent overtime pay claims",
-    "pubDate": "Wed, 28 Oct 2026 19:08:41 +0000"
+    "title": "Concern as Queensland port plans sea dump in coral spawning season",
+    "pubDate": "Wed, 28 Oct 2026 20:02:33 +0000"
    },
    {
-    "title": "Footage allegedly reveals 'sickening' abuse at country saleyard",
-    "pubDate": "Wed, 28 Oct 2026 19:00:34 +0000"
+    "title": "Breaking: Man arrested after woman dies in Armidale stabbing",
+    "pubDate": "Wed, 28 Oct 2026 19:59:01 +0000"
    },
    {
-    "title": "The 'stigma' of being a non-disabled player in elite wheelchair sport",
-    "pubDate": "Wed, 28 Oct 2026 18:49:00 +0000"
+    "title": "Quick hits: Green survives Rorschach test as Aussies put Cape Town to sleep",
+    "pubDate": "Wed, 28 Oct 2026 19:57:53 +0000"
    },
    {
-    "title": "Victim-survivors tell of 'devastating' impact of court delays",
-    "pubDate": "Wed, 28 Oct 2026 18:48:43 +0000"
+    "title": "Dozens of trees poisoned along valuable and beloved Sunshine Coast beachfront",
+    "pubDate": "Wed, 28 Oct 2026 19:49:06 +0000"
    },
    {
-    "title": "Trump's immigration policies helped him win but now threaten to backfire",
-    "pubDate": "Wed, 28 Oct 2026 18:46:44 +0000"
+    "title": "Police fatally shoot woman allegedly armed with axe in Adelaide's east",
+    "pubDate": "Wed, 28 Oct 2026 19:47:05 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -754,6 +770,10 @@
    {
     "title": "STURT HWY, EUROLEY",
     "category": "Advice"
+   },
+   {
+    "title": "(WESTERN MTWY), EASTERN CREEK",
+    "category": "Not Applicable"
    },
    {
     "title": "AUBURN-MOMALONG RD, SAVERNAKE",
@@ -793,6 +813,10 @@
    },
    {
     "title": "OLD WILLBRIGGIE RD, GRIFFITH",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "THUDDUNGRA RD, DUFFYS FOREST",
     "category": "Not Applicable"
    }
   ],
@@ -882,12 +906,12 @@
     "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
    },
    {
-    "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage - pv magazine Global",
-    "pubDate": "Wed, 28 Oct 2026 08:19:53 GMT"
+    "title": "Map shows countries urging residents to stockpile food as France issues warning - Newsweek",
+    "pubDate": "Wed, 28 Oct 2026 15:39:00 GMT"
    },
    {
     "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
-    "pubDate": "Tue, 27 Oct 2026 18:03:09 GMT"
+    "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
    },
    {
     "title": "Australian Parliament Pays Tribute to Injured MP Helen Haines, Calls for Respectful Public Debate - kendranewsaustralia.com.au",
@@ -895,7 +919,7 @@
    },
    {
     "title": "Severe storms and flood warnings across east coast - 7NEWS",
-    "pubDate": "Wed, 28 Oct 2026 02:54:00 GMT"
+    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
    }
   ],
   "au_security_news": [
@@ -908,8 +932,8 @@
     "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
    },
    {
-    "title": "Defence budget cuts loom as AUKUS squeeze bites - The Nightly",
-    "pubDate": "Wed, 28 Oct 2026 16:50:41 GMT"
+    "title": "Federal government open to recruiting Pacific Islanders into Australian Defence Force - National Indigenous Times",
+    "pubDate": "Wed, 28 Oct 2026 20:30:00 GMT"
    },
    {
     "title": "Cyber security in action - Defence News",
@@ -920,16 +944,16 @@
     "pubDate": "Wed, 28 Oct 2026 19:05:45 GMT"
    },
    {
-    "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
-    "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
-   },
-   {
     "title": "\u2018Dangerously unprepared\u2019: Union and Viva Energy issue fuel security warning to Albanese - SMH.com.au",
     "pubDate": "Wed, 28 Oct 2026 18:00:00 GMT"
    },
    {
+    "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
+    "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
+   },
+   {
     "title": "National security strategy must be broadened - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 13:04:00 GMT"
+    "pubDate": "Wed, 28 Oct 2026 14:34:02 GMT"
    }
   ],
   "au_health_news": [

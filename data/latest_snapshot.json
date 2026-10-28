@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-28T18:45:01.687947+00:00",
+ "collected_utc": "2026-10-28T19:45:02.061125+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -168,14 +168,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.4,
-   "place": "210 km ENE of Nagqu, China",
-   "time": 1793127473135,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -292,21 +284,21 @@
     "observatory": "avo",
     "color": "ORANGE",
     "alert": "WATCH",
-    "sent_utc": "2026-10-27 18:45:38"
+    "sent_utc": "2026-10-28 19:00:27"
    },
    {
     "volcano": "Shishaldin",
     "observatory": "avo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-27 18:45:38"
+    "sent_utc": "2026-10-28 19:00:27"
    },
    {
     "volcano": "Kilauea",
     "observatory": "hvo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-27 18:10:51"
+    "sent_utc": "2026-10-28 19:04:04"
    },
    {
     "volcano": "Ahyi Seamount",
@@ -424,8 +416,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152314.shtml?cone",
-     "pubDate": "Wed, 28 Oct 2026 15:23:14 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/191910.shtml?cone",
+     "pubDate": "Wed, 28 Oct 2026 19:19:10 GMT"
     }
    ]
   }
@@ -675,67 +667,67 @@
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
   },
   {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
-   "title": "Can emergency cash buy food security? - UNU | United Nations University",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
+   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
   },
   {
-   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
-   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
+  },
+  {
+   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
+   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
+  },
+  {
+   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
+   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Faster, deadlier Russian drones shift warfare into horrifying new phase",
-    "pubDate": "Wed, 28 Oct 2026 18:40:57 +0000"
+    "title": "Qld child safety workers walk off the job amid crushing workloads",
+    "pubDate": "Wed, 28 Oct 2026 19:35:44 +0000"
    },
    {
-    "title": "See how the price of everything has changed with inflation",
-    "pubDate": "Wed, 28 Oct 2026 18:40:12 +0000"
+    "title": "Helen Haines's offices reopen after attack that shocked nation",
+    "pubDate": "Wed, 28 Oct 2026 19:33:32 +0000"
    },
    {
-    "title": "Robert Pattinson is on the hunt for predators in gripping new thriller",
-    "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000"
+    "title": "Woman ended up in mental health facility after leaving abusive ex",
+    "pubDate": "Wed, 28 Oct 2026 19:33:31 +0000"
    },
    {
-    "title": "Test your Halloween movie knowledge with our spooky quiz",
-    "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000"
+    "title": "Israel's president urges 'open mind' as election rivals struggle for majority",
+    "pubDate": "Wed, 28 Oct 2026 19:32:05 +0000"
    },
    {
-    "title": "Indigenous culinary school serving up talent to top restaurants",
-    "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000"
+    "title": "'Convincing' scam email used real booking number, check-in dates",
+    "pubDate": "Wed, 28 Oct 2026 19:21:44 +0000"
    },
    {
-    "title": "The 'inexplicable' order that put two trains on a collision course in Spain",
-    "pubDate": "Wed, 28 Oct 2026 18:12:21 +0000"
+    "title": "Surgeon disqualified for fraudulent overtime pay claims",
+    "pubDate": "Wed, 28 Oct 2026 19:08:41 +0000"
    },
    {
-    "title": "Fence constructed in bid to stop illegal dumping in Melbourne's south-east",
-    "pubDate": "Wed, 28 Oct 2026 18:09:54 +0000"
+    "title": "Footage allegedly reveals 'sickening' abuse at country saleyard",
+    "pubDate": "Wed, 28 Oct 2026 19:00:34 +0000"
    },
    {
-    "title": "How the Mongrel Mob became an issue in the NZ election",
-    "pubDate": "Wed, 28 Oct 2026 18:00:00 +0000"
+    "title": "The 'stigma' of being a non-disabled player in elite wheelchair sport",
+    "pubDate": "Wed, 28 Oct 2026 18:49:00 +0000"
    },
    {
-    "title": "CSIRO criticised for lack of transparency over gas leak",
-    "pubDate": "Wed, 28 Oct 2026 18:00:00 +0000"
+    "title": "Victim-survivors tell of 'devastating' impact of court delays",
+    "pubDate": "Wed, 28 Oct 2026 18:48:43 +0000"
    },
    {
-    "title": "Bad inflation result lays bare the ugly truth: there is no easy way out",
-    "pubDate": "Wed, 28 Oct 2026 18:00:00 +0000"
+    "title": "Trump's immigration policies helped him win but now threaten to backfire",
+    "pubDate": "Wed, 28 Oct 2026 18:46:44 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -769,6 +761,10 @@
    },
    {
     "title": "BROOKS RD, BINNAWAY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "BRUXNER HWY, WOODSIDE",
     "category": "Not Applicable"
    },
    {
@@ -920,6 +916,10 @@
     "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
    },
    {
+    "title": "Fault Lines \u2013 Taiwanese drones, Timorese deals and New Caledonian diplomacy - The Strategist | ASPI's analysis and commentary site",
+    "pubDate": "Wed, 28 Oct 2026 19:05:45 GMT"
+   },
+   {
     "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
     "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
    },
@@ -928,12 +928,8 @@
     "pubDate": "Wed, 28 Oct 2026 18:00:00 GMT"
    },
    {
-    "title": "Building the next regional partnership - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 17:24:55 GMT"
-   },
-   {
-    "title": "Industry plan aims to boost local firms - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 17:25:03 GMT"
+    "title": "National security strategy must be broadened - The Australian",
+    "pubDate": "Wed, 28 Oct 2026 13:04:00 GMT"
    }
   ],
   "au_health_news": [

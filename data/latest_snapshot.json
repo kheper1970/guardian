@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-28T21:45:01.403406+00:00",
+ "collected_utc": "2026-10-28T22:45:01.399685+00:00",
  "earthquakes": [
+  {
+   "mag": 5.7,
+   "place": "276 km WSW of Tual, Indonesia",
+   "time": 1793225204731,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua",
+   "type": "earthquake"
+  },
   {
    "mag": 5.3,
    "place": "159 km WNW of Tobelo, Indonesia",
@@ -15,6 +23,22 @@
    "time": 1793216732958,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttth",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.7,
+   "place": "Reykjanes Ridge",
+   "time": 1793213070711,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttt4",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.7,
+   "place": "6 km N of Asahi, Japan",
+   "time": 1793212343536,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttt2",
    "type": "earthquake"
   },
   {
@@ -641,12 +665,12 @@
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
    "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
@@ -706,6 +730,18 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Bega Group requests more milk from FNQ farmers",
+    "pubDate": "Wed, 28 Oct 2026 22:31:44 +0000"
+   },
+   {
+    "title": "Couple rattled after using car to rescue man being savaged by pit bulls",
+    "pubDate": "Wed, 28 Oct 2026 22:02:25 +0000"
+   },
+   {
+    "title": "Crash survivors recount chaos in Europe's worst train disaster since 2013",
+    "pubDate": "Wed, 28 Oct 2026 21:47:44 +0000"
+   },
+   {
     "title": "Labor to fix 25 Victorian roads as election sweetener ahead of November poll",
     "pubDate": "Wed, 28 Oct 2026 21:19:34 +0000"
    },
@@ -718,32 +754,20 @@
     "pubDate": "Wed, 28 Oct 2026 20:37:47 +0000"
    },
    {
-    "title": "On a day that could have ended Test careers, a few young ones flourish",
+    "title": "A three-ball statement gives Australia hope of a flourishing future",
     "pubDate": "Wed, 28 Oct 2026 20:36:43 +0000"
    },
    {
-    "title": "Live: Tax office boss concedes consultation failures on credit card ban",
+    "title": "Live: Albanese warns inflation challenges 'won't be solved overnight'",
     "pubDate": "Wed, 28 Oct 2026 20:29:46 +0000"
    },
    {
-    "title": "Live: US Fed holds rates unchanged, chance of local rise more than 75pc",
+    "title": "Live: US staring down December and March rate hikes as Fed leaves rates on hold",
     "pubDate": "Wed, 28 Oct 2026 20:23:36 +0000"
    },
    {
     "title": "Trump expands hunt for voter fraud ahead of midterms",
     "pubDate": "Wed, 28 Oct 2026 20:12:24 +0000"
-   },
-   {
-    "title": "Concern as Queensland port plans sea dump in coral spawning season",
-    "pubDate": "Wed, 28 Oct 2026 20:02:33 +0000"
-   },
-   {
-    "title": "Man arrested after woman dies in Armidale stabbing",
-    "pubDate": "Wed, 28 Oct 2026 19:59:01 +0000"
-   },
-   {
-    "title": "Quick hits: Green survives Rorschach test as Aussies put Cape Town to sleep",
-    "pubDate": "Wed, 28 Oct 2026 19:57:53 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -757,6 +781,10 @@
    },
    {
     "title": "OBLEY RD, DUBBO",
+    "category": "Advice"
+   },
+   {
+    "title": "PICTON LANE, HEBDEN",
     "category": "Advice"
    },
    {
@@ -784,15 +812,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BRUXNER HWY, WOODSIDE",
-    "category": "Not Applicable"
-   },
-   {
     "title": "BURREN BORE RD, BURREN JUNCTION",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "CYRIL SMITH CCT, TABULAM",
     "category": "Not Applicable"
    },
    {
@@ -800,11 +820,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "GOLDEN HWY, MERRIWA",
+    "title": "HEBDEN RD, RAVENSWORTH",
     "category": "Not Applicable"
    },
    {
     "title": "IRRIGATION WAY, MURRAMI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "KYOGLE RD, BYANGUM",
     "category": "Not Applicable"
    },
    {
@@ -821,10 +845,6 @@
    },
    {
     "title": "OLD WILLBRIGGIE RD, GRIFFITH",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "THUDDUNGRA RD, DUFFYS FOREST",
     "category": "Not Applicable"
    }
   ],
@@ -944,24 +964,24 @@
     "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
    },
    {
+    "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
+    "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
+   },
+   {
     "title": "Federal government open to recruiting Pacific Islanders into Australian Defence Force - National Indigenous Times",
     "pubDate": "Wed, 28 Oct 2026 20:30:00 GMT"
    },
    {
-    "title": "Cyber security in action - Defence News",
-    "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
+    "title": "Australian SAS officers knew about unlawful \u2018throwdowns\u2019 on dead Afghans, report says - The Guardian",
+    "pubDate": "Wed, 28 Oct 2026 22:22:00 GMT"
    },
    {
     "title": "Defence budget cuts loom as AUKUS squeeze bites - The Nightly",
     "pubDate": "Wed, 28 Oct 2026 16:50:41 GMT"
    },
    {
-    "title": "Fault Lines \u2013 Taiwanese drones, Timorese deals and New Caledonian diplomacy - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Wed, 28 Oct 2026 19:05:45 GMT"
-   },
-   {
-    "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
-    "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
+    "title": "Cyber security in action - Defence News",
+    "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
    }
   ],
   "au_health_news": [

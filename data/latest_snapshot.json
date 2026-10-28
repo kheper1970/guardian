@@ -1,6 +1,38 @@
 {
- "collected_utc": "2026-10-28T12:45:01.590915+00:00",
+ "collected_utc": "2026-10-28T13:45:01.339304+00:00",
  "earthquakes": [
+  {
+   "mag": 4.6,
+   "place": "south of the Fiji Islands",
+   "time": 1793192338100,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp2",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5,
+   "place": "Reykjanes Ridge",
+   "time": 1793191628927,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnz",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "88 km SE of Hihifo, Tonga",
+   "time": 1793190923786,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnt",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.9,
+   "place": "1 km WSW of Butulan, Philippines",
+   "time": 1793189689242,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnq",
+   "type": "earthquake"
+  },
   {
    "mag": 5,
    "place": "Reykjanes Ridge",
@@ -629,36 +661,36 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Tue, 27 Oct 2026 07:21:31 GMT"
-  },
-  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-  },
-  {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
    "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
+   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -671,8 +703,20 @@
    "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
   },
   {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - World Food Program USA",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
+  },
+  {
+   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Mali - UN World Food Programme",
+   "pubDate": "Tue, 08 Sep 2026 07:14:10 GMT"
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
@@ -681,18 +725,6 @@
   {
    "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
-  },
-  {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
-   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
-   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
-  },
-  {
-   "title": "Can emergency cash buy food security? - UNU | United Nations University",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   }
  ],
  "australia": {
@@ -706,7 +738,7 @@
     "pubDate": "Wed, 28 Oct 2026 10:33:20 +0000"
    },
    {
-    "title": "At least 30 dead as high-speed trains collide in Spain",
+    "title": "At least 64 dead as high-speed trains collide in Spain",
     "pubDate": "Wed, 28 Oct 2026 10:11:01 +0000"
    },
    {
@@ -730,7 +762,7 @@
     "pubDate": "Wed, 28 Oct 2026 07:42:03 +0000"
    },
    {
-    "title": "Live: Green, Renshaw score half tons after close calls, Labuschagne falls for a duck",
+    "title": "Live: Green, Renshaw dismissed in same over as Proteas fight back",
     "pubDate": "Wed, 28 Oct 2026 07:30:17 +0000"
    },
    {
@@ -781,6 +813,10 @@
    },
    {
     "title": "BURREN BORE RD, BURREN JUNCTION",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "CALDERWOOD VILLAGE BORJESON CCT, CALDERWOOD",
     "category": "Not Applicable"
    },
    {
@@ -916,16 +952,16 @@
   ],
   "au_security_news": [
    {
-    "title": "Cyber security in action - Defence News",
-    "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
+    "title": "Modern warfare: ADF aims at new frontiers - The Australian",
+    "pubDate": "Wed, 28 Oct 2026 13:30:00 GMT"
    },
    {
     "title": "Australia has not taken steps to ban Chinese EVs at bases, defence minister says - Reuters",
     "pubDate": "Wed, 28 Oct 2026 06:28:00 GMT"
    },
    {
-    "title": "Iron Dome Down Under: Defence seeks anti-Chinese missile shield - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 10:30:44 GMT"
+    "title": "Cyber security in action - Defence News",
+    "pubDate": "Tue, 27 Oct 2026 23:11:39 GMT"
    },
    {
     "title": "Government introduces new bill to protect Defence assets from drones - Australian Aviation",

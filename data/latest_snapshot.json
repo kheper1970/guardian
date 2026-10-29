@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T11:45:01.791189+00:00",
+ "collected_utc": "2026-10-29T12:45:01.212890+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -208,37 +208,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnz",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "88 km SE of Hihifo, Tonga",
-   "time": 1793190923786,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnt",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "1 km WSW of Butulan, Philippines",
-   "time": 1793189689242,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnq",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "Reykjanes Ridge",
-   "time": 1793188577454,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-29T06:00:00",
-   "Kp": 0.67,
-   "a_running": 3,
+   "time_tag": "2026-10-29T09:00:00",
+   "Kp": 0.33,
+   "a_running": 2,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -271,57 +247,8 @@
   ]
  },
  "neo": {
-  "count": 6,
-  "events": [
-   {
-    "name": "(2016 XB2)",
-    "diameter_min_m": 131,
-    "diameter_max_m": 292,
-    "hazardous": false,
-    "miss_km": 26226891.56008269,
-    "velocity_kph": 47311.2333392087
-   },
-   {
-    "name": "(2017 UL44)",
-    "diameter_min_m": 46,
-    "diameter_max_m": 103,
-    "hazardous": false,
-    "miss_km": 34840714.489961974,
-    "velocity_kph": 50905.7051138129
-   },
-   {
-    "name": "(2020 CB)",
-    "diameter_min_m": 8,
-    "diameter_max_m": 17,
-    "hazardous": false,
-    "miss_km": 42675136.03269121,
-    "velocity_kph": 35759.3677165313
-   },
-   {
-    "name": "(2017 SF14)",
-    "diameter_min_m": 34,
-    "diameter_max_m": 76,
-    "hazardous": false,
-    "miss_km": 63615115.807766035,
-    "velocity_kph": 57866.0252213704
-   },
-   {
-    "name": "(2015 HO116)",
-    "diameter_min_m": 21,
-    "diameter_max_m": 47,
-    "hazardous": false,
-    "miss_km": 66871176.36918016,
-    "velocity_kph": 60684.8156831232
-   },
-   {
-    "name": "(2019 ER2)",
-    "diameter_min_m": 18,
-    "diameter_max_m": 39,
-    "hazardous": false,
-    "miss_km": 72210296.58411549,
-    "velocity_kph": 29129.6868767648
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -567,7 +494,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-29T00:00:00Z",
+    "date": "2026-10-29T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -583,7 +510,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-29T00:00:00Z",
+    "date": "2026-10-29T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -718,8 +645,20 @@
  },
  "nuclear_news": [
   {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
    "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
@@ -730,24 +669,12 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Transport of Radioactive Material - World Nuclear Association",
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
-   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-  },
-  {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "Update 349 \u2013 IAEA Director General Statement on Situation in Ukraine - International Atomic Energy Agency",
+   "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -787,6 +714,10 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Russell Brand's wife tells court actor's promiscuity left her 'heartbroken'",
+    "pubDate": "Thu, 29 Oct 2026 12:16:34 +0000"
+   },
+   {
     "title": "WA Labor MP vows to 'vigorously defend' US lawsuit over $1m loan",
     "pubDate": "Thu, 29 Oct 2026 11:30:55 +0000"
    },
@@ -821,10 +752,6 @@
    {
     "title": "Alcoa ordered to stay further away from Perth's drinking water supply",
     "pubDate": "Thu, 29 Oct 2026 08:04:20 +0000"
-   },
-   {
-    "title": "Police search launched for man swept away in Central Australia flooding",
-    "pubDate": "Thu, 29 Oct 2026 07:55:12 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -869,19 +796,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BLUE POOL TRL, EVANS HEAD",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "BRUNSWICK VALLEY WAY, BILLINUDGEL",
-    "category": "Not Applicable"
-   },
-   {
     "title": "COBB HWY, DENILIQUIN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "CORNWALL ST, AGNES BANKS",
     "category": "Not Applicable"
    },
    {
@@ -906,6 +821,18 @@
    },
    {
     "title": "MIRRABOOKA RD, LITTLE BILLABONG",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "PACIFIC DR, SWANSEA HEADS",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "STAPLETONS RD, BOOMEY",
     "category": "Not Applicable"
    }
   ],
@@ -1017,6 +944,10 @@
     "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    },
    {
+    "title": "Australian military report finds commanders knew weapons were planted on dead Afghans - Politico",
+    "pubDate": "Thu, 29 Oct 2026 10:52:00 GMT"
+   },
+   {
     "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
     "pubDate": "Thu, 29 Oct 2026 08:04:19 GMT"
    },
@@ -1029,10 +960,6 @@
     "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
    },
    {
-    "title": "Australian military report finds commanders knew weapons were planted on dead Afghans - Politico",
-    "pubDate": "Thu, 29 Oct 2026 10:52:00 GMT"
-   },
-   {
     "title": "From overseas student to Air Force leader - Defence News",
     "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
    },
@@ -1041,8 +968,8 @@
     "pubDate": "Thu, 29 Oct 2026 05:15:55 GMT"
    },
    {
-    "title": "Lendlease opens doors to defence and construction careers for WA students - Lendlease",
-    "pubDate": "Thu, 29 Oct 2026 03:01:03 GMT"
+    "title": "China\u2019s military creating \u2018pressure\u2019 in region, Australian defense chief says - The Japan Times",
+    "pubDate": "Thu, 29 Oct 2026 02:51:00 GMT"
    }
   ],
   "au_health_news": [

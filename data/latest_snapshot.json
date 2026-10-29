@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T01:45:01.101206+00:00",
+ "collected_utc": "2026-10-29T02:45:02.048948+00:00",
  "earthquakes": [
+  {
+   "mag": 4.8,
+   "place": "36 km SSW of Merizo Village, Guam",
+   "time": 1793240301049,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy",
+   "type": "earthquake"
+  },
   {
    "mag": 4.8,
    "place": "western Indian-Antarctic Ridge",
@@ -191,30 +199,6 @@
    "time": 1793156388387,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
-   "type": "earthquake"
-  },
-  {
-   "mag": 6,
-   "place": "214 km NW of Port-Olry, Vanuatu",
-   "time": 1793154105806,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.2,
-   "place": "220 km NW of Port-Olry, Vanuatu",
-   "time": 1793153835975,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "217 km NW of Port-Olry, Vanuatu",
-   "time": 1793153635226,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli",
    "type": "earthquake"
   }
  ],
@@ -443,29 +427,29 @@
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Depression Vance Public Advisory Number 30",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/282032.shtml",
-     "pubDate": "Wed, 28 Oct 2026 20:32:41 GMT"
+     "title": "Tropical Depression Vance Public Advisory Number 31",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/290232.shtml",
+     "pubDate": "Thu, 29 Oct 2026 02:32:12 GMT"
     },
     {
-     "title": "Tropical Depression Vance Forecast Advisory Number 30",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/282032.shtml",
-     "pubDate": "Wed, 28 Oct 2026 20:32:11 GMT"
+     "title": "Tropical Depression Vance Forecast Advisory Number 31",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/290231.shtml",
+     "pubDate": "Thu, 29 Oct 2026 02:31:12 GMT"
     },
     {
-     "title": "Tropical Depression Vance Forecast Discussion Number 30",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/282033.shtml",
-     "pubDate": "Wed, 28 Oct 2026 20:33:47 GMT"
+     "title": "Tropical Depression Vance Forecast Discussion Number 31",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/290233.shtml",
+     "pubDate": "Thu, 29 Oct 2026 02:33:43 GMT"
     },
     {
-     "title": "Tropical Depression Vance Wind Speed Probabilities Number 30",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/282033.shtml",
-     "pubDate": "Wed, 28 Oct 2026 20:33:10 GMT"
+     "title": "Tropical Depression Vance Wind Speed Probabilities Number 31",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/290232.shtml",
+     "pubDate": "Thu, 29 Oct 2026 02:32:42 GMT"
     },
     {
      "title": "Tropical Depression Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/014410.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 01:44:10 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/023742.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 02:37:42 GMT"
     }
    ]
   }
@@ -661,16 +645,16 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
@@ -689,8 +673,8 @@
    "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   },
   {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
+   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -699,16 +683,8 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
-   "title": "#Video_News: Drought, food shortages and child malnutrition deepen humanitarian needs in Afar, Amhara and Tigray watch - Facebook",
-   "pubDate": "Tue, 27 Oct 2026 15:00:19 GMT"
-  },
-  {
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - UN World Food Programme",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
+   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
@@ -725,20 +701,48 @@
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
+  },
+  {
+   "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
+   "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
+  },
+  {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "Gold Coast Suns AFLW finals feat faces home-ground headache",
+    "pubDate": "Thu, 29 Oct 2026 02:38:30 +0000"
+   },
+   {
+    "title": "Hobart could be about to elect its first all-male council since the 1950s",
+    "pubDate": "Thu, 29 Oct 2026 02:16:43 +0000"
+   },
+   {
+    "title": "Readers share why and how they are avoiding AI",
+    "pubDate": "Thu, 29 Oct 2026 02:02:06 +0000"
+   },
+   {
+    "title": "Indigenous artists explore scorching heat in new exhibition",
+    "pubDate": "Thu, 29 Oct 2026 02:00:00 +0000"
+   },
+   {
+    "title": "Where to next after Netanyahu neither won nor lost the Israeli election",
+    "pubDate": "Thu, 29 Oct 2026 01:51:26 +0000"
+   },
+   {
     "title": "QPS employee fined over antisemitic social media comments",
     "pubDate": "Thu, 29 Oct 2026 01:38:12 +0000"
    },
    {
-    "title": "Website reporting on crime in Victoria staffed by workers in Philippines",
+    "title": "Website reporting on crime in Victoria staffed by Philippines workers",
     "pubDate": "Thu, 29 Oct 2026 01:16:44 +0000"
    },
    {
-    "title": "Australia has highest rates of anorexia and bulimia globally",
+    "title": "Australia records highest rates of anorexia and bulimia globally",
     "pubDate": "Thu, 29 Oct 2026 01:00:22 +0000"
    },
    {
@@ -748,29 +752,13 @@
    {
     "title": "WBBL winning duo on eve of big life changes",
     "pubDate": "Thu, 29 Oct 2026 00:51:57 +0000"
-   },
-   {
-    "title": "ATSB confirms plane landed on Lake Eyre after pilot became unwell",
-    "pubDate": "Thu, 29 Oct 2026 00:42:29 +0000"
-   },
-   {
-    "title": "Police close investigation into Hayden Panettiere's death",
-    "pubDate": "Thu, 29 Oct 2026 00:41:20 +0000"
-   },
-   {
-    "title": "In Victoria, some fear One Nation's rhetoric is stirring ugly divides",
-    "pubDate": "Thu, 29 Oct 2026 00:27:04 +0000"
-   },
-   {
-    "title": "Scrapped Firmus float casts doubt on billions in AI data centre builds",
-    "pubDate": "Thu, 29 Oct 2026 00:15:55 +0000"
-   },
-   {
-    "title": "NT teen faces terror charges as police seize 3D-printed gun schematics",
-    "pubDate": "Thu, 29 Oct 2026 00:06:42 +0000"
    }
   ],
   "nsw_rfs_incidents": [
+   {
+    "title": "AVOCA RENSHAW MCGIRR WAY, BALDRY",
+    "category": "Advice"
+   },
    {
     "title": "BIG BLACK JACK MOUNTAIN FIRE, MIRANNIE",
     "category": "Advice"
@@ -798,6 +786,10 @@
    {
     "title": "WIRE LANE, MUSWELLBROOK",
     "category": "Advice"
+   },
+   {
+    "title": "Goldfields Road, Bondi State Forest",
+    "category": "Planned Burn"
    },
    {
     "title": "PORTERS HR STAGE 3",
@@ -828,11 +820,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "GREGORY ST",
+    "title": "IRRIGATION WAY, MURRAMI",
     "category": "Not Applicable"
    },
    {
-    "title": "IRRIGATION WAY, MURRAMI",
+    "title": "KENTUCKY LANE, NARRABRI",
     "category": "Not Applicable"
    },
    {
@@ -841,14 +833,6 @@
    },
    {
     "title": "MANILLA RD, ATTUNGA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MANNING POINT RD, MITCHELLS ISLAND",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MIRRABOOKA RD, LITTLE BILLABONG",
     "category": "Not Applicable"
    }
   ],
@@ -950,8 +934,8 @@
     "pubDate": "Wed, 28 Oct 2026 13:43:19 GMT"
    },
    {
-    "title": "Emergency warning lifted, numerous roads remain shut - Adelaide Now",
-    "pubDate": "Tue, 27 Oct 2026 04:28:54 GMT"
+    "title": "Severe storms and flood warnings across east coast - 7NEWS",
+    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
    }
   ],
   "au_security_news": [
@@ -964,16 +948,20 @@
     "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
    },
    {
-    "title": "Australia\u2019s $30 billion base boom needs scrutiny too - Lowy Institute",
-    "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
-   },
-   {
     "title": "Australian SAS officers knew about unlawful \u2018throwdowns\u2019 on dead Afghans, report says - The Guardian",
     "pubDate": "Wed, 28 Oct 2026 22:05:00 GMT"
    },
    {
-    "title": "Building the next regional partnership - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 17:33:38 GMT"
+    "title": "Modern warfare: ADF aims at new frontiers - The Australian",
+    "pubDate": "Wed, 28 Oct 2026 15:53:05 GMT"
+   },
+   {
+    "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
+    "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
+   },
+   {
+    "title": "Australia\u2019s $30 billion base boom needs scrutiny too - Lowy Institute",
+    "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
    },
    {
     "title": "SOCI in space: what the Tranche 2 reforms mean for Australia's space operators - Corrs Chambers Westgarth",
@@ -982,13 +970,12 @@
    {
     "title": "Federal government open to recruiting Pacific Islanders into Australian Defence Force - National Indigenous Times",
     "pubDate": "Wed, 28 Oct 2026 20:30:00 GMT"
-   },
-   {
-    "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
-    "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
    }
   ],
   "au_health_news": [
+   {
+    "title": "Seeking people with an interest in research and a passion for improving health outcomes"
+   },
    {
     "title": "New IDPwD Yarning Guide"
    },
@@ -1015,9 +1002,6 @@
    },
    {
     "title": "We\u2019re raising awareness about perimenopause and menopause this World Menopause Day (18 October)"
-   },
-   {
-    "title": "Have your say: aged care providers and workers delivering Support at Home"
    }
   ]
  }

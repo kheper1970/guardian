@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T22:45:01.455582+00:00",
+ "collected_utc": "2026-10-29T23:45:01.361276+00:00",
  "earthquakes": [
   {
    "mag": 6.2,
@@ -7,6 +7,14 @@
    "time": 1793310404786,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "121 km ENE of Shikotan, Russia",
+   "time": 1793308356287,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4a",
    "type": "earthquake"
   },
   {
@@ -168,14 +176,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "17 km N of Kushiro, Japan",
-   "time": 1793229230764,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttv1",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -266,12 +266,6 @@
    "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .",
    "description": "From 26/10/2026 to 28/10/2026, a Tropical Storm (maximum wind speed of 222 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 4.008 million .",
    "pubdate": "2026-10-26T01:51:40Z"
-  },
-  {
-   "severity": "Red",
-   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.291 million .",
-   "description": "From 14/10/2026 to 25/10/2026, a Tropical Storm (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan, China, South Korea (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.291 million .",
-   "pubdate": "2026-10-14T14:31:53Z"
   }
  ],
  "tsunami": {
@@ -313,7 +307,7 @@
     "observatory": "nmi",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-22 23:16:38"
+    "sent_utc": "2026-10-29 23:23:07"
    }
   ]
  },
@@ -431,7 +425,209 @@
   }
  ],
  "eonet": {
-  "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+  "open_total": 32,
+  "tracked": [
+   {
+    "title": "Wildfire South Tank Trail, Perry, Mississippi",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-28T18:02:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827"
+   },
+   {
+    "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-28T11:22:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829"
+   },
+   {
+    "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-28T11:21:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830"
+   },
+   {
+    "title": "Prescribed Fire Newman 3 Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-28T10:09:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25828"
+   },
+   {
+    "title": "Tropical Cyclone Arnab",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-28T06:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729"
+   },
+   {
+    "title": "Tropical Storm Olana",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-27T00:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730"
+   },
+   {
+    "title": "Wildfire Range  47B, Forrest, Mississippi",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-24T17:10:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769"
+   },
+   {
+    "title": "Super Typhoon In-fa",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-29T18:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
+   },
+   {
+    "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-22T21:45:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590"
+   },
+   {
+    "title": "Hurricane Vance",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-29T18:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
+   },
+   {
+    "title": "Prescribed Fire Frog Tank 2 Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-21T15:57:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25768"
+   },
+   {
+    "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-18T08:25:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455"
+   },
+   {
+    "title": "Wildfire Bras, Sanders, Montana",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-17T23:28:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25591"
+   },
+   {
+    "title": "Wildfire COOLEY, Mendocino, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-16T20:14:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450"
+   },
+   {
+    "title": "Wildfire NORTE, Orange, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-16T14:52:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25452"
+   },
+   {
+    "title": "Prescribed Fire Rx Polk 9275, Polk, Texas",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-16T08:31:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25454"
+   },
+   {
+    "title": "Wildfire HENDERSON, San Diego, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-15T17:11:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25451"
+   },
+   {
+    "title": "Super Typhoon Champi",
+    "categories": [
+     "Severe Storms"
+    ],
+    "date": "2026-10-25T18:00:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
+   },
+   {
+    "title": "Prescribed Fire Newman 2 Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-15T11:29:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25456"
+   },
+   {
+    "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-14T10:42:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310"
+   },
+   {
+    "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-13T10:24:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311"
+   },
+   {
+    "title": "Prescribed Fire SRF 2026 Rx Implementation, Humboldt, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-12T16:27:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25312"
+   },
+   {
+    "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-10T14:58:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238"
+   },
+   {
+    "title": "Wildfire PK, Sheridan, Wyoming",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-09T19:26:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233"
+   },
+   {
+    "title": "Wildfire CYRUS, Kern, California",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-09T17:15:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232"
+   }
+  ]
  },
  "nuclear_news": [
   {
@@ -447,12 +643,12 @@
    "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
    "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
@@ -489,26 +685,50 @@
    "pubDate": "Thu, 29 Oct 2026 11:56:00 GMT"
   },
   {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
    "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
    "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
-  },
-  {
-   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
-   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "Patterson's failed appeal leaves few legal avenues for the mushroom killer",
+    "pubDate": "Thu, 29 Oct 2026 23:22:33 +0000"
+   },
+   {
+    "title": "Dream shakes off scheduling controversy to force WNBA Finals decider",
+    "pubDate": "Thu, 29 Oct 2026 23:19:24 +0000"
+   },
+   {
+    "title": "Breaking: Mushroom murderer likely to die in jail after failed appeal",
+    "pubDate": "Thu, 29 Oct 2026 23:13:00 +0000"
+   },
+   {
+    "title": "Youth want a voice amid controversial fracking and mining proposals",
+    "pubDate": "Thu, 29 Oct 2026 23:10:54 +0000"
+   },
+   {
+    "title": "Youth theatre raises more than $68k to carry forward 50-year legacy",
+    "pubDate": "Thu, 29 Oct 2026 23:00:00 +0000"
+   },
+   {
+    "title": "The thunderstorm that arrives like clockwork at 3pm every day",
+    "pubDate": "Thu, 29 Oct 2026 22:45:46 +0000"
+   },
+   {
     "title": "Permit seeks higher antibiotic dosage for diseased Tasmania salmon",
     "pubDate": "Thu, 29 Oct 2026 22:40:09 +0000"
    },
    {
-    "title": "Live: Appeal decision due shortly for triple murderer Erin Patterson",
+    "title": "Live: Erin Patterson loses appeal, harsher sentence imposed",
     "pubDate": "Thu, 29 Oct 2026 22:15:56 +0000"
    },
    {
@@ -518,30 +738,6 @@
    {
     "title": "For the fans who became heroes, Samoa vs Tonga is bigger than a grand final",
     "pubDate": "Thu, 29 Oct 2026 21:33:00 +0000"
-   },
-   {
-    "title": "Last drinks called as council prepares to demolish town's only pub",
-    "pubDate": "Thu, 29 Oct 2026 21:31:33 +0000"
-   },
-   {
-    "title": "Live: Federal government launches probe into future of Australia Post",
-    "pubDate": "Thu, 29 Oct 2026 21:20:59 +0000"
-   },
-   {
-    "title": "Live: ASX set to edge up despite $US500b Alphabet share slump overnight",
-    "pubDate": "Thu, 29 Oct 2026 21:16:19 +0000"
-   },
-   {
-    "title": "Controversial goldmine subject of new Aboriginal protection application",
-    "pubDate": "Thu, 29 Oct 2026 21:05:53 +0000"
-   },
-   {
-    "title": "First Guardian investors dealt another 'utterly devastating' blow",
-    "pubDate": "Thu, 29 Oct 2026 21:00:29 +0000"
-   },
-   {
-    "title": "Trump spruiks economy as farmer-funded ads attack cost-of-living record",
-    "pubDate": "Thu, 29 Oct 2026 20:46:27 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -570,6 +766,10 @@
     "category": "Planned Burn"
    },
    {
+    "title": "Bowen Mountain Eastern Firetrail",
+    "category": "Planned Burn"
+   },
+   {
     "title": "FB550 Bruce Ridge",
     "category": "Planned Burn"
    },
@@ -590,11 +790,19 @@
     "category": "Not Applicable"
    },
    {
+    "title": "HOSPITAL RD",
+    "category": "Not Applicable"
+   },
+   {
     "title": "HUME HWY, GUNNING",
     "category": "Not Applicable"
    },
    {
     "title": "IRRIGATION WAY, MURRAMI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "KIDMAN WAY, GOOLGOWI",
     "category": "Not Applicable"
    },
    {
@@ -611,18 +819,6 @@
    },
    {
     "title": "OLD WILLBRIGGIE RD, GRIFFITH",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "STAPLETONS RD, BOOMEY",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "Tingira Drive, Bawley Point",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WARIALDA RD, COOLATAI",
     "category": "Not Applicable"
    }
   ],
@@ -700,8 +896,8 @@
     "pubDate": "Thu, 29 Oct 2026 21:18:33 GMT"
    },
    {
-    "title": "Kalamunda residents ordered to evacuate as firefighters battle suspicious, out-of-control bushfire - The West Australian",
-    "pubDate": "Thu, 29 Oct 2026 07:58:00 GMT"
+    "title": "Kalamunda bushfire sparks arson squad investigation after evacuation warning - The West Australian",
+    "pubDate": "Thu, 29 Oct 2026 23:20:00 GMT"
    },
    {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
@@ -712,26 +908,30 @@
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
    },
    {
+    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
+    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
+   },
+   {
+    "title": "Cyclone Vaianu: Qantas, Jetstar &amp; Virgin's Fiji flights cancelled - Karryon",
+    "pubDate": "Thu, 29 Oct 2026 15:05:15 GMT"
+   },
+   {
     "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
    },
    {
-    "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
-    "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
-   },
-   {
-    "title": "Aussies urged 'be prepared' and stockpile tinned food, bottled water as threats grow - Yahoo News Australia",
-    "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
-   },
-   {
-    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
-    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
+    "title": "Travellers left stranded by Perth Airport\u2019s power outage - PerthNow",
+    "pubDate": "Thu, 29 Oct 2026 07:59:00 GMT"
    }
   ],
   "au_security_news": [
    {
     "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
     "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
+   },
+   {
+    "title": "WIDA 2026 - Winners and HOF recipient announced! - Australian Defence Magazine",
+    "pubDate": "Thu, 29 Oct 2026 20:01:57 GMT"
    },
    {
     "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
@@ -752,10 +952,6 @@
    {
     "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
     "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
-   },
-   {
-    "title": "WIDA 2026 - Winners and HOF recipient announced! - Australian Defence Magazine",
-    "pubDate": "Thu, 29 Oct 2026 20:01:57 GMT"
    },
    {
     "title": "Bluebottle drones that never sleep level playing field in Pacific drug war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",

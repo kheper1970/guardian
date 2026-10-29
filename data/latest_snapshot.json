@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T19:45:02.022396+00:00",
+ "collected_utc": "2026-10-29T20:45:01.097004+00:00",
  "earthquakes": [
+  {
+   "mag": 5,
+   "place": "143 km S of False Pass, Alaska",
+   "time": 1793304872548,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3j",
+   "type": "earthquake"
+  },
   {
    "mag": 4.5,
    "place": "141 km E of Miyako, Japan",
@@ -159,22 +167,6 @@
    "time": 1793225205820,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.3,
-   "place": "159 km WNW of Tobelo, Indonesia",
-   "time": 1793217407711,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tttl",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.2,
-   "place": "Reykjanes Ridge",
-   "time": 1793216732958,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttth",
    "type": "earthquake"
   }
  ],
@@ -399,39 +391,39 @@
  "nhc_storms": [
   {
    "storm": "Vance",
-   "type": "Tropical Storm",
+   "type": "Tropical Depression",
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Vance Public Advisory Number 33",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/291431.shtml",
-     "pubDate": "Thu, 29 Oct 2026 14:31:22 GMT"
+     "title": "Tropical Depression Vance Public Advisory Number 34",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/292031.shtml",
+     "pubDate": "Thu, 29 Oct 2026 20:31:25 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Advisory Number 33",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/291431.shtml",
-     "pubDate": "Thu, 29 Oct 2026 14:31:22 GMT"
+     "title": "Tropical Depression Vance Forecast Advisory Number 34",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/292031.shtml",
+     "pubDate": "Thu, 29 Oct 2026 20:31:25 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Discussion Number 33",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/291432.shtml",
-     "pubDate": "Thu, 29 Oct 2026 14:32:21 GMT"
+     "title": "Tropical Depression Vance Forecast Discussion Number 34",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/292031.shtml",
+     "pubDate": "Thu, 29 Oct 2026 20:31:55 GMT"
     },
     {
-     "title": "Tropical Storm Vance Wind Speed Probabilities Number 33",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/291431.shtml",
-     "pubDate": "Thu, 29 Oct 2026 14:31:53 GMT"
+     "title": "Tropical Depression Vance Wind Speed Probabilities Number 34",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/292031.shtml",
+     "pubDate": "Thu, 29 Oct 2026 20:31:25 GMT"
     },
     {
-     "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/182205.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 18:22:05 GMT"
+     "title": "Tropical Depression Vance Graphics",
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/203554.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 20:35:54 GMT"
     }
    ]
   }
  ],
  "eonet": {
-  "open_total": 33,
+  "open_total": 32,
   "tracked": [
    {
     "title": "Wildfire South Tank Trail, Perry, Mississippi",
@@ -632,14 +624,6 @@
     ],
     "date": "2026-10-09T17:15:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232"
-   },
-   {
-    "title": "Prescribed Fire Bridger Trail Unit - KPERP Rx NKRD CY26, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T11:49:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25234"
    }
   ]
  },
@@ -673,8 +657,8 @@
    "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   },
   {
-   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
-   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+   "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
+   "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
   }
  ],
  "famine_news": [
@@ -691,6 +675,10 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
+   "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
+   "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Thu, 29 Oct 2026 11:56:00 GMT"
   },
@@ -705,53 +693,49 @@
   {
    "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
-  },
-  {
-   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
-   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Fears Qld bail laws will clog up legal system as victims praise tough approach",
+    "title": "Australia's Cape Town desperation evident on another pulsating Test day",
+    "pubDate": "Thu, 29 Oct 2026 20:39:18 +0000"
+   },
+   {
+    "title": "As farm fuel costs rise, clear solar might offer a solution",
+    "pubDate": "Thu, 29 Oct 2026 20:34:47 +0000"
+   },
+   {
+    "title": "UK police refer themselves to watchdog over Markle child abuse allegations letter",
+    "pubDate": "Thu, 29 Oct 2026 20:14:03 +0000"
+   },
+   {
+    "title": "Breaking: Patrick Stewart, Star Trek and X-Men actor, dies at 86",
+    "pubDate": "Thu, 29 Oct 2026 20:12:28 +0000"
+   },
+   {
+    "title": "Mask ban, visa review measures proposed by antisemitism envoy",
+    "pubDate": "Thu, 29 Oct 2026 20:12:02 +0000"
+   },
+   {
+    "title": "It's the only cafe in town, but it's changing lives and Tripadvisor loves it",
+    "pubDate": "Thu, 29 Oct 2026 20:02:24 +0000"
+   },
+   {
+    "title": "Powderfinger announce more shows, discuss split and joyful reunion",
+    "pubDate": "Thu, 29 Oct 2026 20:00:00 +0000"
+   },
+   {
+    "title": "Quick hits: Marnus caught in ugly exchange after all-time send off",
+    "pubDate": "Thu, 29 Oct 2026 19:54:18 +0000"
+   },
+   {
+    "title": "Vyleen White\u2019s family welcome new bail laws as advocates raise concerns",
     "pubDate": "Thu, 29 Oct 2026 19:35:24 +0000"
    },
    {
     "title": "'Last resort' fire ant rafting behaviour raises alarms as wet season begins",
     "pubDate": "Thu, 29 Oct 2026 19:33:52 +0000"
-   },
-   {
-    "title": "Department reports sharp rise in deaths of children in state care",
-    "pubDate": "Thu, 29 Oct 2026 19:02:44 +0000"
-   },
-   {
-    "title": "Restaurateurs fend off fake online review 'extortion' attempt",
-    "pubDate": "Thu, 29 Oct 2026 18:59:47 +0000"
-   },
-   {
-    "title": "Wallaby 'incredibly proud' as brother represents Australian Deaf Rugby",
-    "pubDate": "Thu, 29 Oct 2026 18:54:52 +0000"
-   },
-   {
-    "title": "Trains in Europe are getting safer despite recent tragedies in Spain",
-    "pubDate": "Thu, 29 Oct 2026 18:49:16 +0000"
-   },
-   {
-    "title": "Bluebottle drones that never sleep level playing field in Pacific drug war",
-    "pubDate": "Thu, 29 Oct 2026 18:47:12 +0000"
-   },
-   {
-    "title": "Texan voters once believed Trump's 'lies' but they're now ready to vote Democrat",
-    "pubDate": "Thu, 29 Oct 2026 18:44:36 +0000"
-   },
-   {
-    "title": "ATO and ASIC feared data was sent offshore in 2025, internal emails reveal",
-    "pubDate": "Thu, 29 Oct 2026 18:39:55 +0000"
-   },
-   {
-    "title": "Australians priced out of comfortable retirement call for higher pension",
-    "pubDate": "Thu, 29 Oct 2026 18:39:55 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -914,12 +898,12 @@
     "pubDate": "Thu, 29 Oct 2026 07:58:00 GMT"
    },
    {
-    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
-    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
-   },
-   {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
+   },
+   {
+    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
+    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
    },
    {
     "title": "World braces for horror \u2018chain reaction\u2019 - News.com.au",
@@ -944,12 +928,20 @@
     "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    },
    {
+    "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do - The Strategist | ASPI's analysis and commentary site",
+    "pubDate": "Thu, 29 Oct 2026 19:25:25 GMT"
+   },
+   {
+    "title": "WIDA 2026 - Winners and HOF recipient announced! - Australian Defence Magazine",
+    "pubDate": "Thu, 29 Oct 2026 20:01:57 GMT"
+   },
+   {
     "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
     "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
    },
    {
-    "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Thu, 29 Oct 2026 19:28:11 GMT"
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
     "title": "Why ASEAN won\u2019t buy Australian defence chief\u2019s claims on Chinese military - Global Times",
@@ -958,14 +950,6 @@
    {
     "title": "Australian military report finds commanders knew weapons were planted on dead Afghans - Politico",
     "pubDate": "Thu, 29 Oct 2026 10:52:00 GMT"
-   },
-   {
-    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
-    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
-   },
-   {
-    "title": "Bluebottle drones that never sleep level playing field in Pacific drug war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 29 Oct 2026 18:47:12 GMT"
    },
    {
     "title": "From overseas student to Air Force leader - Defence News",
@@ -1087,56 +1071,10 @@
    "url": "https://www.maaseuduntulevaisuus.fi/koti/4885e1c1-919c-4b53-9e57-1aeaae542e7d"
   }
  ],
- "conflict_gdelt": [
-  {
-   "title": "Nattens viktigste nyheter",
-   "domain": "abcnyheter.no",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.abcnyheter.no/nyheter/nattens-viktigste-nyheter/1712123"
-  },
-  {
-   "title": "\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026 | \u05e0\u05e4\u05d2\u05e2\u05d9 7 . 10 \u05d1\u05db\u05d9\u05db\u05e8 \u05d4\u05d7\u05d8\u05d5\u05e4\u05d9\u05dd : 3 \u05e9\u05e0\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9 \u05d4\u05d8\u05d1\u05d7 , \u05d9\u05e7\u05d9\u05e8\u05d9\u05e0\u05d5 \u05dc\u05d0 \u05d9\u05e6\u05d1\u05d9\u05e2\u05d5 \u05d4\u05d9\u05d5\u05dd , \u05ea\u05d6\u05db\u05e8\u05d5 \u05d0\u05d5\u05ea\u05dd \u05d1\u05e7\u05dc\u05e4\u05d9 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
-   "domain": "haaretz.co.il",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/000001a1-7b9f-d3e6-a9ff-7bffe87c0000"
-  },
-  {
-   "title": "Wird der Prozess um den Nord - Stream - Anschlag eingestellt ? ",
-   "domain": "wallstreet-online.de",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.wallstreet-online.de/nachricht/21585198-prozess-nord-stream-anschlag-eingestellt"
-  },
-  {
-   "title": "  This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
-   "domain": "jpost.com",
-   "seendate": "20261027T051500Z",
-   "url": "http://www.jpost.com/israel-election-2026/article-912988"
-  },
-  {
-   "title": "  This time I wont vote for Likud , PM Netanyahu cousin says , citing October 7",
-   "domain": "jpost.com",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.jpost.com/israel-election-2026/article-912988"
-  },
-  {
-   "title": "\u05e4\u05e8\u05e9\u05e0\u05d5\u05ea | \u05d2\u05dd \u05d0\u05dd \u05d9\u05e4\u05e1\u05d9\u05d3 , \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05e2\u05dc\u05d5\u05dc \u05dc\u05e1\u05db\u05dc \u05d0\u05ea \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05d4\u05e9\u05dc\u05d8\u05d5\u05df . \u05dc\u05d2\u05d5\u05e9 \u05d4\u05e9\u05d9\u05e0\u05d5\u05d9 \u05d0\u05e1\u05d5\u05e8 \u05dc\u05d4\u05ea\u05de\u05d4\u05de\u05d4 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
-   "domain": "haaretz.co.il",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.highlight/000001a1-792e-dfb9-a5a9-fb2f5bf80000"
-  },
-  {
-   "title": "La stagione teatrale di Cernusco . Tra impegno e temi di attualit\u00e0",
-   "domain": "ilgiorno.it",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.ilgiorno.it/cultura/la-stagione-teatrale-di-cernusco-498aa083"
-  },
-  {
-   "title": "\u062a\u062d\u0630\u064a\u0631 \u062f\u0648\u0644\u064a \u0645\u0646 \u0645\u062c\u0627\u0639\u0629 \u0648\u0634\u064a\u0643\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646 \u0645\u0639 \u062a\u0641\u0627\u0642\u0645 \u0623\u0632\u0645\u0629 \u0627\u0644\u063a\u0630\u0627\u0621",
-   "domain": "dostor.org",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.dostor.org/5753697"
-  }
- ],
+ "conflict_gdelt": {
+  "error": "TimeoutError: The read operation timed out",
+  "trace": "1\")\n               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/socket.py\", line 725, in readinto\n    return self._sock.recv_into(b)\n           ~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/usr/lib/python3.14/ssl.py\", line 1304, in recv_into\n    return self.read(nbytes, buffer)\n           ~~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/ssl.py\", line 1138, in read\n    return self._sslobj.read(len, buffer)\n           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^\nTimeoutError: The read operation timed out\n"
+ },
  "doomsday_clock": {
   "seconds_to_midnight": 85,
   "checked_utc": "2026-10-29T09:18:55.400054+00:00",

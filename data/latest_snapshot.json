@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T11:00:01.279881+00:00",
+ "collected_utc": "2026-10-29T11:45:01.791189+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -231,14 +231,6 @@
    "time": 1793188577454,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.5,
-   "place": "Reykjanes Ridge",
-   "time": 1793187469980,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
    "type": "earthquake"
   }
  ],
@@ -726,20 +718,8 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
    "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
@@ -750,12 +730,24 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "IAEA, OECD/NEA Release Guide to Rate Nuclear Events - Mirage News",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "Transport of Radioactive Material - World Nuclear Association",
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "Update 349 \u2013 IAEA Director General Statement on Situation in Ukraine - International Atomic Energy Agency",
-   "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
+   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -795,6 +787,14 @@
  "australia": {
   "abc_news": [
    {
+    "title": "WA Labor MP vows to 'vigorously defend' US lawsuit over $1m loan",
+    "pubDate": "Thu, 29 Oct 2026 11:30:55 +0000"
+   },
+   {
+    "title": "Israeli election official demands probe into foreign interference claims",
+    "pubDate": "Thu, 29 Oct 2026 11:25:33 +0000"
+   },
+   {
     "title": "Zacharia blames media for troubled stint as White House press secretary",
     "pubDate": "Thu, 29 Oct 2026 09:41:27 +0000"
    },
@@ -825,14 +825,6 @@
    {
     "title": "Police search launched for man swept away in Central Australia flooding",
     "pubDate": "Thu, 29 Oct 2026 07:55:12 +0000"
-   },
-   {
-    "title": "One Nation MP rejects $200,000 staffer as Hanson accuses PM of meddling",
-    "pubDate": "Thu, 29 Oct 2026 07:50:20 +0000"
-   },
-   {
-    "title": "'Fair pay for a fair day's work': ACT public sector workers strike",
-    "pubDate": "Thu, 29 Oct 2026 07:45:23 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -877,6 +869,14 @@
     "category": "Not Applicable"
    },
    {
+    "title": "BLUE POOL TRL, EVANS HEAD",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "BRUNSWICK VALLEY WAY, BILLINUDGEL",
+    "category": "Not Applicable"
+   },
+   {
     "title": "COBB HWY, DENILIQUIN",
     "category": "Not Applicable"
    },
@@ -897,10 +897,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "KENTUCKY LANE, NARRABRI",
-    "category": "Not Applicable"
-   },
-   {
     "title": "MALONEYS RD, LUE",
     "category": "Not Applicable"
    },
@@ -910,10 +906,6 @@
    },
    {
     "title": "MIRRABOOKA RD, LITTLE BILLABONG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
     "category": "Not Applicable"
    }
   ],
@@ -1011,12 +1003,12 @@
     "pubDate": "Wed, 28 Oct 2026 22:09:22 GMT"
    },
    {
-    "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
-    "pubDate": "Wed, 28 Oct 2026 16:50:30 GMT"
+    "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Thu, 29 Oct 2026 06:16:28 GMT"
    },
    {
-    "title": "Royal Hobart nurses stop work over cuts to the emergency medical unit - Pulse Tasmania",
-    "pubDate": "Thu, 29 Oct 2026 06:29:02 GMT"
+    "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
+    "pubDate": "Wed, 28 Oct 2026 16:50:30 GMT"
    }
   ],
   "au_security_news": [
@@ -1049,8 +1041,8 @@
     "pubDate": "Thu, 29 Oct 2026 05:15:55 GMT"
    },
    {
-    "title": "China\u2019s military creating \u2018pressure\u2019 in region, Australian defense chief says - The Japan Times",
-    "pubDate": "Thu, 29 Oct 2026 02:51:00 GMT"
+    "title": "Lendlease opens doors to defence and construction careers for WA students - Lendlease",
+    "pubDate": "Thu, 29 Oct 2026 03:01:03 GMT"
    }
   ],
   "au_health_news": [

@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T14:45:01.686136+00:00",
+ "collected_utc": "2026-10-29T15:45:01.312532+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -184,27 +184,11 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttt2",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "81 km ENE of Mazha, China",
-   "time": 1793202055130,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpk",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.5,
-   "place": "5 km ESE of Asahi, Japan",
-   "time": 1793200072050,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-29T09:00:00",
+   "time_tag": "2026-10-29T12:00:00",
    "Kp": 0.33,
    "a_running": 2,
    "station_count": 8
@@ -448,8 +432,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/143617.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 14:36:17 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152325.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 15:23:25 GMT"
     }
    ]
   }
@@ -641,32 +625,32 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
-   "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Update 349 \u2013 IAEA Director General Statement on Situation in Ukraine - International Atomic Energy Agency",
+   "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -764,10 +748,6 @@
     "category": "Advice"
    },
    {
-    "title": "OBLEY RD, DUBBO",
-    "category": "Advice"
-   },
-   {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
    },
@@ -782,6 +762,10 @@
    {
     "title": "PORTERS HR STAGE 3",
     "category": "Planned Burn"
+   },
+   {
+    "title": "BURRENDONG WAY, MUMBIL",
+    "category": "Not Applicable"
    },
    {
     "title": "EMU PARK RD, SANGER",
@@ -812,7 +796,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PACIFIC DR, SWANSEA HEADS",
+    "title": "PORCUPINE LOOKOUT GUNNEDAH",
     "category": "Not Applicable"
    },
    {
@@ -906,6 +890,10 @@
     "pubDate": "Thu, 29 Oct 2026 07:58:00 GMT"
    },
    {
+    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
+    "pubDate": "Thu, 29 Oct 2026 14:49:27 GMT"
+   },
+   {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
@@ -924,10 +912,6 @@
    {
     "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready - WIRED",
     "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
-   },
-   {
-    "title": "GSMA secures US$1.2 million to support cell broadcast emergency alerts across Pacific - Asia Pacific Security Magazine",
-    "pubDate": "Wed, 28 Oct 2026 23:11:00 GMT"
    }
   ],
   "au_security_news": [
@@ -940,12 +924,12 @@
     "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
    },
    {
-    "title": "Australian military report finds commanders knew weapons were planted on dead Afghans - Politico",
-    "pubDate": "Thu, 29 Oct 2026 10:52:00 GMT"
+    "title": "Australian defence chief's claims on Chinese military just an excuse for small blocs - Global Times",
+    "pubDate": "Thu, 29 Oct 2026 14:16:00 GMT"
    },
    {
-    "title": "From overseas student to Air Force leader - Defence News",
-    "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
+    "title": "Australian military report finds commanders knew weapons were planted on dead Afghans - Politico",
+    "pubDate": "Thu, 29 Oct 2026 10:52:00 GMT"
    },
    {
     "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
@@ -956,12 +940,12 @@
     "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
    },
    {
-    "title": "Secretary-General of ASEAN holds a pull-aside meeting with the Deputy Prime Minister and Minister for Defence of Australia - ASEAN Main Portal",
-    "pubDate": "Thu, 29 Oct 2026 13:32:57 GMT"
+    "title": "From overseas student to Air Force leader - Defence News",
+    "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
    },
    {
-    "title": "EXCLUSIVE: Landmines \u2018necessary component\u2019 of defence, says Finnish ambassador to Australia - Defence Connect",
-    "pubDate": "Thu, 29 Oct 2026 05:15:55 GMT"
+    "title": "Secretary-General of ASEAN holds a pull-aside meeting with the Deputy Prime Minister and Minister for Defence of Australia - ASEAN Main Portal",
+    "pubDate": "Thu, 29 Oct 2026 13:32:57 GMT"
    }
   ],
   "au_health_news": [

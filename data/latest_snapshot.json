@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T13:45:01.245997+00:00",
+ "collected_utc": "2026-10-29T14:45:01.686136+00:00",
  "earthquakes": [
+  {
+   "mag": 4.7,
+   "place": "6 km SE of Pitaloza Arriba, Panama",
+   "time": 1793281377953,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyw",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "Pulau Pulau Tanimbar, Indonesia",
@@ -419,29 +427,29 @@
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Vance Public Advisory Number 32",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/290832.shtml",
-     "pubDate": "Thu, 29 Oct 2026 08:32:49 GMT"
+     "title": "Tropical Storm Vance Public Advisory Number 33",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/291431.shtml",
+     "pubDate": "Thu, 29 Oct 2026 14:31:22 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Advisory Number 32",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/290831.shtml",
-     "pubDate": "Thu, 29 Oct 2026 08:31:48 GMT"
+     "title": "Tropical Storm Vance Forecast Advisory Number 33",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/291431.shtml",
+     "pubDate": "Thu, 29 Oct 2026 14:31:22 GMT"
     },
     {
-     "title": "Tropical Storm Vance Forecast Discussion Number 32",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/290835.shtml",
-     "pubDate": "Thu, 29 Oct 2026 08:35:15 GMT"
+     "title": "Tropical Storm Vance Forecast Discussion Number 33",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/291432.shtml",
+     "pubDate": "Thu, 29 Oct 2026 14:32:21 GMT"
     },
     {
-     "title": "Tropical Storm Vance Wind Speed Probabilities Number 32",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/290832.shtml",
-     "pubDate": "Thu, 29 Oct 2026 08:32:49 GMT"
+     "title": "Tropical Storm Vance Wind Speed Probabilities Number 33",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/291431.shtml",
+     "pubDate": "Thu, 29 Oct 2026 14:31:53 GMT"
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/125451.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 12:54:51 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/143617.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 14:36:17 GMT"
     }
    ]
   }
@@ -629,16 +637,16 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
@@ -657,8 +665,8 @@
    "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   },
   {
-   "title": "From Preparedness to Resilience: The Role of the IAEA in Nuclear and Radiological Emergency Response - International Atomic Energy Agency",
-   "pubDate": "Fri, 11 Oct 2024 07:00:00 GMT"
+   "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
+   "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
   }
  ],
  "famine_news": [
@@ -675,10 +683,6 @@
    "pubDate": "Thu, 29 Oct 2026 11:56:00 GMT"
   },
   {
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
    "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
   },
@@ -693,10 +697,18 @@
   {
    "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
+  },
+  {
+   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Russian drone strike on Ukrainian train platform kills 14",
+    "pubDate": "Thu, 29 Oct 2026 13:47:47 +0000"
+   },
    {
     "title": "Triple-murderer Erin Patterson to learn her appeal fate today",
     "pubDate": "Thu, 29 Oct 2026 13:00:05 +0000"
@@ -732,10 +744,6 @@
    {
     "title": "Businesses hoping for 'salvation' from Sydney's new metro line",
     "pubDate": "Thu, 29 Oct 2026 08:13:42 +0000"
-   },
-   {
-    "title": "Child care sector faces further changes after shocking abuse exposed",
-    "pubDate": "Thu, 29 Oct 2026 08:10:51 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -914,12 +922,12 @@
     "pubDate": "Wed, 28 Oct 2026 22:09:22 GMT"
    },
    {
-    "title": "Power outage throws Perth Airport into chaos - PerthNow",
-    "pubDate": "Thu, 29 Oct 2026 07:59:00 GMT"
-   },
-   {
     "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready - WIRED",
     "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
+   },
+   {
+    "title": "GSMA secures US$1.2 million to support cell broadcast emergency alerts across Pacific - Asia Pacific Security Magazine",
+    "pubDate": "Wed, 28 Oct 2026 23:11:00 GMT"
    }
   ],
   "au_security_news": [
@@ -928,32 +936,32 @@
     "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    },
    {
+    "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
+    "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
+   },
+   {
     "title": "Australian military report finds commanders knew weapons were planted on dead Afghans - Politico",
     "pubDate": "Thu, 29 Oct 2026 10:52:00 GMT"
-   },
-   {
-    "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
-    "pubDate": "Thu, 29 Oct 2026 08:04:19 GMT"
-   },
-   {
-    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
-   },
-   {
-    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
-    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
     "title": "From overseas student to Air Force leader - Defence News",
     "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
    },
    {
-    "title": "EXCLUSIVE: Landmines \u2018necessary component\u2019 of defence, says Finnish ambassador to Australia - Defence Connect",
-    "pubDate": "Thu, 29 Oct 2026 05:15:55 GMT"
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
-    "title": "China\u2019s military creating \u2018pressure\u2019 in region, Australian defense chief says - The Japan Times",
-    "pubDate": "Thu, 29 Oct 2026 02:51:00 GMT"
+    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
+   },
+   {
+    "title": "Secretary-General of ASEAN holds a pull-aside meeting with the Deputy Prime Minister and Minister for Defence of Australia - ASEAN Main Portal",
+    "pubDate": "Thu, 29 Oct 2026 13:32:57 GMT"
+   },
+   {
+    "title": "EXCLUSIVE: Landmines \u2018necessary component\u2019 of defence, says Finnish ambassador to Australia - Defence Connect",
+    "pubDate": "Thu, 29 Oct 2026 05:15:55 GMT"
    }
   ],
   "au_health_news": [
@@ -990,6 +998,16 @@
   ]
  },
  "iaea": [
+  {
+   "title": "IAEA Trains Medical Professionals in Mongolia on Paediatric Medical Imaging",
+   "link": "http://www.iaea.org/newscenter/news/iaea-trains-medical-professionals-in-mongolia-on-paediatric-medical-imaging",
+   "pubDate": "Thu, 29 Oct 26 15:29:15 +0100"
+  },
+  {
+   "title": "IAEA Trains Medical Professionals in Mongolia on Paediatric Medical Imaging",
+   "link": "http://www.iaea.org/newscenter/news/iaea-trains-medical-professionals-in-mongolia-on-paediatric-medical-imaging",
+   "pubDate": "Thu, 29 Oct 26 15:29:15 +0100"
+  },
   {
    "title": "IAEA and International Laboratories Confirm Japanese Marine Monitoring Data for ALPS-Treated Water Discharge under Additional Measures",
    "link": "http://www.iaea.org/newscenter/pressreleases/iaea-and-international-laboratories-confirm-japanese-marine-monitoring-data-for-alps-treated-water-discharge-under-additional-measures",
@@ -1039,16 +1057,6 @@
    "title": "IAEA Supports Major Cybersecurity Exercise in Brazil",
    "link": "http://www.iaea.org/newscenter/news/iaea-supports-major-cybersecurity-exercise-in-brazil",
    "pubDate": "Thu, 22 Oct 26 05:31:09 +0200"
-  },
-  {
-   "title": "IAEA Advisory Mission Helps Georgia Strengthen Management of Disused Radioactive Sources",
-   "link": "http://www.iaea.org/newscenter/news/iaea-advisory-mission-helps-georgia-strengthen-management-of-disused-radioactive-sources",
-   "pubDate": "Wed, 21 Oct 26 14:18:00 +0200"
-  },
-  {
-   "title": "Atoms4Food: Protecting Biodiversity",
-   "link": "http://www.iaea.org/newscenter/multimedia/videos/atoms4food-protecting-biodiversity",
-   "pubDate": "Tue, 20 Oct 26 13:00:00 +0200"
   }
  ],
  "famine_gdelt": [

@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T09:45:01.525093+00:00",
+ "collected_utc": "2026-10-29T10:45:01.770767+00:00",
  "earthquakes": [
   {
    "mag": 5.1,
@@ -703,6 +703,10 @@
  ],
  "famine_news": [
   {
+   "title": "WFP warnings become a reality as food insecurity in Haiti on track to reach record highs - UN World Food Programme",
+   "pubDate": "Wed, 28 Oct 2026 12:00:00 GMT"
+  },
+  {
    "title": "Heat, Food Insecurity, Disease Make Climate a Global Health Emergency: Lancet Countdown - The Energy Mix",
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
@@ -723,10 +727,6 @@
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
   },
   {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
   },
@@ -738,7 +738,7 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Morgan accuses Katie Zacharia of sounding like a robot in fiery appearance",
+    "title": "Zacharia blames media for troubled stint as White House press secretary",
     "pubDate": "Thu, 29 Oct 2026 09:41:27 +0000"
    },
    {
@@ -781,10 +781,6 @@
   "nsw_rfs_incidents": [
    {
     "title": "BIG BLACK JACK MOUNTAIN FIRE, MIRANNIE",
-    "category": "Advice"
-   },
-   {
-    "title": "BLAIRMORE LANE, ABERDEEN",
     "category": "Advice"
    },
    {
@@ -857,6 +853,10 @@
    },
    {
     "title": "MIRRABOOKA RD, LITTLE BILLABONG",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
     "category": "Not Applicable"
    }
   ],
@@ -942,6 +942,10 @@
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
    {
+    "title": "World braces for horror \u2018chain reaction\u2019 - News.com.au",
+    "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
+   },
+   {
     "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
     "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
    },
@@ -954,18 +958,14 @@
     "pubDate": "Wed, 28 Oct 2026 16:50:30 GMT"
    },
    {
-    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready - WIRED",
-    "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
-   },
-   {
-    "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage - pv magazine Global",
-    "pubDate": "Wed, 28 Oct 2026 08:19:53 GMT"
+    "title": "Royal Hobart nurses stop work over cuts to the emergency medical unit - Pulse Tasmania",
+    "pubDate": "Thu, 29 Oct 2026 06:29:02 GMT"
    }
   ],
   "au_security_news": [
    {
     "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
-    "pubDate": "Thu, 29 Oct 2026 04:52:56 GMT"
+    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    },
    {
     "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
@@ -984,16 +984,16 @@
     "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
    },
    {
+    "title": "EXCLUSIVE: Landmines \u2018necessary component\u2019 of defence, says Finnish ambassador to Australia - Defence Connect",
+    "pubDate": "Thu, 29 Oct 2026 05:15:55 GMT"
+   },
+   {
     "title": "China\u2019s military creating \u2018pressure\u2019 in region, Australian defense chief says - The Japan Times",
     "pubDate": "Thu, 29 Oct 2026 02:51:00 GMT"
    },
    {
     "title": "Lendlease opens doors to defence and construction careers for WA students - Lendlease",
     "pubDate": "Thu, 29 Oct 2026 03:01:03 GMT"
-   },
-   {
-    "title": "Military top brass to be spared from further Afghanistan war crimes action - SMH.com.au",
-    "pubDate": "Thu, 29 Oct 2026 03:03:03 GMT"
    }
   ],
   "au_health_news": [
@@ -1091,76 +1091,14 @@
    "pubDate": "Tue, 20 Oct 26 13:00:00 +0200"
   }
  ],
- "famine_gdelt": [
-  {
-   "title": "\u062a\u062d\u0630\u064a\u0631 \u062f\u0648\u0644\u064a \u0645\u0646 \u0645\u062c\u0627\u0639\u0629 \u0648\u0634\u064a\u0643\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646 \u0645\u0639 \u062a\u0641\u0627\u0642\u0645 \u0623\u0632\u0645\u0629 \u0627\u0644\u063a\u0630\u0627\u0621",
-   "domain": "dostor.org",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.dostor.org/5753697"
-  },
-  {
-   "title": "Mzbel Shares Childhood Assault Experience , Highlights Why Survivors Remain Silent \u2013 Ghanamma . com",
-   "domain": "ghanamma.com",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.ghanamma.com/2026/10/27/mzbel-shares-childhood-assault-experience-highlights-why-survivors-remain-silent/"
-  },
-  {
-   "title": "T\u00e4m on helpoin tapa s\u00e4il ruokaa ilman pakastinta , kertoo selviytymiskouluttaja",
-   "domain": "maaseuduntulevaisuus.fi",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.maaseuduntulevaisuus.fi/koti/4885e1c1-919c-4b53-9e57-1aeaae542e7d"
-  }
- ],
- "conflict_gdelt": [
-  {
-   "title": "Nattens viktigste nyheter",
-   "domain": "abcnyheter.no",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.abcnyheter.no/nyheter/nattens-viktigste-nyheter/1712123"
-  },
-  {
-   "title": "\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026 | \u05e0\u05e4\u05d2\u05e2\u05d9 7 . 10 \u05d1\u05db\u05d9\u05db\u05e8 \u05d4\u05d7\u05d8\u05d5\u05e4\u05d9\u05dd : 3 \u05e9\u05e0\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9 \u05d4\u05d8\u05d1\u05d7 , \u05d9\u05e7\u05d9\u05e8\u05d9\u05e0\u05d5 \u05dc\u05d0 \u05d9\u05e6\u05d1\u05d9\u05e2\u05d5 \u05d4\u05d9\u05d5\u05dd , \u05ea\u05d6\u05db\u05e8\u05d5 \u05d0\u05d5\u05ea\u05dd \u05d1\u05e7\u05dc\u05e4\u05d9 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
-   "domain": "haaretz.co.il",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/000001a1-7b9f-d3e6-a9ff-7bffe87c0000"
-  },
-  {
-   "title": "Wird der Prozess um den Nord - Stream - Anschlag eingestellt ? ",
-   "domain": "wallstreet-online.de",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.wallstreet-online.de/nachricht/21585198-prozess-nord-stream-anschlag-eingestellt"
-  },
-  {
-   "title": "  This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
-   "domain": "jpost.com",
-   "seendate": "20261027T051500Z",
-   "url": "http://www.jpost.com/israel-election-2026/article-912988"
-  },
-  {
-   "title": "  This time I wont vote for Likud , PM Netanyahu cousin says , citing October 7",
-   "domain": "jpost.com",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.jpost.com/israel-election-2026/article-912988"
-  },
-  {
-   "title": "\u05e4\u05e8\u05e9\u05e0\u05d5\u05ea | \u05d2\u05dd \u05d0\u05dd \u05d9\u05e4\u05e1\u05d9\u05d3 , \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05e2\u05dc\u05d5\u05dc \u05dc\u05e1\u05db\u05dc \u05d0\u05ea \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05d4\u05e9\u05dc\u05d8\u05d5\u05df . \u05dc\u05d2\u05d5\u05e9 \u05d4\u05e9\u05d9\u05e0\u05d5\u05d9 \u05d0\u05e1\u05d5\u05e8 \u05dc\u05d4\u05ea\u05de\u05d4\u05de\u05d4 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
-   "domain": "haaretz.co.il",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.highlight/000001a1-792e-dfb9-a5a9-fb2f5bf80000"
-  },
-  {
-   "title": "La stagione teatrale di Cernusco . Tra impegno e temi di attualit\u00e0",
-   "domain": "ilgiorno.it",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.ilgiorno.it/cultura/la-stagione-teatrale-di-cernusco-498aa083"
-  },
-  {
-   "title": "\u062a\u062d\u0630\u064a\u0631 \u062f\u0648\u0644\u064a \u0645\u0646 \u0645\u062c\u0627\u0639\u0629 \u0648\u0634\u064a\u0643\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646 \u0645\u0639 \u062a\u0641\u0627\u0642\u0645 \u0623\u0632\u0645\u0629 \u0627\u0644\u063a\u0630\u0627\u0621",
-   "domain": "dostor.org",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.dostor.org/5753697"
-  }
- ],
+ "famine_gdelt": {
+  "error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>",
+  "trace": "_call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>\n"
+ },
+ "conflict_gdelt": {
+  "error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>",
+  "trace": "_call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>\n"
+ },
  "doomsday_clock": {
   "seconds_to_midnight": 85,
   "checked_utc": "2026-10-29T09:18:55.400054+00:00",

@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T05:30:01.090777+00:00",
+ "collected_utc": "2026-10-29T06:45:01.334941+00:00",
  "earthquakes": [
+  {
+   "mag": 5.1,
+   "place": "Balleny Islands region",
+   "time": 1793252016298,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx8",
+   "type": "earthquake"
+  },
   {
    "mag": 5.6,
    "place": "South Sandwich Islands region",
@@ -208,21 +216,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
    "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "205 km SSE of Vilyuchinsk, Russia",
-   "time": 1793167967777,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-29T00:00:00",
-   "Kp": 1.67,
-   "a_running": 6,
+   "time_tag": "2026-10-29T03:00:00",
+   "Kp": 2.33,
+   "a_running": 9,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -255,8 +255,57 @@
   ]
  },
  "neo": {
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
-  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
+  "count": 6,
+  "events": [
+   {
+    "name": "(2016 XB2)",
+    "diameter_min_m": 131,
+    "diameter_max_m": 292,
+    "hazardous": false,
+    "miss_km": 26226891.56008269,
+    "velocity_kph": 47311.2333392087
+   },
+   {
+    "name": "(2017 UL44)",
+    "diameter_min_m": 46,
+    "diameter_max_m": 103,
+    "hazardous": false,
+    "miss_km": 34840714.489961974,
+    "velocity_kph": 50905.7051138129
+   },
+   {
+    "name": "(2020 CB)",
+    "diameter_min_m": 8,
+    "diameter_max_m": 17,
+    "hazardous": false,
+    "miss_km": 42675136.03269121,
+    "velocity_kph": 35759.3677165313
+   },
+   {
+    "name": "(2017 SF14)",
+    "diameter_min_m": 34,
+    "diameter_max_m": 76,
+    "hazardous": false,
+    "miss_km": 63615115.807766035,
+    "velocity_kph": 57866.0252213704
+   },
+   {
+    "name": "(2015 HO116)",
+    "diameter_min_m": 21,
+    "diameter_max_m": 47,
+    "hazardous": false,
+    "miss_km": 66871176.36918016,
+    "velocity_kph": 60684.8156831232
+   },
+   {
+    "name": "(2019 ER2)",
+    "diameter_min_m": 18,
+    "diameter_max_m": 39,
+    "hazardous": false,
+    "miss_km": 72210296.58411549,
+    "velocity_kph": 29129.6868767648
+   }
+  ]
  },
  "who_news": [
   {
@@ -502,7 +551,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T18:00:00Z",
+    "date": "2026-10-29T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -518,7 +567,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-28T18:00:00Z",
+    "date": "2026-10-29T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -689,14 +738,22 @@
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "UN nuclear watchdog warns strikes near Iran plant risk \u2018major radiological accident\u2019 - Anadolu Ajans\u0131",
-   "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT"
+   "title": "Update 349 \u2013 IAEA Director General Statement on Situation in Ukraine - International Atomic Energy Agency",
+   "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
   {
    "title": "Heat, Food Insecurity, Disease Make Climate a Global Health Emergency: Lancet Countdown - The Energy Mix",
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
+  },
+  {
+   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - UN World Food Programme",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
@@ -707,28 +764,44 @@
    "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
   },
   {
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   },
   {
+   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
+   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
-  },
-  {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
-   "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "WA man jailed for raping six-year-old niece",
+    "pubDate": "Thu, 29 Oct 2026 06:27:40 +0000"
+   },
+   {
+    "title": "Albanese has a sewerage problem and the Coalition loves the stench",
+    "pubDate": "Thu, 29 Oct 2026 06:06:04 +0000"
+   },
+   {
+    "title": "Passing of conversion practice ban a 'landmark day' for Tasmania",
+    "pubDate": "Thu, 29 Oct 2026 05:56:05 +0000"
+   },
+   {
+    "title": "Adult and youth inmates in NT struggle to access health care, doctors say",
+    "pubDate": "Thu, 29 Oct 2026 05:43:56 +0000"
+   },
+   {
+    "title": "'Systemic' increase of children with complex needs in Canberra",
+    "pubDate": "Thu, 29 Oct 2026 05:35:55 +0000"
+   },
+   {
+    "title": "Appeal challenges ruling on Sydney teacher's abuse of male students",
+    "pubDate": "Thu, 29 Oct 2026 05:32:01 +0000"
+   },
    {
     "title": "Conflicting accounts emerge after Spanish train collision",
     "pubDate": "Thu, 29 Oct 2026 05:25:06 +0000"
@@ -744,30 +817,6 @@
    {
     "title": "Adelaide parklands campaigner 'doxxed' as home address shared on social media",
     "pubDate": "Thu, 29 Oct 2026 05:12:13 +0000"
-   },
-   {
-    "title": "Olympic equestrian says whipping ban stems from illegal video recording",
-    "pubDate": "Thu, 29 Oct 2026 05:07:22 +0000"
-   },
-   {
-    "title": "Brewers complete underdog story with maiden World Series title",
-    "pubDate": "Thu, 29 Oct 2026 05:00:29 +0000"
-   },
-   {
-    "title": "Creative project reimagines history from First Nations perspective",
-    "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000"
-   },
-   {
-    "title": "Highly invasive weed threatening native flora and fauna at Uluru",
-    "pubDate": "Thu, 29 Oct 2026 04:41:21 +0000"
-   },
-   {
-    "title": "Police investigate motorhome fire as man remains in critical condition",
-    "pubDate": "Thu, 29 Oct 2026 04:29:45 +0000"
-   },
-   {
-    "title": "Rogue taxi drivers accused of exploiting passengers at Perth airport, casino",
-    "pubDate": "Thu, 29 Oct 2026 04:27:17 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -784,15 +833,15 @@
     "category": "Advice"
    },
    {
+    "title": "BUNGARIE RD, TERIDGERIE",
+    "category": "Advice"
+   },
+   {
     "title": "NEWELL HWY, TOMINGLEY",
     "category": "Advice"
    },
    {
     "title": "OBLEY RD, DUBBO",
-    "category": "Advice"
-   },
-   {
-    "title": "Pittwater Rd, Dee Why",
     "category": "Advice"
    },
    {
@@ -816,14 +865,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BUNGARIE RD, TERIDGERIE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "CARISBROOK CT, TABLE TOP",
-    "category": "Not Applicable"
-   },
-   {
     "title": "COBB HWY, DENILIQUIN",
     "category": "Not Applicable"
    },
@@ -832,11 +873,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "GREAT SOUTHERN RD, BARGO",
+    "title": "GOOLMA RD, GULGONG",
     "category": "Not Applicable"
    },
    {
     "title": "HAMILTON GATE RD, WANAARING",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HUME HWY, GUNDAGAI",
     "category": "Not Applicable"
    },
    {
@@ -849,6 +894,10 @@
    },
    {
     "title": "MALONEYS RD, LUE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MANILLA RD, ATTUNGA",
     "category": "Not Applicable"
    }
   ],
@@ -964,62 +1013,33 @@
     "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
    },
    {
-    "title": "Australian SAS officers knew about unlawful \u2018throwdowns\u2019 on dead Afghans, report says - The Guardian",
-    "pubDate": "Wed, 28 Oct 2026 22:05:00 GMT"
-   },
-   {
     "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
     "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
-    "title": "Modern warfare: ADF aims at new frontiers - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 15:53:05 GMT"
-   },
-   {
-    "title": "Lendlease opens doors to defence and construction careers for WA students - Lendlease",
-    "pubDate": "Thu, 29 Oct 2026 03:01:03 GMT"
+    "title": "National security strategy must be broadened - The Australian",
+    "pubDate": "Wed, 28 Oct 2026 17:33:38 GMT"
    },
    {
     "title": "China\u2019s military creating \u2018pressure\u2019 in region, Australian defense chief says - The Japan Times",
     "pubDate": "Thu, 29 Oct 2026 02:51:00 GMT"
    },
    {
+    "title": "Lendlease opens doors to defence and construction careers for WA students - Lendlease",
+    "pubDate": "Thu, 29 Oct 2026 03:01:03 GMT"
+   },
+   {
     "title": "Military top brass to be spared from further Afghanistan war crimes action - SMH.com.au",
     "pubDate": "Thu, 29 Oct 2026 03:03:03 GMT"
+   },
+   {
+    "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
+    "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
    }
   ],
-  "au_health_news": [
-   {
-    "title": "Hearing Services Program provider notice 2026-12 \u2013 Provider Webinar Link"
-   },
-   {
-    "title": "Seeking people with an interest in research and a passion for improving health outcomes"
-   },
-   {
-    "title": "New IDPwD Yarning Guide"
-   },
-   {
-    "title": "2025 Residents\u2019 Experience Survey results are in"
-   },
-   {
-    "title": "Survey: In-home aged care service list review"
-   },
-   {
-    "title": "Hearing Services Program provider notice 2026-11 \u2013 Provider webinar"
-   },
-   {
-    "title": "Australian medtech company receives prestigious award nomination"
-   },
-   {
-    "title": "Annual Report \u2013 Office of the National Rural Health Commissioner 2025-26"
-   },
-   {
-    "title": "PBS Approved Suppliers \u2013 End of year closure period 2026"
-   },
-   {
-    "title": "Australian Community Pharmacy Authority (ACPA) meeting dates for 2027"
-   }
-  ]
+  "au_health_news": {
+   "error": "The read operation timed out"
+  }
  },
  "iaea": [
   {
@@ -1084,11 +1104,11 @@
   }
  ],
  "famine_gdelt": {
-  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "trace": "/json/__init__.py\", line 352, in loads\n    return _default_decoder.decode(s)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 345, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 363, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n"
+  "error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>",
+  "trace": "_call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>\n"
  },
  "conflict_gdelt": {
-  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "trace": "/json/__init__.py\", line 352, in loads\n    return _default_decoder.decode(s)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 345, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 363, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n"
+  "error": "URLError: <urlopen error timed out>",
+  "trace": ".14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error timed out>\n"
  }
 }

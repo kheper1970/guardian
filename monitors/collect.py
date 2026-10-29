@@ -454,14 +454,14 @@ def collect_gdelt(query, timespan="3d", maxrecords=8):
 def collect_famine():
     """GDELT famine/food-insecurity coverage (FAO/IPC/FEWS feeds unavailable)."""
     return collect_gdelt(
-        'famine OR "food insecurity" OR "food crisis"', timespan="3d")
+        '(famine OR "food insecurity" OR "food crisis")', timespan="3d")
 
 
 def collect_conflict():
     """GDELT armed-conflict coverage (ACLED requires registration)."""
     return collect_gdelt(
-        '"armed conflict" OR "military offensive" OR "airstrike" '
-        'OR "massacre" OR "war crimes"', timespan="3d")
+        '("armed conflict" OR "military offensive" OR "airstrike" '
+        'OR "massacre" OR "war crimes")', timespan="3d")
 
 
 def prune_snapshots(keep_days=30):

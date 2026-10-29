@@ -395,6 +395,58 @@ def collect_nhc():
     return out
 
 
+def collect_iaea():
+    """IAEA official news feed - authoritative nuclear/radiological source."""
+    import re
+    raw = fetch("https://www.iaea.org/feeds/news", as_json=False)
+    items = re.findall(r"<item>(.*?)</item>", raw, re.S)
+    out = []
+    for item in items[:12]:
+        t = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", item, re.S)
+        l = re.search(r"<link>(.*?)</link>", item, re.S)
+        p = re.search(r"<pubDate>(.*?)</pubDate>", item, re.S)
+        out.append({
+            "title": (t.group(1).strip() if t else "")[:250],
+            "link": (l.group(1).strip() if l else "")[:300],
+            "pubDate": (p.group(1).strip() if p else "")[:40],
+        })
+    return out
+
+
+def collect_gdelt(query, timespan="3d", maxrecords=8):
+    """GDELT DOC 2.0 API - global news article search, no key required.
+    Rate limit: 1 request / 5s. Caller must sleep between queries."""
+    d = fetch(
+        "https://api.gdeltproject.org/api/v2/doc/doc?query="
+        + urllib.parse.quote(query)
+        + "&mode=artlist&maxrecords=" + str(maxrecords)
+        + "&format=json&timespan=" + timespan
+    )
+    arts = d.get("articles") or []
+    return [
+        {
+            "title": (a.get("title") or "")[:250],
+            "domain": a.get("domain"),
+            "seendate": a.get("seendate"),
+            "url": (a.get("url") or "")[:300],
+        }
+        for a in arts
+    ]
+
+
+def collect_famine():
+    """GDELT famine/food-insecurity coverage (FAO/IPC/FEWS feeds unavailable)."""
+    return collect_gdelt(
+        'famine OR "food insecurity" OR "food crisis"', timespan="3d")
+
+
+def collect_conflict():
+    """GDELT armed-conflict coverage (ACLED requires registration)."""
+    return collect_gdelt(
+        '"armed conflict" OR "military offensive" OR "airstrike" '
+        'OR "massacre" OR "war crimes"', timespan="3d")
+
+
 def prune_snapshots(keep_days=30):
     """Keep all snapshots within keep_days; beyond that keep 1/day (earliest)."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).strftime("%Y%m%d")
@@ -429,7 +481,10 @@ def main():
                     ("eonet", collect_eonet),
                     ("nuclear_news", lambda: collect_gnews("IAEA radiological emergency OR nuclear incident OR nuclear accident")),
                     ("famine_news", lambda: collect_gnews("famine OR food insecurity emergency")),
-                    ("australia", collect_australia)):
+                    ("australia", collect_australia),
+                    ("iaea", collect_iaea),
+                    ("famine_gdelt", lambda: (time.sleep(6), collect_famine())[1]),
+                    ("conflict_gdelt", lambda: (time.sleep(6), collect_conflict())[1])):
         try:
             snapshot[name] = fn()
         except Exception as exc:

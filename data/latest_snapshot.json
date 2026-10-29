@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T03:45:01.667596+00:00",
+ "collected_utc": "2026-10-29T04:45:01.720440+00:00",
  "earthquakes": [
   {
    "mag": 5.7,
@@ -10,9 +10,9 @@
    "type": "earthquake"
   },
   {
-   "mag": 5.7,
-   "place": "121 km ENE of Barcelona, Philippines",
-   "time": 1793243945429,
+   "mag": 5.8,
+   "place": "110 km ENE of Barcelona, Philippines",
+   "time": 1793243945288,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
    "type": "earthquake"
@@ -207,14 +207,6 @@
    "time": 1793167967777,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "200 km W of Sola, Vanuatu",
-   "time": 1793161864089,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
    "type": "earthquake"
   }
  ],
@@ -665,42 +657,38 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
    "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
-   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
-   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
   {
    "title": "Heat, Food Insecurity, Disease Make Climate a Global Health Emergency: Lancet Countdown - The Energy Mix",
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
-  },
-  {
-   "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning - allAfrica.com",
-   "pubDate": "Mon, 26 Oct 2026 04:47:44 GMT"
   },
   {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
@@ -715,26 +703,54 @@
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   },
   {
-   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
-   "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
-  },
-  {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
   },
   {
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
+   "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
+  },
+  {
    "title": "Somalia - UN World Food Programme",
    "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
+   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
+   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "Highly invasive weed threatening native flora and fauna at Uluru",
+    "pubDate": "Thu, 29 Oct 2026 04:41:21 +0000"
+   },
+   {
+    "title": "Police investigate motorhome fire as man remains in critical condition",
+    "pubDate": "Thu, 29 Oct 2026 04:29:45 +0000"
+   },
+   {
+    "title": "Rogue taxi drivers accused of exploiting passengers at Perth airport, casino",
+    "pubDate": "Thu, 29 Oct 2026 04:27:17 +0000"
+   },
+   {
+    "title": "Breaking: Teen dies in hospital days after drive-by shooting south of Brisbane",
+    "pubDate": "Thu, 29 Oct 2026 04:09:11 +0000"
+   },
+   {
+    "title": "Frances Crawford's son tells jury he was 'scared for her safety'",
+    "pubDate": "Thu, 29 Oct 2026 03:47:30 +0000"
+   },
+   {
+    "title": "Less than a week from midterms, Trump is very, very unpopular in the US",
+    "pubDate": "Thu, 29 Oct 2026 03:43:48 +0000"
+   },
+   {
     "title": "Police uncover usernames allegedly directing Melbourne arson attacks",
     "pubDate": "Thu, 29 Oct 2026 03:10:25 +0000"
    },
    {
-    "title": "Football club posts 'people are more than headlines' after coach charged with rape",
+    "title": "Club's social media post 'deeply troubling' after coach charged with rape",
     "pubDate": "Thu, 29 Oct 2026 03:03:44 +0000"
    },
    {
@@ -744,30 +760,6 @@
    {
     "title": "Gold Coast Suns AFLW finals feat faces home-ground headache",
     "pubDate": "Thu, 29 Oct 2026 02:38:30 +0000"
-   },
-   {
-    "title": "Hobart could be about to elect its first all-male council since the 1950s",
-    "pubDate": "Thu, 29 Oct 2026 02:16:43 +0000"
-   },
-   {
-    "title": "Readers share why and how they are avoiding AI",
-    "pubDate": "Thu, 29 Oct 2026 02:02:06 +0000"
-   },
-   {
-    "title": "Indigenous artists explore scorching heat in new exhibition",
-    "pubDate": "Thu, 29 Oct 2026 02:00:00 +0000"
-   },
-   {
-    "title": "Where to next after Netanyahu neither won nor lost the Israeli election",
-    "pubDate": "Thu, 29 Oct 2026 01:51:26 +0000"
-   },
-   {
-    "title": "QPS employee fined over antisemitic social media comments",
-    "pubDate": "Thu, 29 Oct 2026 01:38:12 +0000"
-   },
-   {
-    "title": "Website reporting on crime in Victoria staffed by Philippines workers",
-    "pubDate": "Thu, 29 Oct 2026 01:16:44 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -781,10 +773,6 @@
    },
    {
     "title": "BROOKS RD, BINNAWAY",
-    "category": "Advice"
-   },
-   {
-    "title": "KIDMAN WAY, HILLSTON",
     "category": "Advice"
    },
    {
@@ -816,7 +804,7 @@
     "category": "Planned Burn"
    },
    {
-    "title": "BUNDELLA RD, QUIRINDI",
+    "title": "BOO BOO RD, BELLATA",
     "category": "Not Applicable"
    },
    {
@@ -824,23 +812,23 @@
     "category": "Not Applicable"
    },
    {
+    "title": "CLARENCE TOWN RD, BROOKFIELD",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "DUNS CREEK RD, DUNS CREEK",
+    "category": "Not Applicable"
+   },
+   {
     "title": "EMU PARK RD, SANGER",
     "category": "Not Applicable"
    },
    {
-    "title": "EUROLEY RD",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "GOLDEN HWY, MERRIWA",
+    "title": "GREAT SOUTHERN RD, BARGO",
     "category": "Not Applicable"
    },
    {
     "title": "HAMILTON GATE RD, WANAARING",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "HUME HWY, MITTAGONG",
     "category": "Not Applicable"
    },
    {
@@ -849,6 +837,10 @@
    },
    {
     "title": "KENTUCKY LANE, NARRABRI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MALONEYS RD, LUE",
     "category": "Not Applicable"
    }
   ],
@@ -942,16 +934,16 @@
     "pubDate": "Wed, 28 Oct 2026 15:39:00 GMT"
    },
    {
+    "title": "Flood of Chinese EVs batters Aus car industry - Kidspot",
+    "pubDate": "Wed, 28 Oct 2026 01:53:46 GMT"
+   },
+   {
     "title": "Australian Parliament Pays Tribute to Injured MP Helen Haines, Calls for Respectful Public Debate - kendranewsaustralia.com.au",
     "pubDate": "Wed, 28 Oct 2026 11:14:36 GMT"
    },
    {
     "title": "Flash floods swamp southeast Australia as record October rainfall forces school closures - Yahoo News Canada",
     "pubDate": "Wed, 28 Oct 2026 13:43:19 GMT"
-   },
-   {
-    "title": "Severe storms and flood warnings across east coast - 7NEWS",
-    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
    }
   ],
   "au_security_news": [
@@ -968,6 +960,10 @@
     "pubDate": "Wed, 28 Oct 2026 22:05:00 GMT"
    },
    {
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
+   },
+   {
     "title": "Modern warfare: ADF aims at new frontiers - The Australian",
     "pubDate": "Wed, 28 Oct 2026 15:53:05 GMT"
    },
@@ -982,10 +978,6 @@
    {
     "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
     "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
-   },
-   {
-    "title": "Military top brass to be spared from further Afghanistan war crimes action - SMH.com.au",
-    "pubDate": "Thu, 29 Oct 2026 03:03:03 GMT"
    }
   ],
   "au_health_news": [
@@ -1020,5 +1012,75 @@
     "title": "Australian Community Pharmacy Authority (ACPA) meeting dates for 2027"
    }
   ]
+ },
+ "iaea": [
+  {
+   "title": "IAEA and International Laboratories Confirm Japanese Marine Monitoring Data for ALPS-Treated Water Discharge under Additional Measures",
+   "link": "http://www.iaea.org/newscenter/pressreleases/iaea-and-international-laboratories-confirm-japanese-marine-monitoring-data-for-alps-treated-water-discharge-under-additional-measures",
+   "pubDate": "Wed, 28 Oct 26 14:21:23 +0100"
+  },
+  {
+   "title": "Better Data, Better Decisions: IAEA Trains Asia-Pacific Experts in Energy Statistics and Balances",
+   "link": "http://www.iaea.org/newscenter/news/better-data-better-decisions-iaea-trains-asia-pacific-experts-in-energy-statistics-and-balances",
+   "pubDate": "Wed, 28 Oct 26 13:07:19 +0100"
+  },
+  {
+   "title": "IAEA\u2019s Grossi Calls for Progress in Deploying Nuclear Power as Ministerial Conference Opens",
+   "link": "http://www.iaea.org/newscenter/news/iaeas-grossi-calls-for-progress-in-deploying-nuclear-power-as-ministerial-conference-opens",
+   "pubDate": "Tue, 27 Oct 26 09:00:00 +0100"
+  },
+  {
+   "title": "Tritium Level Far Below Japan\u2019s Operational Limit in 25th Batch of ALPS Treated Water, IAEA Confirms",
+   "link": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-25th-batch-of-alps-treated-water-iaea-confirms",
+   "pubDate": "Tue, 27 Oct 26 07:29:08 +0100"
+  },
+  {
+   "title": "Update 372 \u2013 IAEA Director General Statement on Situation in Ukraine",
+   "link": "http://www.iaea.org/newscenter/pressreleases/update-372-iaea-director-general-statement-on-situation-in-ukraine",
+   "pubDate": "Fri, 23 Oct 26 15:55:45 +0200"
+  },
+  {
+   "title": "Italy and Romania Establish New Member State Support Programmes to Strengthen IAEA Safeguards",
+   "link": "http://www.iaea.org/newscenter/news/italy-and-romania-establish-new-member-state-support-programmes-to-strengthen-iaea-safeguards",
+   "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
+  },
+  {
+   "title": "What is Nuclear Fuel?",
+   "link": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
+   "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
+  },
+  {
+   "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
+   "link": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-finds-kenya-committed-to-safe-management-of-radioactive-waste-as-it-develops-a-nuclear-power-programme",
+   "pubDate": "Thu, 22 Oct 26 14:18:17 +0200"
+  },
+  {
+   "title": "Bridging Research and Industry to Advance Actinium-225 Cancer Therapies",
+   "link": "http://www.iaea.org/newscenter/news/bridging-research-and-industry-to-advance-actinium-225-cancer-therapies",
+   "pubDate": "Thu, 22 Oct 26 09:21:55 +0200"
+  },
+  {
+   "title": "IAEA Supports Major Cybersecurity Exercise in Brazil",
+   "link": "http://www.iaea.org/newscenter/news/iaea-supports-major-cybersecurity-exercise-in-brazil",
+   "pubDate": "Thu, 22 Oct 26 05:31:09 +0200"
+  },
+  {
+   "title": "IAEA Advisory Mission Helps Georgia Strengthen Management of Disused Radioactive Sources",
+   "link": "http://www.iaea.org/newscenter/news/iaea-advisory-mission-helps-georgia-strengthen-management-of-disused-radioactive-sources",
+   "pubDate": "Wed, 21 Oct 26 14:18:00 +0200"
+  },
+  {
+   "title": "Atoms4Food: Protecting Biodiversity",
+   "link": "http://www.iaea.org/newscenter/multimedia/videos/atoms4food-protecting-biodiversity",
+   "pubDate": "Tue, 20 Oct 26 13:00:00 +0200"
+  }
+ ],
+ "famine_gdelt": {
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "trace": "/json/__init__.py\", line 352, in loads\n    return _default_decoder.decode(s)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 345, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 363, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n"
+ },
+ "conflict_gdelt": {
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "trace": "/json/__init__.py\", line 352, in loads\n    return _default_decoder.decode(s)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 345, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/json/decoder.py\", line 363, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n"
  }
 }

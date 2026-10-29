@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T20:45:01.097004+00:00",
+ "collected_utc": "2026-10-29T21:30:01.999021+00:00",
  "earthquakes": [
+  {
+   "mag": 5,
+   "place": "131 km NNW of Tual, Indonesia",
+   "time": 1793305931667,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u",
+   "type": "earthquake"
+  },
   {
    "mag": 5,
    "place": "143 km S of False Pass, Alaska",
@@ -172,7 +180,7 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-29T15:00:00",
+   "time_tag": "2026-10-29T18:00:00",
    "Kp": 0.33,
    "a_running": 2,
    "station_count": 8
@@ -416,8 +424,8 @@
     },
     {
      "title": "Tropical Depression Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/203554.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 20:35:54 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212247.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 21:22:47 GMT"
     }
    ]
   }
@@ -633,32 +641,32 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-  },
-  {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
    "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
+  },
+  {
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -698,6 +706,26 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Live: Federal government launches probe into future of Australia Post",
+    "pubDate": "Thu, 29 Oct 2026 21:20:59 +0000"
+   },
+   {
+    "title": "Live: ASX set to rise despite tech stock sell-off overseas",
+    "pubDate": "Thu, 29 Oct 2026 21:16:19 +0000"
+   },
+   {
+    "title": "Controversial goldmine subject of new Aboriginal protection application",
+    "pubDate": "Thu, 29 Oct 2026 21:05:53 +0000"
+   },
+   {
+    "title": "First Guardian investors dealt another 'utterly devastating' blow",
+    "pubDate": "Thu, 29 Oct 2026 21:00:29 +0000"
+   },
+   {
+    "title": "Trump spruiks economy as farmer-funded ads attack cost-of-living record",
+    "pubDate": "Thu, 29 Oct 2026 20:46:27 +0000"
+   },
+   {
     "title": "Australia's Cape Town desperation evident on another pulsating Test day",
     "pubDate": "Thu, 29 Oct 2026 20:39:18 +0000"
    },
@@ -710,32 +738,12 @@
     "pubDate": "Thu, 29 Oct 2026 20:14:03 +0000"
    },
    {
-    "title": "Breaking: Patrick Stewart, Star Trek and X-Men actor, dies at 86",
+    "title": "Patrick Stewart, Star Trek and X-Men actor, dies at 86",
     "pubDate": "Thu, 29 Oct 2026 20:12:28 +0000"
    },
    {
     "title": "Mask ban, visa review measures proposed by antisemitism envoy",
     "pubDate": "Thu, 29 Oct 2026 20:12:02 +0000"
-   },
-   {
-    "title": "It's the only cafe in town, but it's changing lives and Tripadvisor loves it",
-    "pubDate": "Thu, 29 Oct 2026 20:02:24 +0000"
-   },
-   {
-    "title": "Powderfinger announce more shows, discuss split and joyful reunion",
-    "pubDate": "Thu, 29 Oct 2026 20:00:00 +0000"
-   },
-   {
-    "title": "Quick hits: Marnus caught in ugly exchange after all-time send off",
-    "pubDate": "Thu, 29 Oct 2026 19:54:18 +0000"
-   },
-   {
-    "title": "Vyleen White\u2019s family welcome new bail laws as advocates raise concerns",
-    "pubDate": "Thu, 29 Oct 2026 19:35:24 +0000"
-   },
-   {
-    "title": "'Last resort' fire ant rafting behaviour raises alarms as wet season begins",
-    "pubDate": "Thu, 29 Oct 2026 19:33:52 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -764,12 +772,24 @@
     "category": "Advice"
    },
    {
+    "title": "BANKSIA DR, ELERMORE VALE",
+    "category": "Planned Burn"
+   },
+   {
+    "title": "FB550 Bruce Ridge",
+    "category": "Planned Burn"
+   },
+   {
     "title": "Goldfields Road, Bondi State Forest",
     "category": "Planned Burn"
    },
    {
     "title": "PORTERS HR STAGE 3",
     "category": "Planned Burn"
+   },
+   {
+    "title": "BOONA RD, CONDOBOLIN",
+    "category": "Not Applicable"
    },
    {
     "title": "EMU PARK RD, SANGER",
@@ -805,18 +825,6 @@
    },
    {
     "title": "STAPLETONS RD, BOOMEY",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "VERDUN DR, SANCROX",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WARIALDA RD, COOLATAI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WILKINSONS RD, ARDING",
     "category": "Not Applicable"
    }
   ],
@@ -890,8 +898,8 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Aussies urged 'be prepared' and stockpile tinned food, bottled water as threats grow - Yahoo News Australia",
-    "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
+    "title": "Woolworths rolls out emergency crisis kits for Aussies amid warnings to stockpile tinned food - Yahoo News Australia",
+    "pubDate": "Thu, 29 Oct 2026 21:18:33 GMT"
    },
    {
     "title": "Kalamunda residents ordered to evacuate as firefighters battle suspicious, out-of-control bushfire - The West Australian",
@@ -910,19 +918,23 @@
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
    },
    {
+    "title": "Cyclone Vaianu: Qantas, Jetstar &amp; Virgin's Fiji flights cancelled - Karryon",
+    "pubDate": "Thu, 29 Oct 2026 15:05:15 GMT"
+   },
+   {
+    "title": "Travellers left stranded by Perth Airport\u2019s power outage - PerthNow",
+    "pubDate": "Thu, 29 Oct 2026 07:59:00 GMT"
+   },
+   {
     "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
     "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
-   },
-   {
-    "title": "Bushfire smoke chokes output from solar farms, even more than 100 km away, researchers find - Renew Economy",
-    "pubDate": "Wed, 28 Oct 2026 22:09:22 GMT"
-   },
-   {
-    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready - WIRED",
-    "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
    }
   ],
   "au_security_news": [
+   {
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
+   },
    {
     "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
     "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
@@ -938,10 +950,6 @@
    {
     "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
     "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
-   },
-   {
-    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
-    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
     "title": "Why ASEAN won\u2019t buy Australian defence chief\u2019s claims on Chinese military - Global Times",
@@ -1071,10 +1079,56 @@
    "url": "https://www.maaseuduntulevaisuus.fi/koti/4885e1c1-919c-4b53-9e57-1aeaae542e7d"
   }
  ],
- "conflict_gdelt": {
-  "error": "TimeoutError: The read operation timed out",
-  "trace": "1\")\n               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/socket.py\", line 725, in readinto\n    return self._sock.recv_into(b)\n           ~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/usr/lib/python3.14/ssl.py\", line 1304, in recv_into\n    return self.read(nbytes, buffer)\n           ~~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/ssl.py\", line 1138, in read\n    return self._sslobj.read(len, buffer)\n           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^\nTimeoutError: The read operation timed out\n"
- },
+ "conflict_gdelt": [
+  {
+   "title": "Nattens viktigste nyheter",
+   "domain": "abcnyheter.no",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.abcnyheter.no/nyheter/nattens-viktigste-nyheter/1712123"
+  },
+  {
+   "title": "\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026 | \u05e0\u05e4\u05d2\u05e2\u05d9 7 . 10 \u05d1\u05db\u05d9\u05db\u05e8 \u05d4\u05d7\u05d8\u05d5\u05e4\u05d9\u05dd : 3 \u05e9\u05e0\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9 \u05d4\u05d8\u05d1\u05d7 , \u05d9\u05e7\u05d9\u05e8\u05d9\u05e0\u05d5 \u05dc\u05d0 \u05d9\u05e6\u05d1\u05d9\u05e2\u05d5 \u05d4\u05d9\u05d5\u05dd , \u05ea\u05d6\u05db\u05e8\u05d5 \u05d0\u05d5\u05ea\u05dd \u05d1\u05e7\u05dc\u05e4\u05d9 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
+   "domain": "haaretz.co.il",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/000001a1-7b9f-d3e6-a9ff-7bffe87c0000"
+  },
+  {
+   "title": "Wird der Prozess um den Nord - Stream - Anschlag eingestellt ? ",
+   "domain": "wallstreet-online.de",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.wallstreet-online.de/nachricht/21585198-prozess-nord-stream-anschlag-eingestellt"
+  },
+  {
+   "title": "  This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
+   "domain": "jpost.com",
+   "seendate": "20261027T051500Z",
+   "url": "http://www.jpost.com/israel-election-2026/article-912988"
+  },
+  {
+   "title": "  This time I wont vote for Likud , PM Netanyahu cousin says , citing October 7",
+   "domain": "jpost.com",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.jpost.com/israel-election-2026/article-912988"
+  },
+  {
+   "title": "\u05e4\u05e8\u05e9\u05e0\u05d5\u05ea | \u05d2\u05dd \u05d0\u05dd \u05d9\u05e4\u05e1\u05d9\u05d3 , \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05e2\u05dc\u05d5\u05dc \u05dc\u05e1\u05db\u05dc \u05d0\u05ea \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05d4\u05e9\u05dc\u05d8\u05d5\u05df . \u05dc\u05d2\u05d5\u05e9 \u05d4\u05e9\u05d9\u05e0\u05d5\u05d9 \u05d0\u05e1\u05d5\u05e8 \u05dc\u05d4\u05ea\u05de\u05d4\u05de\u05d4 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
+   "domain": "haaretz.co.il",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.highlight/000001a1-792e-dfb9-a5a9-fb2f5bf80000"
+  },
+  {
+   "title": "La stagione teatrale di Cernusco . Tra impegno e temi di attualit\u00e0",
+   "domain": "ilgiorno.it",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.ilgiorno.it/cultura/la-stagione-teatrale-di-cernusco-498aa083"
+  },
+  {
+   "title": "\u062a\u062d\u0630\u064a\u0631 \u062f\u0648\u0644\u064a \u0645\u0646 \u0645\u062c\u0627\u0639\u0629 \u0648\u0634\u064a\u0643\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646 \u0645\u0639 \u062a\u0641\u0627\u0642\u0645 \u0623\u0632\u0645\u0629 \u0627\u0644\u063a\u0630\u0627\u0621",
+   "domain": "dostor.org",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.dostor.org/5753697"
+  }
+ ],
  "doomsday_clock": {
   "seconds_to_midnight": 85,
   "checked_utc": "2026-10-29T09:18:55.400054+00:00",

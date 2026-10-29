@@ -5,6 +5,7 @@ Polls authoritative public feeds and writes normalised JSON snapshots plus a
 human-readable report. Designed to run from cron; safe to re-run.
 """
 import json
+import re
 import sys
 import time
 import traceback
@@ -481,6 +482,39 @@ def prune_snapshots(keep_days=30):
         print(f"pruned {removed} snapshots (>{keep_days}d old, kept 1/day)")
 
 
+
+def collect_doomsday():
+    """Doomsday Clock setting from the Bulletin of the Atomic Scientists.
+
+    The value changes at most once a year (announced each January), so we
+    refresh the cache daily rather than every 15 minutes. Falls back to the
+    cached value if the site is unreachable.
+    """
+    cache = DATA / "doomsday_clock.json"
+    cache_ok = False
+    if cache.exists():
+        try:
+            cached = json.loads(cache.read_text())
+            age_days = (datetime.now(timezone.utc)
+                        - datetime.fromisoformat(cached["checked_utc"])).days
+            cache_ok = age_days < 7
+        except Exception:
+            cache_ok = False
+    if cache_ok:
+        return cached
+
+    url = "https://thebulletin.org/doomsday-clock/"
+    html = fetch(url, as_json=False, timeout=30)
+    m = re.search(r"It is now (\d+) seconds to midnight", html)
+    if not m:
+        raise RuntimeError("doomsday clock value not found on page")
+    value = int(m.group(1))
+    out = {"seconds_to_midnight": value,
+           "checked_utc": datetime.now(timezone.utc).isoformat(),
+           "source": url}
+    cache.write_text(json.dumps(out, indent=1))
+    return out
+
 def main():
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y%m%dT%H%M%SZ")
@@ -501,7 +535,8 @@ def main():
                     ("australia", collect_australia),
                     ("iaea", collect_iaea),
                     ("famine_gdelt", lambda: (time.sleep(6), collect_famine())[1]),
-                    ("conflict_gdelt", lambda: (time.sleep(6), collect_conflict())[1])):
+                    ("conflict_gdelt", lambda: (time.sleep(6), collect_conflict())[1]),
+                    ("doomsday_clock", collect_doomsday)):
         try:
             snapshot[name] = fn()
         except Exception as exc:

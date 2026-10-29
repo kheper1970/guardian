@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T08:45:01.644032+00:00",
+ "collected_utc": "2026-10-29T09:45:01.525093+00:00",
  "earthquakes": [
+  {
+   "mag": 5.1,
+   "place": "218 km NNW of Bamboo Flat, India",
+   "time": 1793263782448,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "41 km W of Mosteiros, Portugal",
@@ -224,21 +232,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "29 km SSW of Sarangani, Philippines",
-   "time": 1793179976341,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-29T03:00:00",
-   "Kp": 2.33,
-   "a_running": 9,
+   "time_tag": "2026-10-29T06:00:00",
+   "Kp": 0.67,
+   "a_running": 3,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -480,8 +480,8 @@
     },
     {
      "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/084252.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 08:42:52 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/092245.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 09:22:45 GMT"
     }
    ]
   }
@@ -738,6 +738,22 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Morgan accuses Katie Zacharia of sounding like a robot in fiery appearance",
+    "pubDate": "Thu, 29 Oct 2026 09:41:27 +0000"
+   },
+   {
+    "title": "Darwin man who ran over partner during argument to spend five months in jail",
+    "pubDate": "Thu, 29 Oct 2026 09:26:49 +0000"
+   },
+   {
+    "title": "Cigarette likely cause of catastrophic Hong Kong fire, report finds",
+    "pubDate": "Thu, 29 Oct 2026 09:13:25 +0000"
+   },
+   {
+    "title": "WBBL season gets underway with Thunder thumping of Renegades",
+    "pubDate": "Thu, 29 Oct 2026 08:41:30 +0000"
+   },
+   {
     "title": "Businesses hoping for 'salvation' from Sydney's new metro line",
     "pubDate": "Thu, 29 Oct 2026 08:13:42 +0000"
    },
@@ -760,29 +776,9 @@
    {
     "title": "'Fair pay for a fair day's work': ACT public sector workers strike",
     "pubDate": "Thu, 29 Oct 2026 07:45:23 +0000"
-   },
-   {
-    "title": "Live: Australia looks to press home its advantage on day three in Cape Town",
-    "pubDate": "Thu, 29 Oct 2026 07:35:22 +0000"
-   },
-   {
-    "title": "CEO of one of Australia's top cultural events becomes French knight",
-    "pubDate": "Thu, 29 Oct 2026 07:00:00 +0000"
-   },
-   {
-    "title": "Driver jailed over high-speed crash that killed teenager",
-    "pubDate": "Thu, 29 Oct 2026 06:49:59 +0000"
-   },
-   {
-    "title": "North Korean workers sold into Russia then stripped of wages, report finds",
-    "pubDate": "Thu, 29 Oct 2026 06:43:55 +0000"
    }
   ],
   "nsw_rfs_incidents": [
-   {
-    "title": "Balo St, Moree",
-    "category": "Advice"
-   },
    {
     "title": "BIG BLACK JACK MOUNTAIN FIRE, MIRANNIE",
     "category": "Advice"
@@ -808,14 +804,6 @@
     "category": "Advice"
    },
    {
-    "title": "Ocean Park Rd, Belmont South",
-    "category": "Advice"
-   },
-   {
-    "title": "Pacific Dr, Swansea Heads",
-    "category": "Advice"
-   },
-   {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
    },
@@ -830,6 +818,10 @@
    {
     "title": "PORTERS HR STAGE 3",
     "category": "Planned Burn"
+   },
+   {
+    "title": "ARMIDALE RD, HERNANI",
+    "category": "Not Applicable"
    },
    {
     "title": "COBB HWY, DENILIQUIN",
@@ -857,6 +849,14 @@
    },
    {
     "title": "MALONEYS RD, LUE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MANILLA RD, ATTUNGA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MIRRABOOKA RD, LITTLE BILLABONG",
     "category": "Not Applicable"
    }
   ],
@@ -934,12 +934,12 @@
     "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
    },
    {
-    "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
-    "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
-   },
-   {
     "title": "Kalamunda residents ordered to evacuate as firefighters battle suspicious, out-of-control bushfire - The West Australian",
     "pubDate": "Thu, 29 Oct 2026 07:58:00 GMT"
+   },
+   {
+    "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
+    "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
    {
     "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
@@ -1160,5 +1160,10 @@
    "seendate": "20261027T051500Z",
    "url": "https://www.dostor.org/5753697"
   }
- ]
+ ],
+ "doomsday_clock": {
+  "seconds_to_midnight": 85,
+  "checked_utc": "2026-10-29T09:18:55.400054+00:00",
+  "source": "https://thebulletin.org/doomsday-clock/"
+ }
 }

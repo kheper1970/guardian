@@ -398,6 +398,45 @@ SHORT_DESC = ("Automated daily global risk briefing: earthquakes, space weather,
               "near-Earth objects, volcanoes, cyclones and more from public feeds.")
 
 
+
+def doomsday_card():
+    """Doomsday Clock panel: official Bulletin SVG + current setting.
+
+    Value comes from the snapshot's doomsday_clock section (cached daily by
+    collect.py). The SVG is the Bulletin's own artwork, used with attribution
+    and a link back to their page.
+    """
+    try:
+        snap = json.loads((PUB / "data" / "latest_snapshot.json").read_text())
+        ddc = snap.get("doomsday_clock") or {}
+        if "error" in ddc:
+            raise ValueError(ddc["error"])
+        secs = ddc["seconds_to_midnight"]
+        checked = ddc.get("checked_utc", "")[:10]
+        svg_src = BASE / "assets" / "doomsday_clock.svg"
+        if svg_src.exists():
+            (PUB / "img" / "doomsday_clock.svg").write_text(svg_src.read_text())
+            art = (f'<img src="img/doomsday_clock.svg" '
+                   f'alt="Doomsday Clock face showing {secs} seconds to midnight" '
+                   f'style="max-width:340px;display:block;margin:0 auto">')
+        else:
+            art = ""
+        return f'''<div class="card"><h2 style="margin-top:0">Doomsday Clock</h2>
+<div style="display:flex;gap:1.2rem;align-items:center;flex-wrap:wrap">
+<div style="flex:1 1 260px">{art}</div>
+<div style="flex:2 1 320px">
+<p style="font-size:1.5rem;font-weight:800;margin:.2rem 0">It is now <span style="color:#c0392b">{secs} seconds</span> to midnight</p>
+<p>The Bulletin of the Atomic Scientists' assessment of global existential risk.
+The setting is reviewed annually (each January) by its Science and Security Board.</p>
+<p style="color:#666666;font-size:.85rem">Setting verified {checked} - source:
+<a href="https://thebulletin.org/doomsday-clock/">thebulletin.org</a>.
+Clock artwork © Bulletin of the Atomic Scientists; used with attribution.</p>
+</div></div></div>'''
+    except Exception as exc:
+        print(f"doomsday_card skipped: {exc}")
+        return ""
+
+
 def build_index(snap, bom, briefings):
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     latest_day = sorted(briefings)[-1] if briefings else today
@@ -439,6 +478,7 @@ def build_index(snap, bom, briefings):
 refreshes with every publish.</p>
 </div>
 <div class="card"><h2 style="margin-top:0">Latest snapshot statistics</h2>
+{doomsday_card()}
 {stat_html}
 <p style="color:#666666;font-size:.9rem">Snapshot taken {snap.get('collected_utc', '?') if snap else '?'} UTC.
 Open the <a href="briefing/briefing_{latest_day}.html">full briefing</a> for details and sources.</p>

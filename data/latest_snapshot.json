@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T15:45:01.312532+00:00",
+ "collected_utc": "2026-10-29T16:45:01.152103+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -439,8 +439,40 @@
   }
  ],
  "eonet": {
-  "open_total": 29,
+  "open_total": 33,
   "tracked": [
+   {
+    "title": "Wildfire South Tank Trail, Perry, Mississippi",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-28T18:02:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827"
+   },
+   {
+    "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-28T11:22:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829"
+   },
+   {
+    "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-28T11:21:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830"
+   },
+   {
+    "title": "Prescribed Fire Newman 3 Piles RX, Coconino, Arizona",
+    "categories": [
+     "Wildfires"
+    ],
+    "date": "2026-10-28T10:09:00Z",
+    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25828"
+   },
    {
     "title": "Tropical Cyclone Arnab",
     "categories": [
@@ -690,6 +722,10 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Spain begins three days of mourning as train crash death toll reaches 69",
+    "pubDate": "Thu, 29 Oct 2026 15:53:53 +0000"
+   },
+   {
     "title": "Russian drone strike on Ukrainian train platform kills 14",
     "pubDate": "Thu, 29 Oct 2026 13:47:47 +0000"
    },
@@ -706,7 +742,7 @@
     "pubDate": "Thu, 29 Oct 2026 11:30:55 +0000"
    },
    {
-    "title": "Israeli election official demands probe into foreign interference claims",
+    "title": "Israeli election chief demands foreign interference probe as neither bloc wins majority",
     "pubDate": "Thu, 29 Oct 2026 11:25:33 +0000"
    },
    {
@@ -724,10 +760,6 @@
    {
     "title": "WBBL season gets underway with Thunder thumping of Renegades",
     "pubDate": "Thu, 29 Oct 2026 08:41:30 +0000"
-   },
-   {
-    "title": "Businesses hoping for 'salvation' from Sydney's new metro line",
-    "pubDate": "Thu, 29 Oct 2026 08:13:42 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -764,10 +796,6 @@
     "category": "Planned Burn"
    },
    {
-    "title": "BURRENDONG WAY, MUMBIL",
-    "category": "Not Applicable"
-   },
-   {
     "title": "EMU PARK RD, SANGER",
     "category": "Not Applicable"
    },
@@ -796,10 +824,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "PORCUPINE LOOKOUT GUNNEDAH",
-    "category": "Not Applicable"
-   },
-   {
     "title": "STAPLETONS RD, BOOMEY",
     "category": "Not Applicable"
    },
@@ -809,6 +833,10 @@
    },
    {
     "title": "WARIALDA RD, COOLATAI",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WILKINSONS RD, ARDING",
     "category": "Not Applicable"
    }
   ],
@@ -944,8 +972,8 @@
     "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
    },
    {
-    "title": "Secretary-General of ASEAN holds a pull-aside meeting with the Deputy Prime Minister and Minister for Defence of Australia - ASEAN Main Portal",
-    "pubDate": "Thu, 29 Oct 2026 13:32:57 GMT"
+    "title": "Australian Defence Force admits quarter of troops not medically fit for deployment - 7NEWS",
+    "pubDate": "Thu, 29 Oct 2026 12:41:00 GMT"
    }
   ],
   "au_health_news": [
@@ -993,6 +1021,11 @@
    "pubDate": "Thu, 29 Oct 26 15:29:15 +0100"
   },
   {
+   "title": "New Report Highlights Advances in Groundwater Monitoring Across Asia and the Pacific",
+   "link": "http://www.iaea.org/newscenter/news/new-report-highlights-advances-in-groundwater-monitoring-across-asia-and-the-pacific",
+   "pubDate": "Thu, 29 Oct 26 14:59:09 +0100"
+  },
+  {
    "title": "IAEA and International Laboratories Confirm Japanese Marine Monitoring Data for ALPS-Treated Water Discharge under Additional Measures",
    "link": "http://www.iaea.org/newscenter/pressreleases/iaea-and-international-laboratories-confirm-japanese-marine-monitoring-data-for-alps-treated-water-discharge-under-additional-measures",
    "pubDate": "Wed, 28 Oct 26 14:21:23 +0100"
@@ -1036,11 +1069,6 @@
    "title": "Bridging Research and Industry to Advance Actinium-225 Cancer Therapies",
    "link": "http://www.iaea.org/newscenter/news/bridging-research-and-industry-to-advance-actinium-225-cancer-therapies",
    "pubDate": "Thu, 22 Oct 26 09:21:55 +0200"
-  },
-  {
-   "title": "IAEA Supports Major Cybersecurity Exercise in Brazil",
-   "link": "http://www.iaea.org/newscenter/news/iaea-supports-major-cybersecurity-exercise-in-brazil",
-   "pubDate": "Thu, 22 Oct 26 05:31:09 +0200"
   }
  ],
  "famine_gdelt": [

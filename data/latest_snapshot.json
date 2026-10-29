@@ -1,6 +1,30 @@
 {
- "collected_utc": "2026-10-29T07:30:01.627882+00:00",
+ "collected_utc": "2026-10-29T08:45:01.644032+00:00",
  "earthquakes": [
+  {
+   "mag": 4.6,
+   "place": "41 km W of Mosteiros, Portugal",
+   "time": 1793260446718,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty0",
+   "type": "earthquake"
+  },
+  {
+   "mag": 6.4,
+   "place": "southeast of Easter Island",
+   "time": 1793260190928,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.4,
+   "place": "114 km ENE of Barcelona, Philippines",
+   "time": 1793259090432,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
+   "type": "earthquake"
+  },
   {
    "mag": 5.1,
    "place": "Balleny Islands region",
@@ -10,9 +34,9 @@
    "type": "earthquake"
   },
   {
-   "mag": 5.6,
+   "mag": 5.4,
    "place": "South Sandwich Islands region",
-   "time": 1793250408297,
+   "time": 1793250408289,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
    "type": "earthquake"
@@ -431,39 +455,39 @@
  "nhc_storms": [
   {
    "storm": "Vance",
-   "type": "Tropical Depression",
+   "type": "Tropical Storm",
    "basin": "east_pacific",
    "advisories": [
     {
-     "title": "Tropical Depression Vance Public Advisory Number 31",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/290232.shtml",
-     "pubDate": "Thu, 29 Oct 2026 02:32:12 GMT"
+     "title": "Tropical Storm Vance Public Advisory Number 32",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/290832.shtml",
+     "pubDate": "Thu, 29 Oct 2026 08:32:49 GMT"
     },
     {
-     "title": "Tropical Depression Vance Forecast Advisory Number 31",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/290231.shtml",
-     "pubDate": "Thu, 29 Oct 2026 02:31:12 GMT"
+     "title": "Tropical Storm Vance Forecast Advisory Number 32",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/290831.shtml",
+     "pubDate": "Thu, 29 Oct 2026 08:31:48 GMT"
     },
     {
-     "title": "Tropical Depression Vance Forecast Discussion Number 31",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/290233.shtml",
-     "pubDate": "Thu, 29 Oct 2026 02:33:43 GMT"
+     "title": "Tropical Storm Vance Forecast Discussion Number 32",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/290835.shtml",
+     "pubDate": "Thu, 29 Oct 2026 08:35:15 GMT"
     },
     {
-     "title": "Tropical Depression Vance Wind Speed Probabilities Number 31",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/290232.shtml",
-     "pubDate": "Thu, 29 Oct 2026 02:32:42 GMT"
+     "title": "Tropical Storm Vance Wind Speed Probabilities Number 32",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/290832.shtml",
+     "pubDate": "Thu, 29 Oct 2026 08:32:49 GMT"
     },
     {
-     "title": "Tropical Depression Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/032246.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 03:22:46 GMT"
+     "title": "Tropical Storm Vance Graphics",
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/084252.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 08:42:52 GMT"
     }
    ]
   }
  ],
  "eonet": {
-  "open_total": 32,
+  "open_total": 29,
   "tracked": [
    {
     "title": "Tropical Cyclone Arnab",
@@ -520,14 +544,6 @@
     ],
     "date": "2026-10-21T15:57:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25768"
-   },
-   {
-    "title": "Tropical Cyclone Agueda",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-23T18:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457"
    },
    {
     "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
@@ -691,14 +707,6 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - UN World Food Programme",
-   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
@@ -711,16 +719,52 @@
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   },
   {
-   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Lebanon: DIEM-Monitoring emergency agriculture support brief, August 2026 (round 9) - ReliefWeb",
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
+  },
+  {
+   "title": "Somalia - UN World Food Programme",
+   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
+   "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
+   "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
+  },
+  {
+   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
+   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Businesses hoping for 'salvation' from Sydney's new metro line",
+    "pubDate": "Thu, 29 Oct 2026 08:13:42 +0000"
+   },
+   {
+    "title": "Child care sector faces further changes after shocking abuse exposed",
+    "pubDate": "Thu, 29 Oct 2026 08:10:51 +0000"
+   },
+   {
+    "title": "Alcoa ordered to stay further away from Perth's drinking water supply",
+    "pubDate": "Thu, 29 Oct 2026 08:04:20 +0000"
+   },
+   {
+    "title": "Police search launched for man swept away in Central Australia flooding",
+    "pubDate": "Thu, 29 Oct 2026 07:55:12 +0000"
+   },
+   {
+    "title": "One Nation MP rejects $200,000 staffer as Hanson accuses PM of meddling",
+    "pubDate": "Thu, 29 Oct 2026 07:50:20 +0000"
+   },
+   {
+    "title": "'Fair pay for a fair day's work': ACT public sector workers strike",
+    "pubDate": "Thu, 29 Oct 2026 07:45:23 +0000"
+   },
+   {
+    "title": "Live: Australia looks to press home its advantage on day three in Cape Town",
+    "pubDate": "Thu, 29 Oct 2026 07:35:22 +0000"
+   },
    {
     "title": "CEO of one of Australia's top cultural events becomes French knight",
     "pubDate": "Thu, 29 Oct 2026 07:00:00 +0000"
@@ -732,37 +776,13 @@
    {
     "title": "North Korean workers sold into Russia then stripped of wages, report finds",
     "pubDate": "Thu, 29 Oct 2026 06:43:55 +0000"
-   },
-   {
-    "title": "WA man jailed for raping six-year-old niece",
-    "pubDate": "Thu, 29 Oct 2026 06:27:40 +0000"
-   },
-   {
-    "title": "Albanese is bogged down in grant problem of his own making",
-    "pubDate": "Thu, 29 Oct 2026 06:06:04 +0000"
-   },
-   {
-    "title": "Passing of conversion practice ban a 'landmark day' for Tasmania",
-    "pubDate": "Thu, 29 Oct 2026 05:56:05 +0000"
-   },
-   {
-    "title": "Adult and youth inmates in NT struggle to access health care, doctors say",
-    "pubDate": "Thu, 29 Oct 2026 05:43:56 +0000"
-   },
-   {
-    "title": "'Systemic' increase of children with complex needs in Canberra",
-    "pubDate": "Thu, 29 Oct 2026 05:35:55 +0000"
-   },
-   {
-    "title": "Appeal challenges ruling on Sydney teacher's abuse of male students",
-    "pubDate": "Thu, 29 Oct 2026 05:32:01 +0000"
-   },
-   {
-    "title": "Conflicting accounts emerge after Spanish train collision",
-    "pubDate": "Thu, 29 Oct 2026 05:25:06 +0000"
    }
   ],
   "nsw_rfs_incidents": [
+   {
+    "title": "Balo St, Moree",
+    "category": "Advice"
+   },
    {
     "title": "BIG BLACK JACK MOUNTAIN FIRE, MIRANNIE",
     "category": "Advice"
@@ -792,6 +812,10 @@
     "category": "Advice"
    },
    {
+    "title": "Pacific Dr, Swansea Heads",
+    "category": "Advice"
+   },
+   {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
    },
@@ -808,15 +832,19 @@
     "category": "Planned Burn"
    },
    {
-    "title": "BOO BOO RD, BELLATA",
-    "category": "Not Applicable"
-   },
-   {
     "title": "COBB HWY, DENILIQUIN",
     "category": "Not Applicable"
    },
    {
+    "title": "CORNWALL ST, AGNES BANKS",
+    "category": "Not Applicable"
+   },
+   {
     "title": "EMU PARK RD, SANGER",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "GOLDEN HWY, MERRIWA",
     "category": "Not Applicable"
    },
    {
@@ -829,18 +857,6 @@
    },
    {
     "title": "MALONEYS RD, LUE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MANILLA RD, ATTUNGA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MIRRABOOKA RD, LITTLE BILLABONG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
     "category": "Not Applicable"
    }
   ],
@@ -918,6 +934,14 @@
     "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
    },
    {
+    "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
+    "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
+   },
+   {
+    "title": "Kalamunda residents ordered to evacuate as firefighters battle suspicious, out-of-control bushfire - The West Australian",
+    "pubDate": "Thu, 29 Oct 2026 07:58:00 GMT"
+   },
+   {
     "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
     "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
    },
@@ -934,34 +958,30 @@
     "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
    },
    {
-    "title": "Wide Bay local news briefing: Wednesday, October 28, 2026 - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Tue, 27 Oct 2026 21:35:55 GMT"
-   },
-   {
     "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage - pv magazine Global",
     "pubDate": "Wed, 28 Oct 2026 08:19:53 GMT"
-   },
-   {
-    "title": "Royal Hobart nurses stop work over cuts to the emergency medical unit - Pulse Tasmania",
-    "pubDate": "Thu, 29 Oct 2026 06:29:02 GMT"
    }
   ],
   "au_security_news": [
    {
-    "title": "From overseas student to Air Force leader - Defence News",
-    "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
+    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
+    "pubDate": "Thu, 29 Oct 2026 04:52:56 GMT"
    },
    {
-    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
+    "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
+    "pubDate": "Thu, 29 Oct 2026 08:04:19 GMT"
    },
    {
     "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
     "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
-    "title": "National security strategy must be broadened - The Australian",
-    "pubDate": "Wed, 28 Oct 2026 17:33:38 GMT"
+    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
+   },
+   {
+    "title": "From overseas student to Air Force leader - Defence News",
+    "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
    },
    {
     "title": "China\u2019s military creating \u2018pressure\u2019 in region, Australian defense chief says - The Japan Times",
@@ -974,10 +994,6 @@
    {
     "title": "Military top brass to be spared from further Afghanistan war crimes action - SMH.com.au",
     "pubDate": "Thu, 29 Oct 2026 03:03:03 GMT"
-   },
-   {
-    "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
-    "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
    }
   ],
   "au_health_news": [

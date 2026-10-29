@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T17:45:01.853670+00:00",
+ "collected_utc": "2026-10-29T18:45:01.329275+00:00",
  "earthquakes": [
+  {
+   "mag": 4.5,
+   "place": "141 km E of Miyako, Japan",
+   "time": 1793295421805,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu2j",
+   "type": "earthquake"
+  },
   {
    "mag": 4.7,
    "place": "6 km SE of Pitaloza Arriba, Panama",
@@ -176,19 +184,11 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttt4",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "6 km N of Asahi, Japan",
-   "time": 1793212343536,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttt2",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-29T12:00:00",
+   "time_tag": "2026-10-29T15:00:00",
    "Kp": 0.33,
    "a_running": 2,
    "station_count": 8
@@ -406,12 +406,36 @@
  },
  "nhc_storms": [
   {
-   "basin": "atlantic",
-   "error": "<urlopen error [Errno 101] Network is unreachable>"
-  },
-  {
+   "storm": "Vance",
+   "type": "Tropical Storm",
    "basin": "east_pacific",
-   "error": "<urlopen error [Errno 101] Network is unreachable>"
+   "advisories": [
+    {
+     "title": "Tropical Storm Vance Public Advisory Number 33",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/291431.shtml",
+     "pubDate": "Thu, 29 Oct 2026 14:31:22 GMT"
+    },
+    {
+     "title": "Tropical Storm Vance Forecast Advisory Number 33",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/291431.shtml",
+     "pubDate": "Thu, 29 Oct 2026 14:31:22 GMT"
+    },
+    {
+     "title": "Tropical Storm Vance Forecast Discussion Number 33",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/291432.shtml",
+     "pubDate": "Thu, 29 Oct 2026 14:32:21 GMT"
+    },
+    {
+     "title": "Tropical Storm Vance Wind Speed Probabilities Number 33",
+     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/291431.shtml",
+     "pubDate": "Thu, 29 Oct 2026 14:31:53 GMT"
+    },
+    {
+     "title": "Tropical Storm Vance Graphics",
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/182205.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 18:22:05 GMT"
+    }
+   ]
   }
  ],
  "eonet": {
@@ -478,7 +502,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-29T06:00:00Z",
+    "date": "2026-10-29T12:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -494,7 +518,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-29T06:00:00Z",
+    "date": "2026-10-29T12:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -698,44 +722,44 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Spain begins three days of mourning as train crash death toll reaches 74",
+    "title": "Sydney's new metro stations open after two years of disruption",
+    "pubDate": "Thu, 29 Oct 2026 18:37:53 +0000"
+   },
+   {
+    "title": "The best young performers to legends like Joan Sutherland this Ausmusic Month",
+    "pubDate": "Thu, 29 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "Friday news quiz: Duchess back on TV, an oversized sultana and eels in the mood for love",
+    "pubDate": "Thu, 29 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "Council body demands data centre moratorium as planning approvals rise",
+    "pubDate": "Thu, 29 Oct 2026 18:11:31 +0000"
+   },
+   {
+    "title": "Economist delivers 'worst-case scenario' on interest rates as inflation fails to cool",
+    "pubDate": "Thu, 29 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "One Nation might not win Victoria, but NSW is where the real fight is",
+    "pubDate": "Thu, 29 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Warnings of blackouts and lives at risk over power pay struggle",
+    "pubDate": "Thu, 29 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Labor's student visa crackdown has created a problem it didn't intend",
+    "pubDate": "Thu, 29 Oct 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Spain begins three days of mourning as train crash death toll reaches 69",
     "pubDate": "Thu, 29 Oct 2026 15:53:53 +0000"
    },
    {
     "title": "Russian drone strike on Ukrainian train platform kills 14",
     "pubDate": "Thu, 29 Oct 2026 13:47:47 +0000"
-   },
-   {
-    "title": "Triple-murderer Erin Patterson to learn her appeal fate today",
-    "pubDate": "Thu, 29 Oct 2026 13:00:05 +0000"
-   },
-   {
-    "title": "Russell Brand's wife tells court actor's promiscuity left her 'heartbroken'",
-    "pubDate": "Thu, 29 Oct 2026 12:16:34 +0000"
-   },
-   {
-    "title": "WA Labor MP vows to 'vigorously defend' US lawsuit over $1m loan",
-    "pubDate": "Thu, 29 Oct 2026 11:30:55 +0000"
-   },
-   {
-    "title": "Israeli election chief demands foreign interference probe as neither bloc wins majority",
-    "pubDate": "Thu, 29 Oct 2026 11:25:33 +0000"
-   },
-   {
-    "title": "Zacharia blames media for troubled stint as White House press secretary",
-    "pubDate": "Thu, 29 Oct 2026 09:41:27 +0000"
-   },
-   {
-    "title": "Darwin man who ran over partner during argument to spend five months in jail",
-    "pubDate": "Thu, 29 Oct 2026 09:26:49 +0000"
-   },
-   {
-    "title": "Cigarette likely cause of catastrophic Hong Kong fire, report finds",
-    "pubDate": "Thu, 29 Oct 2026 09:13:25 +0000"
-   },
-   {
-    "title": "WBBL season gets underway with Thunder thumping of Renegades",
-    "pubDate": "Thu, 29 Oct 2026 08:41:30 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -944,12 +968,12 @@
     "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
    },
    {
-    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
-   },
-   {
     "title": "Australian Defence Force admits quarter of troops not medically fit for deployment - 7NEWS",
     "pubDate": "Thu, 29 Oct 2026 12:41:00 GMT"
+   },
+   {
+    "title": "EXCLUSIVE: Landmines \u2018necessary component\u2019 of defence, says Finnish ambassador to Australia - Defence Connect",
+    "pubDate": "Thu, 29 Oct 2026 05:15:55 GMT"
    }
   ],
   "au_health_news": [
@@ -1047,76 +1071,14 @@
    "pubDate": "Thu, 22 Oct 26 09:21:55 +0200"
   }
  ],
- "famine_gdelt": [
-  {
-   "title": "\u062a\u062d\u0630\u064a\u0631 \u062f\u0648\u0644\u064a \u0645\u0646 \u0645\u062c\u0627\u0639\u0629 \u0648\u0634\u064a\u0643\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646 \u0645\u0639 \u062a\u0641\u0627\u0642\u0645 \u0623\u0632\u0645\u0629 \u0627\u0644\u063a\u0630\u0627\u0621",
-   "domain": "dostor.org",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.dostor.org/5753697"
-  },
-  {
-   "title": "Mzbel Shares Childhood Assault Experience , Highlights Why Survivors Remain Silent \u2013 Ghanamma . com",
-   "domain": "ghanamma.com",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.ghanamma.com/2026/10/27/mzbel-shares-childhood-assault-experience-highlights-why-survivors-remain-silent/"
-  },
-  {
-   "title": "T\u00e4m on helpoin tapa s\u00e4il ruokaa ilman pakastinta , kertoo selviytymiskouluttaja",
-   "domain": "maaseuduntulevaisuus.fi",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.maaseuduntulevaisuus.fi/koti/4885e1c1-919c-4b53-9e57-1aeaae542e7d"
-  }
- ],
- "conflict_gdelt": [
-  {
-   "title": "Nattens viktigste nyheter",
-   "domain": "abcnyheter.no",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.abcnyheter.no/nyheter/nattens-viktigste-nyheter/1712123"
-  },
-  {
-   "title": "\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026 | \u05e0\u05e4\u05d2\u05e2\u05d9 7 . 10 \u05d1\u05db\u05d9\u05db\u05e8 \u05d4\u05d7\u05d8\u05d5\u05e4\u05d9\u05dd : 3 \u05e9\u05e0\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9 \u05d4\u05d8\u05d1\u05d7 , \u05d9\u05e7\u05d9\u05e8\u05d9\u05e0\u05d5 \u05dc\u05d0 \u05d9\u05e6\u05d1\u05d9\u05e2\u05d5 \u05d4\u05d9\u05d5\u05dd , \u05ea\u05d6\u05db\u05e8\u05d5 \u05d0\u05d5\u05ea\u05dd \u05d1\u05e7\u05dc\u05e4\u05d9 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
-   "domain": "haaretz.co.il",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/000001a1-7b9f-d3e6-a9ff-7bffe87c0000"
-  },
-  {
-   "title": "Wird der Prozess um den Nord - Stream - Anschlag eingestellt ? ",
-   "domain": "wallstreet-online.de",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.wallstreet-online.de/nachricht/21585198-prozess-nord-stream-anschlag-eingestellt"
-  },
-  {
-   "title": "  This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
-   "domain": "jpost.com",
-   "seendate": "20261027T051500Z",
-   "url": "http://www.jpost.com/israel-election-2026/article-912988"
-  },
-  {
-   "title": "  This time I wont vote for Likud , PM Netanyahu cousin says , citing October 7",
-   "domain": "jpost.com",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.jpost.com/israel-election-2026/article-912988"
-  },
-  {
-   "title": "\u05e4\u05e8\u05e9\u05e0\u05d5\u05ea | \u05d2\u05dd \u05d0\u05dd \u05d9\u05e4\u05e1\u05d9\u05d3 , \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05e2\u05dc\u05d5\u05dc \u05dc\u05e1\u05db\u05dc \u05d0\u05ea \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05d4\u05e9\u05dc\u05d8\u05d5\u05df . \u05dc\u05d2\u05d5\u05e9 \u05d4\u05e9\u05d9\u05e0\u05d5\u05d9 \u05d0\u05e1\u05d5\u05e8 \u05dc\u05d4\u05ea\u05de\u05d4\u05de\u05d4 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
-   "domain": "haaretz.co.il",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.highlight/000001a1-792e-dfb9-a5a9-fb2f5bf80000"
-  },
-  {
-   "title": "La stagione teatrale di Cernusco . Tra impegno e temi di attualit\u00e0",
-   "domain": "ilgiorno.it",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.ilgiorno.it/cultura/la-stagione-teatrale-di-cernusco-498aa083"
-  },
-  {
-   "title": "\u062a\u062d\u0630\u064a\u0631 \u062f\u0648\u0644\u064a \u0645\u0646 \u0645\u062c\u0627\u0639\u0629 \u0648\u0634\u064a\u0643\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646 \u0645\u0639 \u062a\u0641\u0627\u0642\u0645 \u0623\u0632\u0645\u0629 \u0627\u0644\u063a\u0630\u0627\u0621",
-   "domain": "dostor.org",
-   "seendate": "20261027T051500Z",
-   "url": "https://www.dostor.org/5753697"
-  }
- ],
+ "famine_gdelt": {
+  "error": "URLError: <urlopen error timed out>",
+  "trace": ".14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error timed out>\n"
+ },
+ "conflict_gdelt": {
+  "error": "URLError: <urlopen error timed out>",
+  "trace": ".14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error timed out>\n"
+ },
  "doomsday_clock": {
   "seconds_to_midnight": 85,
   "checked_utc": "2026-10-29T09:18:55.400054+00:00",

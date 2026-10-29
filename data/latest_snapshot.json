@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-29T21:30:01.999021+00:00",
+ "collected_utc": "2026-10-29T22:45:01.455582+00:00",
  "earthquakes": [
+  {
+   "mag": 6.2,
+   "place": "43 km ESE of Port-Olry, Vanuatu",
+   "time": 1793310404786,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.7,
+   "place": "1 km SSE of Radwanice, Poland",
+   "time": 1793307615784,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu46",
+   "type": "earthquake"
+  },
   {
    "mag": 5,
    "place": "131 km NNW of Tual, Indonesia",
@@ -159,22 +175,6 @@
    "time": 1793229230764,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttv1",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "80 km SE of Bole, China",
-   "time": 1793227374821,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttuq",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.7,
-   "place": "271 km WSW of Tual, Indonesia",
-   "time": 1793225205820,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua",
    "type": "earthquake"
   }
  ],
@@ -431,209 +431,7 @@
   }
  ],
  "eonet": {
-  "open_total": 32,
-  "tracked": [
-   {
-    "title": "Wildfire South Tank Trail, Perry, Mississippi",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-28T18:02:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827"
-   },
-   {
-    "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-28T11:22:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829"
-   },
-   {
-    "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-28T11:21:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830"
-   },
-   {
-    "title": "Prescribed Fire Newman 3 Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-28T10:09:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25828"
-   },
-   {
-    "title": "Tropical Cyclone Arnab",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-28T06:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729"
-   },
-   {
-    "title": "Tropical Storm Olana",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-27T00:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730"
-   },
-   {
-    "title": "Wildfire Range  47B, Forrest, Mississippi",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-24T17:10:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769"
-   },
-   {
-    "title": "Super Typhoon In-fa",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-29T12:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
-   },
-   {
-    "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-22T21:45:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590"
-   },
-   {
-    "title": "Hurricane Vance",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-29T12:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
-   },
-   {
-    "title": "Prescribed Fire Frog Tank 2 Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-21T15:57:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25768"
-   },
-   {
-    "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-18T08:25:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455"
-   },
-   {
-    "title": "Wildfire Bras, Sanders, Montana",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-17T23:28:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25591"
-   },
-   {
-    "title": "Wildfire COOLEY, Mendocino, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T20:14:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450"
-   },
-   {
-    "title": "Wildfire NORTE, Orange, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T14:52:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25452"
-   },
-   {
-    "title": "Prescribed Fire Rx Polk 9275, Polk, Texas",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T08:31:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25454"
-   },
-   {
-    "title": "Wildfire HENDERSON, San Diego, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-15T17:11:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25451"
-   },
-   {
-    "title": "Super Typhoon Champi",
-    "categories": [
-     "Severe Storms"
-    ],
-    "date": "2026-10-25T18:00:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339"
-   },
-   {
-    "title": "Prescribed Fire Newman 2 Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-15T11:29:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25456"
-   },
-   {
-    "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-14T10:42:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310"
-   },
-   {
-    "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-13T10:24:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311"
-   },
-   {
-    "title": "Prescribed Fire SRF 2026 Rx Implementation, Humboldt, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-12T16:27:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25312"
-   },
-   {
-    "title": "Wildfire Buckhorn 2, Cassia, Idaho",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-10T14:58:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238"
-   },
-   {
-    "title": "Wildfire PK, Sheridan, Wyoming",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T19:26:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233"
-   },
-   {
-    "title": "Wildfire CYRUS, Kern, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T17:15:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232"
-   }
-  ]
+  "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
  },
  "nuclear_news": [
   {
@@ -649,12 +447,12 @@
    "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
@@ -706,11 +504,31 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Permit seeks higher antibiotic dosage for diseased Tasmania salmon",
+    "pubDate": "Thu, 29 Oct 2026 22:40:09 +0000"
+   },
+   {
+    "title": "Live: Appeal decision due shortly for triple murderer Erin Patterson",
+    "pubDate": "Thu, 29 Oct 2026 22:15:56 +0000"
+   },
+   {
+    "title": "Australia sitting on unused goldmine of old gigantic tyres",
+    "pubDate": "Thu, 29 Oct 2026 22:02:31 +0000"
+   },
+   {
+    "title": "For the fans who became heroes, Samoa vs Tonga is bigger than a grand final",
+    "pubDate": "Thu, 29 Oct 2026 21:33:00 +0000"
+   },
+   {
+    "title": "Last drinks called as council prepares to demolish town's only pub",
+    "pubDate": "Thu, 29 Oct 2026 21:31:33 +0000"
+   },
+   {
     "title": "Live: Federal government launches probe into future of Australia Post",
     "pubDate": "Thu, 29 Oct 2026 21:20:59 +0000"
    },
    {
-    "title": "Live: ASX set to rise despite tech stock sell-off overseas",
+    "title": "Live: ASX set to edge up despite $US500b Alphabet share slump overnight",
     "pubDate": "Thu, 29 Oct 2026 21:16:19 +0000"
    },
    {
@@ -724,26 +542,6 @@
    {
     "title": "Trump spruiks economy as farmer-funded ads attack cost-of-living record",
     "pubDate": "Thu, 29 Oct 2026 20:46:27 +0000"
-   },
-   {
-    "title": "Australia's Cape Town desperation evident on another pulsating Test day",
-    "pubDate": "Thu, 29 Oct 2026 20:39:18 +0000"
-   },
-   {
-    "title": "As farm fuel costs rise, clear solar might offer a solution",
-    "pubDate": "Thu, 29 Oct 2026 20:34:47 +0000"
-   },
-   {
-    "title": "UK police refer themselves to watchdog over Markle child abuse allegations letter",
-    "pubDate": "Thu, 29 Oct 2026 20:14:03 +0000"
-   },
-   {
-    "title": "Patrick Stewart, Star Trek and X-Men actor, dies at 86",
-    "pubDate": "Thu, 29 Oct 2026 20:12:28 +0000"
-   },
-   {
-    "title": "Mask ban, visa review measures proposed by antisemitism envoy",
-    "pubDate": "Thu, 29 Oct 2026 20:12:02 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -753,10 +551,6 @@
    },
    {
     "title": "BROOKS RD, BINNAWAY",
-    "category": "Advice"
-   },
-   {
-    "title": "BUNGARIE RD, TERIDGERIE",
     "category": "Advice"
    },
    {
@@ -796,10 +590,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "GOLDEN HWY, MERRIWA",
-    "category": "Not Applicable"
-   },
-   {
     "title": "HUME HWY, GUNNING",
     "category": "Not Applicable"
    },
@@ -825,6 +615,14 @@
    },
    {
     "title": "STAPLETONS RD, BOOMEY",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "Tingira Drive, Bawley Point",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "WARIALDA RD, COOLATAI",
     "category": "Not Applicable"
    }
   ],
@@ -910,58 +708,58 @@
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
    {
-    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
-    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
-   },
-   {
     "title": "World braces for horror \u2018chain reaction\u2019 - News.com.au",
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
    },
    {
-    "title": "Cyclone Vaianu: Qantas, Jetstar &amp; Virgin's Fiji flights cancelled - Karryon",
-    "pubDate": "Thu, 29 Oct 2026 15:05:15 GMT"
-   },
-   {
-    "title": "Travellers left stranded by Perth Airport\u2019s power outage - PerthNow",
-    "pubDate": "Thu, 29 Oct 2026 07:59:00 GMT"
+    "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
    },
    {
     "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
     "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
+   },
+   {
+    "title": "Aussies urged 'be prepared' and stockpile tinned food, bottled water as threats grow - Yahoo News Australia",
+    "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
+   },
+   {
+    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
+    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
    }
   ],
   "au_security_news": [
+   {
+    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
+    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
+   },
    {
     "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
     "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
-    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
-    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
+    "title": "Publication alert | The shifting Indo-Pacific energy landscape: Australia\u2019s role in building collective energy security - United States Studies Centre",
+    "pubDate": "Thu, 29 Oct 2026 21:49:59 GMT"
+   },
+   {
+    "title": "Australian Defence Force admits quarter of troops not medically fit for deployment - 7NEWS",
+    "pubDate": "Thu, 29 Oct 2026 20:31:00 GMT"
    },
    {
     "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do - The Strategist | ASPI's analysis and commentary site",
     "pubDate": "Thu, 29 Oct 2026 19:25:25 GMT"
    },
    {
-    "title": "WIDA 2026 - Winners and HOF recipient announced! - Australian Defence Magazine",
-    "pubDate": "Thu, 29 Oct 2026 20:01:57 GMT"
-   },
-   {
     "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
     "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
    },
    {
-    "title": "Why ASEAN won\u2019t buy Australian defence chief\u2019s claims on Chinese military - Global Times",
-    "pubDate": "Thu, 29 Oct 2026 14:16:00 GMT"
+    "title": "WIDA 2026 - Winners and HOF recipient announced! - Australian Defence Magazine",
+    "pubDate": "Thu, 29 Oct 2026 20:01:57 GMT"
    },
    {
-    "title": "Australian military report finds commanders knew weapons were planted on dead Afghans - Politico",
-    "pubDate": "Thu, 29 Oct 2026 10:52:00 GMT"
-   },
-   {
-    "title": "From overseas student to Air Force leader - Defence News",
-    "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
+    "title": "Bluebottle drones that never sleep level playing field in Pacific drug war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Thu, 29 Oct 2026 18:47:12 GMT"
    }
   ],
   "au_health_news": [

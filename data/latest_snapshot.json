@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T04:45:01.720440+00:00",
+ "collected_utc": "2026-10-29T05:30:01.090777+00:00",
  "earthquakes": [
+  {
+   "mag": 5.6,
+   "place": "South Sandwich Islands region",
+   "time": 1793250408297,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
+   "type": "earthquake"
+  },
   {
    "mag": 5.7,
    "place": "82 km NE of Kiunga, Papua New Guinea",
@@ -220,6 +228,11 @@
   "kp_max_24h": 2.33,
   "alerts_recent": [
    {
+    "id": "A20F",
+    "issued": "2026-10-01 14:28:54.257",
+    "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1128\r\nIssue Time: 2026 Oct 01 1428 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 02:  G1 (Minor)   Oct 03:  None (Below G1)   Oct 04:  G1 (Minor)   \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-exp"
+   },
+   {
     "id": "EF3A",
     "issued": "2026-09-30 10:04:50.050",
     "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3749\r\nIssue Time: 2026 Sep 30 1004 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 30 0945 UTC\nStation: GOES-19\nComment: Yesterday's max flux of 5,622 pfu at 29/1620 UTC.\n"
@@ -238,11 +251,6 @@
     "id": "A20F",
     "issued": "2026-09-29 13:01:59.807",
     "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1127\r\nIssue Time: 2026 Sep 29 1301 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 30:  None (Below G1)   Oct 01:  None (Below G1)   Oct 02:  G1 (Minor)   \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: 28 Sep CME inbound\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc."
-   },
-   {
-    "id": "EF3A",
-    "issued": "2026-09-29 05:02:02.247",
-    "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3748\r\nIssue Time: 2026 Sep 29 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3747\nBegin Time: 2026 Sep 26 1535 UTC\n\nYesterday Maximum 2MeV Flux: 4128 pfu\nMax time: 2026 Sep 28 1440 UTC"
    }
   ]
  },
@@ -681,8 +689,8 @@
    "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+   "title": "UN nuclear watchdog warns strikes near Iran plant risk \u2018major radiological accident\u2019 - Anadolu Ajans\u0131",
+   "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -699,6 +707,10 @@
    "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
   },
   {
+   "title": "Afghanistan faces record hunger levels amid rampant rights violations - UN News",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   },
@@ -707,20 +719,44 @@
    "pubDate": "Wed, 28 Oct 2026 02:36:47 GMT"
   },
   {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Wed, 28 Oct 2026 06:56:00 GMT"
-  },
-  {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
-  },
-  {
-   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
-   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Conflicting accounts emerge after Spanish train collision",
+    "pubDate": "Thu, 29 Oct 2026 05:25:06 +0000"
+   },
+   {
+    "title": "Delusions and possible psychosis explored in Haines accused's prison assessment",
+    "pubDate": "Thu, 29 Oct 2026 05:24:19 +0000"
+   },
+   {
+    "title": "Pair jailed for life over country club murder of beloved grandfather",
+    "pubDate": "Thu, 29 Oct 2026 05:15:32 +0000"
+   },
+   {
+    "title": "Adelaide parklands campaigner 'doxxed' as home address shared on social media",
+    "pubDate": "Thu, 29 Oct 2026 05:12:13 +0000"
+   },
+   {
+    "title": "Olympic equestrian says whipping ban stems from illegal video recording",
+    "pubDate": "Thu, 29 Oct 2026 05:07:22 +0000"
+   },
+   {
+    "title": "Brewers complete underdog story with maiden World Series title",
+    "pubDate": "Thu, 29 Oct 2026 05:00:29 +0000"
+   },
+   {
+    "title": "Creative project reimagines history from First Nations perspective",
+    "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000"
+   },
    {
     "title": "Highly invasive weed threatening native flora and fauna at Uluru",
     "pubDate": "Thu, 29 Oct 2026 04:41:21 +0000"
@@ -732,34 +768,6 @@
    {
     "title": "Rogue taxi drivers accused of exploiting passengers at Perth airport, casino",
     "pubDate": "Thu, 29 Oct 2026 04:27:17 +0000"
-   },
-   {
-    "title": "Breaking: Teen dies in hospital days after drive-by shooting south of Brisbane",
-    "pubDate": "Thu, 29 Oct 2026 04:09:11 +0000"
-   },
-   {
-    "title": "Frances Crawford's son tells jury he was 'scared for her safety'",
-    "pubDate": "Thu, 29 Oct 2026 03:47:30 +0000"
-   },
-   {
-    "title": "Less than a week from midterms, Trump is very, very unpopular in the US",
-    "pubDate": "Thu, 29 Oct 2026 03:43:48 +0000"
-   },
-   {
-    "title": "Police uncover usernames allegedly directing Melbourne arson attacks",
-    "pubDate": "Thu, 29 Oct 2026 03:10:25 +0000"
-   },
-   {
-    "title": "Club's social media post 'deeply troubling' after coach charged with rape",
-    "pubDate": "Thu, 29 Oct 2026 03:03:44 +0000"
-   },
-   {
-    "title": "Aussie captain most expensive player at WPL auction",
-    "pubDate": "Thu, 29 Oct 2026 02:52:58 +0000"
-   },
-   {
-    "title": "Gold Coast Suns AFLW finals feat faces home-ground headache",
-    "pubDate": "Thu, 29 Oct 2026 02:38:30 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -784,7 +792,7 @@
     "category": "Advice"
    },
    {
-    "title": "SANCTUARY RD, PAXTON",
+    "title": "Pittwater Rd, Dee Why",
     "category": "Advice"
    },
    {
@@ -808,15 +816,15 @@
     "category": "Not Applicable"
    },
    {
+    "title": "BUNGARIE RD, TERIDGERIE",
+    "category": "Not Applicable"
+   },
+   {
     "title": "CARISBROOK CT, TABLE TOP",
     "category": "Not Applicable"
    },
    {
-    "title": "CLARENCE TOWN RD, BROOKFIELD",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "DUNS CREEK RD, DUNS CREEK",
+    "title": "COBB HWY, DENILIQUIN",
     "category": "Not Applicable"
    },
    {
@@ -976,8 +984,8 @@
     "pubDate": "Thu, 29 Oct 2026 02:51:00 GMT"
    },
    {
-    "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
-    "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
+    "title": "Military top brass to be spared from further Afghanistan war crimes action - SMH.com.au",
+    "pubDate": "Thu, 29 Oct 2026 03:03:03 GMT"
    }
   ],
   "au_health_news": [

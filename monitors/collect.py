@@ -8,6 +8,8 @@ import json
 import sys
 import time
 import traceback
+import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -415,13 +417,28 @@ def collect_iaea():
 
 def collect_gdelt(query, timespan="3d", maxrecords=8):
     """GDELT DOC 2.0 API - global news article search, no key required.
-    Rate limit: 1 request / 5s. Caller must sleep between queries."""
-    d = fetch(
-        "https://api.gdeltproject.org/api/v2/doc/doc?query="
-        + urllib.parse.quote(query)
-        + "&mode=artlist&maxrecords=" + str(maxrecords)
-        + "&format=json&timespan=" + timespan
-    )
+    Rate-limited: retries with backoff on 429/non-JSON responses."""
+    url = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
+           + urllib.parse.quote(query)
+           + "&mode=artlist&maxrecords=" + str(maxrecords)
+           + "&format=json&timespan=" + timespan)
+    d = None
+    for attempt in range(4):
+        if attempt:
+            time.sleep(20 * attempt)  # 20s, 40s, 60s backoff
+        try:
+            d = fetch(url)
+        except urllib.error.HTTPError as exc:
+            if exc.code == 429:
+                continue
+            raise
+        except json.JSONDecodeError:
+            d = None  # non-JSON body (rate-limit page) -> retry
+        if isinstance(d, dict) and "articles" in d:
+            break
+        d = None  # non-JSON (rate-limit text page) -> retry
+    if d is None:
+        return {"error": "GDELT rate-limited or non-JSON after retries"}
     arts = d.get("articles") or []
     return [
         {

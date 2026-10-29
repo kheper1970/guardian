@@ -1,6 +1,30 @@
 {
- "collected_utc": "2026-10-29T02:45:02.048948+00:00",
+ "collected_utc": "2026-10-29T03:45:01.667596+00:00",
  "earthquakes": [
+  {
+   "mag": 5.7,
+   "place": "82 km NE of Kiunga, Papua New Guinea",
+   "time": 1793244402275,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.7,
+   "place": "121 km ENE of Barcelona, Philippines",
+   "time": 1793243945429,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.4,
+   "place": "113 km ENE of Barcelona, Philippines",
+   "time": 1793243874507,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
+   "type": "earthquake"
+  },
   {
    "mag": 4.8,
    "place": "36 km SSW of Merizo Village, Guam",
@@ -192,21 +216,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.6,
-   "place": "174 km NW of Port-Olry, Vanuatu",
-   "time": 1793156388387,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-28T21:00:00",
-   "Kp": 2.33,
-   "a_running": 9,
+   "time_tag": "2026-10-29T00:00:00",
+   "Kp": 1.67,
+   "a_running": 6,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -448,8 +464,8 @@
     },
     {
      "title": "Tropical Depression Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/023742.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 02:37:42 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/032246.shtml?cone",
+     "pubDate": "Thu, 29 Oct 2026 03:22:46 GMT"
     }
    ]
   }
@@ -714,6 +730,18 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Police uncover usernames allegedly directing Melbourne arson attacks",
+    "pubDate": "Thu, 29 Oct 2026 03:10:25 +0000"
+   },
+   {
+    "title": "Football club posts 'people are more than headlines' after coach charged with rape",
+    "pubDate": "Thu, 29 Oct 2026 03:03:44 +0000"
+   },
+   {
+    "title": "Aussie captain most expensive player at WPL auction",
+    "pubDate": "Thu, 29 Oct 2026 02:52:58 +0000"
+   },
+   {
     "title": "Gold Coast Suns AFLW finals feat faces home-ground headache",
     "pubDate": "Thu, 29 Oct 2026 02:38:30 +0000"
    },
@@ -740,31 +768,23 @@
    {
     "title": "Website reporting on crime in Victoria staffed by Philippines workers",
     "pubDate": "Thu, 29 Oct 2026 01:16:44 +0000"
-   },
-   {
-    "title": "Australia records highest rates of anorexia and bulimia globally",
-    "pubDate": "Thu, 29 Oct 2026 01:00:22 +0000"
-   },
-   {
-    "title": "Arrows, paint and iron bars used to damage businesses in NT town",
-    "pubDate": "Thu, 29 Oct 2026 00:55:28 +0000"
-   },
-   {
-    "title": "WBBL winning duo on eve of big life changes",
-    "pubDate": "Thu, 29 Oct 2026 00:51:57 +0000"
    }
   ],
   "nsw_rfs_incidents": [
-   {
-    "title": "AVOCA RENSHAW MCGIRR WAY, BALDRY",
-    "category": "Advice"
-   },
    {
     "title": "BIG BLACK JACK MOUNTAIN FIRE, MIRANNIE",
     "category": "Advice"
    },
    {
     "title": "BLAIRMORE LANE, ABERDEEN",
+    "category": "Advice"
+   },
+   {
+    "title": "BROOKS RD, BINNAWAY",
+    "category": "Advice"
+   },
+   {
+    "title": "KIDMAN WAY, HILLSTON",
     "category": "Advice"
    },
    {
@@ -796,15 +816,7 @@
     "category": "Planned Burn"
    },
    {
-    "title": "AUBURN-MOMALONG RD, SAVERNAKE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "BROOKS RD, BINNAWAY",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "BROOKS RD, BINNAWAY",
+    "title": "BUNDELLA RD, QUIRINDI",
     "category": "Not Applicable"
    },
    {
@@ -820,19 +832,23 @@
     "category": "Not Applicable"
    },
    {
+    "title": "GOLDEN HWY, MERRIWA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HAMILTON GATE RD, WANAARING",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HUME HWY, MITTAGONG",
+    "category": "Not Applicable"
+   },
+   {
     "title": "IRRIGATION WAY, MURRAMI",
     "category": "Not Applicable"
    },
    {
     "title": "KENTUCKY LANE, NARRABRI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MALONEYS RD, LUE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MANILLA RD, ATTUNGA",
     "category": "Not Applicable"
    }
   ],
@@ -910,16 +926,16 @@
     "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
    },
    {
+    "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
+    "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
+   },
+   {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
     "pubDate": "Wed, 28 Oct 2026 16:50:30 GMT"
    },
    {
     "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready - WIRED",
     "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
-   },
-   {
-    "title": "\u2018Hold onto your hat\u2019: Gusty winds in Western Australia as Queensland hit with more storms - News24",
-    "pubDate": "Tue, 27 Oct 2026 18:01:37 GMT"
    },
    {
     "title": "Map Shows Nations Urging People to Stockpile Food as France Issues Warning - Newsweek",
@@ -956,23 +972,26 @@
     "pubDate": "Wed, 28 Oct 2026 15:53:05 GMT"
    },
    {
+    "title": "Lendlease opens doors to defence and construction careers for WA students - Lendlease",
+    "pubDate": "Thu, 29 Oct 2026 03:01:03 GMT"
+   },
+   {
+    "title": "China\u2019s military creating \u2018pressure\u2019 in region, Australian defense chief says - The Japan Times",
+    "pubDate": "Thu, 29 Oct 2026 02:51:00 GMT"
+   },
+   {
     "title": "Research security policies could affect Australia\u2019s advanced manufacturing capabilities, report says - Australian Manufacturing",
     "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
    },
    {
-    "title": "Australia\u2019s $30 billion base boom needs scrutiny too - Lowy Institute",
-    "pubDate": "Wed, 28 Oct 2026 16:00:00 GMT"
-   },
-   {
-    "title": "SOCI in space: what the Tranche 2 reforms mean for Australia's space operators - Corrs Chambers Westgarth",
-    "pubDate": "Thu, 29 Oct 2026 01:04:50 GMT"
-   },
-   {
-    "title": "Federal government open to recruiting Pacific Islanders into Australian Defence Force - National Indigenous Times",
-    "pubDate": "Wed, 28 Oct 2026 20:30:00 GMT"
+    "title": "Military top brass to be spared from further Afghanistan war crimes action - SMH.com.au",
+    "pubDate": "Thu, 29 Oct 2026 03:03:03 GMT"
    }
   ],
   "au_health_news": [
+   {
+    "title": "Hearing Services Program provider notice 2026-12 \u2013 Provider Webinar Link"
+   },
    {
     "title": "Seeking people with an interest in research and a passion for improving health outcomes"
    },
@@ -999,9 +1018,6 @@
    },
    {
     "title": "Australian Community Pharmacy Authority (ACPA) meeting dates for 2027"
-   },
-   {
-    "title": "We\u2019re raising awareness about perimenopause and menopause this World Menopause Day (18 October)"
    }
   ]
  }

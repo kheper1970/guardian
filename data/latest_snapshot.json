@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T06:45:01.334941+00:00",
+ "collected_utc": "2026-10-29T07:30:01.627882+00:00",
  "earthquakes": [
   {
    "mag": 5.1,
@@ -208,14 +208,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "39 km SSW of Serrezuela, Argentina",
-   "time": 1793170932084,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -255,57 +247,8 @@
   ]
  },
  "neo": {
-  "count": 6,
-  "events": [
-   {
-    "name": "(2016 XB2)",
-    "diameter_min_m": 131,
-    "diameter_max_m": 292,
-    "hazardous": false,
-    "miss_km": 26226891.56008269,
-    "velocity_kph": 47311.2333392087
-   },
-   {
-    "name": "(2017 UL44)",
-    "diameter_min_m": 46,
-    "diameter_max_m": 103,
-    "hazardous": false,
-    "miss_km": 34840714.489961974,
-    "velocity_kph": 50905.7051138129
-   },
-   {
-    "name": "(2020 CB)",
-    "diameter_min_m": 8,
-    "diameter_max_m": 17,
-    "hazardous": false,
-    "miss_km": 42675136.03269121,
-    "velocity_kph": 35759.3677165313
-   },
-   {
-    "name": "(2017 SF14)",
-    "diameter_min_m": 34,
-    "diameter_max_m": 76,
-    "hazardous": false,
-    "miss_km": 63615115.807766035,
-    "velocity_kph": 57866.0252213704
-   },
-   {
-    "name": "(2015 HO116)",
-    "diameter_min_m": 21,
-    "diameter_max_m": 47,
-    "hazardous": false,
-    "miss_km": 66871176.36918016,
-    "velocity_kph": 60684.8156831232
-   },
-   {
-    "name": "(2019 ER2)",
-    "diameter_min_m": 18,
-    "diameter_max_m": 39,
-    "hazardous": false,
-    "miss_km": 72210296.58411549,
-    "velocity_kph": 29129.6868767648
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -714,32 +657,32 @@
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
-  },
-  {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "Update 349 \u2013 IAEA Director General Statement on Situation in Ukraine - International Atomic Energy Agency",
-   "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
+   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -779,11 +722,23 @@
  "australia": {
   "abc_news": [
    {
+    "title": "CEO of one of Australia's top cultural events becomes French knight",
+    "pubDate": "Thu, 29 Oct 2026 07:00:00 +0000"
+   },
+   {
+    "title": "Driver jailed over high-speed crash that killed teenager",
+    "pubDate": "Thu, 29 Oct 2026 06:49:59 +0000"
+   },
+   {
+    "title": "North Korean workers sold into Russia then stripped of wages, report finds",
+    "pubDate": "Thu, 29 Oct 2026 06:43:55 +0000"
+   },
+   {
     "title": "WA man jailed for raping six-year-old niece",
     "pubDate": "Thu, 29 Oct 2026 06:27:40 +0000"
    },
    {
-    "title": "Albanese has a sewerage problem and the Coalition loves the stench",
+    "title": "Albanese is bogged down in grant problem of his own making",
     "pubDate": "Thu, 29 Oct 2026 06:06:04 +0000"
    },
    {
@@ -805,18 +760,6 @@
    {
     "title": "Conflicting accounts emerge after Spanish train collision",
     "pubDate": "Thu, 29 Oct 2026 05:25:06 +0000"
-   },
-   {
-    "title": "Delusions and possible psychosis explored in Haines accused's prison assessment",
-    "pubDate": "Thu, 29 Oct 2026 05:24:19 +0000"
-   },
-   {
-    "title": "Pair jailed for life over country club murder of beloved grandfather",
-    "pubDate": "Thu, 29 Oct 2026 05:15:32 +0000"
-   },
-   {
-    "title": "Adelaide parklands campaigner 'doxxed' as home address shared on social media",
-    "pubDate": "Thu, 29 Oct 2026 05:12:13 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -842,6 +785,10 @@
    },
    {
     "title": "OBLEY RD, DUBBO",
+    "category": "Advice"
+   },
+   {
+    "title": "Ocean Park Rd, Belmont South",
     "category": "Advice"
    },
    {
@@ -873,18 +820,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "GOOLMA RD, GULGONG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "HAMILTON GATE RD, WANAARING",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "HUME HWY, GUNDAGAI",
-    "category": "Not Applicable"
-   },
-   {
     "title": "IRRIGATION WAY, MURRAMI",
     "category": "Not Applicable"
    },
@@ -898,6 +833,14 @@
    },
    {
     "title": "MANILLA RD, ATTUNGA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MIRRABOOKA RD, LITTLE BILLABONG",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
     "category": "Not Applicable"
    }
   ],
@@ -979,6 +922,10 @@
     "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
    },
    {
+    "title": "Bushfire smoke chokes output from solar farms, even more than 100 km away, researchers find - Renew Economy",
+    "pubDate": "Wed, 28 Oct 2026 22:09:22 GMT"
+   },
+   {
     "title": "One attack every six minutes prompts new cybersecurity alert - The Nightly",
     "pubDate": "Wed, 28 Oct 2026 16:50:30 GMT"
    },
@@ -987,20 +934,16 @@
     "pubDate": "Wed, 28 Oct 2026 08:30:00 GMT"
    },
    {
-    "title": "Map Shows Nations Urging People to Stockpile Food as France Issues Warning - Newsweek",
-    "pubDate": "Wed, 28 Oct 2026 15:39:00 GMT"
+    "title": "Wide Bay local news briefing: Wednesday, October 28, 2026 - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Tue, 27 Oct 2026 21:35:55 GMT"
    },
    {
-    "title": "Flood of Chinese EVs batters Aus car industry - Kidspot",
-    "pubDate": "Wed, 28 Oct 2026 01:53:46 GMT"
+    "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage - pv magazine Global",
+    "pubDate": "Wed, 28 Oct 2026 08:19:53 GMT"
    },
    {
-    "title": "Australian Parliament Pays Tribute to Injured MP Helen Haines, Calls for Respectful Public Debate - kendranewsaustralia.com.au",
-    "pubDate": "Wed, 28 Oct 2026 11:14:36 GMT"
-   },
-   {
-    "title": "Flash floods swamp southeast Australia as record October rainfall forces school closures - Yahoo News Canada",
-    "pubDate": "Wed, 28 Oct 2026 13:43:19 GMT"
+    "title": "Royal Hobart nurses stop work over cuts to the emergency medical unit - Pulse Tasmania",
+    "pubDate": "Thu, 29 Oct 2026 06:29:02 GMT"
    }
   ],
   "au_security_news": [
@@ -1037,9 +980,38 @@
     "pubDate": "Wed, 28 Oct 2026 21:30:22 GMT"
    }
   ],
-  "au_health_news": {
-   "error": "The read operation timed out"
-  }
+  "au_health_news": [
+   {
+    "title": "Hearing Services Program provider notice 2026-12 \u2013 Provider Webinar Link"
+   },
+   {
+    "title": "Seeking people with an interest in research and a passion for improving health outcomes"
+   },
+   {
+    "title": "New IDPwD Yarning Guide"
+   },
+   {
+    "title": "2025 Residents\u2019 Experience Survey results are in"
+   },
+   {
+    "title": "Survey: In-home aged care service list review"
+   },
+   {
+    "title": "Hearing Services Program provider notice 2026-11 \u2013 Provider webinar"
+   },
+   {
+    "title": "Australian medtech company receives prestigious award nomination"
+   },
+   {
+    "title": "Annual Report \u2013 Office of the National Rural Health Commissioner 2025-26"
+   },
+   {
+    "title": "PBS Approved Suppliers \u2013 End of year closure period 2026"
+   },
+   {
+    "title": "Australian Community Pharmacy Authority (ACPA) meeting dates for 2027"
+   }
+  ]
  },
  "iaea": [
   {
@@ -1103,12 +1075,74 @@
    "pubDate": "Tue, 20 Oct 26 13:00:00 +0200"
   }
  ],
- "famine_gdelt": {
-  "error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>",
-  "trace": "_call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>\n"
- },
- "conflict_gdelt": {
-  "error": "URLError: <urlopen error timed out>",
-  "trace": ".14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error timed out>\n"
- }
+ "famine_gdelt": [
+  {
+   "title": "\u062a\u062d\u0630\u064a\u0631 \u062f\u0648\u0644\u064a \u0645\u0646 \u0645\u062c\u0627\u0639\u0629 \u0648\u0634\u064a\u0643\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646 \u0645\u0639 \u062a\u0641\u0627\u0642\u0645 \u0623\u0632\u0645\u0629 \u0627\u0644\u063a\u0630\u0627\u0621",
+   "domain": "dostor.org",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.dostor.org/5753697"
+  },
+  {
+   "title": "Mzbel Shares Childhood Assault Experience , Highlights Why Survivors Remain Silent \u2013 Ghanamma . com",
+   "domain": "ghanamma.com",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.ghanamma.com/2026/10/27/mzbel-shares-childhood-assault-experience-highlights-why-survivors-remain-silent/"
+  },
+  {
+   "title": "T\u00e4m on helpoin tapa s\u00e4il ruokaa ilman pakastinta , kertoo selviytymiskouluttaja",
+   "domain": "maaseuduntulevaisuus.fi",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.maaseuduntulevaisuus.fi/koti/4885e1c1-919c-4b53-9e57-1aeaae542e7d"
+  }
+ ],
+ "conflict_gdelt": [
+  {
+   "title": "Nattens viktigste nyheter",
+   "domain": "abcnyheter.no",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.abcnyheter.no/nyheter/nattens-viktigste-nyheter/1712123"
+  },
+  {
+   "title": "\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026 | \u05e0\u05e4\u05d2\u05e2\u05d9 7 . 10 \u05d1\u05db\u05d9\u05db\u05e8 \u05d4\u05d7\u05d8\u05d5\u05e4\u05d9\u05dd : 3 \u05e9\u05e0\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9 \u05d4\u05d8\u05d1\u05d7 , \u05d9\u05e7\u05d9\u05e8\u05d9\u05e0\u05d5 \u05dc\u05d0 \u05d9\u05e6\u05d1\u05d9\u05e2\u05d5 \u05d4\u05d9\u05d5\u05dd , \u05ea\u05d6\u05db\u05e8\u05d5 \u05d0\u05d5\u05ea\u05dd \u05d1\u05e7\u05dc\u05e4\u05d9 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
+   "domain": "haaretz.co.il",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/000001a1-7b9f-d3e6-a9ff-7bffe87c0000"
+  },
+  {
+   "title": "Wird der Prozess um den Nord - Stream - Anschlag eingestellt ? ",
+   "domain": "wallstreet-online.de",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.wallstreet-online.de/nachricht/21585198-prozess-nord-stream-anschlag-eingestellt"
+  },
+  {
+   "title": "  This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
+   "domain": "jpost.com",
+   "seendate": "20261027T051500Z",
+   "url": "http://www.jpost.com/israel-election-2026/article-912988"
+  },
+  {
+   "title": "  This time I wont vote for Likud , PM Netanyahu cousin says , citing October 7",
+   "domain": "jpost.com",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.jpost.com/israel-election-2026/article-912988"
+  },
+  {
+   "title": "\u05e4\u05e8\u05e9\u05e0\u05d5\u05ea | \u05d2\u05dd \u05d0\u05dd \u05d9\u05e4\u05e1\u05d9\u05d3 , \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05e2\u05dc\u05d5\u05dc \u05dc\u05e1\u05db\u05dc \u05d0\u05ea \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05d4\u05e9\u05dc\u05d8\u05d5\u05df . \u05dc\u05d2\u05d5\u05e9 \u05d4\u05e9\u05d9\u05e0\u05d5\u05d9 \u05d0\u05e1\u05d5\u05e8 \u05dc\u05d4\u05ea\u05de\u05d4\u05de\u05d4 - \u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2026",
+   "domain": "haaretz.co.il",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.highlight/000001a1-792e-dfb9-a5a9-fb2f5bf80000"
+  },
+  {
+   "title": "La stagione teatrale di Cernusco . Tra impegno e temi di attualit\u00e0",
+   "domain": "ilgiorno.it",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.ilgiorno.it/cultura/la-stagione-teatrale-di-cernusco-498aa083"
+  },
+  {
+   "title": "\u062a\u062d\u0630\u064a\u0631 \u062f\u0648\u0644\u064a \u0645\u0646 \u0645\u062c\u0627\u0639\u0629 \u0648\u0634\u064a\u0643\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646 \u0645\u0639 \u062a\u0641\u0627\u0642\u0645 \u0623\u0632\u0645\u0629 \u0627\u0644\u063a\u0630\u0627\u0621",
+   "domain": "dostor.org",
+   "seendate": "20261027T051500Z",
+   "url": "https://www.dostor.org/5753697"
+  }
+ ]
 }

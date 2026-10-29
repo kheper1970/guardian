@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-29T16:45:01.152103+00:00",
+ "collected_utc": "2026-10-29T17:45:01.853670+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -406,36 +406,12 @@
  },
  "nhc_storms": [
   {
-   "storm": "Vance",
-   "type": "Tropical Storm",
+   "basin": "atlantic",
+   "error": "<urlopen error [Errno 101] Network is unreachable>"
+  },
+  {
    "basin": "east_pacific",
-   "advisories": [
-    {
-     "title": "Tropical Storm Vance Public Advisory Number 33",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/291431.shtml",
-     "pubDate": "Thu, 29 Oct 2026 14:31:22 GMT"
-    },
-    {
-     "title": "Tropical Storm Vance Forecast Advisory Number 33",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/291431.shtml",
-     "pubDate": "Thu, 29 Oct 2026 14:31:22 GMT"
-    },
-    {
-     "title": "Tropical Storm Vance Forecast Discussion Number 33",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/291432.shtml",
-     "pubDate": "Thu, 29 Oct 2026 14:32:21 GMT"
-    },
-    {
-     "title": "Tropical Storm Vance Wind Speed Probabilities Number 33",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/291431.shtml",
-     "pubDate": "Thu, 29 Oct 2026 14:31:53 GMT"
-    },
-    {
-     "title": "Tropical Storm Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/152325.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 15:23:25 GMT"
-    }
-   ]
+   "error": "<urlopen error [Errno 101] Network is unreachable>"
   }
  ],
  "eonet": {
@@ -699,10 +675,6 @@
    "pubDate": "Thu, 29 Oct 2026 11:56:00 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
@@ -715,14 +687,18 @@
    "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   },
   {
-   "title": "Honolulu charter amendment would create O\u02bbahu food security fund - Hawaii Public Radio",
-   "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+   "title": "Food insecurity hits Uganda as government, UN appeal for urgent action - Daily Monitor",
+   "pubDate": "Mon, 26 Oct 2026 13:41:46 GMT"
+  },
+  {
+   "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
+   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Spain begins three days of mourning as train crash death toll reaches 69",
+    "title": "Spain begins three days of mourning as train crash death toll reaches 74",
     "pubDate": "Thu, 29 Oct 2026 15:53:53 +0000"
    },
    {
@@ -919,7 +895,7 @@
    },
    {
     "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
-    "pubDate": "Thu, 29 Oct 2026 14:49:27 GMT"
+    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
    },
    {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
@@ -964,12 +940,12 @@
     "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
-    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
-   },
-   {
     "title": "From overseas student to Air Force leader - Defence News",
     "pubDate": "Thu, 29 Oct 2026 01:19:35 GMT"
+   },
+   {
+    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Wed, 28 Oct 2026 20:53:39 GMT"
    },
    {
     "title": "Australian Defence Force admits quarter of troops not medically fit for deployment - 7NEWS",

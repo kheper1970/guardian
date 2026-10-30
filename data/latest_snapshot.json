@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-30T04:45:01.129422+00:00",
+ "collected_utc": "2026-10-30T05:30:02.037414+00:00",
  "earthquakes": [
+  {
+   "mag": 4.8,
+   "place": "Fiji region",
+   "time": 1793337019806,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "51 km ENE of Noda, Japan",
+   "time": 1793336311595,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
+   "type": "earthquake"
+  },
   {
    "mag": 5.1,
    "place": "97 km NNE of Finschhafen, Papua New Guinea",
@@ -127,14 +143,6 @@
    "time": 1793252016298,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx8",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.4,
-   "place": "South Sandwich Islands region",
-   "time": 1793250408289,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
    "type": "earthquake"
   }
  ],
@@ -415,7 +423,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-29T18:00:00Z",
+    "date": "2026-10-30T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -431,7 +439,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-29T18:00:00Z",
+    "date": "2026-10-30T00:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
    },
    {
@@ -542,36 +550,36 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Wed, 28 Oct 2026 13:55:39 GMT"
-  },
-  {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
-   "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
   },
   {
-   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
-   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+  },
+  {
+   "title": "IAEA Conference on Nuclear and Radiological Emergencies Opens in Riyadh - International Atomic Energy Agency",
+   "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -611,6 +619,22 @@
  "australia": {
   "abc_news": [
    {
+    "title": "City's lord mayor-elect explains 'Hobart for Hobartians' slogan",
+    "pubDate": "Fri, 30 Oct 2026 05:05:52 +0000"
+   },
+   {
+    "title": "How to prepare your garden for the heat this summer",
+    "pubDate": "Fri, 30 Oct 2026 05:00:29 +0000"
+   },
+   {
+    "title": "Brumby advocate loses bid to stop aerial culling in NSW national park",
+    "pubDate": "Fri, 30 Oct 2026 04:47:45 +0000"
+   },
+   {
+    "title": "Jail term for speedway driver after grooming and raping teenager",
+    "pubDate": "Fri, 30 Oct 2026 04:40:59 +0000"
+   },
+   {
     "title": "Mother will 'never forgive' her toddler's killer, court hears",
     "pubDate": "Fri, 30 Oct 2026 04:37:14 +0000"
    },
@@ -633,22 +657,6 @@
    {
     "title": "Boater rescues tired wallaby swimming out to sea more than 100m offshore",
     "pubDate": "Fri, 30 Oct 2026 03:30:56 +0000"
-   },
-   {
-    "title": "Hefty legal bill predicted in civil claim against ex-NRL star Jarryd Hayne",
-    "pubDate": "Fri, 30 Oct 2026 03:24:45 +0000"
-   },
-   {
-    "title": "Former Bachelor Sam Wood applies for bail on strangulation charges",
-    "pubDate": "Fri, 30 Oct 2026 03:18:26 +0000"
-   },
-   {
-    "title": "'Unqualified' assistance animals causing distress, handlers say",
-    "pubDate": "Fri, 30 Oct 2026 02:59:25 +0000"
-   },
-   {
-    "title": "Schoolies-goers will pay to party on the beach for the first time",
-    "pubDate": "Fri, 30 Oct 2026 02:54:08 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -665,6 +673,10 @@
     "category": "Advice"
    },
    {
+    "title": "NORTH ARM RD, MURWILLUMBAH",
+    "category": "Advice"
+   },
+   {
     "title": "OCEAN PARK RD, BELMONT SOUTH NSW",
     "category": "Advice"
    },
@@ -678,6 +690,14 @@
    },
    {
     "title": "THE WOOL RD, VINCENTIA",
+    "category": "Advice"
+   },
+   {
+    "title": "Tuggerawong Rd, Wyongah",
+    "category": "Advice"
+   },
+   {
+    "title": "TUGGERAWONG RD, WYONGAH",
     "category": "Advice"
    },
    {
@@ -709,10 +729,6 @@
     "category": "Planned Burn"
    },
    {
-    "title": "ALPINE RD, ALPINE",
-    "category": "Not Applicable"
-   },
-   {
     "title": "BOONA RD, CONDOBOLIN",
     "category": "Not Applicable"
    },
@@ -722,14 +738,6 @@
    },
    {
     "title": "HEZ DR, PELAW MAIN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "HOCKEY RD, TULLAMORE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "KENTUCKY LANE, NARRABRI",
     "category": "Not Applicable"
    }
   ],
@@ -819,8 +827,12 @@
     "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
    },
    {
-    "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
+    "title": "Out-of-control Perth bushfire sparks airport chaos with mass power outage - Nine.com.au",
+    "pubDate": "Thu, 29 Oct 2026 11:48:52 GMT"
+   },
+   {
+    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
+    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
    },
    {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
@@ -829,10 +841,6 @@
    {
     "title": "World braces for horror \u2018chain reaction\u2019 - News.com.au",
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
-   },
-   {
-    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
-    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
    }
   ],
   "au_security_news": [
@@ -841,16 +849,16 @@
     "pubDate": "Fri, 30 Oct 2026 01:24:00 GMT"
    },
    {
+    "title": "Fiji gifted Bluebottle USVs - Australian Defence Magazine",
+    "pubDate": "Fri, 30 Oct 2026 05:14:40 GMT"
+   },
+   {
     "title": "Your Defence connection may be closer than you think - www.defenceconnect.com.au",
     "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
    },
    {
     "title": "Australia won\u2019t follow US, other nations in banning Chinese cars from military sites - CarExpert",
     "pubDate": "Fri, 30 Oct 2026 02:57:00 GMT"
-   },
-   {
-    "title": "Lockheed Martin partners on hypersonic launch capability - Australian Defence Magazine",
-    "pubDate": "Fri, 30 Oct 2026 00:33:38 GMT"
    },
    {
     "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
@@ -965,12 +973,10 @@
   }
  ],
  "famine_gdelt": {
-  "error": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
-  "trace": "call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>\n"
+  "error": "GDELT rate-limited or non-JSON after retries"
  },
  "conflict_gdelt": {
-  "error": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
-  "trace": "call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>\n"
+  "error": "GDELT rate-limited or non-JSON after retries"
  },
  "doomsday_clock": {
   "seconds_to_midnight": 85,

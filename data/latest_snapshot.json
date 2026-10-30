@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-30T08:30:01.562115+00:00",
+ "collected_utc": "2026-10-30T09:30:01.544314+00:00",
  "earthquakes": [
+  {
+   "mag": 4.6,
+   "place": "64 km SSW of Shikotan, Russia",
+   "time": 1793349949982,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7b",
+   "type": "earthquake"
+  },
   {
    "mag": 4.8,
    "place": "Fiji region",
@@ -104,24 +112,16 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyd",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.1,
-   "place": "218 km NNW of Bamboo Flat, India",
-   "time": 1793263782448,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-30T03:00:00",
-   "Kp": 1.67,
-   "a_running": 6,
+   "time_tag": "2026-10-30T06:00:00",
+   "Kp": 2.33,
+   "a_running": 9,
    "station_count": 8
   },
-  "kp_max_24h": 1.67,
+  "kp_max_24h": 2.33,
   "alerts_recent": [
    {
     "id": "K04A",
@@ -661,36 +661,36 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Wed, 28 Oct 2026 13:55:39 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
+   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
    "title": "FANR hosts nuclear emergency school - Utilities Middle East",
    "pubDate": "Fri, 30 Oct 2026 06:27:39 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -715,26 +715,38 @@
    "pubDate": "Fri, 30 Oct 2026 07:13:00 GMT"
   },
   {
-   "title": "Flooding and Food Security: The Urgent Need for Research - Inter Press Service",
-   "pubDate": "Wed, 28 Oct 2026 14:35:39 GMT"
-  },
-  {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
    "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
+  },
+  {
+   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
+   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
+  },
+  {
+   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
+   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "War of words erupts over Christian group's omission from NT Christmas pageant",
+    "pubDate": "Fri, 30 Oct 2026 09:16:51 +0000"
+   },
+   {
+    "title": "Queensland Land Court approves proposed $1b coal mine",
+    "pubDate": "Fri, 30 Oct 2026 09:05:35 +0000"
+   },
+   {
+    "title": "Joint's promising run in Japan ends with QF exit",
+    "pubDate": "Fri, 30 Oct 2026 08:36:40 +0000"
+   },
+   {
     "title": "Christmas remained key part of school event, premier told by department",
     "pubDate": "Fri, 30 Oct 2026 08:22:12 +0000"
    },
    {
-    "title": "Breaking: Australians potentially impacted by Spain rail disaster, DFAT says",
+    "title": "Two Australians unaccounted-for after Spain rail disaster",
     "pubDate": "Fri, 30 Oct 2026 08:04:50 +0000"
    },
    {
@@ -742,7 +754,7 @@
     "pubDate": "Fri, 30 Oct 2026 07:47:26 +0000"
    },
    {
-    "title": "Live: Australia looking to push home advantage in Cape Town Test",
+    "title": "Live: Tensions rising as Australia looks to push home advantage in Cape Town Test",
     "pubDate": "Fri, 30 Oct 2026 07:45:49 +0000"
    },
    {
@@ -756,18 +768,6 @@
    {
     "title": "Adelaide Crows star avoids jail for running red light and hitting pedestrian",
     "pubDate": "Fri, 30 Oct 2026 06:32:25 +0000"
-   },
-   {
-    "title": "Anger after Google cuts 500 hectares of trees for data centres in Finland",
-    "pubDate": "Fri, 30 Oct 2026 06:31:33 +0000"
-   },
-   {
-    "title": "Minister concedes Alice Springs school upgrade funding inadequate",
-    "pubDate": "Fri, 30 Oct 2026 06:04:30 +0000"
-   },
-   {
-    "title": "Hospital helicopter landings cause safety issue as woman nearly hit by sign",
-    "pubDate": "Fri, 30 Oct 2026 05:57:26 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -784,15 +784,15 @@
     "category": "Advice"
    },
    {
+    "title": "Lawson Cr, Griffith",
+    "category": "Advice"
+   },
+   {
     "title": "NEWELL HWY, TOMINGLEY",
     "category": "Advice"
    },
    {
     "title": "OCEAN PARK ROAD, BELMONT SOUTH",
-    "category": "Advice"
-   },
-   {
-    "title": "Old Wallgrove Rd, Eastern Creek",
     "category": "Advice"
    },
    {
@@ -836,7 +836,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "FANSHAWE RD, OTFORD",
+    "title": "FEDERAL HWY, WOLLOGORANG",
     "category": "Not Applicable"
    },
    {
@@ -956,6 +956,10 @@
   ],
   "au_security_news": [
    {
+    "title": "Bringing home the gold - news.defence.gov.au",
+    "pubDate": "Fri, 30 Oct 2026 04:11:10 GMT"
+   },
+   {
     "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
     "pubDate": "Fri, 30 Oct 2026 05:48:41 GMT"
    },
@@ -976,16 +980,12 @@
     "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
    },
    {
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
+   },
+   {
     "title": "Publication alert | The shifting Indo-Pacific energy landscape: Australia\u2019s role in building collective energy security - United States Studies Centre",
     "pubDate": "Thu, 29 Oct 2026 21:49:59 GMT"
-   },
-   {
-    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
-    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
-   },
-   {
-    "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Thu, 29 Oct 2026 19:28:11 GMT"
    }
   ],
   "au_health_news": [

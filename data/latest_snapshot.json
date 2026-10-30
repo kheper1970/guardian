@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-30T18:30:01.778615+00:00",
+ "collected_utc": "2026-10-30T19:30:01.969404+00:00",
  "earthquakes": [
   {
    "mag": 4.5,
@@ -236,7 +236,7 @@
     "observatory": "hvo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-29 19:05:24"
+    "sent_utc": "2026-10-30 18:42:04"
    },
    {
     "volcano": "Ahyi Seamount",
@@ -250,7 +250,7 @@
  "gvp_weekly": {
   "volcanoes": [],
   "report_week": null,
-  "error": "no wayback snapshot available"
+  "error": "HTTP Error 429: Too Many Requests"
  },
  "reliefweb": {
   "disasters": [
@@ -573,10 +573,6 @@
    "pubDate": "Thu, 29 Oct 2026 19:15:00 GMT"
   },
   {
-   "title": "Flooding and Food Security: The Urgent Need for Research - Inter Press Service",
-   "pubDate": "Wed, 28 Oct 2026 14:35:39 GMT"
-  },
-  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Fri, 30 Oct 2026 07:13:00 GMT"
   },
@@ -585,19 +581,27 @@
    "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
+   "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
+   "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
+  },
+  {
+   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
+   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "ABC 50/50 quiz: Test your knowledge of Back to the Future, Marvin Gaye and Marmite vs Vegemite",
-    "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
+    "title": "Two Dan Sullivans are running in Alaska. Trump thinks one is a decoy",
+    "pubDate": "Fri, 30 Oct 2026 18:52:52 +0000"
    },
    {
-    "title": "This teen took over her family's budget and saved $2,000",
-    "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
+    "title": "Mother's quest for change as dozens of inquests reveal mental health failures",
+    "pubDate": "Fri, 30 Oct 2026 18:50:51 +0000"
+   },
+   {
+    "title": "Christa Pike speaks of constant pain after botched execution",
+    "pubDate": "Fri, 30 Oct 2026 18:49:15 +0000"
    },
    {
     "title": "The eight books our critics couldn't put down this month",
@@ -605,6 +609,14 @@
    },
    {
     "title": "Misunderstood spooky women are at the heart of this new book",
+    "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "ABC 50/50 quiz: Test your knowledge of Back to the Future, Marvin Gaye and Marmite vs Vegemite",
+    "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
+   },
+   {
+    "title": "This teen took over her family's budget and saved $2,000",
     "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
    },
    {
@@ -617,18 +629,6 @@
    },
    {
     "title": "Snowy 2.0 still has a place in a world of batteries",
-    "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "How a 'kickstart' gift helped a Victorian man escape homelessness",
-    "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "Netanyahu's enemies could make unlikely friends in battle to defeat him",
-    "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "Why protests in Europe could bring change or completely backfire",
     "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000"
    }
   ],
@@ -690,6 +690,10 @@
     "category": "Planned Burn"
    },
    {
+    "title": "APPIN RD, GILEAD",
+    "category": "Not Applicable"
+   },
+   {
     "title": "BOONA RD, CONDOBOLIN",
     "category": "Not Applicable"
    },
@@ -707,10 +711,6 @@
    },
    {
     "title": "HOCKEY RD, TULLAMORE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "KIDMAN WAY, GOOLGOWI",
     "category": "Not Applicable"
    }
   ],
@@ -818,16 +818,16 @@
   ],
   "au_security_news": [
    {
-    "title": "Bringing home the gold - news.defence.gov.au",
-    "pubDate": "Fri, 30 Oct 2026 04:11:10 GMT"
-   },
-   {
     "title": "30 October: This Week in Australian Foreign Affairs - Australian Institute of International Affairs",
     "pubDate": "Fri, 30 Oct 2026 15:10:57 GMT"
    },
    {
     "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
     "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
+   },
+   {
+    "title": "'Results are sobering', but silence about climate risks impedes our preparation - The Canberra Times",
+    "pubDate": "Fri, 30 Oct 2026 18:34:47 GMT"
    },
    {
     "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
@@ -842,12 +842,12 @@
     "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
    },
    {
-    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
-    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
+    "title": "Verkada gains Australian IRAP approval for protected data - SecurityBrief Australia",
+    "pubDate": "Fri, 30 Oct 2026 17:15:05 GMT"
    },
    {
-    "title": "\u2018Uncontrolled warrior culture\u2019: Australia\u2019s special forces under fire in new inquiry - The Conversation",
-    "pubDate": "Fri, 30 Oct 2026 01:24:00 GMT"
+    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
+    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    }
   ],
   "au_health_news": [

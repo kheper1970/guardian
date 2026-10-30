@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-30T11:30:01.375611+00:00",
+ "collected_utc": "2026-10-30T12:30:01.912199+00:00",
  "earthquakes": [
+  {
+   "mag": 4.7,
+   "place": "42 km SE of Syki\u00e1, Greece",
+   "time": 1793357103842,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7m",
+   "type": "earthquake"
+  },
   {
    "mag": 4.5,
    "place": "104 km ENE of Barcelona, Philippines",
@@ -112,21 +120,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyw",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "Pulau Pulau Tanimbar, Indonesia",
-   "time": 1793273904162,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyk",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-30T06:00:00",
-   "Kp": 2.33,
-   "a_running": 9,
+   "time_tag": "2026-10-30T09:00:00",
+   "Kp": 1.67,
+   "a_running": 6,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -256,147 +256,9 @@
   ]
  },
  "gvp_weekly": {
-  "volcanoes": [
-   {
-    "volcano": "Krakatau (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "New Eruptive Activity"
-   },
-   {
-    "volcano": "Manam (Papua New Guinea)",
-    "week": "8 October-14 October 2026",
-    "status": "New Eruptive Activity"
-   },
-   {
-    "volcano": "Marapi (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "New Eruptive Activity"
-   },
-   {
-    "volcano": "Nevados de Chill\u00e1n (Chile)",
-    "week": "8 October-14 October 2026",
-    "status": "New Eruptive Activity"
-   },
-   {
-    "volcano": "Aira (Japan)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Bezymianny (Russia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Dukono (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Etna (Italy)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Fuego (Guatemala)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Great Sitkin (United States)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Ibu (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Kanlaon (Philippines)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Karangetang (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "K\u012blauea (United States)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Lewotolok (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Masaya (Nicaragua)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Mayon (Philippines)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Merapi (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Popocat\u00e9petl (Mexico)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Purac\u00e9 (Colombia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Sabancaya (Peru)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Santa Mar\u00eda (Guatemala)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Semeru (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Sheveluch (Russia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Stromboli (Italy)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Suwanosejima (Japan)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Taal (Philippines)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   }
-  ],
-  "report_week": "8 October-14 October 2026",
-  "snapshot_utc": "2026-10-22T07:02:11+00:00",
-  "count": 27,
-  "new_activity_count": 4
+  "volcanoes": [],
+  "report_week": null,
+  "error": "HTTP Error 429: Too Many Requests"
  },
  "reliefweb": {
   "disasters": [
@@ -693,7 +555,7 @@
    "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "FANR hosts nuclear emergency school - Utilities Middle East",
+   "title": "FANR hosts nuclear emergency training for experts from more than 25 UAE organisations - Utilities Middle East",
    "pubDate": "Fri, 30 Oct 2026 06:27:39 GMT"
   },
   {
@@ -719,24 +581,28 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
+   "title": "Flooding and Food Security: The Urgent Need for Research - Inter Press Service",
+   "pubDate": "Wed, 28 Oct 2026 14:35:39 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Fri, 30 Oct 2026 07:13:00 GMT"
   },
   {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
    "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
-  },
-  {
-   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
-   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
-  },
-  {
-   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
-   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Evacuation begins from ravaged Russian-controlled Ukrainian city",
+    "pubDate": "Fri, 30 Oct 2026 11:56:34 +0000"
+   },
    {
     "title": "Police probe Andrew's stay with Epstein at king's castle",
     "pubDate": "Fri, 30 Oct 2026 11:18:59 +0000"
@@ -766,16 +632,12 @@
     "pubDate": "Fri, 30 Oct 2026 07:47:26 +0000"
    },
    {
-    "title": "Live: South Africa dig in after crucial Cummins breakthrough",
+    "title": "Live: South Africa extends lead over Australia as new ball taken",
     "pubDate": "Fri, 30 Oct 2026 07:45:49 +0000"
    },
    {
     "title": "Man fined over Neo-Nazi stickers may face prison time for Nazi salute",
     "pubDate": "Fri, 30 Oct 2026 07:31:48 +0000"
-   },
-   {
-    "title": "Mouse welfare debate amid plan for NSW plastics recycling factory",
-    "pubDate": "Fri, 30 Oct 2026 07:27:11 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -789,6 +651,10 @@
    },
    {
     "title": "Bullecourt Rd, Corowa",
+    "category": "Advice"
+   },
+   {
+    "title": "Carlisle Av, Mount Druitt",
     "category": "Advice"
    },
    {
@@ -853,10 +719,6 @@
    },
    {
     "title": "GREENFIELD LANE, SPEEWA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "HEZ DR, PELAW MAIN",
     "category": "Not Applicable"
    }
   ],
@@ -964,16 +826,24 @@
   ],
   "au_security_news": [
    {
-    "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
-    "pubDate": "Fri, 30 Oct 2026 05:48:41 GMT"
+    "title": "Bringing home the gold - news.defence.gov.au",
+    "pubDate": "Fri, 30 Oct 2026 04:11:10 GMT"
    },
    {
-    "title": "Video Summary: Defence reallocates funds, next submarine visit, and Exercise Dugong26 - Australian Defence Magazine",
-    "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
+    "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
+    "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
+   },
+   {
+    "title": "Defence launches leak probe after Nightly\u2019s ADF cuts report - The Nightly",
+    "pubDate": "Fri, 30 Oct 2026 09:31:22 GMT"
    },
    {
     "title": "Australia won\u2019t follow US, other nations in banning Chinese cars from military sites - CarExpert",
     "pubDate": "Fri, 30 Oct 2026 02:57:00 GMT"
+   },
+   {
+    "title": "Video Summary: Defence reallocates funds, next submarine visit, and Exercise Dugong26 - Australian Defence Magazine",
+    "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
    },
    {
     "title": "30 October: This Week in Australian Foreign Affairs - Australian Institute of International Affairs",
@@ -986,14 +856,6 @@
    {
     "title": "Your Defence connection may be closer than you think - www.defenceconnect.com.au",
     "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
-   },
-   {
-    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
-    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
-   },
-   {
-    "title": "Energy and power: What the Strait of Hormuz crisis means for energy security in Australia and the Indo-Pacific - United States Studies Centre",
-    "pubDate": "Fri, 30 Oct 2026 00:06:04 GMT"
    }
   ],
   "au_health_news": [
@@ -1071,13 +933,13 @@
    "pubDate": "Fri, 23 Oct 26 15:55:45 +0200"
   },
   {
-   "title": "Italy and Romania Establish New Member State Support Programmes to Strengthen IAEA Safeguards",
-   "link": "http://www.iaea.org/newscenter/news/italy-and-romania-establish-new-member-state-support-programmes-to-strengthen-iaea-safeguards",
+   "title": "What is Nuclear Fuel?",
+   "link": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
    "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
   },
   {
-   "title": "What is Nuclear Fuel?",
-   "link": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
+   "title": "Italy and Romania Establish New Member State Support Programmes to Strengthen IAEA Safeguards",
+   "link": "http://www.iaea.org/newscenter/news/italy-and-romania-establish-new-member-state-support-programmes-to-strengthen-iaea-safeguards",
    "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
   },
   {

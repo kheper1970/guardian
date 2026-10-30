@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-30T00:45:02.006538+00:00",
+ "collected_utc": "2026-10-30T01:45:01.200995+00:00",
  "earthquakes": [
   {
    "mag": 4.6,
@@ -159,22 +159,6 @@
    "time": 1793240301049,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "western Indian-Antarctic Ridge",
-   "time": 1793236024538,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "117 km E of Port-Olry, Vanuatu",
-   "time": 1793235456802,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
    "type": "earthquake"
   }
  ],
@@ -442,7 +426,7 @@
   }
  ],
  "eonet": {
-  "open_total": 32,
+  "open_total": 30,
   "tracked": [
    {
     "title": "Wildfire South Tank Trail, Perry, Mississippi",
@@ -627,26 +611,14 @@
     ],
     "date": "2026-10-10T14:58:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238"
-   },
-   {
-    "title": "Wildfire PK, Sheridan, Wyoming",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T19:26:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233"
-   },
-   {
-    "title": "Wildfire CYRUS, Kern, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-09T17:15:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232"
    }
   ]
  },
  "nuclear_news": [
+  {
+   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
+   "pubDate": "Wed, 28 Oct 2026 13:55:39 GMT"
+  },
   {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
@@ -674,10 +646,6 @@
   {
    "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
    "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
-  },
-  {
-   "title": "Transport of Radioactive Material - World Nuclear Association",
-   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -702,22 +670,30 @@
    "pubDate": "Thu, 29 Oct 2026 11:56:00 GMT"
   },
   {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
    "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
    "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
-  },
-  {
-   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
-   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Breaking: Perth man, 22, charged with allegedly planning terrorist attack",
+    "title": "Player prepares for World Cup after career reshaped by injury",
+    "pubDate": "Fri, 30 Oct 2026 01:31:39 +0000"
+   },
+   {
+    "title": "Is it time the CLP stops blaming Labor for the NT's problems?",
+    "pubDate": "Fri, 30 Oct 2026 00:58:40 +0000"
+   },
+   {
+    "title": "Perth man, 22, charged with planning terrorist attack",
     "pubDate": "Fri, 30 Oct 2026 00:28:54 +0000"
    },
    {
@@ -737,7 +713,7 @@
     "pubDate": "Thu, 29 Oct 2026 23:19:24 +0000"
    },
    {
-    "title": "Mushroom murderer likely to die in jail after failed appeal",
+    "title": "'Cold and calculating' Erin Patterson has sentence increased",
     "pubDate": "Thu, 29 Oct 2026 23:13:00 +0000"
    },
    {
@@ -747,14 +723,6 @@
    {
     "title": "Youth theatre raises more than $68k to carry forward 50-year legacy",
     "pubDate": "Thu, 29 Oct 2026 23:00:00 +0000"
-   },
-   {
-    "title": "The thunderstorm that arrives like clockwork at 3pm every day",
-    "pubDate": "Thu, 29 Oct 2026 22:45:46 +0000"
-   },
-   {
-    "title": "Permit seeks higher antibiotic dosage for diseased Tasmania salmon",
-    "pubDate": "Thu, 29 Oct 2026 22:40:09 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -811,14 +779,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "HWY, KIWARRAK",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "IRRIGATION WAY, MURRAMI",
-    "category": "Not Applicable"
-   },
-   {
     "title": "KIDMAN WAY, GOOLGOWI",
     "category": "Not Applicable"
    },
@@ -836,6 +796,14 @@
    },
    {
     "title": "OLD WILLBRIGGIE RD, GRIFFITH",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "OXLEY HWY, RED HILL",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "STAPLETONS RD, BOOMEY",
     "category": "Not Applicable"
    }
   ],
@@ -921,6 +889,10 @@
     "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
    },
    {
+    "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
+   },
+   {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
@@ -933,22 +905,22 @@
     "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
    },
    {
-    "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
-   },
-   {
-    "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
-    "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
+    "title": "Cyclone Vaianu: Qantas, Jetstar &amp; Virgin's Fiji flights cancelled - Karryon",
+    "pubDate": "Thu, 29 Oct 2026 15:05:15 GMT"
    }
   ],
   "au_security_news": [
+   {
+    "title": "Lockheed Martin partners on hypersonic launch capability - Australian Defence Magazine",
+    "pubDate": "Fri, 30 Oct 2026 00:33:38 GMT"
+   },
    {
     "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
     "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    },
    {
-    "title": "Lockheed Martin partners on hypersonic launch capability - Australian Defence Magazine",
-    "pubDate": "Fri, 30 Oct 2026 00:33:38 GMT"
+    "title": "\u2018Uncontrolled warrior culture\u2019: Australia\u2019s special forces under fire in new inquiry - The Conversation",
+    "pubDate": "Fri, 30 Oct 2026 01:24:00 GMT"
    },
    {
     "title": "Publication alert | The shifting Indo-Pacific energy landscape: Australia\u2019s role in building collective energy security - United States Studies Centre",
@@ -959,20 +931,16 @@
     "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
-    "title": "Australian Defence Force admits quarter of troops not medically fit for deployment - 7NEWS",
-    "pubDate": "Thu, 29 Oct 2026 20:31:00 GMT"
-   },
-   {
-    "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Thu, 29 Oct 2026 19:25:25 GMT"
-   },
-   {
     "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
     "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
    },
    {
-    "title": "AARON PATRICK: Why secret ADF report into Afghanistan war must be released - The Nightly",
-    "pubDate": "Fri, 30 Oct 2026 00:20:59 GMT"
+    "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do - The Strategist | ASPI's analysis and commentary site",
+    "pubDate": "Thu, 29 Oct 2026 19:28:11 GMT"
+   },
+   {
+    "title": "Bluebottle drones that never sleep level playing field in Pacific drug war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Thu, 29 Oct 2026 18:47:12 GMT"
    }
   ],
   "au_health_news": [

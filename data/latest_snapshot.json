@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-30T19:30:01.969404+00:00",
+ "collected_utc": "2026-10-30T20:30:01.743072+00:00",
  "earthquakes": [
+  {
+   "mag": 4.5,
+   "place": "236 km ESE of Zyryanka, Russia",
+   "time": 1793383270672,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tudk",
+   "type": "earthquake"
+  },
+  {
+   "mag": 4.6,
+   "place": "7 km NE of Tago, Philippines",
+   "time": 1793379986864,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tub8",
+   "type": "earthquake"
+  },
   {
    "mag": 4.5,
    "place": "68 km ENE of Kuji, Japan",
@@ -103,14 +119,6 @@
    "time": 1793305931667,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5,
-   "place": "143 km S of False Pass, Alaska",
-   "time": 1793304872548,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3j",
    "type": "earthquake"
   }
  ],
@@ -222,14 +230,14 @@
     "observatory": "avo",
     "color": "ORANGE",
     "alert": "WATCH",
-    "sent_utc": "2026-10-29 19:39:34"
+    "sent_utc": "2026-10-30 20:06:23"
    },
    {
     "volcano": "Shishaldin",
     "observatory": "avo",
     "color": "YELLOW",
     "alert": "ADVISORY",
-    "sent_utc": "2026-10-29 19:39:34"
+    "sent_utc": "2026-10-30 20:06:23"
    },
    {
     "volcano": "Kilauea",
@@ -248,9 +256,147 @@
   ]
  },
  "gvp_weekly": {
-  "volcanoes": [],
-  "report_week": null,
-  "error": "HTTP Error 429: Too Many Requests"
+  "volcanoes": [
+   {
+    "volcano": "Krakatau (Indonesia)",
+    "week": "8 October-14 October 2026",
+    "status": "New Eruptive Activity"
+   },
+   {
+    "volcano": "Manam (Papua New Guinea)",
+    "week": "8 October-14 October 2026",
+    "status": "New Eruptive Activity"
+   },
+   {
+    "volcano": "Marapi (Indonesia)",
+    "week": "8 October-14 October 2026",
+    "status": "New Eruptive Activity"
+   },
+   {
+    "volcano": "Nevados de Chill\u00e1n (Chile)",
+    "week": "8 October-14 October 2026",
+    "status": "New Eruptive Activity"
+   },
+   {
+    "volcano": "Aira (Japan)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Bezymianny (Russia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Dukono (Indonesia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Etna (Italy)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Fuego (Guatemala)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Great Sitkin (United States)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Ibu (Indonesia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Kanlaon (Philippines)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Karangetang (Indonesia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "K\u012blauea (United States)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Lewotolok (Indonesia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Masaya (Nicaragua)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Mayon (Philippines)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Merapi (Indonesia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Popocat\u00e9petl (Mexico)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Purac\u00e9 (Colombia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Sabancaya (Peru)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Santa Mar\u00eda (Guatemala)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Semeru (Indonesia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Sheveluch (Russia)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Stromboli (Italy)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Suwanosejima (Japan)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Taal (Philippines)",
+    "week": "8 October-14 October 2026",
+    "status": "Continuing Eruptive Activity"
+   }
+  ],
+  "report_week": "8 October-14 October 2026",
+  "snapshot_utc": "2026-10-22T07:02:11+00:00",
+  "count": 27,
+  "new_activity_count": 4
  },
  "reliefweb": {
   "disasters": [
@@ -585,51 +731,51 @@
    "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
   },
   {
-   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
-   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
+   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
+   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
+    "title": "Angry locals near new Sydney metro hit with loud alerts, chimes",
+    "pubDate": "Fri, 30 Oct 2026 20:27:50 +0000"
+   },
+   {
+    "title": "Victoria's chief health officer warns of thunderstorm asthma risk",
+    "pubDate": "Fri, 30 Oct 2026 20:21:18 +0000"
+   },
+   {
+    "title": "'Changing of the guard' as fashion retailers return to physical stores",
+    "pubDate": "Fri, 30 Oct 2026 20:15:13 +0000"
+   },
+   {
+    "title": "Quick hits: Mix-up ends schoolmates' mammoth stand, Breetzke brings the fight",
+    "pubDate": "Fri, 30 Oct 2026 20:13:35 +0000"
+   },
+   {
+    "title": "Pelvic pain clinic teaches school students not to suffer in silence",
+    "pubDate": "Fri, 30 Oct 2026 20:00:33 +0000"
+   },
+   {
+    "title": "New tennis number one as Zverev finally reaches the top",
+    "pubDate": "Fri, 30 Oct 2026 19:49:04 +0000"
+   },
+   {
+    "title": "Before captain, a king: The dramatic life of Patrick Stewart",
+    "pubDate": "Fri, 30 Oct 2026 19:36:59 +0000"
+   },
+   {
+    "title": "Fears blue whale decline signals changes in Bonney Upwelling ocean current",
+    "pubDate": "Fri, 30 Oct 2026 19:34:34 +0000"
+   },
+   {
+    "title": "Brand used fame to 'facilitate' sex but consent was key, he tells jury",
+    "pubDate": "Fri, 30 Oct 2026 19:33:05 +0000"
+   },
+   {
     "title": "Two Dan Sullivans are running in Alaska. Trump thinks one is a decoy",
     "pubDate": "Fri, 30 Oct 2026 18:52:52 +0000"
-   },
-   {
-    "title": "Mother's quest for change as dozens of inquests reveal mental health failures",
-    "pubDate": "Fri, 30 Oct 2026 18:50:51 +0000"
-   },
-   {
-    "title": "Christa Pike speaks of constant pain after botched execution",
-    "pubDate": "Fri, 30 Oct 2026 18:49:15 +0000"
-   },
-   {
-    "title": "The eight books our critics couldn't put down this month",
-    "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
-   },
-   {
-    "title": "Misunderstood spooky women are at the heart of this new book",
-    "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
-   },
-   {
-    "title": "ABC 50/50 quiz: Test your knowledge of Back to the Future, Marvin Gaye and Marmite vs Vegemite",
-    "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
-   },
-   {
-    "title": "This teen took over her family's budget and saved $2,000",
-    "pubDate": "Fri, 30 Oct 2026 18:30:00 +0000"
-   },
-   {
-    "title": "Politics is an image game, and the government needs to find better visuals",
-    "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "Students use 'rage bait' and AI bots to sway fictional election",
-    "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000"
-   },
-   {
-    "title": "Snowy 2.0 still has a place in a world of batteries",
-    "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -694,6 +840,10 @@
     "category": "Not Applicable"
    },
    {
+    "title": "BLAIR ATHOL RD, INVERELL",
+    "category": "Not Applicable"
+   },
+   {
     "title": "BOONA RD, CONDOBOLIN",
     "category": "Not Applicable"
    },
@@ -707,10 +857,6 @@
    },
    {
     "title": "HEZ DR, PELAW MAIN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "HOCKEY RD, TULLAMORE",
     "category": "Not Applicable"
    }
   ],
@@ -804,12 +950,12 @@
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
    },
    {
-    "title": "Why North Queensland could pay price this wet season - Townsville Bulletin",
-    "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
-   },
-   {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
+   },
+   {
+    "title": "Why North Queensland could pay price this wet season - Townsville Bulletin",
+    "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
    },
    {
     "title": "Aussies urged 'be prepared' and stockpile tinned food, bottled water as threats grow - Yahoo News Australia",
@@ -818,16 +964,20 @@
   ],
   "au_security_news": [
    {
+    "title": "Bringing home the gold - news.defence.gov.au",
+    "pubDate": "Fri, 30 Oct 2026 04:11:10 GMT"
+   },
+   {
     "title": "30 October: This Week in Australian Foreign Affairs - Australian Institute of International Affairs",
     "pubDate": "Fri, 30 Oct 2026 15:10:57 GMT"
    },
    {
-    "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
-    "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
-   },
-   {
     "title": "'Results are sobering', but silence about climate risks impedes our preparation - The Canberra Times",
     "pubDate": "Fri, 30 Oct 2026 18:34:47 GMT"
+   },
+   {
+    "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
+    "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
    },
    {
     "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
@@ -838,16 +988,12 @@
     "pubDate": "Fri, 30 Oct 2026 02:57:00 GMT"
    },
    {
-    "title": "Video Summary: Defence reallocates funds, next submarine visit, and Exercise Dugong26 - Australian Defence Magazine",
-    "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
-   },
-   {
-    "title": "Verkada gains Australian IRAP approval for protected data - SecurityBrief Australia",
+    "title": "Verkada gains Australian IRAP approval for protected data - IT Brief Australia",
     "pubDate": "Fri, 30 Oct 2026 17:15:05 GMT"
    },
    {
-    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
-    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
+    "title": "Video Summary: Defence reallocates funds, next submarine visit, and Exercise Dugong26 - Australian Defence Magazine",
+    "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
    }
   ],
   "au_health_news": [
@@ -884,6 +1030,11 @@
   ]
  },
  "iaea": [
+  {
+   "title": "IAEA Safeguards Symposium 2026: Programme Now Available",
+   "link": "http://www.iaea.org/newscenter/news/iaea-safeguards-symposium-2026-programme-now-available",
+   "pubDate": "Fri, 30 Oct 26 18:35:33 +0100"
+  },
   {
    "title": "Update 373 \u2013 IAEA Director General Statement on Situation in Ukraine",
    "link": "http://www.iaea.org/newscenter/pressreleases/update-373-iaea-director-general-statement-on-situation-in-ukraine",
@@ -937,11 +1088,6 @@
   {
    "title": "Italy and Romania Establish New Member State Support Programmes to Strengthen IAEA Safeguards",
    "link": "http://www.iaea.org/newscenter/news/italy-and-romania-establish-new-member-state-support-programmes-to-strengthen-iaea-safeguards",
-   "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
-  },
-  {
-   "title": "What is Nuclear Fuel?",
-   "link": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
    "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
   }
  ],

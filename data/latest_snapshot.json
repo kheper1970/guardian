@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-30T16:30:01.652150+00:00",
+ "collected_utc": "2026-10-30T17:30:01.501258+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -248,147 +248,9 @@
   ]
  },
  "gvp_weekly": {
-  "volcanoes": [
-   {
-    "volcano": "Krakatau (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "New Eruptive Activity"
-   },
-   {
-    "volcano": "Manam (Papua New Guinea)",
-    "week": "8 October-14 October 2026",
-    "status": "New Eruptive Activity"
-   },
-   {
-    "volcano": "Marapi (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "New Eruptive Activity"
-   },
-   {
-    "volcano": "Nevados de Chill\u00e1n (Chile)",
-    "week": "8 October-14 October 2026",
-    "status": "New Eruptive Activity"
-   },
-   {
-    "volcano": "Aira (Japan)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Bezymianny (Russia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Dukono (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Etna (Italy)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Fuego (Guatemala)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Great Sitkin (United States)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Ibu (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Kanlaon (Philippines)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Karangetang (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "K\u012blauea (United States)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Lewotolok (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Masaya (Nicaragua)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Mayon (Philippines)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Merapi (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Popocat\u00e9petl (Mexico)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Purac\u00e9 (Colombia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Sabancaya (Peru)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Santa Mar\u00eda (Guatemala)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Semeru (Indonesia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Sheveluch (Russia)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Stromboli (Italy)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Suwanosejima (Japan)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   },
-   {
-    "volcano": "Taal (Philippines)",
-    "week": "8 October-14 October 2026",
-    "status": "Continuing Eruptive Activity"
-   }
-  ],
-  "report_week": "8 October-14 October 2026",
-  "snapshot_utc": "2026-10-22T07:02:11+00:00",
-  "count": 27,
-  "new_activity_count": 4
+  "volcanoes": [],
+  "report_week": null,
+  "error": "HTTP Error 429: Too Many Requests"
  },
  "reliefweb": {
   "disasters": [
@@ -703,28 +565,28 @@
    "pubDate": "Fri, 30 Oct 2026 02:47:11 GMT"
   },
   {
-   "title": "Ending emergency food benefits linked to higher child maltreatment rates - News-Medical",
-   "pubDate": "Thu, 29 Oct 2026 19:15:00 GMT"
-  },
-  {
    "title": "Heat, Food Insecurity, Disease Make Climate a Global Health Emergency: Lancet Countdown - The Energy Mix",
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
-   "title": "Flooding and Food Security: The Urgent Need for Research - Inter Press Service",
-   "pubDate": "Wed, 28 Oct 2026 14:35:39 GMT"
+   "title": "Ending emergency food benefits linked to higher child maltreatment rates - News-Medical",
+   "pubDate": "Thu, 29 Oct 2026 19:15:00 GMT"
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Fri, 30 Oct 2026 07:13:00 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
+   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
+   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
   },
   {
    "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
    "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
+  },
+  {
+   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
+   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   }
  ],
  "australia": {
@@ -950,14 +812,18 @@
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
    {
-    "title": "SA Severe Thunderstorm Warning: Large Hail, Damaging Winds, Heavy Rain - Early Warning Network",
-    "pubDate": "Thu, 29 Oct 2026 12:35:11 GMT"
+    "title": "Aussies urged 'be prepared' and stockpile tinned food, bottled water as threats grow - Yahoo News Australia",
+    "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
    }
   ],
   "au_security_news": [
    {
-    "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
-    "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
+    "title": "Bringing home the gold - news.defence.gov.au",
+    "pubDate": "Fri, 30 Oct 2026 04:11:10 GMT"
+   },
+   {
+    "title": "30 October: This Week in Australian Foreign Affairs - Australian Institute of International Affairs",
+    "pubDate": "Fri, 30 Oct 2026 15:10:57 GMT"
    },
    {
     "title": "Australia won\u2019t follow US, other nations in banning Chinese cars from military sites - CarExpert",
@@ -972,20 +838,16 @@
     "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
    },
    {
-    "title": "30 October: This Week in Australian Foreign Affairs - Australian Institute of International Affairs",
-    "pubDate": "Fri, 30 Oct 2026 10:46:51 GMT"
-   },
-   {
     "title": "\u2018Uncontrolled warrior culture\u2019: Australia\u2019s special forces under fire in new inquiry - The Conversation",
     "pubDate": "Fri, 30 Oct 2026 01:24:00 GMT"
    },
    {
-    "title": "Your Defence connection may be closer than you think - www.defenceconnect.com.au",
-    "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
+    "title": "From Factory to Capability: What Western Australia\u2019s Shipyards Still Need - Defense.info",
+    "pubDate": "Fri, 30 Oct 2026 15:50:32 GMT"
    },
    {
-    "title": "Energy and power: What the Strait of Hormuz crisis means for energy security in Australia and the Indo-Pacific - United States Studies Centre",
-    "pubDate": "Fri, 30 Oct 2026 00:06:04 GMT"
+    "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
+    "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
    }
   ],
   "au_health_news": [

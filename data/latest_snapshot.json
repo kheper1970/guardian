@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-30T01:45:01.200995+00:00",
+ "collected_utc": "2026-10-30T02:45:01.395440+00:00",
  "earthquakes": [
   {
    "mag": 4.6,
@@ -152,14 +152,6 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.8,
-   "place": "36 km SSW of Merizo Village, Guam",
-   "time": 1793240301049,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
@@ -199,25 +191,8 @@
   ]
  },
  "neo": {
-  "count": 2,
-  "events": [
-   {
-    "name": "(2015 WZ12)",
-    "diameter_min_m": 15,
-    "diameter_max_m": 33,
-    "hazardous": false,
-    "miss_km": 10266781.601251667,
-    "velocity_kph": 37219.9576930949
-   },
-   {
-    "name": "(2018 BB5)",
-    "diameter_min_m": 35,
-    "diameter_max_m": 78,
-    "hazardous": false,
-    "miss_km": 24769187.744398355,
-    "velocity_kph": 78825.3464967725
-   }
-  ]
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
  },
  "who_news": [
   {
@@ -391,40 +366,7 @@
    }
   ]
  },
- "nhc_storms": [
-  {
-   "storm": "Vance",
-   "type": "Tropical Depression",
-   "basin": "east_pacific",
-   "advisories": [
-    {
-     "title": "Tropical Depression Vance Public Advisory Number 34",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/292031.shtml",
-     "pubDate": "Thu, 29 Oct 2026 20:31:25 GMT"
-    },
-    {
-     "title": "Tropical Depression Vance Forecast Advisory Number 34",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/292031.shtml",
-     "pubDate": "Thu, 29 Oct 2026 20:31:25 GMT"
-    },
-    {
-     "title": "Tropical Depression Vance Forecast Discussion Number 34",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/292031.shtml",
-     "pubDate": "Thu, 29 Oct 2026 20:31:55 GMT"
-    },
-    {
-     "title": "Tropical Depression Vance Wind Speed Probabilities Number 34",
-     "link": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/292031.shtml",
-     "pubDate": "Thu, 29 Oct 2026 20:31:25 GMT"
-    },
-    {
-     "title": "Tropical Depression Vance Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/212247.shtml?cone",
-     "pubDate": "Thu, 29 Oct 2026 21:22:47 GMT"
-    }
-   ]
-  }
- ],
+ "nhc_storms": [],
  "eonet": {
   "open_total": 30,
   "tracked": [
@@ -670,20 +612,36 @@
    "pubDate": "Thu, 29 Oct 2026 11:56:00 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
    "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
    "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
+  },
+  {
+   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
+   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Dream cruise derailed as fuel crisis puts pressure on global operators",
+    "pubDate": "Fri, 30 Oct 2026 02:23:23 +0000"
+   },
+   {
+    "title": "Melbourne man gives blood at all 85 donation centres across Australia",
+    "pubDate": "Fri, 30 Oct 2026 02:20:58 +0000"
+   },
+   {
+    "title": "Cooling property market delivers $5 billion blow to Victorian budget",
+    "pubDate": "Fri, 30 Oct 2026 02:02:42 +0000"
+   },
+   {
+    "title": "Loving someone with dementia is hilarious and heartbreaking in new show",
+    "pubDate": "Fri, 30 Oct 2026 02:00:00 +0000"
+   },
    {
     "title": "Player prepares for World Cup after career reshaped by injury",
     "pubDate": "Fri, 30 Oct 2026 01:31:39 +0000"
@@ -707,22 +665,6 @@
    {
     "title": "Patterson's failed appeal leaves few legal avenues for the mushroom killer",
     "pubDate": "Thu, 29 Oct 2026 23:22:33 +0000"
-   },
-   {
-    "title": "Dream shakes off scheduling controversy to force WNBA Finals decider",
-    "pubDate": "Thu, 29 Oct 2026 23:19:24 +0000"
-   },
-   {
-    "title": "'Cold and calculating' Erin Patterson has sentence increased",
-    "pubDate": "Thu, 29 Oct 2026 23:13:00 +0000"
-   },
-   {
-    "title": "Youth want a voice amid controversial fracking and mining proposals",
-    "pubDate": "Thu, 29 Oct 2026 23:10:54 +0000"
-   },
-   {
-    "title": "Youth theatre raises more than $68k to carry forward 50-year legacy",
-    "pubDate": "Thu, 29 Oct 2026 23:00:00 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -751,6 +693,10 @@
     "category": "Planned Burn"
    },
    {
+    "title": "Blue Metal HR",
+    "category": "Planned Burn"
+   },
+   {
     "title": "Bowen Mountain Eastern Firetrail",
     "category": "Planned Burn"
    },
@@ -767,7 +713,15 @@
     "category": "Planned Burn"
    },
    {
+    "title": "Bandon Rd, VINEYARD",
+    "category": "Not Applicable"
+   },
+   {
     "title": "BOONA RD, CONDOBOLIN",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "CALF FARM RD, MOUNT HUNTER",
     "category": "Not Applicable"
    },
    {
@@ -792,18 +746,6 @@
    },
    {
     "title": "MIRRABOOKA RD, LITTLE BILLABONG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "OLD WILLBRIGGIE RD, GRIFFITH",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "OXLEY HWY, RED HILL",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "STAPLETONS RD, BOOMEY",
     "category": "Not Applicable"
    }
   ],
@@ -911,6 +853,10 @@
   ],
   "au_security_news": [
    {
+    "title": "Your Defence connection may be closer than you think - www.defenceconnect.com.au",
+    "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
+   },
+   {
     "title": "Lockheed Martin partners on hypersonic launch capability - Australian Defence Magazine",
     "pubDate": "Fri, 30 Oct 2026 00:33:38 GMT"
    },
@@ -937,10 +883,6 @@
    {
     "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do - The Strategist | ASPI's analysis and commentary site",
     "pubDate": "Thu, 29 Oct 2026 19:28:11 GMT"
-   },
-   {
-    "title": "Bluebottle drones that never sleep level playing field in Pacific drug war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 29 Oct 2026 18:47:12 GMT"
    }
   ],
   "au_health_news": [

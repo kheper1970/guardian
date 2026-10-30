@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-30T02:45:01.395440+00:00",
+ "collected_utc": "2026-10-30T03:45:02.047077+00:00",
  "earthquakes": [
+  {
+   "mag": 5.1,
+   "place": "97 km NNE of Finschhafen, Papua New Guinea",
+   "time": 1793329457406,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "59 km SW of Port-Vila, Vanuatu",
@@ -128,41 +136,27 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.7,
-   "place": "82 km NE of Kiunga, Papua New Guinea",
-   "time": 1793244402275,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.8,
-   "place": "110 km ENE of Barcelona, Philippines",
-   "time": 1793243945288,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.4,
-   "place": "113 km ENE of Barcelona, Philippines",
-   "time": 1793243874507,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-29T21:00:00",
-   "Kp": 0.67,
-   "a_running": 3,
+   "time_tag": "2026-10-30T00:00:00",
+   "Kp": 1.67,
+   "a_running": 6,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
   "alerts_recent": [
+   {
+    "id": "K04A",
+    "issued": "2026-10-04 08:01:06.560",
+    "message": "Space Weather Message Code: ALTK04\r\nSerial Number: 2689\r\nIssue Time: 2026 Oct 04 0801 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 04 0757 UTC\nSynoptic Period: 0600-0900\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagn"
+   },
+   {
+    "id": "K04W",
+    "issued": "2026-10-04 06:13:42.580",
+    "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5424\r\nIssue Time: 2026 Oct 04 0613 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 04 0615 UTC\nValid To: 2026 Oct 04 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 d"
+   },
    {
     "id": "EF3A",
     "issued": "2026-10-01 14:30:29.700",
@@ -177,16 +171,6 @@
     "id": "EF3A",
     "issued": "2026-09-30 10:04:50.050",
     "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3749\r\nIssue Time: 2026 Sep 30 1004 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 30 0945 UTC\nStation: GOES-19\nComment: Yesterday's max flux of 5,622 pfu at 29/1620 UTC.\n"
-   },
-   {
-    "id": "TIVA",
-    "issued": "2026-09-30 03:39:25.207",
-    "message": "Space Weather Message Code: ALTTP4\r\nSerial Number: 718\r\nIssue Time: 2026 Sep 30 0339 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 30 0256 UTC\nComment: Observed by PAL\n"
-   },
-   {
-    "id": "TIIA",
-    "issued": "2026-09-30 03:38:29.203",
-    "message": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1529\r\nIssue Time: 2026 Sep 30 0338 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Sep 30 0252 UTC\nEstimate Velocity: 523 km/s\nComment: observed by PAL\n"
    }
   ]
  },
@@ -586,8 +570,8 @@
    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
-   "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
-   "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -627,7 +611,31 @@
  "australia": {
   "abc_news": [
    {
-    "title": "Dream cruise derailed as fuel crisis puts pressure on global operators",
+    "title": "From Picard to Professor X: Sir Patrick Stewart remembered",
+    "pubDate": "Fri, 30 Oct 2026 03:31:43 +0000"
+   },
+   {
+    "title": "Boater rescues tired wallaby swimming out to sea more than 100m offshore",
+    "pubDate": "Fri, 30 Oct 2026 03:30:56 +0000"
+   },
+   {
+    "title": "Hefty legal bill predicted in ex-NRL star Jarryd Hayne's civil rape case",
+    "pubDate": "Fri, 30 Oct 2026 03:24:45 +0000"
+   },
+   {
+    "title": "Former Bachelor Sam Wood applies for bail on strangulation charges",
+    "pubDate": "Fri, 30 Oct 2026 03:18:26 +0000"
+   },
+   {
+    "title": "'Unqualified' assistance animals causing distress, handlers say",
+    "pubDate": "Fri, 30 Oct 2026 02:59:25 +0000"
+   },
+   {
+    "title": "Schoolies-goers will pay to party on the beach for the first time",
+    "pubDate": "Fri, 30 Oct 2026 02:54:08 +0000"
+   },
+   {
+    "title": "Australians stranded in Cambodia after cruise ship suspends operations",
     "pubDate": "Fri, 30 Oct 2026 02:23:23 +0000"
    },
    {
@@ -641,33 +649,13 @@
    {
     "title": "Loving someone with dementia is hilarious and heartbreaking in new show",
     "pubDate": "Fri, 30 Oct 2026 02:00:00 +0000"
-   },
-   {
-    "title": "Player prepares for World Cup after career reshaped by injury",
-    "pubDate": "Fri, 30 Oct 2026 01:31:39 +0000"
-   },
-   {
-    "title": "Is it time the CLP stops blaming Labor for the NT's problems?",
-    "pubDate": "Fri, 30 Oct 2026 00:58:40 +0000"
-   },
-   {
-    "title": "Perth man, 22, charged with planning terrorist attack",
-    "pubDate": "Fri, 30 Oct 2026 00:28:54 +0000"
-   },
-   {
-    "title": "Ex-Sydney childcare worker charged with 200 more abuse offences",
-    "pubDate": "Fri, 30 Oct 2026 00:05:12 +0000"
-   },
-   {
-    "title": "Free hearing bus helping 2,000 kids faces closure as funding ends",
-    "pubDate": "Fri, 30 Oct 2026 00:01:21 +0000"
-   },
-   {
-    "title": "Patterson's failed appeal leaves few legal avenues for the mushroom killer",
-    "pubDate": "Thu, 29 Oct 2026 23:22:33 +0000"
    }
   ],
   "nsw_rfs_incidents": [
+   {
+    "title": "BELMONT SOUTH",
+    "category": "Advice"
+   },
    {
     "title": "BIG BLACK JACK MOUNTAIN FIRE, MIRANNIE",
     "category": "Advice"
@@ -677,11 +665,23 @@
     "category": "Advice"
    },
    {
+    "title": "LACHLAN VALLEY WAY, COWRA",
+    "category": "Advice"
+   },
+   {
     "title": "NEWELL HWY, TOMINGLEY",
     "category": "Advice"
    },
    {
+    "title": "OCEAN PARK RD, BELMONT SOUTH NSW",
+    "category": "Advice"
+   },
+   {
     "title": "SECTOR 5, SMA",
+    "category": "Advice"
+   },
+   {
+    "title": "THE WOOL RD, VINCENTIA",
     "category": "Advice"
    },
    {
@@ -713,7 +713,11 @@
     "category": "Planned Burn"
    },
    {
-    "title": "Bandon Rd, VINEYARD",
+    "title": "ALPINE RD, ALPINE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "BONG BONG ST, KIAMA",
     "category": "Not Applicable"
    },
    {
@@ -725,27 +729,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "EMU PARK RD, SANGER",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "HEZ DR, PELAW MAIN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "KIDMAN WAY, GOOLGOWI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MALONEYS RD, LUE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MANILLA RD, ATTUNGA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MIRRABOOKA RD, LITTLE BILLABONG",
+    "title": "CHINAMANS BEACH LOOKOUT TRK, VINCENTIA",
     "category": "Not Applicable"
    }
   ],
@@ -823,7 +807,7 @@
     "pubDate": "Thu, 29 Oct 2026 23:20:00 GMT"
    },
    {
-    "title": "Woolworths rolls out emergency crisis kits for Aussies amid warnings to stockpile tinned food - Yahoo News Australia",
+    "title": "Woolworths rolls out emergency crisis kits for Aussies amid warnings to stock up on tinned food - Yahoo News Australia",
     "pubDate": "Thu, 29 Oct 2026 21:18:33 GMT"
    },
    {
@@ -853,39 +837,42 @@
   ],
   "au_security_news": [
    {
-    "title": "Your Defence connection may be closer than you think - www.defenceconnect.com.au",
-    "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
-   },
-   {
     "title": "Lockheed Martin partners on hypersonic launch capability - Australian Defence Magazine",
     "pubDate": "Fri, 30 Oct 2026 00:33:38 GMT"
-   },
-   {
-    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
-    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    },
    {
     "title": "\u2018Uncontrolled warrior culture\u2019: Australia\u2019s special forces under fire in new inquiry - The Conversation",
     "pubDate": "Fri, 30 Oct 2026 01:24:00 GMT"
    },
    {
-    "title": "Publication alert | The shifting Indo-Pacific energy landscape: Australia\u2019s role in building collective energy security - United States Studies Centre",
-    "pubDate": "Thu, 29 Oct 2026 21:49:59 GMT"
+    "title": "Your Defence connection may be closer than you think - www.defenceconnect.com.au",
+    "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
    },
    {
     "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
     "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
-    "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
-    "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
+    "title": "Publication alert | The shifting Indo-Pacific energy landscape: Australia\u2019s role in building collective energy security - United States Studies Centre",
+    "pubDate": "Thu, 29 Oct 2026 21:49:59 GMT"
    },
    {
-    "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Thu, 29 Oct 2026 19:28:11 GMT"
+    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
+    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
+   },
+   {
+    "title": "Australia won\u2019t follow US, other nations in banning Chinese cars from military sites - CarExpert",
+    "pubDate": "Fri, 30 Oct 2026 02:57:00 GMT"
+   },
+   {
+    "title": "Missile defence: Australia\u2019s military\u2019s $10 billion plan to protect itself but leave the rest of us exposed - Strategic Analysis Australia",
+    "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
    }
   ],
   "au_health_news": [
+   {
+    "title": "Interim Commissioner Update \u2013 October 2026"
+   },
    {
     "title": "Hearing Services Program provider notice 2026-12 \u2013 Provider Webinar Link"
    },
@@ -912,9 +899,6 @@
    },
    {
     "title": "PBS Approved Suppliers \u2013 End of year closure period 2026"
-   },
-   {
-    "title": "Australian Community Pharmacy Authority (ACPA) meeting dates for 2027"
    }
   ]
  },

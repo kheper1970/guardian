@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-30T07:30:01.960133+00:00",
+ "collected_utc": "2026-10-30T08:30:01.562115+00:00",
  "earthquakes": [
   {
    "mag": 4.8,
@@ -111,30 +111,6 @@
    "time": 1793263782448,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "41 km W of Mosteiros, Portugal",
-   "time": 1793260446718,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty0",
-   "type": "earthquake"
-  },
-  {
-   "mag": 6.4,
-   "place": "southeast of Easter Island",
-   "time": 1793260190928,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz",
-   "type": "earthquake"
-  },
-  {
-   "mag": 5.4,
-   "place": "114 km ENE of Barcelona, Philippines",
-   "time": 1793259090432,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
    "type": "earthquake"
   }
  ],
@@ -685,36 +661,36 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Wed, 28 Oct 2026 13:55:39 GMT"
-  },
-  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+  },
+  {
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   },
   {
    "title": "FANR hosts nuclear emergency school - Utilities Middle East",
    "pubDate": "Fri, 30 Oct 2026 06:27:39 GMT"
-  },
-  {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -736,23 +712,43 @@
   },
   {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
-   "pubDate": "Thu, 29 Oct 2026 11:56:00 GMT"
+   "pubDate": "Fri, 30 Oct 2026 07:13:00 GMT"
+  },
+  {
+   "title": "Flooding and Food Security: The Urgent Need for Research - Inter Press Service",
+   "pubDate": "Wed, 28 Oct 2026 14:35:39 GMT"
+  },
+  {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
    "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
-  },
-  {
-   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
-   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
-  },
-  {
-   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
-   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Christmas remained key part of school event, premier told by department",
+    "pubDate": "Fri, 30 Oct 2026 08:22:12 +0000"
+   },
+   {
+    "title": "Breaking: Australians potentially impacted by Spain rail disaster, DFAT says",
+    "pubDate": "Fri, 30 Oct 2026 08:04:50 +0000"
+   },
+   {
+    "title": "Court hears suspended Torrens to Darlington contractor still awaiting $2m",
+    "pubDate": "Fri, 30 Oct 2026 07:47:26 +0000"
+   },
+   {
+    "title": "Live: Australia looking to push home advantage in Cape Town Test",
+    "pubDate": "Fri, 30 Oct 2026 07:45:49 +0000"
+   },
+   {
+    "title": "Man fined over Neo-Nazi stickers may face prison time for Nazi salute",
+    "pubDate": "Fri, 30 Oct 2026 07:31:48 +0000"
+   },
    {
     "title": "Mouse welfare debate amid plan for NSW plastics recycling factory",
     "pubDate": "Fri, 30 Oct 2026 07:27:11 +0000"
@@ -772,39 +768,19 @@
    {
     "title": "Hospital helicopter landings cause safety issue as woman nearly hit by sign",
     "pubDate": "Fri, 30 Oct 2026 05:57:26 +0000"
-   },
-   {
-    "title": "Retiring Swan Rampe 'hurt' over Pullman Hotel saga",
-    "pubDate": "Fri, 30 Oct 2026 05:52:45 +0000"
-   },
-   {
-    "title": "City's lord mayor-elect explains 'Hobart for Hobartians' slogan",
-    "pubDate": "Fri, 30 Oct 2026 05:05:52 +0000"
-   },
-   {
-    "title": "How to prepare your garden for the heat this summer",
-    "pubDate": "Fri, 30 Oct 2026 05:00:29 +0000"
-   },
-   {
-    "title": "Brumby advocate loses bid to stop aerial culling in NSW national park",
-    "pubDate": "Fri, 30 Oct 2026 04:47:45 +0000"
-   },
-   {
-    "title": "Jail term for speedway driver after grooming and raping teenager",
-    "pubDate": "Fri, 30 Oct 2026 04:40:59 +0000"
    }
   ],
   "nsw_rfs_incidents": [
-   {
-    "title": "Arthur St, Wellington",
-    "category": "Advice"
-   },
    {
     "title": "BIG BLACK JACK MOUNTAIN FIRE, MIRANNIE",
     "category": "Advice"
    },
    {
     "title": "BROOKS RD, BINNAWAY",
+    "category": "Advice"
+   },
+   {
+    "title": "Bullecourt Rd, Corowa",
     "category": "Advice"
    },
    {
@@ -830,6 +806,10 @@
    {
     "title": "WIRE LANE, MUSWELLBROOK",
     "category": "Advice"
+   },
+   {
+    "title": "5652C Putty Rd agricultural burn",
+    "category": "Planned Burn"
    },
    {
     "title": "BANKSIA DR, ELERMORE VALE",
@@ -865,10 +845,6 @@
    },
    {
     "title": "HOCKEY RD, TULLAMORE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "JUMBLE PLAINS RD, ALBERT",
     "category": "Not Applicable"
    },
    {

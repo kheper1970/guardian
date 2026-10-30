@@ -1,6 +1,22 @@
 {
- "collected_utc": "2026-10-30T10:30:01.511990+00:00",
+ "collected_utc": "2026-10-30T11:30:01.375611+00:00",
  "earthquakes": [
+  {
+   "mag": 4.5,
+   "place": "104 km ENE of Barcelona, Philippines",
+   "time": 1793355851303,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k",
+   "type": "earthquake"
+  },
+  {
+   "mag": 5.1,
+   "place": "Balleny Islands region",
+   "time": 1793355148219,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "64 km SSW of Shikotan, Russia",
@@ -103,14 +119,6 @@
    "time": 1793273904162,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyk",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.9,
-   "place": "111 km SW of Port-Vila, Vanuatu",
-   "time": 1793270002424,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyd",
    "type": "earthquake"
   }
  ],
@@ -534,7 +542,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-10-30T00:00:00Z",
+    "date": "2026-10-30T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728"
    },
    {
@@ -677,12 +685,12 @@
    "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
    "title": "FANR hosts nuclear emergency school - Utilities Middle East",
@@ -730,6 +738,10 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Police probe Andrew's stay with Epstein at king's castle",
+    "pubDate": "Fri, 30 Oct 2026 11:18:59 +0000"
+   },
+   {
     "title": "War of words erupts over Christian group's omission from NT Christmas pageant",
     "pubDate": "Fri, 30 Oct 2026 09:16:51 +0000"
    },
@@ -754,7 +766,7 @@
     "pubDate": "Fri, 30 Oct 2026 07:47:26 +0000"
    },
    {
-    "title": "Live: Cummins provides crucial breakthrough to end dangerous stand",
+    "title": "Live: South Africa dig in after crucial Cummins breakthrough",
     "pubDate": "Fri, 30 Oct 2026 07:45:49 +0000"
    },
    {
@@ -764,10 +776,6 @@
    {
     "title": "Mouse welfare debate amid plan for NSW plastics recycling factory",
     "pubDate": "Fri, 30 Oct 2026 07:27:11 +0000"
-   },
-   {
-    "title": "Adelaide Crows star avoids jail for running red light and hitting pedestrian",
-    "pubDate": "Fri, 30 Oct 2026 06:32:25 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -789,10 +797,6 @@
    },
    {
     "title": "NEWELL HWY, TOMINGLEY",
-    "category": "Advice"
-   },
-   {
-    "title": "North St, West Kempsey",
     "category": "Advice"
    },
    {
@@ -832,6 +836,10 @@
     "category": "Planned Burn"
    },
    {
+    "title": "BATTALION GLDE, EASTERN CREEK",
+    "category": "Not Applicable"
+   },
+   {
     "title": "BOONA RD, CONDOBOLIN",
     "category": "Not Applicable"
    },
@@ -844,11 +852,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "GAROO RD, GAROO",
+    "title": "GREENFIELD LANE, SPEEWA",
     "category": "Not Applicable"
    },
    {
-    "title": "GEORGE SANDS WAY, WALGETT",
+    "title": "HEZ DR, PELAW MAIN",
     "category": "Not Applicable"
    }
   ],
@@ -968,6 +976,10 @@
     "pubDate": "Fri, 30 Oct 2026 02:57:00 GMT"
    },
    {
+    "title": "30 October: This Week in Australian Foreign Affairs - Australian Institute of International Affairs",
+    "pubDate": "Fri, 30 Oct 2026 10:46:51 GMT"
+   },
+   {
     "title": "\u2018Uncontrolled warrior culture\u2019: Australia\u2019s special forces under fire in new inquiry - The Conversation",
     "pubDate": "Fri, 30 Oct 2026 01:24:00 GMT"
    },
@@ -976,16 +988,12 @@
     "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
    },
    {
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
+   },
+   {
     "title": "Energy and power: What the Strait of Hormuz crisis means for energy security in Australia and the Indo-Pacific - United States Studies Centre",
     "pubDate": "Fri, 30 Oct 2026 00:06:04 GMT"
-   },
-   {
-    "title": "China\u2019s Military Build-up Has Created \u2018Pressure\u2019 in Southeast Asia, Australian Defense Chief Says - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-    "pubDate": "Fri, 30 Oct 2026 05:20:32 GMT"
-   },
-   {
-    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
-    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    }
   ],
   "au_health_news": [

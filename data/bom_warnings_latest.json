@@ -1,123 +1,88 @@
 {
- "generated": "2026-10-25T05:43:25+00:00",
+ "generated": "2026-10-30T09:53:12+00:00",
  "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
- "count": 30,
+ "count": 22,
  "errors": 0,
  "warnings": [
   {
    "id": "IDN20400",
    "title": "New South Wales",
    "issued": "",
-   "severity": "medium",
-   "ptype": [
-    "wind",
-    "marine"
-   ],
-   "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Updated Marine Wind Warning Summary for New South Wales Issued at 4:05 pm EDT on Sunday 25 October 2026 for the period until midnight EDT Monday 26 October 2026. Wind Warnings for Sunday 25 October Gale Warning for the following area: Eden Coast Strong Wind Warning for the following areas: Byron Coast, Coffs Coast, Macquarie Coas",
-   "fetched_at": "2026-10-25T05:43:04+00:00"
-  },
-  {
-   "id": "IDN21033",
-   "title": "Severe Thunderstorm Warning",
-   "issued": "",
-   "severity": "high",
-   "ptype": [
-    "flood",
-    "severe_thunderstorm",
-    "wind"
-   ],
-   "headline": "IDN21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS and HEAVY RAINFALL For people in Illawarra, South Coast, Central Tablelands, Southern Tablelands, Snowy Mountains, Australian Capital Territory and parts of Hunter, North West Slopes and Plains, Central West Slopes and Plains and South West Slopes Forecast Distri",
-   "fetched_at": "2026-10-25T05:43:05+00:00"
-  },
-  {
-   "id": "IDN21037",
-   "title": "Cancellation of Severe Weather Warning",
-   "issued": "",
-   "severity": "info",
-   "ptype": [
-    "flood",
-    "severe_thunderstorm",
-    "severe_weather",
-    "wind"
-   ],
-   "headline": "IDN21037 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Cancellation of Severe Weather Warning For people in Snowy Mountains Forecast District. Issued at 10:41 am Sunday, 25 October 2026. Sustained damaging winds have eased, although damaging wind gusts are likely in thunderstorms. Refer to current Severe Thunderstorm Warning. Weather Situation: Sustained vigorous",
-   "fetched_at": "2026-10-25T05:43:05+00:00"
-  },
-  {
-   "id": "IDN29000",
-   "title": "New South Wales",
-   "issued": "",
-   "severity": "medium",
-   "ptype": [],
-   "headline": "IDN29000 Australian Government Bureau of Meteorology New South Wales Warning to Sheep Graziers for the South Coast, Southern Tablelands, South West Slopes, Riverina and Snowy Mountains forecast districts. Issued at 10:58 am EDT on Sunday 25 October 2026. Sheep graziers are warned that cold temperatures, rain and showers and southwesterly winds are expected during Sunday and Monday. Areas likely to",
-   "fetched_at": "2026-10-25T05:43:06+00:00"
-  },
-  {
-   "id": "IDQ20085",
-   "title": "Queensland",
-   "issued": "",
    "severity": "low",
    "ptype": [
     "wind",
     "marine"
    ],
-   "headline": "IDQ20085 Australian Government Bureau of Meteorology Queensland Marine Wind Warning Summary for Queensland Issued at 3:05 pm EST on Sunday 25 October 2026 for the period until midnight EST Sunday 25 October 2026. Wind Warnings for Sunday 25 October Strong Wind Warning for the following area: Gold Coast Waters The next marine wind warning summary will be issued by 9:00 pm EST Sunday. ==============",
-   "fetched_at": "2026-10-25T05:43:07+00:00"
+   "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Marine Wind Warning Summary for New South Wales Issued at 4:05 pm EDT on Friday 30 October 2026 for the period until midnight EDT Saturday 31 October 2026. Wind Warnings for Friday 30 October Strong Wind Warning for the following areas: Illawarra Coast, Batemans Coast and Eden Coast Wind Warnings for Saturday 31 October Strong Wi",
+   "fetched_at": "2026-10-30T09:53:00+00:00"
   },
   {
-   "id": "IDQ20785",
-   "title": "Minor Flood Warning for the Burrum River and Flood Warning for the Isis and Elliott Rivers",
+   "id": "IDN21037",
+   "title": "Severe Weather Warning",
+   "issued": "",
+   "severity": "high",
+   "ptype": [
+    "flood",
+    "severe_weather",
+    "wind"
+   ],
+   "headline": "IDN21037 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Weather Warning for DAMAGING WINDS For people in parts of Snowy Mountains Forecast District. Issued at 4:34 pm Friday, 30 October 2026. Damaging winds developing over alpine areas during Saturday morning. Weather Situation: Strengthening northwesterly winds will develop over the alpine ranges of New So",
+   "fetched_at": "2026-10-30T09:53:00+00:00"
+  },
+  {
+   "id": "IDN28522",
+   "title": "New South Wales",
+   "issued": "",
+   "severity": "low",
+   "ptype": [
+    "marine"
+   ],
+   "headline": "IDN28522 Australian Government Bureau of Meteorology New South Wales Hazardous Surf Warning for New South Wales Issued at 5:15 pm EDT on Friday 30 October 2026 for the period until midnight EDT Friday 30 October 2026. Surf and swell conditions are expected to be hazardous for coastal activities such as rock fishing, boating, and swimming for the following places. Particularly at south facing beach",
+   "fetched_at": "2026-10-30T09:53:01+00:00"
+  },
+  {
+   "id": "IDQ20827",
+   "title": "Moderate Flood Warning for the Upper Condamine River",
    "issued": "",
    "severity": "medium",
    "ptype": [
     "flood"
    ],
-   "headline": "IDQ20785 Australian Government Bureau of Meteorology Minor Flood Warning for the Burrum River and Flood Warning for the Isis and Elliott Rivers Issued at 11:40 am AEST on Sunday 25 October 2026 Flood Warning Number: 3 BURRUM RIVER MAY REMAIN AROUND MINOR FLOOD LEVEL AT HOWARD INTO MONDAY MINOR FLOODING OCCURRING ALONG ISIS AND ELLIOTT RIVERS Rainfall during Saturday resulted in minor flooding alon",
-   "fetched_at": "2026-10-25T05:43:07+00:00"
+   "headline": "IDQ20827 Australian Government Bureau of Meteorology Moderate Flood Warning for the Upper Condamine River Issued at 11:01 am AEST on Friday 30 October 2026 Flood Warning Number: 16 MODERATE FLOODING EASING AT CECIL PLAINS Flooding is easing along the Upper Condamine River and its tributaries after rainfall earlier in the week caused minor to major flooding. At Tummaville, minor flooding is no long",
+   "fetched_at": "2026-10-30T09:53:01+00:00"
   },
   {
-   "id": "IDQ20790",
-   "title": "Major Flood Warning for the Mary River",
+   "id": "IDQ20829",
+   "title": "Major Flood Warning for the Lower Condamine River",
    "issued": "",
    "severity": "high",
    "ptype": [
     "flood"
    ],
-   "headline": "IDQ20790 Australian Government Bureau of Meteorology Major Flood Warning for the Mary River Issued at 11:44 am AEST on Sunday 25 October 2026 Flood Warning Number: 6 MAJOR FLOODING POSSIBLE AT TIARO OVERNIGHT SUNDAY INTO MONDAY MODERATE FLOODING OCCURRING AT MIVA AND TIARO MINOR FLOODING OCCURRING AT GYMPIE AND POSSIBLE AT MARYBOROUGH EARLY MONDAY MORNING Rainfall during the last few days and over",
-   "fetched_at": "2026-10-25T05:43:08+00:00"
+   "headline": "IDQ20829 Australian Government Bureau of Meteorology Major Flood Warning for the Lower Condamine River Issued at 11:45 am AEST on Friday 30 October 2026 Flood Warning Number: 4 MAJOR FLOODING OCCURRING AT LOUDOUN BRIDGE Rainfall over the last few days in the Upper Condamine River catchment has caused river level rises and minor to major flooding along the Condamine River. The flood peak has now re",
+   "fetched_at": "2026-10-30T09:53:02+00:00"
   },
   {
-   "id": "IDQ20795",
-   "title": "Final Flood Warning for the Maroochy and Mooloolah Rivers",
+   "id": "IDQ20831",
+   "title": "Final Flood Warning for Bungil Creek",
    "issued": "",
    "severity": "medium",
    "ptype": [
     "flood"
    ],
-   "headline": "IDQ20795 Australian Government Bureau of Meteorology Final Flood Warning for the Maroochy and Mooloolah Rivers Issued at 1:26 pm AEST on Saturday 24 October 2026 Flood Warning Number: 3 FLOODING NO LONGER EXPECTED IN THE MAROOCHY AND MOOLOOLAH RIVER CATCHMENTS Moderate to heavy rainfall has been observed along the Maroochy and Mooloolah River catchments since Wednesday, which caused minor to moder",
-   "fetched_at": "2026-10-25T05:43:08+00:00"
-  },
-  {
-   "id": "IDQ20827",
-   "title": "Minor Flood Warning for the Upper Condamine River",
-   "issued": "",
-   "severity": "medium",
-   "ptype": [
-    "flood"
-   ],
-   "headline": "IDQ20827 Australian Government Bureau of Meteorology Minor Flood Warning for the Upper Condamine River Issued at 1:16 pm AEST on Sunday 25 October 2026 Flood Warning Number: 5 MINOR FLOODING POSSIBLE AT PRATTEN SUNDAY EVENING, AND TUMMAVILLE AND CECIL PLAINS FROM LATE MONDAY Heavy rainfall and river level rises have been recorded across the Upper Condamine River and its tributaries over the last f",
-   "fetched_at": "2026-10-25T05:43:09+00:00"
+   "headline": "IDQ20831 Australian Government Bureau of Meteorology Final Flood Warning for Bungil Creek Issued at 8:55 am AEST on Thursday 29 October 2026 Flood Warning Number: 3 MINOR FLOODING NO LONGER EXPECTED AT ROMA Creek levels along the upper reaches of Bungil Creek have peaked and are falling. Renewed rises at Roma are possible but expected to remain below the minor flood level. No further significant r",
+   "fetched_at": "2026-10-30T09:53:03+00:00"
   },
   {
    "id": "IDQ20835",
-   "title": "Moderate Flood Warning for the Weir River",
+   "title": "Minor Flood Warning for the Weir River and Final Flood Warning for the Macintyre River",
    "issued": "",
    "severity": "medium",
    "ptype": [
     "flood"
    ],
-   "headline": "IDQ20835 Australian Government Bureau of Meteorology Moderate Flood Warning for the Weir River Issued at 1:08 pm AEST on Sunday 25 October 2026 Flood Warning Number: 3 MODERATE FLOODING POSSIBLE AT TALWOOD FROM THURSDAY Moderate rainfall has been observed over the Weir River catchment over the last few days. River level rises and areas of flooding are occurring. Downstream at Talwood, minor floodi",
-   "fetched_at": "2026-10-25T05:43:10+00:00"
+   "headline": "IDQ20835 Australian Government Bureau of Meteorology Minor Flood Warning for the Weir River and Final Flood Warning for the Macintyre River Issued at 11:29 am AEST on Friday 30 October 2026 Flood Warning Number: 10 MINOR FLOODING POSSIBLE AT TALWOOD FRIDAY AFTERNOON Along the Macintyre River, river levels are mostly easing and minor flooding is no longer occurring at Goondiwindi. Along the Weir Ri",
+   "fetched_at": "2026-10-30T09:53:03+00:00"
   },
   {
    "id": "IDQ20840",
@@ -127,41 +92,41 @@
    "ptype": [
     "flood"
    ],
-   "headline": "IDQ20840 Australian Government Bureau of Meteorology Minor Flood Warning for the Moonie River Issued at 9:51 am AEST on Sunday 25 October 2026 Flood Warning Number: 2 MINOR FLOODING IS OCCURRING AT NINDIGULLY Moderate to heavy rainfall over the last few days has caused river level rises along the Moonie River. Minor flooding is occurring along the Moonie River at Nindigully. Moonie River to Flinto",
-   "fetched_at": "2026-10-25T05:43:10+00:00"
-  },
-  {
-   "id": "IDQ20842",
-   "title": "Minor Flood Warning for Wallam Creek and Flood Warning for Mungallala Creek",
-   "issued": "",
-   "severity": "medium",
-   "ptype": [
-    "flood"
-   ],
-   "headline": "IDQ20842 Australian Government Bureau of Meteorology Minor Flood Warning for Wallam Creek and Flood Warning for Mungallala Creek Issued at 10:35 am AEST on Sunday 25 October 2026 Flood Warning Number: 2 CREEK LEVELS LIKELY TO REMAIN AROUND THE MINOR FLOOD LEVEL AT BOLLON MARY ST INTO MONDAY Rainfall over the last few days across the upper Wallam and Mungallala Creek catchments has resulted in cree",
-   "fetched_at": "2026-10-25T05:43:11+00:00"
+   "headline": "IDQ20840 Australian Government Bureau of Meteorology Minor Flood Warning for the Moonie River Issued at 8:48 am AEST on Friday 30 October 2026 Flood Warning Number: 7 MINOR FLOODING CONTINUING AT NINDIGULLY Moderate to heavy rainfall over the last few days has caused river level rises along the Moonie River. Minor flooding is expected to continue at Nindigully over the next few days. Moonie River ",
+   "fetched_at": "2026-10-30T09:53:04+00:00"
   },
   {
    "id": "IDQ20845",
-   "title": "Minor Flood Warning for the Warrego River (QLD)",
+   "title": "Moderate Flood Warning for the Warrego River (QLD)",
    "issued": "",
    "severity": "medium",
    "ptype": [
     "flood"
    ],
-   "headline": "IDQ20845 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (QLD) Issued at 2:59 pm AEST on Sunday 25 October 2026 Flood Warning Number: 6 NEAR MODERATE PEAK OBSERVED AT AUGATHELLA LATE SUNDAY MORNING MINOR FLOODING CONTINUING AT BAKERS BEND AND POSSIBLE AT WYANDRA OVERNIGHT INTO MONDAY Isolated heavy rainfall has been recorded across the Warrego catchment over t",
-   "fetched_at": "2026-10-25T05:43:12+00:00"
+   "headline": "IDQ20845 Australian Government Bureau of Meteorology Moderate Flood Warning for the Warrego River (QLD) Issued at 7:00 pm AEST on Friday 30 October 2026 Flood Warning Number: 12 MINOR FLOODING POSSIBLE AT CHARLEVILLE FRIDAY EVENING MODERATE FLOODING OCCURRING AT CUNNAMULLA BRIDGE AND POSSIBLE AT ROCKY OVERNIGHT FRIDAY INTO SATURDAY Heavy rainfall near Charleville has caused rapid rises and floodin",
+   "fetched_at": "2026-10-30T09:53:04+00:00"
+  },
+  {
+   "id": "IDQ20850",
+   "title": "Initial Minor Flood Warning for the Paroo River",
+   "issued": "",
+   "severity": "medium",
+   "ptype": [
+    "flood"
+   ],
+   "headline": "IDQ20850 Australian Government Bureau of Meteorology Initial Minor Flood Warning for the Paroo River Issued at 10:27 am AEST on Friday 30 October 2026 Flood Warning Number: 1 MINOR FLOODING POSSIBLE AT HUNGERFORD OVER THE WEEKEND Rainfall recorded across the Paroo catchment over the past week has caused river level rises. Minor flooding is occurring along the Paroo River at Caiwarro and may occur ",
+   "fetched_at": "2026-10-30T09:53:05+00:00"
   },
   {
    "id": "IDQ20855",
-   "title": "Minor Flood Warning for the Bulloo River",
+   "title": "Moderate Flood Warning for the Bulloo River",
    "issued": "",
    "severity": "medium",
    "ptype": [
     "flood"
    ],
-   "headline": "IDQ20855 Australian Government Bureau of Meteorology Minor Flood Warning for the Bulloo River Issued at 12:36 pm AEST on Sunday 25 October 2026 Flood Warning Number: 5 MINOR FLOODING POSSIBLE AT THARGOMINDAH FROM OVERNIGHT MONDAY INTO TUESDAY MINOR FLOODING EASING AT QUILPIE River levels are easing along the Bulloo River upstream of Quilpie after significant rainfall over the last few days. Minor ",
-   "fetched_at": "2026-10-25T05:43:14+00:00"
+   "headline": "IDQ20855 Australian Government Bureau of Meteorology Moderate Flood Warning for the Bulloo River Issued at 12:42 pm AEST on Friday 30 October 2026 Flood Warning Number: 10 MODERATE FLOODING POSSIBLE AT QUILPIE FROM SUNDAY Multiple flood peaks are travelling along the Bulloo River following recent rainfall over the last week. The first peak is around Thargomindah, where the river level has peaked b",
+   "fetched_at": "2026-10-30T09:53:05+00:00"
   },
   {
    "id": "IDQ20860",
@@ -171,8 +136,8 @@
    "ptype": [
     "flood"
    ],
-   "headline": "IDQ20860 Australian Government Bureau of Meteorology Minor Flood Warning for the Barcoo River Issued at 11:20 am AEST on Sunday 25 October 2026 Flood Warning Number: 7 MINOR FLOODING EXPECTED TO BE OCCURRING AT BLACKALL MINOR FLOODING POSSIBLE AT RETREAT OVERNIGHT SUNDAY INTO MONDAY Rainfall during the last few days across the upper reaches of the Barcoo River catchment has resulted in river level",
-   "fetched_at": "2026-10-25T05:43:15+00:00"
+   "headline": "IDQ20860 Australian Government Bureau of Meteorology Minor Flood Warning for the Barcoo River Issued at 2:45 pm AEST on Friday 30 October 2026 Flood Warning Number: 12 MINOR FLOODING OCCURRING AT BLACKALL AND RETREAT AND POSSIBLE AT ISISFORD FROM SATURDAY MORNING Rainfall over the last week across the upper reaches of the Barcoo River catchment has resulted in river level rises and areas of floodi",
+   "fetched_at": "2026-10-30T09:53:06+00:00"
   },
   {
    "id": "IDQ21033",
@@ -180,69 +145,26 @@
    "issued": "",
    "severity": "high",
    "ptype": [
-    "severe_thunderstorm",
-    "wind"
+    "flood",
+    "severe_thunderstorm"
    ],
-   "headline": "IDQ21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS For people in parts of North West and Central West Forecast Districts. Issued at 2:50 pm Sunday, 25 October 2026. Severe thunderstorms with damaging winds expected about the Central West. Weather Situation: Hot and unstable conditions lead to a damaging wind risk",
-   "fetched_at": "2026-10-25T05:43:16+00:00"
+   "headline": "IDQ21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for HEAVY RAINFALL For people in parts of Northern Goldfields and Upper Flinders, Central Highlands and Coalfields, Central West and Maranoa and Warrego Forecast Districts. Issued at 7:38 pm Friday, 30 October 2026. Severe thunderstorms continuing about the southern and central int",
+   "fetched_at": "2026-10-30T09:53:07+00:00"
   },
   {
    "id": "IDS20201",
    "title": "South Australia",
-   "issued": "",
-   "severity": "info",
-   "ptype": [
-    "marine"
-   ],
-   "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Marine Wind Warning Summary for South Australia Issued at 3:37 pm CDT on Sunday 25 October 2026 for the period until midnight CDT Sunday 25 October 2026. Wind Warnings for Sunday 25 October Cancellation for the following area: Spencer Gulf The next Marine Wind Warning Summary will be issued when required. ========================",
-   "fetched_at": "2026-10-25T05:43:17+00:00"
-  },
-  {
-   "id": "IDS20242",
-   "title": "South Australia",
-   "issued": "",
-   "severity": "medium",
-   "ptype": [],
-   "headline": "IDS20242 Australian Government Bureau of Meteorology South Australia Warning to Sheep Graziers for the Mount Lofty Ranges, Mid North, Murraylands and Upper South East forecast districts. Issued at 10:28 am CDT on Sunday 25 October 2026. Sheep graziers are warned that cold temperatures, rain and showers and southwesterly winds are expected during Sunday. Areas likely to be affected include parts of",
-   "fetched_at": "2026-10-25T05:43:17+00:00"
-  },
-  {
-   "id": "IDT20100",
-   "title": "Updated Marine Wind Warning Summary for Tasmania",
    "issued": "",
    "severity": "low",
    "ptype": [
     "wind",
     "marine"
    ],
-   "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Updated Marine Wind Warning Summary for Tasmania Issued at 4:08 pm EDT on Sunday 25 October 2026 for the period until midnight EDT Monday 26 October 2026. Wind Warnings for Sunday 25 October Strong Wind Warning for the following areas: Far North West Coast, Central North Coast, Banks Strait and Franklin Sound, East of Flinders Island, U",
-   "fetched_at": "2026-10-25T05:43:18+00:00"
+   "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Marine Wind Warning Summary for South Australia Issued at 3:30 pm CDT on Friday 30 October 2026 for the period until midnight CDT Saturday 31 October 2026. Wind Warnings for Saturday 31 October Strong Wind Warning for the following areas: South Central Coast, Investigator Strait and Lower South East Coast The next marine wind war",
+   "fetched_at": "2026-10-30T09:53:07+00:00"
   },
   {
-   "id": "IDT20611",
-   "title": "Initial Minor Flood Warning for the South Esk River",
-   "issued": "",
-   "severity": "medium",
-   "ptype": [
-    "flood"
-   ],
-   "headline": "IDT20611 Australian Government Bureau of Meteorology Initial Minor Flood Warning for the South Esk River Issued at 1:38 pm Australian Eastern Daylight Time on Sunday 25 October 2026 Flood Warning Number: 1 MINOR FLOODING POSSIBLE AT LEWIS HILL FROM SUNDAY EVENING Light to moderate rainfall has been observed across the South Esk River catchment, with further rainfall forecast for the remainder of S",
-   "fetched_at": "2026-10-25T05:43:18+00:00"
-  },
-  {
-   "id": "IDV20600",
-   "title": "for the period until midnight EDT Monday 26 October 2026.",
-   "issued": "",
-   "severity": "medium",
-   "ptype": [
-    "wind",
-    "marine"
-   ],
-   "headline": "IDV20600 Australian Government Bureau of Meteorology Victoria Marine Wind Warning Summary for Victoria Issued at 4:15 pm EDT on Sunday 25 October 2026 for the period until midnight EDT Monday 26 October 2026. Wind Warnings for Sunday 25 October Gale Warning for the following area: East Gippsland Coast Strong Wind Warning for the following areas: Port Phillip, Western Port, Central Coast and Centra",
-   "fetched_at": "2026-10-25T05:43:19+00:00"
-  },
-  {
-   "id": "IDV21033",
+   "id": "IDS21033",
    "title": "Cancellation of Severe Thunderstorm Warning",
    "issued": "",
    "severity": "info",
@@ -250,46 +172,48 @@
     "flood",
     "severe_thunderstorm"
    ],
-   "headline": "IDV21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Cancellation of Severe Thunderstorm Warning For people in East Gippsland and North East Forecast Districts. Issued at 3:20 pm Sunday, 25 October 2026. Severe thunderstorms in the northeast have eased. This warning is now cancelled. The chance of additional severe thunderstorms in Victoria during the rest of t",
-   "fetched_at": "2026-10-25T05:43:19+00:00"
+   "headline": "IDS21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Cancellation of Severe Thunderstorm Warning For people in North West Pastoral and North East Pastoral districts. Issued at 8:22 pm Friday, 30 October 2026. Severe thunderstorms no longer occurring This warning is now cancelled. Thunderstorms are likely to persist for the next couple of hours but are no longer",
+   "fetched_at": "2026-10-30T09:53:08+00:00"
   },
   {
-   "id": "IDV21037",
-   "title": "Cancellation of Severe Weather Warning",
-   "issued": "",
-   "severity": "info",
-   "ptype": [
-    "flood",
-    "severe_thunderstorm",
-    "severe_weather",
-    "wind"
-   ],
-   "headline": "IDV21037 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Cancellation of Severe Weather Warning For people in East Gippsland, North East and West and South Gippsland Forecast Districts. Issued at 10:38 am Sunday, 25 October 2026. Sustained damaging winds have eased, but damaging gusts may continue in severe thunderstorms. Refer to current Severe Thunderstorm Warnin",
-   "fetched_at": "2026-10-25T05:43:20+00:00"
-  },
-  {
-   "id": "IDV29000",
-   "title": "Warning to Sheep Graziers",
+   "id": "IDT20100",
+   "title": "Updated Marine Wind Warning Summary for Tasmania",
    "issued": "",
    "severity": "medium",
-   "ptype": [],
-   "headline": "IDV29000 Australian Government Bureau of Meteorology Victoria Warning to Sheep Graziers for the Wimmera, Northern Country, North Central, North East, South West, Central, West and South Gippsland and East Gippsland forecast districts. Issued at 10:58 am EDT on Sunday 25 October 2026. Sheep graziers are warned that cold temperatures, rain and showers and southwesterly winds are expected during Sund",
-   "fetched_at": "2026-10-25T05:43:21+00:00"
+   "ptype": [
+    "wind",
+    "marine"
+   ],
+   "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Updated Marine Wind Warning Summary for Tasmania Issued at 4:05 pm EDT on Friday 30 October 2026 for the period until midnight EDT Saturday 31 October 2026. Wind Warnings for Friday 30 October Strong Wind Warning for the following area: Upper East Coast Wind Warnings for Saturday 31 October Gale Warning for the following areas: Upper Ea",
+   "fetched_at": "2026-10-30T09:53:08+00:00"
   },
   {
-   "id": "IDW20100",
-   "title": "Western Australia",
+   "id": "IDV20600",
+   "title": "for the period until midnight EDT Saturday 31 October 2026.",
    "issued": "",
    "severity": "low",
    "ptype": [
     "wind",
     "marine"
    ],
-   "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Updated Marine Wind Warning Summary for Western Australia Issued at 1:10 pm WST on Sunday 25 October 2026 for the period until midnight WST Monday 26 October 2026. Wind Warnings for Sunday 25 October Strong Wind Warning for the following areas: Pilbara Coast West, Ningaloo Coast, Gascoyne Coast, Geraldton Coast and Leeuwin Coas",
-   "fetched_at": "2026-10-25T05:43:21+00:00"
+   "headline": "IDV20600 Australian Government Bureau of Meteorology Victoria Marine Wind Warning Summary for Victoria Issued at 4:15 pm EDT on Friday 30 October 2026 for the period until midnight EDT Saturday 31 October 2026. Wind Warnings for Saturday 31 October Strong Wind Warning for the following areas: Port Phillip, Western Port, West Coast, Central Coast, Central Gippsland Coast and East Gippsland Coast Th",
+   "fetched_at": "2026-10-30T09:53:09+00:00"
   },
   {
-   "id": "IDY21040",
+   "id": "IDV21037",
+   "title": "Severe Weather Warning",
+   "issued": "",
+   "severity": "high",
+   "ptype": [
+    "flood",
+    "severe_weather",
+    "wind"
+   ],
+   "headline": "IDV21037 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Weather Warning for DAMAGING WINDS For people in parts of East Gippsland, North East and West and South Gippsland Forecast Districts. Issued at 4:34 pm Friday, 30 October 2026. Damaging winds developing over the eastern ranges during Saturday morning. Weather Situation: Strengthening northwesterly wind",
+   "fetched_at": "2026-10-30T09:53:09+00:00"
+  },
+  {
+   "id": "IDY21010",
    "title": "High Seas Weather Warning for METAREA 10",
    "issued": "",
    "severity": "medium",
@@ -297,23 +221,11 @@
     "wind",
     "marine"
    ],
-   "headline": "IDY21040 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1750UTC 24 October 2026 FINAL GALE WARNING 5 FOR SOUTHERN AND WESTERN AREAS SITUATION AT 241800UTC Vigorous southwesterly flow associated with trough 45S113E 51S114E. Forecast near 43S115E 47S116E at 242100UTC then weakening thereafter. AREA AFFECTED ",
-   "fetched_at": "2026-10-25T05:43:22+00:00"
+   "headline": "IDY21010 40:2:1:04:70S100E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0557UTC 30 October 2026 GALE WARNING 2 FOR WESTERN AND SOUTHERN AREAS SITUATION AT 300600UTC Vigorous westerly quarter flow associated with trough near 48S107E 54S107E 56S105E. Forecast near 47S111E 52S115E 54S115E at 301200UTC, near 47S114E 50S121E 5",
+   "fetched_at": "2026-10-30T09:53:10+00:00"
   },
   {
-   "id": "IDY21060",
-   "title": "High Seas Weather Warning for METAREA 10",
-   "issued": "",
-   "severity": "info",
-   "ptype": [
-    "wind",
-    "marine"
-   ],
-   "headline": "IDY21060 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0422UTC 25 October 2026 CANCELLATION OF GALE WARNING 7 FOR SOUTHERN AND WESTERN AREAS SITUATION AT 250420UTC Gale force winds are no longer expected within affected area within the next 24 hours. AREA AFFECTED Bounded by 44S080E 46S084E 52S087E 51S080",
-   "fetched_at": "2026-10-25T05:43:22+00:00"
-  },
-  {
-   "id": "IDY21070",
+   "id": "IDY21020",
    "title": "High Seas Weather Warning for METAREA 10",
    "issued": "",
    "severity": "medium",
@@ -321,11 +233,11 @@
     "wind",
     "marine"
    ],
-   "headline": "IDY21070 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2354UTC 24 October 2026 GALE WARNING 8 FOR SOUTHERN AREA SITUATION AT 250000UTC Vigorous flow forecast to develop associated with trough near 49S068E 56S073E at 250600UTC, 51S071E 58S078E at 251200UTC, 52S077E 59S085E at 251800UTC, and 53S086E 60S094E",
-   "fetched_at": "2026-10-25T05:43:23+00:00"
+   "headline": "IDY21020 40:2:1:04:55S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0556UTC 30 October 2026 GALE WARNING 3 FOR WESTERN AREA SITUATION AT 300600UTC Vigorous northwesterly quarter flow developing associated with trough forecast near 40S074E 44S080E at 301200UTC, near 40S080E 44S086E at 301800UTC, and near 40S084E 44S088",
+   "fetched_at": "2026-10-30T09:53:11+00:00"
   },
   {
-   "id": "IDY21080",
+   "id": "IDY21091",
    "title": "High Seas Weather Warning for METAREA 10",
    "issued": "",
    "severity": "medium",
@@ -333,8 +245,8 @@
     "wind",
     "marine"
    ],
-   "headline": "IDY21080 40:2:1:04:55S125E35050:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2354UTC 24 October 2026 GALE WARNING 9 FOR SOUTHEASTERN AREA SITUATION AT 250000UTC Forecast vigorous flow associated with a cold front developing near 37S149E 40S151E at 250600UTC, 36S150E 37S152E 39S152E at 251200UTC, 36S150E 37S154E 41S156E at 2518",
-   "fetched_at": "2026-10-25T05:43:24+00:00"
+   "headline": "IDY21091 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0556UTC 30 October 2026 FINAL GALE WARNING 11 FOR SOUTHERN AREA SITUATION AT 300600UTC Vigorous flow associated with trough near 54S127E 57S126E. Forecast near 53S132E 58S131E at 301200UTC, and weakening thereafter. AREA AFFECTED Bounded by 54S112E 54",
+   "fetched_at": "2026-10-30T09:53:11+00:00"
   },
   {
    "id": "IDY28000",
@@ -342,8 +254,8 @@
    "issued": "",
    "severity": "low",
    "ptype": [],
-   "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 0000UTC Chart Issued at 12:38 pm EDT Sunday on 25 October 2026 Thick cloud is present over eastern Queensland and northeastern New South Wales due to the combination of an upper trough and a strong ridge directing a moist onshore airstream. Troughing over the central and southeastern parts of",
-   "fetched_at": "2026-10-25T05:43:24+00:00"
+   "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 0600UTC Chart Issued at 6:39 pm EDT Friday on 30 October 2026 A low and trough extending from the Great Bight is bringing low to high level cloud to the southeast. Low to high level cloud is also present over much of Queensland as an upper trough moves through the country. Scattered low level",
+   "fetched_at": "2026-10-30T09:53:12+00:00"
   }
  ]
 }

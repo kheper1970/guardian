@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-30T09:30:01.544314+00:00",
+ "collected_utc": "2026-10-30T10:30:01.511990+00:00",
  "earthquakes": [
   {
    "mag": 4.6,
@@ -124,6 +124,11 @@
   "kp_max_24h": 2.33,
   "alerts_recent": [
    {
+    "id": "K05W",
+    "issued": "2026-10-04 11:07:31.433",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2267\r\nIssue Time: 2026 Oct 04 1107 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 04 1110 UTC\nValid To: 2026 Oct 04 2100 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential I"
+   },
+   {
     "id": "K04A",
     "issued": "2026-10-04 08:01:06.560",
     "message": "Space Weather Message Code: ALTK04\r\nSerial Number: 2689\r\nIssue Time: 2026 Oct 04 0801 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 04 0757 UTC\nSynoptic Period: 0600-0900\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagn"
@@ -142,11 +147,6 @@
     "id": "A20F",
     "issued": "2026-10-01 14:28:54.257",
     "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1128\r\nIssue Time: 2026 Oct 01 1428 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 02:  G1 (Minor)   Oct 03:  None (Below G1)   Oct 04:  G1 (Minor)   \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-exp"
-   },
-   {
-    "id": "EF3A",
-    "issued": "2026-09-30 10:04:50.050",
-    "message": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3749\r\nIssue Time: 2026 Sep 30 1004 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 30 0945 UTC\nStation: GOES-19\nComment: Yesterday's max flux of 5,622 pfu at 29/1620 UTC.\n"
    }
   ]
  },
@@ -677,12 +677,12 @@
    "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
    "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
+  },
+  {
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 19:41:12 GMT"
   },
   {
    "title": "FANR hosts nuclear emergency school - Utilities Middle East",
@@ -754,7 +754,7 @@
     "pubDate": "Fri, 30 Oct 2026 07:47:26 +0000"
    },
    {
-    "title": "Live: Tensions rising as Australia looks to push home advantage in Cape Town Test",
+    "title": "Live: Cummins provides crucial breakthrough to end dangerous stand",
     "pubDate": "Fri, 30 Oct 2026 07:45:49 +0000"
    },
    {
@@ -789,6 +789,10 @@
    },
    {
     "title": "NEWELL HWY, TOMINGLEY",
+    "category": "Advice"
+   },
+   {
+    "title": "North St, West Kempsey",
     "category": "Advice"
    },
    {
@@ -840,15 +844,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "HEZ DR, PELAW MAIN",
+    "title": "GAROO RD, GAROO",
     "category": "Not Applicable"
    },
    {
-    "title": "HOCKEY RD, TULLAMORE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "KIDMAN WAY, GOOLGOWI",
+    "title": "GEORGE SANDS WAY, WALGETT",
     "category": "Not Applicable"
    }
   ],
@@ -943,22 +943,18 @@
    },
    {
     "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 29 Oct 2026 06:16:28 GMT"
-   },
-   {
-    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
-    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
+    "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
    },
    {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
+   },
+   {
+    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
+    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
    }
   ],
   "au_security_news": [
-   {
-    "title": "Bringing home the gold - news.defence.gov.au",
-    "pubDate": "Fri, 30 Oct 2026 04:11:10 GMT"
-   },
    {
     "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
     "pubDate": "Fri, 30 Oct 2026 05:48:41 GMT"
@@ -980,12 +976,16 @@
     "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
    },
    {
-    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
-    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
+    "title": "Energy and power: What the Strait of Hormuz crisis means for energy security in Australia and the Indo-Pacific - United States Studies Centre",
+    "pubDate": "Fri, 30 Oct 2026 00:06:04 GMT"
    },
    {
-    "title": "Publication alert | The shifting Indo-Pacific energy landscape: Australia\u2019s role in building collective energy security - United States Studies Centre",
-    "pubDate": "Thu, 29 Oct 2026 21:49:59 GMT"
+    "title": "China\u2019s Military Build-up Has Created \u2018Pressure\u2019 in Southeast Asia, Australian Defense Chief Says - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+    "pubDate": "Fri, 30 Oct 2026 05:20:32 GMT"
+   },
+   {
+    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
+    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    }
   ],
   "au_health_news": [

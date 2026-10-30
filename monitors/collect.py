@@ -23,6 +23,8 @@ REPORTS.mkdir(exist_ok=True)
 
 UA = {"User-Agent": "GuardianRiskMonitor/1.0 (research; contact via host admin)"}
 
+import bom  # local: BOM AU warnings; collect() refreshes data/bom_warnings_latest.json
+
 
 def fetch(url, timeout=20, as_json=True):
     req = urllib.request.Request(url, headers=UA)
@@ -574,6 +576,7 @@ def main():
                     ("nuclear_news", lambda: collect_gnews("IAEA radiological emergency OR nuclear incident OR nuclear accident")),
                     ("famine_news", lambda: collect_gnews("famine OR food insecurity emergency")),
                     ("australia", collect_australia),
+                    ("bom", bom.collect),
                     ("iaea", collect_iaea),
                     ("famine_gdelt", lambda: (time.sleep(6), collect_famine())[1]),
                     ("conflict_gdelt", lambda: (time.sleep(6), collect_conflict())[1]),

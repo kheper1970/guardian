@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-30T22:30:01.637696+00:00",
+ "collected_utc": "2026-10-30T23:30:01.352629+00:00",
  "earthquakes": [
+  {
+   "mag": 4.6,
+   "place": "33 km NE of Mazo Cruz, Peru",
+   "time": 1793400417982,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp",
+   "type": "earthquake"
+  },
   {
    "mag": 4.5,
    "place": "236 km ESE of Zyryanka, Russia",
@@ -79,14 +87,6 @@
    "time": 1793329457406,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "59 km SW of Port-Vila, Vanuatu",
-   "time": 1793315089300,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
    "type": "earthquake"
   }
  ],
@@ -495,32 +495,32 @@
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
+   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
-   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "FANR hosts nuclear emergency training for experts from more than 25 UAE organisations - Utilities Middle East",
    "pubDate": "Fri, 30 Oct 2026 06:27:39 GMT"
   },
   {
-   "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
-   "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
+   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
+   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
   },
   {
-   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
-   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+   "title": "Transport of Radioactive Material - World Nuclear Association",
+   "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+   "title": "Kyshtym disaster | Causes, Concealment, Revelation, &amp; Facts - Britannica",
+   "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
   },
   {
-   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
-   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
+   "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
+   "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -537,8 +537,16 @@
    "pubDate": "Thu, 29 Oct 2026 19:15:00 GMT"
   },
   {
+   "title": "Flooding and Food Security: The Urgent Need for Research - Inter Press Service",
+   "pubDate": "Wed, 28 Oct 2026 14:35:39 GMT"
+  },
+  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Fri, 30 Oct 2026 07:13:00 GMT"
+  },
+  {
+   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - UN World Food Programme",
+   "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
   },
   {
    "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
@@ -547,18 +555,42 @@
   {
    "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
    "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
-  },
-  {
-   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
-   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
-  },
-  {
-   "title": "Somalia - UN World Food Programme",
-   "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Etsy cracks down on AI-copying issues but some users still sceptical",
+    "pubDate": "Fri, 30 Oct 2026 23:28:26 +0000"
+   },
+   {
+    "title": "Triple premiership coach Chris Fagan joins Carlton as director of football",
+    "pubDate": "Fri, 30 Oct 2026 23:26:13 +0000"
+   },
+   {
+    "title": "G20 foreign ministers skip 'family' photo amid objections over Russia",
+    "pubDate": "Fri, 30 Oct 2026 23:19:07 +0000"
+   },
+   {
+    "title": "The visually impaired triathlete preparing to take on a half marathon",
+    "pubDate": "Fri, 30 Oct 2026 23:00:00 +0000"
+   },
+   {
+    "title": "Victorian town loses last LPG servo as demand for the fuel falls",
+    "pubDate": "Fri, 30 Oct 2026 22:58:44 +0000"
+   },
+   {
+    "title": "Who was behind the largest crypto heist in history?",
+    "pubDate": "Fri, 30 Oct 2026 22:50:12 +0000"
+   },
+   {
+    "title": "Morgue, mould and privacy breach push NT health crisis to new levels",
+    "pubDate": "Fri, 30 Oct 2026 22:38:17 +0000"
+   },
+   {
+    "title": "Interstate investors sparking 'astronomical' house sales in Alice Springs",
+    "pubDate": "Fri, 30 Oct 2026 22:30:32 +0000"
+   },
    {
     "title": "New Bass Strait ferries herald new era, but it has not been plain sailing",
     "pubDate": "Fri, 30 Oct 2026 22:28:17 +0000"
@@ -566,38 +598,6 @@
    {
     "title": "Ruthless Cats crush Bulldogs in AFLW finals statement",
     "pubDate": "Fri, 30 Oct 2026 22:23:12 +0000"
-   },
-   {
-    "title": "Secrecy orders and back exits as alleged gangster puts AFP under scrutiny",
-    "pubDate": "Fri, 30 Oct 2026 22:06:50 +0000"
-   },
-   {
-    "title": "Tiny town calls for parliamentary inquiry into SA Ambulance service",
-    "pubDate": "Fri, 30 Oct 2026 22:01:00 +0000"
-   },
-   {
-    "title": "England's World Cup fate is resting on a miracle",
-    "pubDate": "Fri, 30 Oct 2026 21:50:51 +0000"
-   },
-   {
-    "title": "Series set for epic finale as Aussie batters must stand up",
-    "pubDate": "Fri, 30 Oct 2026 21:21:19 +0000"
-   },
-   {
-    "title": "Can anyone rein in the rabble of Queensland parliament?",
-    "pubDate": "Fri, 30 Oct 2026 21:19:22 +0000"
-   },
-   {
-    "title": "Teenager charged over alleged stabbing at Sydney house party",
-    "pubDate": "Fri, 30 Oct 2026 21:17:31 +0000"
-   },
-   {
-    "title": "Family criticise lack of communication as authorities consider Fiji death",
-    "pubDate": "Fri, 30 Oct 2026 21:09:52 +0000"
-   },
-   {
-    "title": "What happens next for Sam Wood after his bail has been denied",
-    "pubDate": "Fri, 30 Oct 2026 21:08:42 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -615,6 +615,10 @@
    },
    {
     "title": "Lawson Cr, Griffith",
+    "category": "Advice"
+   },
+   {
+    "title": "NEW ENGLAND HWY, RAVENSWORTH",
     "category": "Advice"
    },
    {
@@ -662,15 +666,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BLAIR ATHOL RD, INVERELL",
+    "title": "ASTON RD, KENTHURST",
     "category": "Not Applicable"
    },
    {
     "title": "BOONA RD, CONDOBOLIN",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "CASTLEREAGH HWY, WALGETT",
     "category": "Not Applicable"
    },
    {
@@ -756,12 +756,12 @@
     "pubDate": "Thu, 29 Oct 2026 23:20:00 GMT"
    },
    {
-    "title": "Nepal\u2019s glacial collapse flood is a warning to the world. Are we listening? - WWF-Australia",
-    "pubDate": "Fri, 30 Oct 2026 03:49:22 GMT"
-   },
-   {
     "title": "Woolworths rolls out emergency crisis kits for Aussies amid warnings to stock up on tinned food - Yahoo News Australia",
     "pubDate": "Thu, 29 Oct 2026 21:18:33 GMT"
+   },
+   {
+    "title": "Nepal\u2019s glacial collapse flood is a warning to the world. Are we listening? - WWF-Australia",
+    "pubDate": "Fri, 30 Oct 2026 03:49:22 GMT"
    },
    {
     "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
@@ -772,22 +772,30 @@
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
    },
    {
+    "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
+    "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
+   },
+   {
     "title": "Aussies urged 'be prepared' and stockpile tinned food, bottled water as threats grow - Yahoo News Australia",
     "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
    },
    {
-    "title": "Why North Queensland could pay price this wet season - Townsville Bulletin",
-    "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
-   },
-   {
-    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
-    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
+    "title": "Doomsday warning? Why governments are warning people to stockpile emergency supplies for 72 hours - WION",
+    "pubDate": "Thu, 29 Oct 2026 02:02:00 GMT"
    }
   ],
   "au_security_news": [
    {
     "title": "As I See It | The flaw in Australia\u2019s \u2018China threat\u2019 thesis - South China Morning Post",
     "pubDate": "Fri, 30 Oct 2026 21:30:08 GMT"
+   },
+   {
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
+   },
+   {
+    "title": "Bringing home the gold - news.defence.gov.au",
+    "pubDate": "Fri, 30 Oct 2026 04:11:10 GMT"
    },
    {
     "title": "'Results are sobering', but silence about climate risks impedes our preparation - The Canberra Times",
@@ -798,24 +806,16 @@
     "pubDate": "Fri, 30 Oct 2026 15:10:57 GMT"
    },
    {
-    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
-    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
-   },
-   {
     "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
     "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
    },
    {
-    "title": "Verkada gains Australian IRAP approval for protected data - SecurityBrief Australia",
+    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
+    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
+   },
+   {
+    "title": "Verkada gains Australian IRAP approval for protected data - IT Brief Australia",
     "pubDate": "Fri, 30 Oct 2026 17:15:05 GMT"
-   },
-   {
-    "title": "Video Summary: Defence reallocates funds, next submarine visit, and Exercise Dugong26 - Australian Defence Magazine",
-    "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
-   },
-   {
-    "title": "PNG punish soft England defence in second half - Yahoo News Australia",
-    "pubDate": "Fri, 30 Oct 2026 19:40:23 GMT"
    }
   ],
   "au_health_news": [

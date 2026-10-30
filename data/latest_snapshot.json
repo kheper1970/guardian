@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-29T23:45:01.361276+00:00",
+ "collected_utc": "2026-10-30T00:45:02.006538+00:00",
  "earthquakes": [
+  {
+   "mag": 4.6,
+   "place": "59 km SW of Port-Vila, Vanuatu",
+   "time": 1793315089300,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
+   "type": "earthquake"
+  },
   {
    "mag": 6.2,
    "place": "43 km ESE of Port-Olry, Vanuatu",
@@ -168,21 +176,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
    "type": "earthquake"
-  },
-  {
-   "mag": 5.4,
-   "place": "109 km ENE of Luganville, Vanuatu",
-   "time": 1793232500933,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-10-29T18:00:00",
-   "Kp": 0.33,
-   "a_running": 2,
+   "time_tag": "2026-10-29T21:00:00",
+   "Kp": 0.67,
+   "a_running": 3,
    "station_count": 8
   },
   "kp_max_24h": 2.33,
@@ -215,8 +215,25 @@
   ]
  },
  "neo": {
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
-  "trace": " self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 531, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 611, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 429: Too Many Requests\n"
+  "count": 2,
+  "events": [
+   {
+    "name": "(2015 WZ12)",
+    "diameter_min_m": 15,
+    "diameter_max_m": 33,
+    "hazardous": false,
+    "miss_km": 10266781.601251667,
+    "velocity_kph": 37219.9576930949
+   },
+   {
+    "name": "(2018 BB5)",
+    "diameter_min_m": 35,
+    "diameter_max_m": 78,
+    "hazardous": false,
+    "miss_km": 24769187.744398355,
+    "velocity_kph": 78825.3464967725
+   }
+  ]
  },
  "who_news": [
   {
@@ -685,20 +702,32 @@
    "pubDate": "Thu, 29 Oct 2026 11:56:00 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
    "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
   },
   {
    "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
    "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
+  },
+  {
+   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
+   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Breaking: Perth man, 22, charged with allegedly planning terrorist attack",
+    "pubDate": "Fri, 30 Oct 2026 00:28:54 +0000"
+   },
+   {
+    "title": "Ex-Sydney childcare worker charged with 200 more abuse offences",
+    "pubDate": "Fri, 30 Oct 2026 00:05:12 +0000"
+   },
+   {
+    "title": "Free hearing bus helping 2,000 kids faces closure as funding ends",
+    "pubDate": "Fri, 30 Oct 2026 00:01:21 +0000"
+   },
    {
     "title": "Patterson's failed appeal leaves few legal avenues for the mushroom killer",
     "pubDate": "Thu, 29 Oct 2026 23:22:33 +0000"
@@ -708,7 +737,7 @@
     "pubDate": "Thu, 29 Oct 2026 23:19:24 +0000"
    },
    {
-    "title": "Breaking: Mushroom murderer likely to die in jail after failed appeal",
+    "title": "Mushroom murderer likely to die in jail after failed appeal",
     "pubDate": "Thu, 29 Oct 2026 23:13:00 +0000"
    },
    {
@@ -726,18 +755,6 @@
    {
     "title": "Permit seeks higher antibiotic dosage for diseased Tasmania salmon",
     "pubDate": "Thu, 29 Oct 2026 22:40:09 +0000"
-   },
-   {
-    "title": "Live: Erin Patterson loses appeal, harsher sentence imposed",
-    "pubDate": "Thu, 29 Oct 2026 22:15:56 +0000"
-   },
-   {
-    "title": "Australia sitting on unused goldmine of old gigantic tyres",
-    "pubDate": "Thu, 29 Oct 2026 22:02:31 +0000"
-   },
-   {
-    "title": "For the fans who became heroes, Samoa vs Tonga is bigger than a grand final",
-    "pubDate": "Thu, 29 Oct 2026 21:33:00 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -790,11 +807,11 @@
     "category": "Not Applicable"
    },
    {
-    "title": "HOSPITAL RD",
+    "title": "HEZ DR, PELAW MAIN",
     "category": "Not Applicable"
    },
    {
-    "title": "HUME HWY, GUNNING",
+    "title": "HWY, KIWARRAK",
     "category": "Not Applicable"
    },
    {
@@ -892,12 +909,16 @@
   ],
   "au_emergency_news": [
    {
+    "title": "Kalamunda bushfire sparks arson squad investigation after evacuation warning - The West Australian",
+    "pubDate": "Thu, 29 Oct 2026 23:20:00 GMT"
+   },
+   {
     "title": "Woolworths rolls out emergency crisis kits for Aussies amid warnings to stockpile tinned food - Yahoo News Australia",
     "pubDate": "Thu, 29 Oct 2026 21:18:33 GMT"
    },
    {
-    "title": "Kalamunda bushfire sparks arson squad investigation after evacuation warning - The West Australian",
-    "pubDate": "Thu, 29 Oct 2026 23:20:00 GMT"
+    "title": "Why North Queensland could pay price this wet season - Townsville Bulletin",
+    "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
    },
    {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
@@ -912,16 +933,12 @@
     "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
    },
    {
-    "title": "Cyclone Vaianu: Qantas, Jetstar &amp; Virgin's Fiji flights cancelled - Karryon",
-    "pubDate": "Thu, 29 Oct 2026 15:05:15 GMT"
-   },
-   {
     "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
     "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
    },
    {
-    "title": "Travellers left stranded by Perth Airport\u2019s power outage - PerthNow",
-    "pubDate": "Thu, 29 Oct 2026 07:59:00 GMT"
+    "title": "Flood-ravaged Queensland hit with heatwave warning - News24",
+    "pubDate": "Thu, 29 Oct 2026 01:31:37 GMT"
    }
   ],
   "au_security_news": [
@@ -930,16 +947,16 @@
     "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    },
    {
-    "title": "WIDA 2026 - Winners and HOF recipient announced! - Australian Defence Magazine",
-    "pubDate": "Thu, 29 Oct 2026 20:01:57 GMT"
-   },
-   {
-    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
-    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
+    "title": "Lockheed Martin partners on hypersonic launch capability - Australian Defence Magazine",
+    "pubDate": "Fri, 30 Oct 2026 00:33:38 GMT"
    },
    {
     "title": "Publication alert | The shifting Indo-Pacific energy landscape: Australia\u2019s role in building collective energy security - United States Studies Centre",
     "pubDate": "Thu, 29 Oct 2026 21:49:59 GMT"
+   },
+   {
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
     "title": "Australian Defence Force admits quarter of troops not medically fit for deployment - 7NEWS",
@@ -954,8 +971,8 @@
     "pubDate": "Thu, 29 Oct 2026 12:01:14 GMT"
    },
    {
-    "title": "Bluebottle drones that never sleep level playing field in Pacific drug war - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 29 Oct 2026 18:47:12 GMT"
+    "title": "AARON PATRICK: Why secret ADF report into Afghanistan war must be released - The Nightly",
+    "pubDate": "Fri, 30 Oct 2026 00:20:59 GMT"
    }
   ],
   "au_health_news": [

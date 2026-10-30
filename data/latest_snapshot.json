@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-30T12:30:01.912199+00:00",
+ "collected_utc": "2026-10-30T13:30:01.427031+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -258,7 +258,7 @@
  "gvp_weekly": {
   "volcanoes": [],
   "report_week": null,
-  "error": "HTTP Error 429: Too Many Requests"
+  "error": "no wayback snapshot available"
  },
  "reliefweb": {
   "disasters": [
@@ -531,36 +531,36 @@
  },
  "nuclear_news": [
   {
-   "title": "IAEA warns it 'cannot rule out' possible radiological release from Iran strikes - ABC News - Breaking News, Latest News and Videos",
-   "pubDate": "Wed, 28 Oct 2026 13:55:39 GMT"
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
   },
   {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "UN nuclear agency chief \u2018deeply concerned\u2019 by reports of latest attack on Iran power plant - UN News",
-   "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "T\u00fcrkiye\u2019s emergency plans excel at nuclear accidents but stumble on security events - Bioengineer.org",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "title": "Plan alignment and operational interfaces in nuclear security event response: evidence from T\u00fcrkiye\u2019s all-hazards emergency management system - Frontiers",
-   "pubDate": "Fri, 10 Jul 2026 12:44:51 GMT"
-  },
-  {
    "title": "FANR hosts nuclear emergency training for experts from more than 25 UAE organisations - Utilities Middle East",
    "pubDate": "Fri, 30 Oct 2026 06:27:39 GMT"
   },
   {
-   "title": "IAEA Helps Latin American and the Caribbean Countries Prepare for Nuclear and Radiological Emergencies Coinciding with Other Crises - International Atomic Energy Agency",
-   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+   "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
+   "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
+  },
+  {
+   "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
+   "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
+  },
+  {
+   "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
+   "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
   }
  ],
  "famine_news": [
@@ -581,24 +581,28 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
-   "title": "Flooding and Food Security: The Urgent Need for Research - Inter Press Service",
-   "pubDate": "Wed, 28 Oct 2026 14:35:39 GMT"
-  },
-  {
    "title": "UK households urged to prepare for emergencies and \u2018attacks\u2019. Here\u2019s what to buy - The Independent",
    "pubDate": "Fri, 30 Oct 2026 07:13:00 GMT"
   },
   {
-   "title": "Food insecurity and child malnutrition worsen in Afghanistan despite strong agricultural season - Food and Agriculture Organization",
-   "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT"
-  },
-  {
    "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
    "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
+  },
+  {
+   "title": "Famine in Sudan: Nearly 20 million people face food insecurity - The Tanzania Times",
+   "pubDate": "Tue, 27 Oct 2026 10:45:59 GMT"
+  },
+  {
+   "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
+   "pubDate": "Tue, 27 Oct 2026 04:25:32 GMT"
   }
  ],
  "australia": {
   "abc_news": [
+   {
+    "title": "Mother whose son lost sight named WA's Australian of the Year",
+    "pubDate": "Fri, 30 Oct 2026 12:30:21 +0000"
+   },
    {
     "title": "Evacuation begins from ravaged Russian-controlled Ukrainian city",
     "pubDate": "Fri, 30 Oct 2026 11:56:34 +0000"
@@ -634,10 +638,6 @@
    {
     "title": "Live: South Africa extends lead over Australia as new ball taken",
     "pubDate": "Fri, 30 Oct 2026 07:45:49 +0000"
-   },
-   {
-    "title": "Man fined over Neo-Nazi stickers may face prison time for Nazi salute",
-    "pubDate": "Fri, 30 Oct 2026 07:31:48 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -654,10 +654,6 @@
     "category": "Advice"
    },
    {
-    "title": "Carlisle Av, Mount Druitt",
-    "category": "Advice"
-   },
-   {
     "title": "Lawson Cr, Griffith",
     "category": "Advice"
    },
@@ -667,6 +663,10 @@
    },
    {
     "title": "OCEAN PARK ROAD, BELMONT SOUTH",
+    "category": "Advice"
+   },
+   {
+    "title": "POWER ACCESS TRL N, BARRINGELLA",
     "category": "Advice"
    },
    {
@@ -702,11 +702,11 @@
     "category": "Planned Burn"
    },
    {
-    "title": "BATTALION GLDE, EASTERN CREEK",
+    "title": "BOONA RD, CONDOBOLIN",
     "category": "Not Applicable"
    },
    {
-    "title": "BOONA RD, CONDOBOLIN",
+    "title": "COOLAMON RD, THE GAP",
     "category": "Not Applicable"
    },
    {
@@ -804,24 +804,24 @@
     "pubDate": "Fri, 30 Oct 2026 03:49:22 GMT"
    },
    {
-    "title": "Why North Queensland could pay price this wet season - Townsville Bulletin",
-    "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
-   },
-   {
     "title": "World braces for horror \u2018chain reaction\u2019 - News.com.au",
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
    },
    {
+    "title": "Why North Queensland could pay price this wet season - Townsville Bulletin",
+    "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
+   },
+   {
     "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
+    "pubDate": "Thu, 29 Oct 2026 06:16:28 GMT"
    },
    {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
    {
-    "title": "Wettest El Ni\u00f1o year on record? ICA urges sum-insured checks before storm season - Insurance Business",
-    "pubDate": "Thu, 29 Oct 2026 14:54:59 GMT"
+    "title": "SA Severe Thunderstorm Warning: Large Hail, Damaging Winds, Heavy Rain - Early Warning Network",
+    "pubDate": "Thu, 29 Oct 2026 12:35:11 GMT"
    }
   ],
   "au_security_news": [
@@ -838,16 +838,16 @@
     "pubDate": "Fri, 30 Oct 2026 09:31:22 GMT"
    },
    {
-    "title": "Australia won\u2019t follow US, other nations in banning Chinese cars from military sites - CarExpert",
-    "pubDate": "Fri, 30 Oct 2026 02:57:00 GMT"
-   },
-   {
     "title": "Video Summary: Defence reallocates funds, next submarine visit, and Exercise Dugong26 - Australian Defence Magazine",
     "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
    },
    {
     "title": "30 October: This Week in Australian Foreign Affairs - Australian Institute of International Affairs",
     "pubDate": "Fri, 30 Oct 2026 10:46:51 GMT"
+   },
+   {
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
     "title": "\u2018Uncontrolled warrior culture\u2019: Australia\u2019s special forces under fire in new inquiry - The Conversation",
@@ -933,13 +933,13 @@
    "pubDate": "Fri, 23 Oct 26 15:55:45 +0200"
   },
   {
-   "title": "What is Nuclear Fuel?",
-   "link": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
+   "title": "Italy and Romania Establish New Member State Support Programmes to Strengthen IAEA Safeguards",
+   "link": "http://www.iaea.org/newscenter/news/italy-and-romania-establish-new-member-state-support-programmes-to-strengthen-iaea-safeguards",
    "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
   },
   {
-   "title": "Italy and Romania Establish New Member State Support Programmes to Strengthen IAEA Safeguards",
-   "link": "http://www.iaea.org/newscenter/news/italy-and-romania-establish-new-member-state-support-programmes-to-strengthen-iaea-safeguards",
+   "title": "What is Nuclear Fuel?",
+   "link": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
    "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
   },
   {

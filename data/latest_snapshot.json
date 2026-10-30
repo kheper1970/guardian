@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-10-30T13:30:01.427031+00:00",
+ "collected_utc": "2026-10-30T14:30:01.870347+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -111,14 +111,6 @@
    "time": 1793295421805,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu2j",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "6 km SE of Pitaloza Arriba, Panama",
-   "time": 1793281377953,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyw",
    "type": "earthquake"
   }
  ],
@@ -258,7 +250,7 @@
  "gvp_weekly": {
   "volcanoes": [],
   "report_week": null,
-  "error": "no wayback snapshot available"
+  "error": "HTTP Error 429: Too Many Requests"
  },
  "reliefweb": {
   "disasters": [
@@ -666,10 +658,6 @@
     "category": "Advice"
    },
    {
-    "title": "POWER ACCESS TRL N, BARRINGELLA",
-    "category": "Advice"
-   },
-   {
     "title": "SECTOR 5, SMA",
     "category": "Advice"
    },
@@ -706,10 +694,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "COOLAMON RD, THE GAP",
-    "category": "Not Applicable"
-   },
-   {
     "title": "EMU PARK RD, SANGER",
     "category": "Not Applicable"
    },
@@ -719,6 +703,14 @@
    },
    {
     "title": "GREENFIELD LANE, SPEEWA",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HEZ DR, PELAW MAIN",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "HOCKEY RD, TULLAMORE",
     "category": "Not Applicable"
    }
   ],
@@ -804,6 +796,10 @@
     "pubDate": "Fri, 30 Oct 2026 03:49:22 GMT"
    },
    {
+    "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Thu, 29 Oct 2026 06:10:33 GMT"
+   },
+   {
     "title": "World braces for horror \u2018chain reaction\u2019 - News.com.au",
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
    },
@@ -812,16 +808,12 @@
     "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
    },
    {
-    "title": "Why Is the UK Telling People to Stock Up? - Behind The News - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Thu, 29 Oct 2026 06:16:28 GMT"
-   },
-   {
     "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
     "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
    {
-    "title": "SA Severe Thunderstorm Warning: Large Hail, Damaging Winds, Heavy Rain - Early Warning Network",
-    "pubDate": "Thu, 29 Oct 2026 12:35:11 GMT"
+    "title": "WA Severe Thunderstorm Warning: Large Hail, Damaging Winds, Heavy Rain - Early Warning Network",
+    "pubDate": "Thu, 29 Oct 2026 06:15:21 GMT"
    }
   ],
   "au_security_news": [
@@ -832,10 +824,6 @@
    {
     "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
     "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
-   },
-   {
-    "title": "Defence launches leak probe after Nightly\u2019s ADF cuts report - The Nightly",
-    "pubDate": "Fri, 30 Oct 2026 09:31:22 GMT"
    },
    {
     "title": "Video Summary: Defence reallocates funds, next submarine visit, and Exercise Dugong26 - Australian Defence Magazine",
@@ -856,6 +844,10 @@
    {
     "title": "Your Defence connection may be closer than you think - www.defenceconnect.com.au",
     "pubDate": "Fri, 30 Oct 2026 00:10:22 GMT"
+   },
+   {
+    "title": "Energy and power: What the Strait of Hormuz crisis means for energy security in Australia and the Indo-Pacific - United States Studies Centre",
+    "pubDate": "Fri, 30 Oct 2026 00:06:04 GMT"
    }
   ],
   "au_health_news": [

@@ -184,6 +184,46 @@ def collect_volcano():
     return out
 
 
+def collect_gvp():
+    """Smithsonian/USGS Weekly Volcanic Activity Report, via the Wayback
+    Machine (volcano.si.edu blocks direct automated access)."""
+    out = {"volcanoes": [], "report_week": None}
+    try:
+        avail = fetch("https://archive.org/wayback/available?url=volcano.si.edu/reports_weekly.cfm")
+        snap = (avail.get("archived_snapshots") or {}).get("closest") or {}
+        if not snap.get("available"):
+            out["error"] = "no wayback snapshot available"
+            return out
+        url = snap.get("url") or ""
+        ts = snap.get("timestamp") or ""
+        if ts:
+            try:
+                out["snapshot_utc"] = datetime.strptime(ts, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc).isoformat()
+            except ValueError:
+                out["snapshot_utc"] = ts
+        html = fetch(url, as_json=False)
+        m = re.search(r"for the week of ([^<]{5,80})", html)
+        if m:
+            out["report_week"] = re.sub(r"\s+", " ", m.group(1)).strip()
+        for hm in re.finditer(r"<h5[^>]*>(.*?)</h5>", html, re.S):
+            txt = re.sub(r"<[^>]+>", " ", hm.group(1))
+            txt = re.sub(r"\s+", " ", txt).strip()
+            txt = txt.replace("Cite this Report", "").strip()
+            parts = [p.strip() for p in txt.split("|")]
+            if len(parts) >= 3 and parts[0]:
+                out["volcanoes"].append({
+                    "volcano": parts[0],
+                    "week": parts[1],
+                    "status": parts[2],
+                })
+        out["count"] = len(out["volcanoes"])
+        out["new_activity_count"] = sum(
+            1 for v in out["volcanoes"] if "new" in v["status"].lower())
+    except Exception as e:
+        out["error"] = str(e)
+    return out
+
+
 def collect_tsunami():
     """NOAA NTWC tsunami products; flag warning/advisory/watch (not info)."""
     import re
@@ -527,6 +567,7 @@ def main():
                     ("gdacs", collect_gdacs),
                     ("tsunami", collect_tsunami),
                     ("volcano", collect_volcano),
+                    ("gvp_weekly", collect_gvp),
                     ("reliefweb", collect_reliefweb),
                     ("nhc_storms", collect_nhc),
                     ("eonet", collect_eonet),

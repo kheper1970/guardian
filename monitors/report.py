@@ -162,6 +162,25 @@ def assess(snapshot):
         lines.append("- No US volcanoes at elevated alert.")
     lines.append("")
 
+    # --- Volcanoes (GVP weekly, global) ---
+    gvp = snapshot.get("gvp_weekly", {})
+    if gvp.get("error"):
+        lines.append(f"- GVP weekly report unavailable: {gvp['error']}")
+    else:
+        lines.append(f"## Volcanoes (Smithsonian GVP weekly, week of {gvp.get('report_week', 'n/a')})")
+        volcs = gvp.get("volcanoes", [])
+        if volcs:
+            lines.append(f"- {gvp.get('count', len(volcs))} volcanoes reported active; "
+                         f"{gvp.get('new_activity_count', 0)} with new activity")
+            for v in volcs:
+                flag = " **[NEW ACTIVITY]**" if "new" in v.get("status", "").lower() else ""
+                lines.append(f"- {v['volcano']} - {v['status']}{flag}")
+                if v.get("status", "").lower().startswith("new"):
+                    alerts.append(f"VOLCANO-NEW {v['volcano']}: new eruptive activity (GVP weekly)")
+        else:
+            lines.append("- No volcanoes parsed from GVP weekly report.")
+    lines.append("")
+
     # --- EONet (NASA global events) ---
     eonet = snapshot.get("eonet", {})
     lines.append("## NASA EONet open events (wildfires, storms, volcanoes)")

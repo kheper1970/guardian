@@ -458,53 +458,50 @@ def collect_iaea():
     return out
 
 
-def collect_gdelt(query, timespan="3d", maxrecords=8):
-    """GDELT DOC 2.0 API - global news article search, no key required.
-    Rate-limited: retries with backoff on 429/non-JSON responses."""
-    url = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
-           + urllib.parse.quote(query)
-           + "&mode=artlist&maxrecords=" + str(maxrecords)
-           + "&format=json&timespan=" + timespan)
-    d = None
-    for attempt in range(4):
-        if attempt:
-            time.sleep(20 * attempt)  # 20s, 40s, 60s backoff
+def collect_humanitarian():
+    """Famine + armed-conflict watch from UN News and ReliefWeb RSS.
+
+    Replaces the GDELT DOC 2.0 collectors: that API rate-limits this host
+    to a non-JSON error page on nearly every call (4 attempts with 20-60s
+    backoff burned per query, every cycle, for data nothing consumed).
+    UN News and ReliefWeb are authoritative humanitarian sources with
+    dependable keyless RSS endpoints. One fetch per feed per cycle;
+    items are keyword-filtered into famine/conflict buckets.
+    """
+    famine_kw = ("famine", "food insecurity", "food crisis",
+                 "hunger crisis", "starvation", "malnutrition",
+                 "ipc phase", "fews net", "crop failure")
+    conflict_kw = ("armed conflict", "military offensive", "airstrike",
+                   "air strike", "massacre", "genocide", "shelling",
+                   "ceasefire", "cluster munition", "displaced by")
+    result = {"famine": [], "conflict": [], "errors": []}
+    for url, source in (
+            ("https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+             "UN News"),
+            ("https://reliefweb.int/updates/rss.xml", "ReliefWeb")):
         try:
-            d = fetch(url)
-        except urllib.error.HTTPError as exc:
-            if exc.code == 429:
-                continue
-            raise
-        except json.JSONDecodeError:
-            d = None  # non-JSON body (rate-limit page) -> retry
-        if isinstance(d, dict) and "articles" in d:
-            break
-        d = None  # non-JSON (rate-limit text page) -> retry
-    if d is None:
-        return {"error": "GDELT rate-limited or non-JSON after retries"}
-    arts = d.get("articles") or []
-    return [
-        {
-            "title": (a.get("title") or "")[:250],
-            "domain": a.get("domain"),
-            "seendate": a.get("seendate"),
-            "url": (a.get("url") or "")[:300],
-        }
-        for a in arts
-    ]
-
-
-def collect_famine():
-    """GDELT famine/food-insecurity coverage (FAO/IPC/FEWS feeds unavailable)."""
-    return collect_gdelt(
-        '(famine OR "food insecurity" OR "food crisis")', timespan="3d")
-
-
-def collect_conflict():
-    """GDELT armed-conflict coverage (ACLED requires registration)."""
-    return collect_gdelt(
-        '("armed conflict" OR "military offensive" OR "airstrike" '
-        'OR "massacre" OR "war crimes")', timespan="3d")
+            raw = fetch(url, as_json=False)
+        except Exception as exc:
+            result["errors"].append(f"{source}: {type(exc).__name__}: {exc}")
+            continue
+        items = re.findall(r"<item>(.*?)</item>", raw, re.S)
+        for item in items:
+            t = re.search(
+                r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>",
+                item, re.S)
+            p = re.search(r"<pubDate>(.*?)</pubDate>", item, re.S)
+            title = (t.group(1).strip() if t else "").replace("\n", " ")
+            text = item.lower()
+            entry = {"title": title[:250],
+                     "pubDate": (p.group(1).strip() if p else "")[:40],
+                     "source": source}
+            if any(k in text for k in famine_kw):
+                result["famine"].append(dict(entry))
+            if any(k in text for k in conflict_kw):
+                result["conflict"].append(dict(entry))
+    result["famine"] = result["famine"][:12]
+    result["conflict"] = result["conflict"][:12]
+    return result
 
 
 def prune_snapshots(keep_days=30):
@@ -578,8 +575,7 @@ def main():
                     ("australia", collect_australia),
                     ("bom", bom.collect),
                     ("iaea", collect_iaea),
-                    ("famine_gdelt", lambda: (time.sleep(6), collect_famine())[1]),
-                    ("conflict_gdelt", lambda: (time.sleep(6), collect_conflict())[1]),
+                    ("humanitarian_watch", collect_humanitarian),
                     ("doomsday_clock", collect_doomsday)):
         try:
             snapshot[name] = fn()

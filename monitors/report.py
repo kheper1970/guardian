@@ -252,6 +252,43 @@ def assess(snapshot):
                 alerts.append(f"FAMINE KEYWORD HIT: {n.get('title')[:150]}")
     lines.append("")
 
+    # --- Humanitarian watch: famine & conflict (UN News + ReliefWeb) ---
+    hw = snapshot.get("humanitarian_watch", {})
+    if isinstance(hw, dict):
+        lines.append("## Famine watch (UN News + ReliefWeb keywords)")
+        if hw.get("errors"):
+            lines.append(f"- feed errors: {'; '.join(hw['errors'])[:200]}")
+        fam2 = hw.get("famine", [])
+        if not fam2:
+            lines.append("- no famine/food-crisis keyword items in feeds")
+        for n in fam2[:8]:
+            lines.append(f"- [{n.get('source')}] {n.get('title')} "
+                         f"({n.get('pubDate', '')[:16]})")
+            low = (n.get("title") or "").lower()
+            strong_fam = (
+                ("famine" in low and any(w in low for w in (
+                    "declared", "phase 5", "risk of famine",
+                    "imminent", "catastroph")))
+                or "ipc phase 5" in low)
+            if strong_fam:
+                lines.append(f"  **FAMINE SIGNAL: {n.get('title')[:150]}**")
+                alerts.append(f"FAMINE SIGNAL: {n.get('title')[:150]}")
+        lines.append("")
+
+        lines.append("## Armed conflict watch (UN News + ReliefWeb keywords)")
+        con = hw.get("conflict", [])
+        if not con:
+            lines.append("- no armed-conflict keyword items in feeds")
+        for n in con[:8]:
+            lines.append(f"- [{n.get('source')}] {n.get('title')} "
+                         f"({n.get('pubDate', '')[:16]})")
+            low = (n.get("title") or "").lower()
+            if any(w in low for w in ("massacre", "genocide", "airstrike",
+                                      "air strike", "military offensive")):
+                lines.append(f"  **CONFLICT SIGNAL: {n.get('title')[:150]}**")
+                alerts.append(f"CONFLICT SIGNAL: {n.get('title')[:150]}")
+        lines.append("")
+
     # --- Australia watch ---
     lines.append("## Australia watch (ABC News, NSW RFS, USGS AU quakes, GNews AU, health.gov.au)")
     au = snapshot.get("australia", {})

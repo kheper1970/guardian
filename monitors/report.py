@@ -337,11 +337,9 @@ def assess(snapshot):
     if isinstance(bom, dict) and bom.get("error"):
         lines.append(f"- BOM feed error: {bom['error']}")
     elif isinstance(bom, dict):
-        warns = bom.get("notice", [])
         warns = bom.get("warnings", [])
         sev_high = [w for w in warns if w.get("severity") == "high"]
         sev_med = [w for w in warns if w.get("severity") == "medium"]
-        lines.append(f"- Products scanned: {bom.get('count', len(wars))}")
         lines.append(f"- Products scanned: {bom.get('count', len(warns))}, "
                      f"high: {len(sev_high)}, medium: {len(sev_med)}, "
                      f"errors: {bom.get('errors', 0)}")

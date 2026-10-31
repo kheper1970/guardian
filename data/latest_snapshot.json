@@ -1,6 +1,14 @@
 {
- "collected_utc": "2026-10-31T00:45:01.938668+00:00",
+ "collected_utc": "2026-10-31T01:30:01.397010+00:00",
  "earthquakes": [
+  {
+   "mag": 4.8,
+   "place": "97 km ENE of Port-Olry, Vanuatu",
+   "time": 1793406395699,
+   "tsunami": false,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
+   "type": "earthquake"
+  },
   {
    "mag": 4.6,
    "place": "33 km NE of Mazo Cruz, Peru",
@@ -675,12 +683,12 @@
    "pubDate": "Wed, 28 Oct 2026 01:08:37 GMT"
   },
   {
-   "title": "WFP Palestine Emergency Response External Situation Report #99, 29 October 2026 (Reporting period: 1-15 October 2026) - ReliefWeb",
-   "pubDate": "Fri, 30 Oct 2026 02:47:11 GMT"
-  },
-  {
    "title": "Ending emergency food benefits linked to higher child maltreatment rates - News-Medical",
    "pubDate": "Thu, 29 Oct 2026 19:15:00 GMT"
+  },
+  {
+   "title": "WFP Palestine Emergency Response External Situation Report #99, 29 October 2026 (Reporting period: 1-15 October 2026) - ReliefWeb",
+   "pubDate": "Fri, 30 Oct 2026 02:47:11 GMT"
   },
   {
    "title": "US, UK among 31 countries warning of 'alarming' Sudan famine - The New Indian Express",
@@ -691,26 +699,46 @@
    "pubDate": "Fri, 30 Oct 2026 07:13:00 GMT"
   },
   {
-   "title": "Cutting Emergency SNAP Benefits Linked to Rise in Child Maltreatment - Bioengineer.org",
-   "pubDate": "Thu, 29 Oct 2026 08:02:54 GMT"
-  },
-  {
-   "title": "Africa hunger: Report reveals up to 165M people could need food aid by April 2027 - People Daily",
-   "pubDate": "Tue, 27 Oct 2026 16:32:58 GMT"
-  },
-  {
    "title": "Somalia - UN World Food Programme",
    "pubDate": "Mon, 24 Aug 2026 14:40:59 GMT"
+  },
+  {
+   "title": "Can emergency cash buy food security? - UNU | United Nations University",
+   "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "WFP at a Glance - UN World Food Programme",
+   "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
   }
  ],
  "australia": {
   "abc_news": [
    {
-    "title": "Woman, 92, who cheated death on Fremantle's old bridge stoked for new crossing",
+    "title": "Person in life-threatening condition with meningococcal B infection",
+    "pubDate": "Sat, 31 Oct 2026 01:26:47 +0000"
+   },
+   {
+    "title": "Breaking: Multiple dead, several injured in horror crash near Byron Bay",
+    "pubDate": "Sat, 31 Oct 2026 01:20:38 +0000"
+   },
+   {
+    "title": "Tourists 'break the rules' diving with humpback whales in Tonga",
+    "pubDate": "Sat, 31 Oct 2026 01:19:37 +0000"
+   },
+   {
+    "title": "Fancied Melbourne Cup horse Defiantly ruled out by vets",
+    "pubDate": "Sat, 31 Oct 2026 01:18:31 +0000"
+   },
+   {
+    "title": "Finding megafauna footprints holds special meaning for these students",
+    "pubDate": "Sat, 31 Oct 2026 01:14:00 +0000"
+   },
+   {
+    "title": "New chapter begins in Fremantle as Walyalup Bridge set to open",
     "pubDate": "Sat, 31 Oct 2026 00:28:09 +0000"
    },
    {
-    "title": "Children enjoy learning how to communicate with deaf people",
+    "title": "Learning Auslan a 'life skill' for children",
     "pubDate": "Sat, 31 Oct 2026 00:04:08 +0000"
    },
    {
@@ -724,26 +752,6 @@
    {
     "title": "Council proposes road extension through protected wildlife sanctuary",
     "pubDate": "Fri, 30 Oct 2026 23:32:27 +0000"
-   },
-   {
-    "title": "Etsy cracks down on AI-copying issues but some users still sceptical",
-    "pubDate": "Fri, 30 Oct 2026 23:28:26 +0000"
-   },
-   {
-    "title": "Triple premiership coach Chris Fagan joins Carlton as director of football",
-    "pubDate": "Fri, 30 Oct 2026 23:26:13 +0000"
-   },
-   {
-    "title": "G20 foreign ministers skip 'family' photo amid objections over Russia",
-    "pubDate": "Fri, 30 Oct 2026 23:19:07 +0000"
-   },
-   {
-    "title": "The visually impaired triathlete preparing to take on a half marathon",
-    "pubDate": "Fri, 30 Oct 2026 23:00:00 +0000"
-   },
-   {
-    "title": "Victorian town loses last LPG servo as demand for the fuel falls",
-    "pubDate": "Fri, 30 Oct 2026 22:58:44 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -753,6 +761,10 @@
    },
    {
     "title": "Bullecourt Rd, Corowa",
+    "category": "Advice"
+   },
+   {
+    "title": "Henley Marine Dr, Five Dock",
     "category": "Advice"
    },
    {
@@ -805,10 +817,6 @@
    },
    {
     "title": "APPIN RD, GILEAD",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "ASTON RD, KENTHURST",
     "category": "Not Applicable"
    },
    {
@@ -899,15 +907,15 @@
   "au_emergency_news": [
    {
     "title": "The three-day pantry: A UK push with a reminder for Australia - SBS",
-    "pubDate": "Sat, 31 Oct 2026 00:05:13 GMT"
-   },
-   {
-    "title": "Woolworths rolls out emergency crisis kits for Aussies amid warnings to stock up on tinned food - Yahoo News Australia",
-    "pubDate": "Thu, 29 Oct 2026 21:18:33 GMT"
+    "pubDate": "Sat, 31 Oct 2026 00:06:18 GMT"
    },
    {
     "title": "Kalamunda bushfire sparks arson squad investigation after evacuation warning - The West Australian",
     "pubDate": "Thu, 29 Oct 2026 23:20:00 GMT"
+   },
+   {
+    "title": "Woolworths rolls out emergency crisis kits for Aussies amid warnings to stock up on tinned food - Yahoo News Australia",
+    "pubDate": "Thu, 29 Oct 2026 21:18:33 GMT"
    },
    {
     "title": "Nepal\u2019s glacial collapse flood is a warning to the world. Are we listening? - WWF-Australia",
@@ -922,12 +930,12 @@
     "pubDate": "Thu, 29 Oct 2026 05:54:40 GMT"
    },
    {
-    "title": "Aussies urged 'be prepared' and stockpile tinned food, bottled water as threats grow - Yahoo News Australia",
-    "pubDate": "Thu, 29 Oct 2026 01:09:00 GMT"
+    "title": "\u2018It\u2019s now up to the community\u2019: Pilbara locals urged to prepare as cyclone season looms - North West Telegraph",
+    "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT"
    },
    {
-    "title": "Why North Queensland could pay price this wet season - Townsville Bulletin",
-    "pubDate": "Thu, 29 Oct 2026 23:54:17 GMT"
+    "title": "Severe weather update: Weekend storms for the south and east - The Bureau of Meteorology",
+    "pubDate": "Thu, 29 Oct 2026 21:44:58 GMT"
    }
   ],
   "au_security_news": [
@@ -936,32 +944,32 @@
     "pubDate": "Fri, 30 Oct 2026 21:30:08 GMT"
    },
    {
-    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
-    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
-   },
-   {
     "title": "'Results are sobering', but silence about climate risks impedes our preparation - The Canberra Times",
     "pubDate": "Fri, 30 Oct 2026 18:34:47 GMT"
+   },
+   {
+    "title": "Australia considering Iron Dome-style interceptor purchase for air defence shield - SBS",
+    "pubDate": "Thu, 29 Oct 2026 04:28:20 GMT"
    },
    {
     "title": "30 October: This Week in Australian Foreign Affairs - Australian Institute of International Affairs",
     "pubDate": "Fri, 30 Oct 2026 15:10:57 GMT"
    },
    {
-    "title": "Adaptive Security seeks local resellers following Australian launch - ARNnet",
-    "pubDate": "Fri, 30 Oct 2026 06:28:46 GMT"
+    "title": "Bringing home the gold - news.defence.gov.au",
+    "pubDate": "Fri, 30 Oct 2026 04:11:10 GMT"
    },
    {
-    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
-    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
+    "title": "Verkada gains Australian IRAP approval for protected data - IT Brief Australia",
+    "pubDate": "Fri, 30 Oct 2026 17:15:05 GMT"
    },
    {
     "title": "PNG punish soft England defence in second half - Yahoo News Australia",
     "pubDate": "Fri, 30 Oct 2026 19:40:23 GMT"
    },
    {
-    "title": "Video Summary: Defence reallocates funds, next submarine visit, and Exercise Dugong26 - Australian Defence Magazine",
-    "pubDate": "Fri, 30 Oct 2026 06:55:05 GMT"
+    "title": "\u2018Case closed\u2019: ADF chief rules out action on SAS command failures - The Australian",
+    "pubDate": "Thu, 29 Oct 2026 08:41:14 GMT"
    }
   ],
   "au_health_news": [
@@ -998,7 +1006,7 @@
   ]
  },
  "bom": {
-  "generated": "2026-10-31T00:46:25+00:00",
+  "generated": "2026-10-31T01:31:16+00:00",
   "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
   "count": 22,
   "errors": 0,
@@ -1013,7 +1021,7 @@
      "marine"
     ],
     "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Marine Wind Warning Summary for New South Wales Issued at 11:22 am EDT on Saturday 31 October 2026 for the period until midnight EDT Sunday 1 November 2026. Wind Warnings for Saturday 31 October Strong Wind Warning for the following areas: Coffs Coast, Macquarie Coast, Hunter Coast, Sydney Coast, Illawarra Coast, Batemans Coast a",
-    "fetched_at": "2026-10-31T00:46:12+00:00"
+    "fetched_at": "2026-10-31T01:31:03+00:00"
    },
    {
     "id": "IDN21037",
@@ -1026,7 +1034,7 @@
      "wind"
     ],
     "headline": "IDN21037 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Weather Warning for DAMAGING WINDS For people in parts of Snowy Mountains Forecast District. Issued at 10:47 am Saturday, 31 October 2026. Damaging winds forecast over alpine areas today, easing this evening. Weather Situation: Strengthening northwesterly winds over the alpine ranges of New South Wales",
-    "fetched_at": "2026-10-31T00:46:12+00:00"
+    "fetched_at": "2026-10-31T01:31:03+00:00"
    },
    {
     "id": "IDN28522",
@@ -1037,18 +1045,18 @@
      "marine"
     ],
     "headline": "IDN28522 Australian Government Bureau of Meteorology New South Wales Hazardous Surf Warning for New South Wales Issued at 4:19 am EDT on Saturday 31 October 2026 for the period until midnight EDT Saturday 31 October 2026. Surf and swell conditions are expected to be hazardous for coastal activities such as rock fishing, boating, and swimming in the following areas. Saturday 31 October Hazardous Su",
-    "fetched_at": "2026-10-31T00:46:13+00:00"
+    "fetched_at": "2026-10-31T01:31:04+00:00"
    },
    {
     "id": "IDQ20827",
-    "title": "Moderate Flood Warning for the Upper Condamine River",
+    "title": "Final Flood Warning for the Upper Condamine River",
     "issued": "",
     "severity": "medium",
     "ptype": [
      "flood"
     ],
-    "headline": "IDQ20827 Australian Government Bureau of Meteorology Moderate Flood Warning for the Upper Condamine River Issued at 11:01 am AEST on Friday 30 October 2026 Flood Warning Number: 16 MODERATE FLOODING EASING AT CECIL PLAINS Flooding is easing along the Upper Condamine River and its tributaries after rainfall earlier in the week caused minor to major flooding. At Tummaville, minor flooding is no long",
-    "fetched_at": "2026-10-31T00:46:13+00:00"
+    "headline": "IDQ20827 Australian Government Bureau of Meteorology Final Flood Warning for the Upper Condamine River Issued at 11:25 am AEST on Saturday 31 October 2026 Flood Warning Number: 17 FLOODING HAS EASED AT CECIL PLAINS Flooding has eased along the Upper Condamine River and its tributaries after rainfall over the past week. Showers and thunderstorms are possible in the Condamine catchment over the next",
+    "fetched_at": "2026-10-31T01:31:04+00:00"
    },
    {
     "id": "IDQ20829",
@@ -1059,7 +1067,7 @@
      "flood"
     ],
     "headline": "IDQ20829 Australian Government Bureau of Meteorology Major Flood Warning for the Lower Condamine River Issued at 11:45 am AEST on Friday 30 October 2026 Flood Warning Number: 4 MAJOR FLOODING OCCURRING AT LOUDOUN BRIDGE Rainfall over the last few days in the Upper Condamine River catchment has caused river level rises and minor to major flooding along the Condamine River. The flood peak has now re",
-    "fetched_at": "2026-10-31T00:46:14+00:00"
+    "fetched_at": "2026-10-31T01:31:05+00:00"
    },
    {
     "id": "IDQ20831",
@@ -1070,7 +1078,7 @@
      "flood"
     ],
     "headline": "IDQ20831 Australian Government Bureau of Meteorology Final Flood Warning for Bungil Creek Issued at 8:55 am AEST on Thursday 29 October 2026 Flood Warning Number: 3 MINOR FLOODING NO LONGER EXPECTED AT ROMA Creek levels along the upper reaches of Bungil Creek have peaked and are falling. Renewed rises at Roma are possible but expected to remain below the minor flood level. No further significant r",
-    "fetched_at": "2026-10-31T00:46:15+00:00"
+    "fetched_at": "2026-10-31T01:31:06+00:00"
    },
    {
     "id": "IDQ20835",
@@ -1081,7 +1089,7 @@
      "flood"
     ],
     "headline": "IDQ20835 Australian Government Bureau of Meteorology Final Flood Warning for the Weir River Issued at 10:24 am AEST on Saturday 31 October 2026 Flood Warning Number: 11 FLOODING NO LONGER EXPECTED AT TALWOOD Recent rainfall caused flooding across the upper Weir River catchment, which has eased. The upstream flood is no longer expected to cause flooding downstream at Talwood. Weir River downstream ",
-    "fetched_at": "2026-10-31T00:46:16+00:00"
+    "fetched_at": "2026-10-31T01:31:06+00:00"
    },
    {
     "id": "IDQ20840",
@@ -1092,7 +1100,7 @@
      "flood"
     ],
     "headline": "IDQ20840 Australian Government Bureau of Meteorology Minor Flood Warning for the Moonie River Issued at 8:48 am AEST on Friday 30 October 2026 Flood Warning Number: 7 MINOR FLOODING CONTINUING AT NINDIGULLY Moderate to heavy rainfall over the last few days has caused river level rises along the Moonie River. Minor flooding is expected to continue at Nindigully over the next few days. Moonie River ",
-    "fetched_at": "2026-10-31T00:46:16+00:00"
+    "fetched_at": "2026-10-31T01:31:07+00:00"
    },
    {
     "id": "IDQ20845",
@@ -1102,8 +1110,8 @@
     "ptype": [
      "flood"
     ],
-    "headline": "IDQ20845 Australian Government Bureau of Meteorology Moderate Flood Warning for the Warrego River (QLD) Issued at 10:27 pm AEST on Friday 30 October 2026 Flood Warning Number: 13 CHARLEVILLE EXPECTED TO REMAIN BELOW MINOR NEAR MINOR FLOODING OCCURRING AT CUNNAMULLA BRIDGE MODERATE FLOODING POSSIBLE AT ROCKY OVERNIGHT FRIDAY INTO SATURDAY Localised intense heavy rainfall near Charleville during Fri",
-    "fetched_at": "2026-10-31T00:46:17+00:00"
+    "headline": "IDQ20845 Australian Government Bureau of Meteorology Moderate Flood Warning for the Warrego River (QLD) Issued at 10:52 am AEST on Saturday 31 October 2026 Flood Warning Number: 14 RENEWED MODERATE FLOODING POSSIBLE AT CUNNAMULLA BRIDGE DURING MONDAY MODERATE FLOODING OCCURRING AT ROCKY RENEWED MINOR FLOODING POSSIBLE AT BAKERS BEND FROM SATURDAY AFTERNOON Multiple flood peaks are moving through t",
+    "fetched_at": "2026-10-31T01:31:08+00:00"
    },
    {
     "id": "IDQ20850",
@@ -1114,7 +1122,7 @@
      "flood"
     ],
     "headline": "IDQ20850 Australian Government Bureau of Meteorology Initial Minor Flood Warning for the Paroo River Issued at 10:27 am AEST on Friday 30 October 2026 Flood Warning Number: 1 MINOR FLOODING POSSIBLE AT HUNGERFORD OVER THE WEEKEND Rainfall recorded across the Paroo catchment over the past week has caused river level rises. Minor flooding is occurring along the Paroo River at Caiwarro and may occur ",
-    "fetched_at": "2026-10-31T00:46:17+00:00"
+    "fetched_at": "2026-10-31T01:31:08+00:00"
    },
    {
     "id": "IDQ20855",
@@ -1124,8 +1132,8 @@
     "ptype": [
      "flood"
     ],
-    "headline": "IDQ20855 Australian Government Bureau of Meteorology Moderate Flood Warning for the Bulloo River Issued at 5:35 am AEST on Saturday 31 October 2026 Flood Warning Number: 11 MODERATE FLOODING LIKELY AT QUILPIE FROM SATURDAY MORNING A flood peak passed through Milroy on Friday morning and is now approaching Quilpie where moderate flooding is likely from Saturday morning. The flood peak may reach Tha",
-    "fetched_at": "2026-10-31T00:46:18+00:00"
+    "headline": "IDQ20855 Australian Government Bureau of Meteorology Moderate Flood Warning for the Bulloo River Issued at 11:02 am AEST on Saturday 31 October 2026 Flood Warning Number: 12 MODERATE FLOODING EXPECTED AT QUILPIE FROM SATURDAY LATE MORNING Rainfall over the past week has caused multiple flood peaks across Bulloo River catchment. The first flood peak is downstream of Thargomindah where the river lev",
+    "fetched_at": "2026-10-31T01:31:09+00:00"
    },
    {
     "id": "IDQ20860",
@@ -1136,7 +1144,7 @@
      "flood"
     ],
     "headline": "IDQ20860 Australian Government Bureau of Meteorology Minor Flood Warning for the Barcoo River Issued at 2:45 pm AEST on Friday 30 October 2026 Flood Warning Number: 12 MINOR FLOODING OCCURRING AT BLACKALL AND RETREAT AND POSSIBLE AT ISISFORD FROM SATURDAY MORNING Rainfall over the last week across the upper reaches of the Barcoo River catchment has resulted in river level rises and areas of floodi",
-    "fetched_at": "2026-10-31T00:46:18+00:00"
+    "fetched_at": "2026-10-31T01:31:09+00:00"
    },
    {
     "id": "IDS20201",
@@ -1148,16 +1156,16 @@
      "marine"
     ],
     "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Updated Marine Wind Warning Summary for South Australia Issued at 10:52 am CDT on Saturday 31 October 2026 for the period until midnight CDT Saturday 31 October 2026. Wind Warnings for Saturday 31 October Strong Wind Warning for the following area: Lower South East Coast Cancellation for the following areas: South Central Coast, ",
-    "fetched_at": "2026-10-31T00:46:19+00:00"
+    "fetched_at": "2026-10-31T01:31:10+00:00"
    },
    {
     "id": "IDS20240",
     "title": "South Australia",
     "issued": "",
-    "severity": "low",
+    "severity": "info",
     "ptype": [],
-    "headline": "IDS20240 Australian Government Bureau of Meteorology South Australia Road Weather Alert for Adelaide Issued at 10:54 am CDT on Saturday 31 October 2026. Reduced visibility in fog will make road conditions dangerous during Saturday in the Adelaide Hills area. The SA Police advises that people should: - Slow down and take extra care. - Maintain a safe distance between you and the vehicle in front. -",
-    "fetched_at": "2026-10-31T00:46:20+00:00"
+    "headline": "IDS20240 Australian Government Bureau of Meteorology South Australia Cancellation of Road Weather Alert for Adelaide Issued at 11:17 am CDT on Saturday 31 October 2026. The road weather alert for the Adelaide Area has been cancelled, but the situation will continue to be monitored and further alerts will be issued if necessary. For information on any road closures, please contact your local counci",
+    "fetched_at": "2026-10-31T01:31:11+00:00"
    },
    {
     "id": "IDT20100",
@@ -1169,7 +1177,7 @@
      "marine"
     ],
     "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Updated Marine Wind Warning Summary for Tasmania Issued at 11:22 am EDT on Saturday 31 October 2026 for the period until midnight EDT Sunday 1 November 2026. Wind Warnings for Saturday 31 October Gale Warning for the following areas: Upper East Coast, Lower East Coast and South East Coast Strong Wind Warning for the following areas: Der",
-    "fetched_at": "2026-10-31T00:46:20+00:00"
+    "fetched_at": "2026-10-31T01:31:11+00:00"
    },
    {
     "id": "IDV20600",
@@ -1181,7 +1189,7 @@
      "marine"
     ],
     "headline": "IDV20600 Australian Government Bureau of Meteorology Victoria Updated Marine Wind Warning Summary for Victoria Issued at 11:19 am EDT on Saturday 31 October 2026 for the period until midnight EDT Sunday 1 November 2026. Wind Warnings for Saturday 31 October Strong Wind Warning for the following areas: Western Port, West Coast, Central Coast, Central Gippsland Coast and East Gippsland Coast Cancell",
-    "fetched_at": "2026-10-31T00:46:21+00:00"
+    "fetched_at": "2026-10-31T01:31:12+00:00"
    },
    {
     "id": "IDV21037",
@@ -1194,7 +1202,7 @@
      "wind"
     ],
     "headline": "IDV21037 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Weather Warning for DAMAGING WINDS For people in parts of East Gippsland, North East and West and South Gippsland Forecast Districts. Issued at 10:48 am Saturday, 31 October 2026. Damaging winds over the eastern ranges, easing this evening. Weather Situation: Strengthening northwesterly winds today acr",
-    "fetched_at": "2026-10-31T00:46:21+00:00"
+    "fetched_at": "2026-10-31T01:31:12+00:00"
    },
    {
     "id": "IDY21020",
@@ -1206,7 +1214,7 @@
      "marine"
     ],
     "headline": "IDY21020 40:2:1:04:55S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1809UTC 30 October 2026 FINAL GALE WARNING 3 FOR WESTERN AREA SITUATION AT 301800UTC Vigorous northwesterly quarter flow associated with trough near 40S080E 44S086E. Forecast 40S084E 44S088E at 302100UTC, weakening thereafter. AREA AFFECTED Bounded by",
-    "fetched_at": "2026-10-31T00:46:22+00:00"
+    "fetched_at": "2026-10-31T01:31:13+00:00"
    },
    {
     "id": "IDY21030",
@@ -1218,7 +1226,7 @@
      "marine"
     ],
     "headline": "IDY21030 40:2:1:04:70S075E25090:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2355UTC 30 October 2026 GALE WARNING 4 FOR SOUTHERN AREA SITUATION AT 310000UTC Vigorous northwesterly quarter flow developing. AREA AFFECTED Bounded by 59S144E 58S160E 62S160E 62S150E 61S143E 59S144E. FORECAST Northwesterly quarter winds 30/40 knots ",
-    "fetched_at": "2026-10-31T00:46:22+00:00"
+    "fetched_at": "2026-10-31T01:31:14+00:00"
    },
    {
     "id": "IDY21040",
@@ -1230,7 +1238,7 @@
      "marine"
     ],
     "headline": "IDY21040 40:2:1:04:55S125E35050:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2355UTC 30 October 2026 GALE WARNING 5 FOR SOUTHEASTERN AREA SITUATION AT 310000UTC Vigorous flow associated with trough near 41S143E 45S144E. Forecast near 41S146E 45S148E at 310600UTC, near 41S152E 45S152E at 311200UTC then easing thereafter. AREA A",
-    "fetched_at": "2026-10-31T00:46:23+00:00"
+    "fetched_at": "2026-10-31T01:31:14+00:00"
    },
    {
     "id": "IDY21050",
@@ -1242,7 +1250,7 @@
      "marine"
     ],
     "headline": "IDY21050 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2354UTC 30 October 2026 GALE WARNING 6 FOR SOUTHERN AREAS SITUATION AT 310000UTC Vigorous northwesterly flow developing. AREA AFFECTED Bounded by 57S080E 55S081E 54S087E 59S091E 57S080E. FORECAST Northwesterly quarter winds 30/40 knots developing from",
-    "fetched_at": "2026-10-31T00:46:24+00:00"
+    "fetched_at": "2026-10-31T01:31:15+00:00"
    },
    {
     "id": "IDY28000",
@@ -1251,7 +1259,7 @@
     "severity": "low",
     "ptype": [],
     "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 1800UTC Chart Issued at 6:33 am EDT Saturday on 31 October 2026 A low and trough extending from the Great Bight is bringing low to high level cloud with embedded thunderstorms to the southeast. Low to high level cloud is also present over much of Queensland as an upper trough moves through th",
-    "fetched_at": "2026-10-31T00:46:25+00:00"
+    "fetched_at": "2026-10-31T01:31:15+00:00"
    }
   ]
  },
@@ -1312,18 +1320,17 @@
    "pubDate": "Fri, 23 Oct 26 15:55:45 +0200"
   },
   {
-   "title": "Italy and Romania Establish New Member State Support Programmes to Strengthen IAEA Safeguards",
-   "link": "http://www.iaea.org/newscenter/news/italy-and-romania-establish-new-member-state-support-programmes-to-strengthen-iaea-safeguards",
+   "title": "What is Nuclear Fuel?",
+   "link": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
    "pubDate": "Fri, 23 Oct 26 08:00:00 +0200"
   }
  ],
  "famine_gdelt": {
-  "error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>",
-  "trace": "_call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>\n"
+  "error": "TimeoutError: The read operation timed out",
+  "trace": "1\")\n               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/socket.py\", line 725, in readinto\n    return self._sock.recv_into(b)\n           ~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/usr/lib/python3.14/ssl.py\", line 1304, in recv_into\n    return self.read(nbytes, buffer)\n           ~~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/ssl.py\", line 1138, in read\n    return self._sslobj.read(len, buffer)\n           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^\nTimeoutError: The read operation timed out\n"
  },
  "conflict_gdelt": {
-  "error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>",
-  "trace": "_call_chain\n    result = func(*args)\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.14/urllib/request.py\", line 1324, in do_open\n    raise URLError(err)\nurllib.error.URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>\n"
+  "error": "GDELT rate-limited or non-JSON after retries"
  },
  "doomsday_clock": {
   "seconds_to_midnight": 85,

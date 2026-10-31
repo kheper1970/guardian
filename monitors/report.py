@@ -331,6 +331,27 @@ def assess(snapshot):
                 lines.append(f"  - {n.get('title')}")
     lines.append("")
 
+    # --- BOM Australia warnings ---
+    lines.append("## BOM warnings (Bureau of Meteorology Australia)")
+    bom = snapshot.get("bom", {})
+    if isinstance(bom, dict) and bom.get("error"):
+        lines.append(f"- BOM feed error: {bom['error']}")
+    elif isinstance(bom, dict):
+        warns = bom.get("notice", [])
+        warns = bom.get("warnings", [])
+        sev_high = [w for w in warns if w.get("severity") == "high"]
+        sev_med = [w for w in warns if w.get("severity") == "medium"]
+        lines.append(f"- Products scanned: {bom.get('count', len(wars))}")
+        lines.append(f"- Products scanned: {bom.get('count', len(warns))}, "
+                     f"high: {len(sev_high)}, medium: {len(sev_med)}, "
+                     f"errors: {bom.get('errors', 0)}")
+        for w in sev_high[:8]:
+            lines.append(f"  - HIGH [{w.get('id')}] {w.get('title')} ({w.get('issued','')})")
+            alerts.append(f"BOM HIGH: [{w.get('id')}] {w.get('title', '')[:150]}")
+        for w in sev_med[:8]:
+            lines.append(f"  - MED [{w.get('id')}] {w.get('title')}")
+    lines.append("")
+
     lines.append("## WHO news (health emergencies, outbreaks)")
     for item in snapshot.get("who_news", [])[:8]:
         lines.append(f"- {item.get('title')}")

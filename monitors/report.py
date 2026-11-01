@@ -98,9 +98,11 @@ def assess(snapshot):
     lines.append(f"Count: {neo.get('count')}")
     for e in (neo.get("events") or [])[:5]:
         note = " [POTENTIALLY HAZARDOUS]" if e.get("hazardous") else ""
+        dmin, dmax = e.get("diameter_min_m"), e.get("diameter_max_m")
+        size = f"{dmin}-{dmax} m" if dmin and dmax else "size unknown"
         lines.append(
-            f"- {e['name']}: {e['diameter_min_m']}-{e['diameter_max_m']} m, "
-            f"miss {e['miss_km']/1e6:.1f}M km{note}"
+            f"- {e.get('name', '?')}: {size}, "
+            f"miss {e.get('miss_km', 0)/1e6:.1f}M km{note}"
         )
     for e in (neo.get("events") or []):
         if e.get("hazardous") and e.get("miss_km", 9e99) < NEO_MISS_ALERT_KM:

@@ -98,29 +98,72 @@ def collect_spaceweather():
 
 
 def collect_neo():
-    """NASA NEO feed: close approaches today (UTC)."""
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    url = ("https://api.nasa.gov/neo/rest/v1/feed?"
-           f"start_date={today}&end_date={today}&api_key=DEMO_KEY")
-    d = fetch(url)
-    events = []
-    for _date, neos in (d.get("near_earth_objects") or {}).items():
-        for n in neos:
-            cad = (n.get("close_approach_data") or [{}])[0]
-            est = n["estimated_diameter"]["meters"]
-            events.append({
-                "name": n.get("name"),
-                "diameter_min_m": round(est["estimated_diameter_min"]),
-                "diameter_max_m": round(est["estimated_diameter_max"]),
-                "hazardous": n.get("is_potentially_hazardous_asteroid"),
-                "miss_km": float(cad.get("miss_distance", {}).get("kilometers", 0)),
-                "velocity_kph": float(
-                    cad.get("relative_velocity", {}).get("kilometers_per_hour", 0)
-                ),
-            })
-    events.sort(key=lambda e: e["miss_km"])
-    return {"count": d.get("element_count"), "events": events}
+    """JPL CAD API (keyless): Earth close approaches today (UTC).
 
+    Replaces the NASA NEO REST feed, which rate-limits DEMO_KEY to
+    ~30 req/hour shared globally and returned 429 on most cycles.
+    CAD serves the same JPL SBDB close-approach data with no key.
+    Note: CAD date-max is exclusive at midnight, so "today" must end
+    at tomorrow's date.
+    """
+    now = datetime.now(timezone.utc)
+    dmin = now.strftime("%Y-%m-%d")
+    dmax = (now + timedelta(days=1)).strftime("%Y-%m-%d")
+    base = ("https://ssd-api.jpl.nasa.gov/cad.api?"
+            f"date-min={dmin}&date-max={dmax}&dist-max=0.05&sort=dist"
+            "&diameter=true&fullname=true")
+    d = fetch(base)
+    if "count" not in d:
+        # error responses carry "message" and no "count"
+        raise RuntimeError(f"CAD query rejected: {d.get('message') or d}")
+    fields = d.get("fields") or []
+    pos = {f: i for i, f in enumerate(fields)}
+    rows = d.get("data") or []  # key omitted entirely when count==0
+
+    # PHA subset via a second filtered query; intersect on des+jd.
+    pha_keys = None
+    try:
+        pha = fetch(base + "&pha=true")
+        pha_keys = {(r[pos["des"]], r[pos["jd"]])
+                    for r in pha.get("data", [])}
+    except Exception:
+        pass  # fail soft: hazardous flags default to False
+
+    AU_KM = 149_597_870.7
+    events = []
+    for r in rows:
+        def g(name, row=r):
+            i = pos.get(name)
+            return row[i] if i is not None and i < len(row) else None
+        h = g("h")
+        diam_km = g("diameter")
+        if diam_km not in (None, ""):
+            dmin_m = dmax_m = round(float(diam_km) * 1000)
+        elif h:
+            # H -> size, albedo bounds 0.25 (small) .. 0.05 (large):
+            # D_km = 1329/sqrt(albedo) * 10**(-H/5)
+            dmin_m = round(2658 * 10 ** (-float(h) / 5) * 1000)
+            dmax_m = round(5944 * 10 ** (-float(h) / 5) * 1000)
+        else:
+            dmin_m = dmax_m = None
+        dist_au = float(g("dist") or 0)
+        v_rel = g("v_rel")
+        events.append({
+            "name": ((g("fullname") or "").strip() or g("des") or "?"),
+            "designation": g("des"),
+            "approach_utc": g("cd"),
+            "diameter_min_m": dmin_m,
+            "diameter_max_m": dmax_m,
+            "hazardous": ((g("des"), g("jd")) in pha_keys)
+                          if pha_keys is not None else False,
+            "miss_km": round(dist_au * AU_KM),
+            "miss_au": dist_au,
+            "velocity_kph": round(float(v_rel) * 3600) if v_rel else None,
+            "h": float(h) if h else None,
+            "time_uncertainty": g("t_sigma_f"),
+        })
+    return {"count": d.get("count"), "events": events,
+            "source": "JPL CAD", "window_utc": [dmin, dmax]}
 
 def collect_who():
     """WHO news RSS - crude XML title/link extraction."""

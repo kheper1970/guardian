@@ -1,9 +1,21 @@
 {
- "generated": "2026-11-01T16:45:53+00:00",
+ "generated": "2026-11-01T17:46:00+00:00",
  "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
- "count": 15,
+ "count": 16,
  "errors": 0,
  "warnings": [
+  {
+   "id": "IDN20400",
+   "title": "New South Wales",
+   "issued": "",
+   "severity": "low",
+   "ptype": [
+    "wind",
+    "marine"
+   ],
+   "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Marine Wind Warning Summary for New South Wales Issued at 4:00 am EDT on Monday 2 November 2026 for the period until midnight EDT Tuesday 3 November 2026. Wind Warnings for Tuesday 3 November Strong Wind Warning for the following area: Byron Coast The next marine wind warning summary will be issued by 10:00 am EDT Monday. =======",
+   "fetched_at": "2026-11-01T17:45:52+00:00"
+  },
   {
    "id": "IDN36631",
    "title": "Initial Minor Flood Warning for the Warrego River (NSW)",
@@ -13,7 +25,7 @@
     "flood"
    ],
    "headline": "IDN36631 Australian Government Bureau of Meteorology Initial Minor Flood Warning for the Warrego River (NSW) at Barringun Issued at 4:35 pm Australian Eastern Daylight Time on Sunday 1 November 2026 Flood Warning Number: 1 MINOR FLOODING POSSIBLE AT BARRINGUN FROM MONDAY A flood peak from rain over the previous week in the Warrego Catchment in Queensland is now causing stream rises at Barringun an",
-   "fetched_at": "2026-11-01T16:45:44+00:00"
+   "fetched_at": "2026-11-01T17:45:52+00:00"
   },
   {
    "id": "IDQ20827",
@@ -24,7 +36,7 @@
     "flood"
    ],
    "headline": "IDQ20827 Australian Government Bureau of Meteorology Final Flood Warning for the Upper Condamine River Issued at 11:25 am AEST on Saturday 31 October 2026 Flood Warning Number: 17 FLOODING HAS EASED AT CECIL PLAINS Flooding has eased along the Upper Condamine River and its tributaries after rainfall over the past week. Showers and thunderstorms are possible in the Condamine catchment over the next",
-   "fetched_at": "2026-11-01T16:45:45+00:00"
+   "fetched_at": "2026-11-01T17:45:53+00:00"
   },
   {
    "id": "IDQ20829",
@@ -35,7 +47,7 @@
     "flood"
    ],
    "headline": "IDQ20829 Australian Government Bureau of Meteorology Moderate Flood Warning for the Lower Condamine River Issued at 11:39 am AEST on Sunday 1 November 2026 Flood Warning Number: 6 MODERATE FLOODING ESTIMATED TO BE OCCURRING AT LOUDOUN BRIDGE MODERATE FLOOD PEAK LIKELY AT CHINCHILLA WEIR MONDAY MORNING MINOR FLOODING POSSIBLE AT CONDAMINE EARLY NEXT WEEK Rainfall over the last few days in the Upper",
-   "fetched_at": "2026-11-01T16:45:46+00:00"
+   "fetched_at": "2026-11-01T17:45:53+00:00"
   },
   {
    "id": "IDQ20835",
@@ -46,7 +58,7 @@
     "flood"
    ],
    "headline": "IDQ20835 Australian Government Bureau of Meteorology Final Flood Warning for the Weir River Issued at 10:24 am AEST on Saturday 31 October 2026 Flood Warning Number: 11 FLOODING NO LONGER EXPECTED AT TALWOOD Recent rainfall caused flooding across the upper Weir River catchment, which has eased. The upstream flood is no longer expected to cause flooding downstream at Talwood. Weir River downstream ",
-   "fetched_at": "2026-11-01T16:45:46+00:00"
+   "fetched_at": "2026-11-01T17:45:54+00:00"
   },
   {
    "id": "IDQ20840",
@@ -57,7 +69,7 @@
     "flood"
    ],
    "headline": "IDQ20840 Australian Government Bureau of Meteorology Minor Flood Warning for the Moonie River Issued at 9:45 am AEST on Sunday 1 November 2026 Flood Warning Number: 9 MINOR FLOODING CONTINUING AT NINDIGULLY Minor flooding is likely to continue at Nindigully for the remainder of Sunday and into Monday. Showers and storms are forecast for the remainder of Sunday. Moonie River downstream of Flinton: ",
-   "fetched_at": "2026-11-01T16:45:47+00:00"
+   "fetched_at": "2026-11-01T17:45:54+00:00"
   },
   {
    "id": "IDQ20845",
@@ -68,7 +80,7 @@
     "flood"
    ],
    "headline": "IDQ20845 Australian Government Bureau of Meteorology Moderate Flood Warning for the Warrego River (QLD) Issued at 10:34 am AEST on Sunday 1 November 2026 Flood Warning Number: 15 RENEWED MODERATE FLOODING POSSIBLE AT CUNNAMULLA BRIDGE DURING MONDAY MODERATE FLOODING OCCURRING AT ROCKY Multiple flood peaks are moving through the Warrego River due to rainfall over the last week. Along the lower Warr",
-   "fetched_at": "2026-11-01T16:45:47+00:00"
+   "fetched_at": "2026-11-01T17:45:55+00:00"
   },
   {
    "id": "IDQ20850",
@@ -79,7 +91,7 @@
     "flood"
    ],
    "headline": "IDQ20850 Australian Government Bureau of Meteorology Minor Flood Warning for the Paroo River (QLD) Issued at 1:00 pm AEST on Sunday 1 November 2026 Flood Warning Number: 3 MINOR FLOOD POSSIBLE AT HUNGERFORD OVERNIGHT SUNDAY INTO MONDAY Recent rainfall across the Paroo catchment has caused river level rises along the Paroo River and minor flooding at Caiwarro where the river level peaked on Friday.",
-   "fetched_at": "2026-11-01T16:45:48+00:00"
+   "fetched_at": "2026-11-01T17:45:56+00:00"
   },
   {
    "id": "IDQ20855",
@@ -90,7 +102,7 @@
     "flood"
    ],
    "headline": "IDQ20855 Australian Government Bureau of Meteorology Moderate Flood Warning for the Bulloo River Issued at 10:42 am AEST on Sunday 1 November 2026 Flood Warning Number: 13 MODERATE FLOOD PEAK LIKELY AT QUILPIE OVERNIGHT SUNDAY INTO MONDAY Rainfall over the past week has caused multiple flood peaks across Bulloo River catchment. The first flood peak is downstream of Thargomindah where the river lev",
-   "fetched_at": "2026-11-01T16:45:48+00:00"
+   "fetched_at": "2026-11-01T17:45:56+00:00"
   },
   {
    "id": "IDQ20860",
@@ -101,7 +113,7 @@
     "flood"
    ],
    "headline": "IDQ20860 Australian Government Bureau of Meteorology Moderate Flood Warning for the Barcoo River Issued at 12:02 pm AEST on Sunday 1 November 2026 Flood Warning Number: 14 MODERATE FLOODING POSSIBLE AT ISISFORD EARLY THIS COMING WEEK MINOR FLOODING CONTINUING AT BLACKALL AND RETREAT Rainfall over the last week across the upper reaches of the Barcoo River catchment has resulted in river level rises",
-   "fetched_at": "2026-11-01T16:45:49+00:00"
+   "fetched_at": "2026-11-01T17:45:57+00:00"
   },
   {
    "id": "IDT20100",
@@ -112,7 +124,7 @@
     "marine"
    ],
    "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Marine Wind Warning Summary for Tasmania Issued at 10:00 pm EDT on Sunday 1 November 2026 for the period until midnight EDT Sunday 1 November 2026. Wind Warnings for Sunday 1 November Cancellation for the following areas: Banks Strait and Franklin Sound, East of Flinders Island and South East Coast The next Marine Wind Warning Summary w",
-   "fetched_at": "2026-11-01T16:45:50+00:00"
+   "fetched_at": "2026-11-01T17:45:57+00:00"
   },
   {
    "id": "IDW20100",
@@ -123,8 +135,8 @@
     "wind",
     "marine"
    ],
-   "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Marine Wind Warning Summary for Western Australia Issued at 7:01 pm WST on Sunday 1 November 2026 for the period until midnight WST Monday 2 November 2026. Wind Warnings for Monday 2 November Strong Wind Warning for the following areas: Ningaloo Coast, Leeuwin Coast and Albany Coast The next marine wind warning summary will be ",
-   "fetched_at": "2026-11-01T16:45:50+00:00"
+   "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Updated Marine Wind Warning Summary for Western Australia Issued at 1:01 am WST on Monday 2 November 2026 for the period until midnight WST Tuesday 3 November 2026. Wind Warnings for Monday 2 November Strong Wind Warning for the following areas: Ningaloo Coast, Leeuwin Coast and Albany Coast Wind Warnings for Tuesday 3 November",
+   "fetched_at": "2026-11-01T17:45:58+00:00"
   },
   {
    "id": "IDY21060",
@@ -136,7 +148,7 @@
     "marine"
    ],
    "headline": "IDY21060 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1149UTC 1 November 2026 GALE WARNING 7 FOR SOUTHERN AND WESTERN AREAS SITUATION AT 011200UTC Vigorous westerly flow. AREA AFFECTED Bounded by 46S080E 43S100E 45S104E 54S093E 54S080E 46S080E. FORECAST Westerly quarter winds 30/40 knots initially west o",
-   "fetched_at": "2026-11-01T16:45:51+00:00"
+   "fetched_at": "2026-11-01T17:45:58+00:00"
   },
   {
    "id": "IDY21070",
@@ -148,7 +160,7 @@
     "marine"
    ],
    "headline": "IDY21070 40:2:1:04:70S125E35045:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1149UTC 1 November 2026 GALE WARNING 8 FOR SOUTHERN AREA SITUATION AT 011200UTC Vigorous flow associated with trough near 52S153E 55S155E. Forecast near 53S160E 61S163E at 011800UTC, and exiting east thereafter. AREA AFFECTED Bounded by 52S146E 53S160",
-   "fetched_at": "2026-11-01T16:45:51+00:00"
+   "fetched_at": "2026-11-01T17:45:59+00:00"
   },
   {
    "id": "IDY21080",
@@ -160,7 +172,7 @@
     "marine"
    ],
    "headline": "IDY21080 40:2:1:04:70S075E25090:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1205UTC 1 November 2026 GALE WARNING 9 FOR SOUTHERN AREA SITUATION AT 011200UTC Forecast vigorous clockwise flow with developing low 971hPa near 55S119E at 020300UTC, low 968hPa near 56S120E at 020600UTC, and low 963hPa near 58S122E at 021200UTC. AREA",
-   "fetched_at": "2026-11-01T16:45:52+00:00"
+   "fetched_at": "2026-11-01T17:46:00+00:00"
   },
   {
    "id": "IDY28000",
@@ -169,7 +181,7 @@
    "severity": "low",
    "ptype": [],
    "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 1200UTC Chart Issued at 12:17 am EDT Monday on 02 November 2026 A trough over the interor of Queensland lingers, helping kick of spotty storm activity, with low to high level cloud. Low level cloud pushes over the Queensland coastline from onshore flow. A trough and low pressure system over s",
-   "fetched_at": "2026-11-01T16:45:53+00:00"
+   "fetched_at": "2026-11-01T17:46:00+00:00"
   }
  ]
 }

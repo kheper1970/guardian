@@ -229,7 +229,7 @@ def collect_volcano():
     """USGS volcano observatories: elevated volcanoes.
 
     Uses the VHP status API (all ~160 U.S. volcanoes with current
-    alert/color codes). The old hans-public getElevatedVolncanoes
+    alert/color codes). The old hans-public getElevatedVolcanoes
     endpoint was retired and returned 404 on every cycle, silently
     blanking this section.
     """

@@ -108,7 +108,7 @@ def collect_neo():
     """
     now = datetime.now(timezone.utc)
     dmin = now.strftime("%Y-%m-%d")
-    dmax = (now + timedelta(days=1)).strftime("%Y-%m-%d")
+    dmax = (now + timedelta(days=8)).strftime("%Y-%m-%d")
     base = ("https://ssd-api.jpl.nasa.gov/cad.api?"
             f"date-min={dmin}&date-max={dmax}&dist-max=0.05&sort=dist"
             "&diameter=true&fullname=true")

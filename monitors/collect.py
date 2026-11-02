@@ -226,18 +226,38 @@ def collect_gdacs():
 
 
 def collect_volcano():
-    """USGS volcano observatories: elevated volcanoes."""
+    """USGS volcano observatories: elevated volcanoes.
+
+    Uses the VHP status API (all ~160 U.S. volcanoes with current
+    alert/color codes). The old hans-public getElevatedVolncanoes
+    endpoint was retired and returned 404 on every cycle, silently
+    blanking this section.
+    """
     out = {"elevated": []}
     try:
-        data = fetch("https://volcanoes.usgs.gov/hans-public/api/volcano/getElevatedVolcanoes")
+        data = fetch("https://volcanoes.usgs.gov/vsc/api/volcanoApi/vhpstatus")
         for v in (data or []):
+            alert = (v.get("alertLevel") or "").upper()
+            color = (v.get("colorCode") or "").upper()
+            if alert in ("", "NORMAL", "UNASSIGNED") and color in ("", "GREEN", "UNASSIGNED"):
+                continue
             out["elevated"].append({
-                "volcano": v.get("volcano_name"),
-                "observatory": v.get("obs_abbr"),
-                "color": v.get("color_code"),
-                "alert": v.get("alert_level"),
-                "sent_utc": v.get("sent_utc"),
+                "volcano": v.get("vName"),
+                "observatory": v.get("obs"),
+                "color": color,
+                "alert": alert,
+                "sent_utc": v.get("alertDate") or v.get("colorDate"),
+                "synopsis": (v.get("noticeSynopsis") or "")[:300],
+                "url": v.get("vUrl"),
+                "region": v.get("region"),
+                "threat": v.get("nvewsThreat"),
+                "lat": v.get("lat"),
+                "lng": v.get("long"),
             })
+        out["elevated"].sort(key=lambda v: (
+            {"RED": 0, "ORANGE": 1, "YELLOW": 2}.get(v["color"], 3),
+            v["volcano"] or ""))
+        out["total_us_volcanoes"] = len(data or [])
     except Exception as e:
         out["error"] = str(e)
     return out

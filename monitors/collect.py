@@ -162,7 +162,21 @@ def collect_neo():
             "h": float(h) if h else None,
             "time_uncertainty": g("t_sigma_f"),
         })
-    return {"count": d.get("count"), "events": events,
+    # Split 8-day window: today vs upcoming (advance warning).
+    today = now.date()
+    todays, upcoming = [], []
+    for e in events:
+        try:
+            d0 = datetime.strptime((e.get("approach_utc") or "").split()[0],
+                                   "%Y-%b-%d").date()
+        except (ValueError, IndexError):
+            d0 = today
+        (todays if d0 == today else upcoming).append((d0, e))
+    upcoming.sort(key=lambda t: t[0])
+    todays = [e for _, e in todays]
+    upcoming = [e for _, e in upcoming]
+    return {"count": len(todays), "events": todays,
+            "upcoming_count": len(upcoming), "upcoming": upcoming,
             "source": "JPL CAD", "window_utc": [dmin, dmax]}
 
 def collect_who():

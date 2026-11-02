@@ -110,6 +110,25 @@ def assess(snapshot):
                 f"NEO CLOSE APPROACH: {e['name']} hazardous, miss "
                 f"{e['miss_km']/1e6:.2f}M km"
             )
+    # Upcoming approaches (advance warning) from the 8-day window.
+    up = neo.get("upcoming") or []
+    if up:
+        lines.append(f"### Upcoming approaches (next 8 days): {len(up)}")
+        for e in up[:8]:
+            note = " [POTENTIALLY HAZARDOUS]" if e.get("hazardous") else ""
+            dmin, dmax = e.get("diameter_min_m"), e.get("diameter_max_m")
+            size = f"{dmin}-{dmax} m" if dmin and dmax else "size unknown"
+            lines.append(
+                f"- {e.get('name', '?')}: {size}, "
+                f"miss {e.get('miss_km', 0)/1e6:.1f}M km, "
+                f"{e.get('approach_utc', '?')}{note}"
+            )
+    for e in up:
+        if e.get("hazardous") and e.get("miss_km", 9e99) < NEO_MISS_ALERT_KM:
+            alerts.append(
+                f"NEO UPCOMING: {e['name']} hazardous, miss "
+                f"{e['miss_km']/1e6:.2f}M km, {e.get('approach_utc', '?')}"
+            )
     lines.append("")
 
     # --- GDACS multi-hazard ---

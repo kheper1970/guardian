@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T08:46:16+00:00",
+ "generated": "2026-11-05T09:46:06+00:00",
  "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
  "count": 23,
  "errors": 0,
@@ -14,7 +14,7 @@
     "marine"
    ],
    "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Updated Marine Wind Warning Summary for New South Wales Issued at 4:05 pm EDT on Thursday 5 November 2026 for the period until midnight EDT Friday 6 November 2026. Wind Warnings for Thursday 5 November Strong Wind Warning for the following areas: Byron Coast, Coffs Coast, Macquarie Coast, Hunter Coast, Sydney Coast, Illawarra Coa",
-   "fetched_at": "2026-11-05T08:46:03+00:00"
+   "fetched_at": "2026-11-05T09:45:53+00:00"
   },
   {
    "id": "IDN29000",
@@ -23,7 +23,7 @@
    "severity": "medium",
    "ptype": [],
    "headline": "IDN29000 Australian Government Bureau of Meteorology New South Wales Warning to Sheep Graziers for the Snowy Mountains forecast district. Issued at 5:07 pm EDT on Thursday 5 November 2026. Sheep graziers are warned that cold temperatures and northwesterly winds are expected during Friday. Areas likely to be affected include parts of the Snowy Mountains forecast district. There is a risk of losses ",
-   "fetched_at": "2026-11-05T08:46:03+00:00"
+   "fetched_at": "2026-11-05T09:45:53+00:00"
   },
   {
    "id": "IDN36631",
@@ -34,7 +34,7 @@
     "flood"
    ],
    "headline": "IDN36631 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (NSW) at Barringun and Enngonia Issued at 12:50 pm Australian Eastern Daylight Time on Thursday 5 November 2026 Flood Warning Number: 5 MINOR FLOOD PEAK OCCURRING AT BARRINGUN MINOR FLOODING POSSIBLE AT ENNGONIA FROM FRIDAY Multiple flood peaks along the Warrego river in Queensland are forming one long f",
-   "fetched_at": "2026-11-05T08:46:04+00:00"
+   "fetched_at": "2026-11-05T09:45:54+00:00"
   },
   {
    "id": "IDN36632",
@@ -45,7 +45,7 @@
     "flood"
    ],
    "headline": "IDN36632 Australian Government Bureau of Meteorology Minor Flood Warning for the Paroo River (NSW) Issued at 11:47 am Australian Eastern Daylight Time on Thursday 5 November 2026 Flood Warning Number: 4 MINOR FLOODING OCCURRING AT WILLARA CROSSING WITH A MINOR PEAK POSSIBLE FROM OVERNIGHT THURSDAY River levels peaked along the Paroo River at Hungerford on Tuesday and have fallen below minor. The f",
-   "fetched_at": "2026-11-05T08:46:04+00:00"
+   "fetched_at": "2026-11-05T09:45:55+00:00"
   },
   {
    "id": "IDQ20085",
@@ -57,7 +57,7 @@
     "marine"
    ],
    "headline": "IDQ20085 Australian Government Bureau of Meteorology Queensland Marine Wind Warning Summary for Queensland Issued at 3:00 pm EST on Thursday 5 November 2026 for the period until midnight EST Thursday 5 November 2026. Wind Warnings for Thursday 5 November Strong Wind Warning for the following area: Gold Coast Waters The next marine wind warning summary will be issued by 9:00 pm EST Thursday. ======",
-   "fetched_at": "2026-11-05T08:46:05+00:00"
+   "fetched_at": "2026-11-05T09:45:55+00:00"
   },
   {
    "id": "IDQ20827",
@@ -68,7 +68,7 @@
     "flood"
    ],
    "headline": "IDQ20827 Australian Government Bureau of Meteorology Final Flood Warning for the Upper Condamine River Issued at 8:59 am AEST on Wednesday 4 November 2026 Flood Warning Number: 2 FLOODING NO LONGER EXPECTED AT WARWICK Flooding is no longer expected along the Upper Condamine River at Warwick. No significant rainfall is forecast for the next few days. Condamine River to Warwick: Flooding is no longe",
-   "fetched_at": "2026-11-05T08:46:06+00:00"
+   "fetched_at": "2026-11-05T09:45:56+00:00"
   },
   {
    "id": "IDQ20829",
@@ -79,7 +79,7 @@
     "flood"
    ],
    "headline": "IDQ20829 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Condamine River Issued at 10:59 am AEST on Thursday 5 November 2026 Flood Warning Number: 11 MINOR FLOODING HAS EASED AT CONDAMINE Minor flooding along the Lower Condamine River at Condamine has eased, however, some river and creek levels are expected to remain elevated for the next few days. No significant rain",
-   "fetched_at": "2026-11-05T08:46:06+00:00"
+   "fetched_at": "2026-11-05T09:45:56+00:00"
   },
   {
    "id": "IDQ20831",
@@ -90,7 +90,7 @@
     "flood"
    ],
    "headline": "IDQ20831 Australian Government Bureau of Meteorology Moderate Flood Warning for the Upper Balonne Issued at 2:14 pm AEST on Thursday 5 November 2026 Flood Warning Number: 4 MODERATE FLOODING EXPECTED AT WARKON THURSDAY AFTERNOON AND POSSIBLE AT SURAT FROM OVERNIGHT FRIDAY INTO SATURDAY The Condamine River peaked at Condamine Wednesday afternoon. This flood water is approaching Warkon where moderat",
-   "fetched_at": "2026-11-05T08:46:07+00:00"
+   "fetched_at": "2026-11-05T09:45:57+00:00"
   },
   {
    "id": "IDQ20835",
@@ -101,7 +101,7 @@
     "flood"
    ],
    "headline": "IDQ20835 Australian Government Bureau of Meteorology Final Flood Warning for the Macintyre Brook Issued at 7:37 am AEST on Wednesday 4 November 2026 Flood Warning Number: 2 FLOODING NO LONGER EXPECTED AT INGLEWOOD BRIDGE Flooding is no longer expected along Macintyre Brook at Inglewood Bridge after peaking well below the minor flood level early Wednesday morning. As these flows travel downstream, ",
-   "fetched_at": "2026-11-05T08:46:07+00:00"
+   "fetched_at": "2026-11-05T09:45:58+00:00"
   },
   {
    "id": "IDQ20840",
@@ -112,7 +112,7 @@
     "flood"
    ],
    "headline": "IDQ20840 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Moonie River Issued at 10:18 am AEST on Tuesday 3 November 2026 Flood Warning Number: 11 NINDIGULLY BELOW MINOR FLOOD LEVEL, NO FURTHER FLOODING EXPECTED The Moonie River at Nindigully has fallen below the minor flood level and is expected to continue easing. No further flooding is expected. Further showers and ",
-   "fetched_at": "2026-11-05T08:46:08+00:00"
+   "fetched_at": "2026-11-05T09:45:58+00:00"
   },
   {
    "id": "IDQ20845",
@@ -123,7 +123,7 @@
     "flood"
    ],
    "headline": "IDQ20845 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (QLD) Issued at 10:45 am AEST on Thursday 5 November 2026 Flood Warning Number: 19 MINOR FLOODING SLOWLY EASING AT CUNNAMULLA BRIDGE MINOR FLOODING ESTIMATED TO BE OCCURRING AT ROCKY AFTER A MODERATE FLOOD PEAK ON WEDNESDAY Minor flooding is slowly easing along the Warrego River at Cunnamulla Bridge. The",
-   "fetched_at": "2026-11-05T08:46:08+00:00"
+   "fetched_at": "2026-11-05T09:45:59+00:00"
   },
   {
    "id": "IDQ20850",
@@ -134,7 +134,7 @@
     "flood"
    ],
    "headline": "IDQ20850 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Paroo River (QLD) Issued at 9:42 am AEST on Wednesday 4 November 2026 Flood Warning Number: 6 MINOR FLOODING HAS EASED AT HUNGERFORD The main flood peak along the lower Paroo River is now downstream of Hungerford, where the river level fell below the minor flood level overnight Tuesday into Wednesday. Further do",
-   "fetched_at": "2026-11-05T08:46:09+00:00"
+   "fetched_at": "2026-11-05T09:45:59+00:00"
   },
   {
    "id": "IDQ20855",
@@ -145,7 +145,7 @@
     "flood"
    ],
    "headline": "IDQ20855 Australian Government Bureau of Meteorology Moderate Flood Warning for the Bulloo River Issued at 10:39 am AEST on Thursday 5 November 2026 Flood Warning Number: 17 MODERATE FLOODING POSSIBLE AT THARGOMINDAH FROM SUNDAY Flooding is no longer occurring at Quilpie. The flood peak is approaching Autumnvale where the river level is rising. Minor flooding is possible at Thargomindah from Frida",
-   "fetched_at": "2026-11-05T08:46:10+00:00"
+   "fetched_at": "2026-11-05T09:46:00+00:00"
   },
   {
    "id": "IDQ20860",
@@ -156,7 +156,7 @@
     "flood"
    ],
    "headline": "IDQ20860 Australian Government Bureau of Meteorology Moderate Flood Warning for the Barcoo River and Minor Flood Warning for the Upper Thomson River Issued at 11:41 am AEST on Thursday 5 November 2026 Flood Warning Number: 18 MODERATE FLOODING IS OCCURRING AT ISISFORD AND IS LIKELY AT RETREAT FROM EARLY NEXT WEEK MINOR FLOODING LIKELY AT CAMOOLA PARK THURSDAY AFTERNOON Along the Barcoo River, mode",
-   "fetched_at": "2026-11-05T08:46:10+00:00"
+   "fetched_at": "2026-11-05T09:46:01+00:00"
   },
   {
    "id": "IDS20201",
@@ -168,7 +168,7 @@
     "marine"
    ],
    "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Marine Wind Warning Summary for South Australia Issued at 3:30 pm CDT on Thursday 5 November 2026 for the period until midnight CDT Friday 6 November 2026. Wind Warnings for Friday 6 November Strong Wind Warning for the following area: Far West Coast The next marine wind warning summary will be issued by 9:30 pm CDT Thursday. ===",
-   "fetched_at": "2026-11-05T08:46:11+00:00"
+   "fetched_at": "2026-11-05T09:46:01+00:00"
   },
   {
    "id": "IDT20100",
@@ -180,7 +180,7 @@
     "marine"
    ],
    "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Updated Marine Wind Warning Summary for Tasmania Issued at 4:05 pm EDT on Thursday 5 November 2026 for the period until midnight EDT Friday 6 November 2026. Wind Warnings for Thursday 5 November Strong Wind Warning for the following areas: Central North Coast, Banks Strait and Franklin Sound, East of Flinders Island, South East Coast, S",
-   "fetched_at": "2026-11-05T08:46:11+00:00"
+   "fetched_at": "2026-11-05T09:46:02+00:00"
   },
   {
    "id": "IDV20600",
@@ -192,7 +192,7 @@
     "marine"
    ],
    "headline": "IDV20600 Australian Government Bureau of Meteorology Victoria Updated Marine Wind Warning Summary for Victoria Issued at 4:15 pm EDT on Thursday 5 November 2026 for the period until midnight EDT Friday 6 November 2026. Wind Warnings for Thursday 5 November Strong Wind Warning for the following areas: Central Gippsland Coast and East Gippsland Coast Cancellation for the following area: Central Coas",
-   "fetched_at": "2026-11-05T08:46:12+00:00"
+   "fetched_at": "2026-11-05T09:46:02+00:00"
   },
   {
    "id": "IDV29000",
@@ -201,7 +201,7 @@
    "severity": "info",
    "ptype": [],
    "headline": "IDV29000 Australian Government Bureau of Meteorology Victoria Cancellation of Warning to Sheep Graziers for the West and South Gippsland and East Gippsland forecast districts. Issued at 10:31 am EDT on Thursday 5 November 2026. The Warning to Sheep Graziers for the West and South Gippsland and East Gippsland forecast districts has been cancelled. No further warnings will be issued for this event. ",
-   "fetched_at": "2026-11-05T08:46:13+00:00"
+   "fetched_at": "2026-11-05T09:46:03+00:00"
   },
   {
    "id": "IDW20100",
@@ -213,20 +213,20 @@
     "marine"
    ],
    "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Updated Marine Wind Warning Summary for Western Australia Issued at 1:01 pm WST on Thursday 5 November 2026 for the period until midnight WST Friday 6 November 2026. Wind Warnings for Thursday 5 November Strong Wind Warning for the following areas: Perth Local Waters, Geraldton Coast, Lancelin Coast, Perth Coast and Bunbury Geo",
-   "fetched_at": "2026-11-05T08:46:13+00:00"
+   "fetched_at": "2026-11-05T09:46:03+00:00"
   },
   {
    "id": "IDW21033",
-   "title": "Severe Thunderstorm Warning",
+   "title": "Cancellation of Severe Thunderstorm Warning",
    "issued": "",
-   "severity": "high",
+   "severity": "info",
    "ptype": [
     "flood",
     "severe_thunderstorm",
     "wind"
    ],
-   "headline": "IDW21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS For people in parts of Pilbara, Gascoyne and South Interior districts. Issued at 2:10 pm Thursday, 5 November 2026. Isolated damaging wind gusts with high based thunderstorms over the southern Pilbara and northern Gascoyne. Weather Situation: Instability developi",
-   "fetched_at": "2026-11-05T08:46:14+00:00"
+   "headline": "IDW21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Cancellation of Severe Thunderstorm Warning For people in Pilbara, Gascoyne and South Interior districts. Issued at 5:05 pm Thursday, 5 November 2026. Weather Situation: Instability has weakened over the southern Pilbara and northern Gascoyne, and the risk of damaging wind gusts has eased. This warning is now",
+   "fetched_at": "2026-11-05T09:46:04+00:00"
   },
   {
    "id": "IDY21091",
@@ -237,7 +237,7 @@
     "marine"
    ],
    "headline": "IDY21091 40:2:1:04:70S100E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0536UTC 5 November 2026 STORM FORCE WIND WARNING 11 FOR SOUTHERN AND SOUTHEASTERN AREAS SITUATION AT 050600UTC Vigorous flow with cold front 45S136E 55S138E. Forecast 50S142E 58S144E at 051200UTC, 51S149E 61S149E at 051800UTC, 60S154E 54S155E at 06000",
-   "fetched_at": "2026-11-05T08:46:14+00:00"
+   "fetched_at": "2026-11-05T09:46:05+00:00"
   },
   {
    "id": "IDY21092",
@@ -248,7 +248,7 @@
     "marine"
    ],
    "headline": "IDY21092 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0536UTC 5 November 2026 STORM FORCE WIND WARNING 12 FOR SOUTHERN AND WESTERN AREA SITUATION AT 050600UTC Vigorous flow associated with cold front 42S085E 45S082E. Forecast cold front 41S088E 51S082E at 051200UTC, cold front 40S092E 52S087E at 051800UT",
-   "fetched_at": "2026-11-05T08:46:15+00:00"
+   "fetched_at": "2026-11-05T09:46:05+00:00"
   },
   {
    "id": "IDY28000",
@@ -257,7 +257,7 @@
    "severity": "low",
    "ptype": [],
    "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 0600UTC Chart Issued at 6:01 pm EDT Thursday on 05 November 2026 A heat trough extends from the Pilbara region of Western Australia, through the Top End and into western Queensland. Patches of low to mid level convective cloud and thunderstorm activity can be seen near the trough. Low to mid ",
-   "fetched_at": "2026-11-05T08:46:16+00:00"
+   "fetched_at": "2026-11-05T09:46:06+00:00"
   }
  ]
 }

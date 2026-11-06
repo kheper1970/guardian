@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-11-06T03:45:01.709739+00:00",
+ "collected_utc": "2026-11-06T04:45:01.874023+00:00",
  "earthquakes": [
   {
    "mag": 4.7,
@@ -467,8 +467,8 @@
     "observatory": "hvo",
     "color": "ORANGE",
     "alert": "WATCH",
-    "sent_utc": "2026-11-06 00:34:07",
-    "synopsis": "HVO Kilauea ORANGE/WATCH - Episode 56 of the ongoing Halema\u02bbuma\u02bbu eruption continues at 2:15 PM HST on November 5, 2026. Fountain heights have reached about 660 feet (200 meters).",
+    "sent_utc": "2026-11-06 04:21:58",
+    "synopsis": "HVO Kilauea ORANGE/WATCH - Episode 56 of the ongoing Halema\u02bbuma\u02bbu eruption ended abruptly at 6:01 P.M. HST on November 5, 2026.",
     "url": "https://www.usgs.gov/volcanoes/kilauea",
     "region": "Hawaii",
     "threat": "Very High Threat",
@@ -715,7 +715,7 @@
  },
  "nhc_storms": [],
  "eonet": {
-  "open_total": 26,
+  "open_total": 25,
   "tracked": [
    {
     "title": "Wildfire Wild River, Coos, New Hampshire",
@@ -844,49 +844,41 @@
     ],
     "date": "2026-10-17T23:28:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25591"
-   },
-   {
-    "title": "Wildfire COOLEY, Mendocino, California",
-    "categories": [
-     "Wildfires"
-    ],
-    "date": "2026-10-16T20:14:00Z",
-    "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450"
    }
   ]
  },
  "nuclear_news": [
   {
+   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
+   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+  },
+  {
    "title": "IAEA Convenes National Nuclear Emergency Competent Authorities as Early Notification and Assistance Conventions Mark 40 Years - International Atomic Energy Agency",
    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+  },
+  {
+   "title": "UAE trains experts to tackle nuclear emergencies - Gulf News",
+   "pubDate": "Thu, 29 Oct 2026 14:18:23 GMT"
   },
   {
    "title": "IAEA and Japan Strengthen Emergency Preparedness in Fukushima - International Atomic Energy Agency",
    "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Response and Assistance Network (RANET) Capacity Building Centre\u2019s Workshop on Monitoring during a Nuclear or Radiological Emergency held in Fukushima - Ministry of Foreign Affairs of Japan",
-   "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
+   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
   },
   {
    "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
    "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
   },
   {
-   "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
-   "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-  },
-  {
    "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
    "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
   },
   {
-   "title": "How Is Radioactive Material Transported Safely and Securely? - International Atomic Energy Agency",
-   "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   }
  ],
  "famine_news": [
@@ -926,44 +918,44 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Man sues former AFL players Dion Prestia and Steven May",
+    "pubDate": "Fri, 06 Nov 2026 04:26:33 +0000"
+   },
+   {
+    "title": "Qantas flags fare increases and flight cuts as fuel prices surge",
+    "pubDate": "Fri, 06 Nov 2026 04:06:09 +0000"
+   },
+   {
+    "title": "Three people stabbed near Melbourne primary school",
+    "pubDate": "Fri, 06 Nov 2026 04:05:55 +0000"
+   },
+   {
+    "title": "What Indonesia's 'Watergate' moment says about two powerful men",
+    "pubDate": "Fri, 06 Nov 2026 04:02:40 +0000"
+   },
+   {
+    "title": "Murder trial hears woman's injuries 'consistent with strangulation'",
+    "pubDate": "Fri, 06 Nov 2026 03:57:12 +0000"
+   },
+   {
+    "title": "Woman pleads not guilty to DV murder of man found dead on Newell Highway",
+    "pubDate": "Fri, 06 Nov 2026 03:47:57 +0000"
+   },
+   {
+    "title": "Christmas display burns down in Canberra shopping centre",
+    "pubDate": "Fri, 06 Nov 2026 03:45:42 +0000"
+   },
+   {
+    "title": "Not guilty finding didn't bring comfort or closure, jumping castle owner says",
+    "pubDate": "Fri, 06 Nov 2026 03:44:03 +0000"
+   },
+   {
+    "title": "Coalition promises compensation access for firefighters who get cancer",
+    "pubDate": "Fri, 06 Nov 2026 03:43:23 +0000"
+   },
+   {
     "title": "Controversial councillor must stay away from colleague under AVO",
     "pubDate": "Fri, 06 Nov 2026 03:31:38 +0000"
-   },
-   {
-    "title": "Probe widens after steering failure on Spirit of Tasmania ferry",
-    "pubDate": "Fri, 06 Nov 2026 03:23:22 +0000"
-   },
-   {
-    "title": "Breaking: Volunteer search for missing Tasmanian finds 'human remains'",
-    "pubDate": "Fri, 06 Nov 2026 03:15:51 +0000"
-   },
-   {
-    "title": "AFP officers meet flight at Sydney airport after 'threat' sent",
-    "pubDate": "Fri, 06 Nov 2026 02:55:43 +0000"
-   },
-   {
-    "title": "Artwork honouring children killed in Gaza on show after being dropped by council",
-    "pubDate": "Fri, 06 Nov 2026 02:53:21 +0000"
-   },
-   {
-    "title": "From Monday, police will be texting family violence offenders",
-    "pubDate": "Fri, 06 Nov 2026 02:44:22 +0000"
-   },
-   {
-    "title": "Injured MP Helen Haines's condition improved to 'stable'",
-    "pubDate": "Fri, 06 Nov 2026 02:41:44 +0000"
-   },
-   {
-    "title": "With Perth's property prices falling, job loss is the real risk",
-    "pubDate": "Fri, 06 Nov 2026 02:35:51 +0000"
-   },
-   {
-    "title": "Aussie Calleja ready for winner-takes-all world championship weekend",
-    "pubDate": "Fri, 06 Nov 2026 02:29:19 +0000"
-   },
-   {
-    "title": "Man charged with killing baby son in suburban Perth",
-    "pubDate": "Fri, 06 Nov 2026 02:28:12 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -980,6 +972,10 @@
     "category": "Advice"
    },
    {
+    "title": "DUNDAS RD, KIKOIRA",
+    "category": "Advice"
+   },
+   {
     "title": "EAGLEVIEW RD, MINTO",
     "category": "Advice"
    },
@@ -990,14 +986,6 @@
    {
     "title": "MITCHELL HWY, MARYVALE",
     "category": "Advice"
-   },
-   {
-    "title": "South St, Marsden Park",
-    "category": "Advice"
-   },
-   {
-    "title": "BATLOW RD, WILLIGOBUNG",
-    "category": "Not Applicable"
    },
    {
     "title": "BOYD LANE, BUNDURE",
@@ -1013,6 +1001,14 @@
    },
    {
     "title": "GLEN MUNRO RD, MUSWELLBROOK",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "GLENIFFER RD, BONVILLE",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "KINGS POINT DR, KINGS POINT",
     "category": "Not Applicable"
    },
    {
@@ -1040,11 +1036,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "WARRAH DR, CALALA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "WIRRINYA RD, FORBES",
+    "title": "TUGALONG RD, CANYONLEIGH",
     "category": "Not Applicable"
    }
   ],
@@ -1100,10 +1092,6 @@
   ],
   "au_emergency_news": [
    {
-    "title": "Australian National Weather Forecast - Nine.com.au",
-    "pubDate": "Fri, 06 Nov 2026 01:19:29 GMT"
-   },
-   {
     "title": "Humidity can make heatwaves more dangerous. It\u2019s time to warn Australians about this threat - The Conversation",
     "pubDate": "Thu, 05 Nov 2026 22:18:19 GMT"
    },
@@ -1130,6 +1118,10 @@
    {
     "title": "New wave of bomb threats rocks flights across Europe - The Nightly",
     "pubDate": "Thu, 05 Nov 2026 10:33:18 GMT"
+   },
+   {
+    "title": "Cessnock flood warning siren get test run - 2HD",
+    "pubDate": "Wed, 04 Nov 2026 21:11:29 GMT"
    }
   ],
   "au_security_news": [
@@ -1138,24 +1130,24 @@
     "pubDate": "Fri, 06 Nov 2026 02:25:21 GMT"
    },
    {
-    "title": "A resilient country doesn\u2019t have hungry households - The Strategist | ASPI's analysis and commentary site",
-    "pubDate": "Thu, 05 Nov 2026 19:11:30 GMT"
-   },
-   {
-    "title": "Defence\u2019s \u2018deadweight\u2019 on Navy - The Australian Naval Institute",
-    "pubDate": "Fri, 06 Nov 2026 01:20:16 GMT"
+    "title": "Watch: People over power \u2014 Human security in the Pacific - Lowy Institute",
+    "pubDate": "Thu, 05 Nov 2026 23:26:15 GMT"
    },
    {
     "title": "China's blunt message over Australia's $368 billion AUKUS defence deal: 'Make the right choice' - Yahoo News Australia",
     "pubDate": "Fri, 06 Nov 2026 01:38:00 GMT"
    },
    {
-    "title": "Aukus is \u2018worst, riskiest and most costly\u2019 Australian defence decision ever, public inquiry into submarine deal says - The Guardian",
-    "pubDate": "Wed, 04 Nov 2026 04:38:00 GMT"
+    "title": "A resilient country doesn\u2019t have hungry households - The Strategist | ASPI's analysis and commentary site",
+    "pubDate": "Thu, 05 Nov 2026 19:11:30 GMT"
    },
    {
     "title": "From student to exercise planner - Defence News",
     "pubDate": "Thu, 05 Nov 2026 01:07:23 GMT"
+   },
+   {
+    "title": "Report: Organisational silos are becoming the biggest barrier to cyber resilience - ARNnet",
+    "pubDate": "Fri, 06 Nov 2026 01:32:02 GMT"
    },
    {
     "title": "ANAO releases Land 400 report - Australian Defence Magazine",
@@ -1200,9 +1192,9 @@
   ]
  },
  "bom": {
-  "generated": "2026-11-06T03:45:55+00:00",
+  "generated": "2026-11-06T04:45:57+00:00",
   "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
-  "count": 22,
+  "count": 21,
   "errors": 0,
   "warnings": [
    {
@@ -1215,7 +1207,7 @@
      "marine"
     ],
     "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Marine Wind Warning Summary for New South Wales Issued at 10:00 am EDT on Friday 6 November 2026 for the period until midnight EDT Saturday 7 November 2026. Wind Warnings for Saturday 7 November Strong Wind Warning for the following areas: Sydney Enclosed Waters, Hunter Coast, Sydney Coast, Illawarra Coast, Batemans Coast and Ede",
-    "fetched_at": "2026-11-06T03:45:42+00:00"
+    "fetched_at": "2026-11-06T04:45:45+00:00"
    },
    {
     "id": "IDN29000",
@@ -1224,7 +1216,7 @@
     "severity": "medium",
     "ptype": [],
     "headline": "IDN29000 Australian Government Bureau of Meteorology New South Wales Warning to Sheep Graziers for the Illawarra, South Coast, Southern Tablelands, Snowy Mountains and Australian Capital Territory forecast districts. Issued at 10:09 am EDT on Friday 6 November 2026. Sheep graziers are warned that cold temperatures, showers and southwesterly winds are expected during Saturday. Areas likely to be af",
-    "fetched_at": "2026-11-06T03:45:43+00:00"
+    "fetched_at": "2026-11-06T04:45:46+00:00"
    },
    {
     "id": "IDN36631",
@@ -1235,7 +1227,7 @@
      "flood"
     ],
     "headline": "IDN36631 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (NSW) at Barringun and Enngonia Issued at 12:48 pm Australian Eastern Daylight Time on Friday 6 November 2026 Flood Warning Number: 6 MINOR FLOOD PEAK OCCURRING AT BARRINGUN WITH MINOR FLOODING TO CONTINUE INTO NEXT WEEK MINOR FLOODING LIKELY AT ENNGONIA FROM FRIDAY Multiple flood peaks along the Warrego",
-    "fetched_at": "2026-11-06T03:45:43+00:00"
+    "fetched_at": "2026-11-06T04:45:46+00:00"
    },
    {
     "id": "IDN36632",
@@ -1246,7 +1238,7 @@
      "flood"
     ],
     "headline": "IDN36632 Australian Government Bureau of Meteorology Minor Flood Warning for the Paroo River (NSW) Issued at 11:51 am Australian Eastern Daylight Time on Friday 6 November 2026 Flood Warning Number: 5 MINOR FLOOD PEAK OBSERVED AT WILLARA CROSSING WITH MINOR FLOODING SLOWING EASING Along the Paroo River at Willara Crossing a minor flood peak was observed on Thursday. River levels are falling and mi",
-    "fetched_at": "2026-11-06T03:45:44+00:00"
+    "fetched_at": "2026-11-06T04:45:47+00:00"
    },
    {
     "id": "IDQ20827",
@@ -1257,7 +1249,7 @@
      "flood"
     ],
     "headline": "IDQ20827 Australian Government Bureau of Meteorology Final Flood Warning for the Upper Condamine River Issued at 8:59 am AEST on Wednesday 4 November 2026 Flood Warning Number: 2 FLOODING NO LONGER EXPECTED AT WARWICK Flooding is no longer expected along the Upper Condamine River at Warwick. No significant rainfall is forecast for the next few days. Condamine River to Warwick: Flooding is no longe",
-    "fetched_at": "2026-11-06T03:45:44+00:00"
+    "fetched_at": "2026-11-06T04:45:47+00:00"
    },
    {
     "id": "IDQ20829",
@@ -1268,7 +1260,7 @@
      "flood"
     ],
     "headline": "IDQ20829 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Condamine River Issued at 10:59 am AEST on Thursday 5 November 2026 Flood Warning Number: 11 MINOR FLOODING HAS EASED AT CONDAMINE Minor flooding along the Lower Condamine River at Condamine has eased, however, some river and creek levels are expected to remain elevated for the next few days. No significant rain",
-    "fetched_at": "2026-11-06T03:45:45+00:00"
+    "fetched_at": "2026-11-06T04:45:48+00:00"
    },
    {
     "id": "IDQ20831",
@@ -1279,7 +1271,7 @@
      "flood"
     ],
     "headline": "IDQ20831 Australian Government Bureau of Meteorology Moderate Flood Warning for the Upper Balonne River Issued at 1:38 pm AEST on Friday 6 November 2026 Flood Warning Number: 5 MODERATE FLOODING PEAKING AT WARKON DURING FRIDAY AFTERNOON AND LIKELY AT SURAT FROM SATURDAY MORNING The Balonne River is currently peaking at Warkon with moderate flooding. Moderate flooding is likely at Surat from Saturd",
-    "fetched_at": "2026-11-06T03:45:46+00:00"
+    "fetched_at": "2026-11-06T04:45:49+00:00"
    },
    {
     "id": "IDQ20835",
@@ -1290,18 +1282,7 @@
      "flood"
     ],
     "headline": "IDQ20835 Australian Government Bureau of Meteorology Final Flood Warning for the Macintyre Brook Issued at 7:37 am AEST on Wednesday 4 November 2026 Flood Warning Number: 2 FLOODING NO LONGER EXPECTED AT INGLEWOOD BRIDGE Flooding is no longer expected along Macintyre Brook at Inglewood Bridge after peaking well below the minor flood level early Wednesday morning. As these flows travel downstream, ",
-    "fetched_at": "2026-11-06T03:45:46+00:00"
-   },
-   {
-    "id": "IDQ20840",
-    "title": "Final Flood Warning for the Lower Moonie River",
-    "issued": "",
-    "severity": "medium",
-    "ptype": [
-     "flood"
-    ],
-    "headline": "IDQ20840 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Moonie River Issued at 10:18 am AEST on Tuesday 3 November 2026 Flood Warning Number: 11 NINDIGULLY BELOW MINOR FLOOD LEVEL, NO FURTHER FLOODING EXPECTED The Moonie River at Nindigully has fallen below the minor flood level and is expected to continue easing. No further flooding is expected. Further showers and ",
-    "fetched_at": "2026-11-06T03:45:47+00:00"
+    "fetched_at": "2026-11-06T04:45:49+00:00"
    },
    {
     "id": "IDQ20845",
@@ -1312,7 +1293,7 @@
      "flood"
     ],
     "headline": "IDQ20845 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (QLD) Issued at 10:54 am AEST on Friday 6 November 2026 Flood Warning Number: 20 MINOR FLOODING SLOWLY EASING AT CUNNAMULLA BRIDGE AND ROCKY A flood peak has passed Cunnamulla Bridge and Rocky, where minor flooding is slowly easing. Warrego River downstream of Charleville: Minor flooding is occurring alo",
-    "fetched_at": "2026-11-06T03:45:47+00:00"
+    "fetched_at": "2026-11-06T04:45:50+00:00"
    },
    {
     "id": "IDQ20850",
@@ -1323,7 +1304,7 @@
      "flood"
     ],
     "headline": "IDQ20850 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Paroo River (QLD) Issued at 9:42 am AEST on Wednesday 4 November 2026 Flood Warning Number: 6 MINOR FLOODING HAS EASED AT HUNGERFORD The main flood peak along the lower Paroo River is now downstream of Hungerford, where the river level fell below the minor flood level overnight Tuesday into Wednesday. Further do",
-    "fetched_at": "2026-11-06T03:45:48+00:00"
+    "fetched_at": "2026-11-06T04:45:50+00:00"
    },
    {
     "id": "IDQ20855",
@@ -1334,7 +1315,7 @@
      "flood"
     ],
     "headline": "IDQ20855 Australian Government Bureau of Meteorology Moderate Flood Warning for the Bulloo River Issued at 11:16 am AEST on Friday 6 November 2026 Flood Warning Number: 18 MODERATE FLOOD PEAK POSSIBLE AT THARGOMINDAH DURING SUNDAY The flood peak in the upper Bulloo River is approaching Autumnvale where the river level is rising with minor flooding. Minor flooding is possible at Thargomindah from F",
-    "fetched_at": "2026-11-06T03:45:49+00:00"
+    "fetched_at": "2026-11-06T04:45:51+00:00"
    },
    {
     "id": "IDQ20860",
@@ -1345,7 +1326,7 @@
      "flood"
     ],
     "headline": "IDQ20860 Australian Government Bureau of Meteorology Moderate Flood Warning for the Barcoo River and Minor Flood Warning for the Upper Thomson River Issued at 12:04 pm AEST on Friday 6 November 2026 Flood Warning Number: 19 MODERATE FLOODING IS LIKELY AT RETREAT FROM OVERNIGHT SUNDAY INTO MONDAY MINOR FLOODING IS OCCURRING AT ISISFORD AND CAMOOLA PARK Along the upper Thomson River, minor flooding ",
-    "fetched_at": "2026-11-06T03:45:49+00:00"
+    "fetched_at": "2026-11-06T04:45:51+00:00"
    },
    {
     "id": "IDS20201",
@@ -1357,7 +1338,7 @@
      "marine"
     ],
     "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Marine Wind Warning Summary for South Australia Issued at 9:30 am CDT on Friday 6 November 2026 for the period until midnight CDT Saturday 7 November 2026. Wind Warnings for Friday 6 November Strong Wind Warning for the following area: Far West Coast Wind Warnings for Saturday 7 November Strong Wind Warning for the following area",
-    "fetched_at": "2026-11-06T03:45:50+00:00"
+    "fetched_at": "2026-11-06T04:45:52+00:00"
    },
    {
     "id": "IDT20100",
@@ -1369,7 +1350,7 @@
      "marine"
     ],
     "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Updated Marine Wind Warning Summary for Tasmania Issued at 10:00 am EDT on Friday 6 November 2026 for the period until midnight EDT Saturday 7 November 2026. Wind Warnings for Friday 6 November Strong Wind Warning for the following areas: Far North West Coast, Central North Coast, Banks Strait and Franklin Sound, East of Flinders Island",
-    "fetched_at": "2026-11-06T03:45:50+00:00"
+    "fetched_at": "2026-11-06T04:45:53+00:00"
    },
    {
     "id": "IDV20600",
@@ -1381,7 +1362,7 @@
      "marine"
     ],
     "headline": "IDV20600 Australian Government Bureau of Meteorology Victoria Marine Wind Warning Summary for Victoria Issued at 10:00 am EDT on Friday 6 November 2026 for the period until midnight EDT Saturday 7 November 2026. Wind Warnings for Saturday 7 November Strong Wind Warning for the following areas: Central Coast, Central Gippsland Coast and East Gippsland Coast The next marine wind warning summary will",
-    "fetched_at": "2026-11-06T03:45:51+00:00"
+    "fetched_at": "2026-11-06T04:45:53+00:00"
    },
    {
     "id": "IDV29000",
@@ -1390,7 +1371,7 @@
     "severity": "medium",
     "ptype": [],
     "headline": "IDV29000 Australian Government Bureau of Meteorology Victoria Warning to Sheep Graziers for the North Central, North East, South West, Central, West and South Gippsland and East Gippsland forecast districts. Issued at 10:09 am EDT on Friday 6 November 2026. Sheep graziers are warned that cold temperatures, showers and southwesterly winds are expected during Saturday. Areas likely to be affected in",
-    "fetched_at": "2026-11-06T03:45:51+00:00"
+    "fetched_at": "2026-11-06T04:45:54+00:00"
    },
    {
     "id": "IDV36330",
@@ -1401,7 +1382,7 @@
      "flood"
     ],
     "headline": "IDV36330 Australian Government Bureau of Meteorology Initial Minor Flood Warning for the Bunyip River Issued at 2:12 pm Australian Eastern Daylight Time on Friday 6 November 2026 Flood Warning Number: 1 MINOR FLOODING POSSIBLE AT IONA AND CORA LYNN FROM SATURDAY MORNING WITH FORECAST RAINFALL Forecast rainfall combined with wet catchment condition and elevated river levels has the potential to cau",
-    "fetched_at": "2026-11-06T03:45:52+00:00"
+    "fetched_at": "2026-11-06T04:45:54+00:00"
    },
    {
     "id": "IDW20100",
@@ -1413,7 +1394,7 @@
      "marine"
     ],
     "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Updated Marine Wind Warning Summary for Western Australia Issued at 8:01 am WST on Friday 6 November 2026 for the period until midnight WST Saturday 7 November 2026. Wind Warnings for Friday 6 November Strong Wind Warning for the following areas: Leeuwin Coast, Esperance Coast and Eucla Coast Cancellation for the following area",
-    "fetched_at": "2026-11-06T03:45:53+00:00"
+    "fetched_at": "2026-11-06T04:45:55+00:00"
    },
    {
     "id": "IDY21091",
@@ -1425,7 +1406,7 @@
      "marine"
     ],
     "headline": "IDY21091 40:2:1:04:70S125E35045:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2339UTC 5 November 2026 GALE WARNING 11 FOR SOUTHERN AREA SITUATION AT 060000UTC Vigorous flow with cold front 54S155E 58S153E. Forecast cold front 58S158E 62S157E at 060600UTC, winds becoming westerly quarter thereafter. AREA AFFECTED Bounded by 60S1",
-    "fetched_at": "2026-11-06T03:45:53+00:00"
+    "fetched_at": "2026-11-06T04:45:55+00:00"
    },
    {
     "id": "IDY21092",
@@ -1437,7 +1418,7 @@
      "marine"
     ],
     "headline": "IDY21092 40:2:1:04:70S100E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2339UTC 5 November 2026 GALE WARNING 12 FOR SOUTHERN AND WESTERN AREA SITUATION AT 060000UTC Vigorous flow associated with cold front 42S098E 54S092E. Forecast 43S103E 55S098E at 060600UTC, and 45S108E 51S106E 57S099E at 061200UTC, 46S113E 58S112E at ",
-    "fetched_at": "2026-11-06T03:45:54+00:00"
+    "fetched_at": "2026-11-06T04:45:56+00:00"
    },
    {
     "id": "IDY28000",
@@ -1446,7 +1427,7 @@
     "severity": "low",
     "ptype": [],
     "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 0000UTC Chart Issued at 11:50 am EDT Friday on 06 November 2026 A heat trough extends from the Pilbara region of Western Australia, through the Northern Territory and into western Queensland. Patches of low to mid level convective cloud and thunderstorm activity can be seen on the northern si",
-    "fetched_at": "2026-11-06T03:45:54+00:00"
+    "fetched_at": "2026-11-06T04:45:57+00:00"
    }
   ]
  },
@@ -1515,6 +1496,11 @@
  "humanitarian_watch": {
   "famine": [
    {
+    "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+    "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+    "source": "UN News"
+   },
+   {
     "title": "Lebanon: Around 1.05 million people face high levels of acute food insecurity following two successive conflicts and a fragile recovery - IPC Acute Food Insecurity Analysis (September 2026 - July 2027) (published 5 November 2026)",
     "pubDate": "Fri, 06 Nov 2026 00:51:14 +0000",
     "source": "ReliefWeb"
@@ -1528,14 +1514,24 @@
     "title": "Yemen: Plus de 300 000 personnes d\u00e9plac\u00e9es au Y\u00e9men face \u00e0 l'aggravation des besoins humanitaires \u2014 Nouvelles donn\u00e9es de l'OIM",
     "pubDate": "Thu, 05 Nov 2026 21:33:04 +0000",
     "source": "ReliefWeb"
-   },
-   {
-    "title": "Yemen Emergency Response Situation Report #6 (November 5, 2026)",
-    "pubDate": "Thu, 05 Nov 2026 19:39:53 +0000",
-    "source": "ReliefWeb"
    }
   ],
   "conflict": [
+   {
+    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+    "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+    "source": "UN News"
+   },
+   {
+    "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+    "pubDate": "Mon, 02 Nov 2026 12:00:00 +0000",
+    "source": "UN News"
+   },
+   {
+    "title": "Ukraine: Oleshky ceasefire offers \u2018hope\u2019 for civilians as attacks on aid vehicles continue",
+    "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+    "source": "UN News"
+   },
    {
     "title": "World: Protection of the Natural Environment in Armed Conflict Under International Humanitarian Law - Implementation Guidance [EN/RU]",
     "pubDate": "Fri, 06 Nov 2026 00:53:03 +0000",

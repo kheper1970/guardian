@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-11-07T00:45:01.362469+00:00",
+ "collected_utc": "2026-11-07T01:45:01.534422+00:00",
  "earthquakes": [
   {
    "mag": 4.8,
@@ -47,14 +47,6 @@
    "time": 1793932525631,
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq",
-   "type": "earthquake"
-  },
-  {
-   "mag": 4.6,
-   "place": "58 km WNW of Isangel, Vanuatu",
-   "time": 1793929059847,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
    "type": "earthquake"
   }
  ],
@@ -444,19 +436,6 @@
     "lng": -176.1109
    },
    {
-    "volcano": "Kilauea",
-    "observatory": "hvo",
-    "color": "ORANGE",
-    "alert": "WATCH",
-    "sent_utc": "2026-11-06 20:09:22",
-    "synopsis": "HVO Kilauea ORANGE/WATCH - Episode 56 lava fountaining occurred yesterday afternoon with fountains reaching 660 feet (200 meters), and the summit is now reinflating. The next episode of lava fountaining is likely several weeks away.",
-    "url": "https://www.usgs.gov/volcanoes/kilauea",
-    "region": "Hawaii",
-    "threat": "Very High Threat",
-    "lat": 19.421,
-    "lng": -155.287
-   },
-   {
     "volcano": "Ahyi Seamount",
     "observatory": "nmi",
     "color": "YELLOW",
@@ -468,6 +447,19 @@
     "threat": "Very Low Threat",
     "lat": 20.437,
     "lng": 145.03
+   },
+   {
+    "volcano": "Kilauea",
+    "observatory": "hvo",
+    "color": "YELLOW",
+    "alert": "ADVISORY",
+    "sent_utc": "2026-11-07 00:50:08",
+    "synopsis": "HVO Kilauea YELLOW/ADVISORY - Episode 56 of the ongoing Halema\u02bbuma\u02bbu eruption ended at 6:01 p.m. HST on November 5, 2026. Alert level has been lowered from WATCH to ADVISORY. Aviation color code has been lowered from ORANGE to YELLOW.",
+    "url": "https://www.usgs.gov/volcanoes/kilauea",
+    "region": "Hawaii",
+    "threat": "Very High Threat",
+    "lat": 19.421,
+    "lng": -155.287
    }
   ],
   "total_us_volcanoes": 161
@@ -932,6 +924,30 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Schoolgirl fighting cancer meets her idol Benson Boone",
+    "pubDate": "Sat, 07 Nov 2026 01:41:51 +0000"
+   },
+   {
+    "title": "Inclusion and education on agenda for marking WA's bicentenary in 2029",
+    "pubDate": "Sat, 07 Nov 2026 01:32:43 +0000"
+   },
+   {
+    "title": "'Strong, cheeky' Shepparton boy remembered after tragic river death",
+    "pubDate": "Sat, 07 Nov 2026 01:26:27 +0000"
+   },
+   {
+    "title": "Trust hard to come by as WA's demersal fishing ban faces scrutiny",
+    "pubDate": "Sat, 07 Nov 2026 01:10:15 +0000"
+   },
+   {
+    "title": "Triumph, tragedy and Alan Jones's drive to survive F1's deadliest era",
+    "pubDate": "Sat, 07 Nov 2026 01:05:10 +0000"
+   },
+   {
+    "title": "Qld teen charged in terrorism investigation",
+    "pubDate": "Sat, 07 Nov 2026 00:59:55 +0000"
+   },
+   {
     "title": "Musk axes Tesla's Cybertruck in favour of self-driving taxis",
     "pubDate": "Sat, 07 Nov 2026 00:38:10 +0000"
    },
@@ -946,37 +962,9 @@
    {
     "title": "Moving house seven times in 18 months the reality for many renters",
     "pubDate": "Sat, 07 Nov 2026 00:06:55 +0000"
-   },
-   {
-    "title": "NT government accused of cherrypicking data to support crime claims",
-    "pubDate": "Sat, 07 Nov 2026 00:06:09 +0000"
-   },
-   {
-    "title": "Indigenous people 'very rarely' sit on a jury in SA, report finds",
-    "pubDate": "Fri, 06 Nov 2026 23:53:17 +0000"
-   },
-   {
-    "title": "'Forgotten' veterans conscripted for Vietnam return to army barracks",
-    "pubDate": "Fri, 06 Nov 2026 23:33:29 +0000"
-   },
-   {
-    "title": "Artwork memorialises long-gone 'Tin Town' settlement in western NSW",
-    "pubDate": "Fri, 06 Nov 2026 23:04:14 +0000"
-   },
-   {
-    "title": "Call for funding for 'lifesaving' community music programs",
-    "pubDate": "Fri, 06 Nov 2026 22:57:10 +0000"
-   },
-   {
-    "title": "Tradies down tools to save man's life with makeshift tourniquet",
-    "pubDate": "Fri, 06 Nov 2026 22:52:16 +0000"
    }
   ],
   "nsw_rfs_incidents": [
-   {
-    "title": "Bangalore St, Ourimbah",
-    "category": "Advice"
-   },
    {
     "title": "BENOLONG RD, CUMBOOGLE",
     "category": "Advice"
@@ -998,19 +986,35 @@
     "category": "Advice"
    },
    {
+    "title": "Hankinson St, Narrandera",
+    "category": "Advice"
+   },
+   {
     "title": "HARDYS RD, COLEAMBALLY",
     "category": "Advice"
    },
    {
-    "title": "Islington St, Denham Court",
+    "title": "LANDSCAPE",
     "category": "Advice"
    },
    {
-    "title": "Mitchell St, Bourke",
+    "title": "Lumsdaine St, Picton",
+    "category": "Advice"
+   },
+   {
+    "title": "MCPHIES RD, FORBES",
     "category": "Advice"
    },
    {
     "title": "MULBRING ST, STANFORD MERTHYR",
+    "category": "Advice"
+   },
+   {
+    "title": "RENSHAW DR, BUCHANAN",
+    "category": "Advice"
+   },
+   {
+    "title": "Wingham Rd, Taree",
     "category": "Advice"
    },
    {
@@ -1022,6 +1026,10 @@
     "category": "Not Applicable"
    },
    {
+    "title": "BUNNINGS WINGHAM RD, TAREE",
+    "category": "Not Applicable"
+   },
+   {
     "title": "BURROWAY RD, BURROWAY",
     "category": "Not Applicable"
    },
@@ -1030,27 +1038,11 @@
     "category": "Not Applicable"
    },
    {
+    "title": "LORALYN AV, ST GEORGES BASIN",
+    "category": "Not Applicable"
+   },
+   {
     "title": "MANDALAY RD, WHITE CLIFFS",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MULLA CREEK RD, MULLA CREEK",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "NANGUS RD, GUNDAGAI",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "OLD MAITLAND RD",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "PRICES LANE, PYRAMUL",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "RAEBURN LANE, NARROMINE",
     "category": "Not Applicable"
    }
   ],
@@ -1135,7 +1127,7 @@
   "au_security_news": [
    {
     "title": "Tallow could help solve Australia's fuel shortages - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Fri, 06 Nov 2026 19:00:00 GMT"
+    "pubDate": "Fri, 06 Nov 2026 19:00:14 GMT"
    },
    {
     "title": "China doesn\u2019t need to dominate the world to threaten Australia\u2019s security - The Strategist | ASPI's analysis and commentary site",
@@ -1200,9 +1192,9 @@
   ]
  },
  "bom": {
-  "generated": "2026-11-07T00:46:01+00:00",
+  "generated": "2026-11-07T01:45:58+00:00",
   "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
-  "count": 27,
+  "count": 26,
   "errors": 0,
   "warnings": [
    {
@@ -1215,7 +1207,7 @@
      "marine"
     ],
     "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Marine Wind Warning Summary for New South Wales Issued at 11:18 am EDT on Saturday 7 November 2026 for the period until midnight EDT Sunday 8 November 2026. Wind Warnings for Saturday 7 November Strong Wind Warning for the following areas: Sydney Enclosed Waters, Hunter Coast, Sydney Coast, Illawarra Coast, Batemans Coast and Ede",
-    "fetched_at": "2026-11-07T00:45:42+00:00"
+    "fetched_at": "2026-11-07T01:45:43+00:00"
    },
    {
     "id": "IDN22000",
@@ -1226,7 +1218,7 @@
      "fire"
     ],
     "headline": "IDN22000 Australian Government Bureau of Meteorology New South Wales Fire Weather Warning for the Greater Hunter and Upper Central West Plains fire weather districts. Issued at 4:09 am EDT on Saturday 7 November 2026. The NSW Rural Fire Service advises you to: - Action your Bushfire Survival Plan now. - Monitor the fire and weather situation through your local radio station, www.rfs.nsw.gov.au and",
-    "fetched_at": "2026-11-07T00:45:43+00:00"
+    "fetched_at": "2026-11-07T01:45:43+00:00"
    },
    {
     "id": "IDN28522",
@@ -1237,7 +1229,7 @@
      "marine"
     ],
     "headline": "IDN28522 Australian Government Bureau of Meteorology New South Wales Hazardous Surf Warning for New South Wales Issued at 5:55 am EDT on Saturday 7 November 2026 for the period until midnight EDT Sunday 8 November 2026. Surf and swell conditions are expected to be hazardous for coastal activities such as rock fishing, boating, and swimming in the following areas, particularly for south facing beac",
-    "fetched_at": "2026-11-07T00:45:43+00:00"
+    "fetched_at": "2026-11-07T01:45:44+00:00"
    },
    {
     "id": "IDN29000",
@@ -1246,7 +1238,7 @@
     "severity": "medium",
     "ptype": [],
     "headline": "IDN29000 Australian Government Bureau of Meteorology New South Wales Warning to Sheep Graziers for the Illawarra, South Coast, Central Tablelands, Southern Tablelands, South West Slopes, Snowy Mountains and Australian Capital Territory forecast districts. Issued at 10:20 am EDT on Saturday 7 November 2026. Sheep graziers are warned that cold temperatures, showers and southerly winds are expected d",
-    "fetched_at": "2026-11-07T00:45:44+00:00"
+    "fetched_at": "2026-11-07T01:45:45+00:00"
    },
    {
     "id": "IDN36631",
@@ -1256,8 +1248,8 @@
     "ptype": [
      "flood"
     ],
-    "headline": "IDN36631 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (NSW) at Barringun and Enngonia Issued at 12:48 pm Australian Eastern Daylight Time on Friday 6 November 2026 Flood Warning Number: 6 MINOR FLOOD PEAK OCCURRING AT BARRINGUN WITH MINOR FLOODING TO CONTINUE INTO NEXT WEEK MINOR FLOODING LIKELY AT ENNGONIA FROM FRIDAY Multiple flood peaks along the Warrego",
-    "fetched_at": "2026-11-07T00:45:45+00:00"
+    "headline": "IDN36631 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (NSW) at Barringun and Enngonia Issued at 12:13 pm Australian Eastern Daylight Time on Saturday 7 November 2026 Flood Warning Number: 7 MINOR FLOOD PEAK OCCURRING AT BARRINGUN WITH MINOR FLOODING TO CONTINUE INTO NEXT WEEK MINOR FLOODING ESTIMATED TO BE OCCURRING AT ENNGONIA Multiple flood peaks along th",
+    "fetched_at": "2026-11-07T01:45:45+00:00"
    },
    {
     "id": "IDN36632",
@@ -1268,7 +1260,7 @@
      "flood"
     ],
     "headline": "IDN36632 Australian Government Bureau of Meteorology Minor Flood Warning for the Paroo River (NSW) Issued at 11:02 am Australian Eastern Daylight Time on Saturday 7 November 2026 Flood Warning Number: 6 MINOR FLOODING EASING AT WILLARA CROSSING Along the Paroo River at Willara Crossing a minor flood peak was observed on Thursday. River levels are falling and minor flooding is easing. Paroo River (",
-    "fetched_at": "2026-11-07T00:45:45+00:00"
+    "fetched_at": "2026-11-07T01:45:46+00:00"
    },
    {
     "id": "IDQ20085",
@@ -1280,7 +1272,7 @@
      "marine"
     ],
     "headline": "IDQ20085 Australian Government Bureau of Meteorology Queensland Marine Wind Warning Summary for Queensland Issued at 10:18 am EST on Saturday 7 November 2026 for the period until midnight EST Sunday 8 November 2026. Wind Warnings for Sunday 8 November Strong Wind Warning for the following areas: Sunshine Coast Waters, Moreton Bay and Gold Coast Waters The next marine wind warning summary will be i",
-    "fetched_at": "2026-11-07T00:45:46+00:00"
+    "fetched_at": "2026-11-07T01:45:46+00:00"
    },
    {
     "id": "IDQ20827",
@@ -1291,7 +1283,7 @@
      "flood"
     ],
     "headline": "IDQ20827 Australian Government Bureau of Meteorology Final Flood Warning for the Upper Condamine River Issued at 8:59 am AEST on Wednesday 4 November 2026 Flood Warning Number: 2 FLOODING NO LONGER EXPECTED AT WARWICK Flooding is no longer expected along the Upper Condamine River at Warwick. No significant rainfall is forecast for the next few days. Condamine River to Warwick: Flooding is no longe",
-    "fetched_at": "2026-11-07T00:45:46+00:00"
+    "fetched_at": "2026-11-07T01:45:47+00:00"
    },
    {
     "id": "IDQ20829",
@@ -1302,7 +1294,7 @@
      "flood"
     ],
     "headline": "IDQ20829 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Condamine River Issued at 10:59 am AEST on Thursday 5 November 2026 Flood Warning Number: 11 MINOR FLOODING HAS EASED AT CONDAMINE Minor flooding along the Lower Condamine River at Condamine has eased, however, some river and creek levels are expected to remain elevated for the next few days. No significant rain",
-    "fetched_at": "2026-11-07T00:45:47+00:00"
+    "fetched_at": "2026-11-07T01:45:48+00:00"
    },
    {
     "id": "IDQ20831",
@@ -1313,18 +1305,7 @@
      "flood"
     ],
     "headline": "IDQ20831 Australian Government Bureau of Meteorology Moderate Flood Warning for the Upper Balonne River Issued at 1:38 pm AEST on Friday 6 November 2026 Flood Warning Number: 5 MODERATE FLOODING PEAKING AT WARKON DURING FRIDAY AFTERNOON AND LIKELY AT SURAT FROM SATURDAY MORNING The Balonne River is currently peaking at Warkon with moderate flooding. Moderate flooding is likely at Surat from Saturd",
-    "fetched_at": "2026-11-07T00:45:48+00:00"
-   },
-   {
-    "id": "IDQ20835",
-    "title": "Final Flood Warning for the Macintyre Brook",
-    "issued": "",
-    "severity": "medium",
-    "ptype": [
-     "flood"
-    ],
-    "headline": "IDQ20835 Australian Government Bureau of Meteorology Final Flood Warning for the Macintyre Brook Issued at 7:37 am AEST on Wednesday 4 November 2026 Flood Warning Number: 2 FLOODING NO LONGER EXPECTED AT INGLEWOOD BRIDGE Flooding is no longer expected along Macintyre Brook at Inglewood Bridge after peaking well below the minor flood level early Wednesday morning. As these flows travel downstream, ",
-    "fetched_at": "2026-11-07T00:45:48+00:00"
+    "fetched_at": "2026-11-07T01:45:48+00:00"
    },
    {
     "id": "IDQ20845",
@@ -1335,7 +1316,7 @@
      "flood"
     ],
     "headline": "IDQ20845 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (QLD) Issued at 10:54 am AEST on Friday 6 November 2026 Flood Warning Number: 20 MINOR FLOODING SLOWLY EASING AT CUNNAMULLA BRIDGE AND ROCKY A flood peak has passed Cunnamulla Bridge and Rocky, where minor flooding is slowly easing. Warrego River downstream of Charleville: Minor flooding is occurring alo",
-    "fetched_at": "2026-11-07T00:45:49+00:00"
+    "fetched_at": "2026-11-07T01:45:49+00:00"
    },
    {
     "id": "IDQ20850",
@@ -1346,7 +1327,7 @@
      "flood"
     ],
     "headline": "IDQ20850 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Paroo River (QLD) Issued at 9:42 am AEST on Wednesday 4 November 2026 Flood Warning Number: 6 MINOR FLOODING HAS EASED AT HUNGERFORD The main flood peak along the lower Paroo River is now downstream of Hungerford, where the river level fell below the minor flood level overnight Tuesday into Wednesday. Further do",
-    "fetched_at": "2026-11-07T00:45:49+00:00"
+    "fetched_at": "2026-11-07T01:45:49+00:00"
    },
    {
     "id": "IDQ20855",
@@ -1357,7 +1338,7 @@
      "flood"
     ],
     "headline": "IDQ20855 Australian Government Bureau of Meteorology Moderate Flood Warning for the Bulloo River Issued at 10:35 am AEST on Saturday 7 November 2026 Flood Warning Number: 19 MODERATE FLOOD PEAK POSSIBLE AT THARGOMINDAH DURING MONDAY The flood peak in the upper Bulloo River is approaching Autumnvale where the river level is rising with minor flooding. Minor flooding is possible at Thargomindah from",
-    "fetched_at": "2026-11-07T00:45:50+00:00"
+    "fetched_at": "2026-11-07T01:45:50+00:00"
    },
    {
     "id": "IDQ20860",
@@ -1368,7 +1349,7 @@
      "flood"
     ],
     "headline": "IDQ20860 Australian Government Bureau of Meteorology Moderate Flood Warning for the Barcoo River and Minor Flood Warning for the Upper Thomson River Issued at 12:04 pm AEST on Friday 6 November 2026 Flood Warning Number: 19 MODERATE FLOODING IS LIKELY AT RETREAT FROM OVERNIGHT SUNDAY INTO MONDAY MINOR FLOODING IS OCCURRING AT ISISFORD AND CAMOOLA PARK Along the upper Thomson River, minor flooding ",
-    "fetched_at": "2026-11-07T00:45:50+00:00"
+    "fetched_at": "2026-11-07T01:45:50+00:00"
    },
    {
     "id": "IDS20201",
@@ -1380,7 +1361,7 @@
      "marine"
     ],
     "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Marine Wind Warning Summary for South Australia Issued at 10:48 am CDT on Saturday 7 November 2026 for the period until midnight CDT Sunday 8 November 2026. Wind Warnings for Saturday 7 November Strong Wind Warning for the following areas: Far West Coast, Upper West Coast, Lower West Coast and Spencer Gulf Wind Warnings for Sunda",
-    "fetched_at": "2026-11-07T00:45:51+00:00"
+    "fetched_at": "2026-11-07T01:45:51+00:00"
    },
    {
     "id": "IDS20242",
@@ -1389,7 +1370,7 @@
     "severity": "medium",
     "ptype": [],
     "headline": "IDS20242 Australian Government Bureau of Meteorology South Australia Warning to Sheep Graziers for the Mount Lofty Ranges and Mid North forecast districts. Issued at 10:07 am CDT on Saturday 7 November 2026. Sheep graziers are warned that cold temperatures and easterly winds are expected during Sunday. Areas likely to be affected include parts of the Mount Lofty Ranges and Mid North forecast distr",
-    "fetched_at": "2026-11-07T00:45:52+00:00"
+    "fetched_at": "2026-11-07T01:45:51+00:00"
    },
    {
     "id": "IDT20100",
@@ -1401,7 +1382,7 @@
      "marine"
     ],
     "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Marine Wind Warning Summary for Tasmania Issued at 11:18 am EDT on Saturday 7 November 2026 for the period until midnight EDT Sunday 8 November 2026. Wind Warnings for Saturday 7 November Strong Wind Warning for the following areas: Far North West Coast, East of Flinders Island, Upper East Coast and Lower East Coast Wind Warnings for Su",
-    "fetched_at": "2026-11-07T00:45:52+00:00"
+    "fetched_at": "2026-11-07T01:45:52+00:00"
    },
    {
     "id": "IDT21900",
@@ -1410,7 +1391,7 @@
     "severity": "low",
     "ptype": [],
     "headline": "IDT21900 Australian Government Bureau of Meteorology Tasmania Frost Warning for the Upper Derwent Valley forecast district. Issued at 10:37 am EDT on Saturday 7 November 2026. ================================================================================ Please be aware Temperatures at ground level can be many degrees lower than those recorded by standard weather stations, especially in calm con",
-    "fetched_at": "2026-11-07T00:45:53+00:00"
+    "fetched_at": "2026-11-07T01:45:53+00:00"
    },
    {
     "id": "IDV20600",
@@ -1422,7 +1403,7 @@
      "marine"
     ],
     "headline": "IDV20600 Australian Government Bureau of Meteorology Victoria Marine Wind Warning Summary for Victoria Issued at 11:18 am EDT on Saturday 7 November 2026 for the period until midnight EDT Sunday 8 November 2026. Wind Warnings for Saturday 7 November Strong Wind Warning for the following areas: Central Coast, Central Gippsland Coast and East Gippsland Coast Wind Warnings for Sunday 8 November Stron",
-    "fetched_at": "2026-11-07T00:45:54+00:00"
+    "fetched_at": "2026-11-07T01:45:53+00:00"
    },
    {
     "id": "IDV29000",
@@ -1431,7 +1412,7 @@
     "severity": "medium",
     "ptype": [],
     "headline": "IDV29000 Australian Government Bureau of Meteorology Victoria Warning to Sheep Graziers for the North East, Central, West and South Gippsland and East Gippsland forecast districts. Issued at 10:19 am EDT on Saturday 7 November 2026. Sheep graziers are warned that cold temperatures, showers and southwesterly winds are expected during today and Sunday. Areas likely to be affected include parts of th",
-    "fetched_at": "2026-11-07T00:45:55+00:00"
+    "fetched_at": "2026-11-07T01:45:54+00:00"
    },
    {
     "id": "IDV36330",
@@ -1442,7 +1423,7 @@
      "flood"
     ],
     "headline": "IDV36330 Australian Government Bureau of Meteorology Minor Flood Warning for the Bunyip River Issued at 10:59 am Australian Eastern Daylight Time on Saturday 7 November 2026 Flood Warning Number: 2 MINOR FLOODING LIKELY AT CORA LYNN AND POSSIBLE AT IONA SUNDAY MORNING Moderate rainfall observed overnight Friday into Saturday is causing river level rises through the Bunyip River catchment. Minor fl",
-    "fetched_at": "2026-11-07T00:45:56+00:00"
+    "fetched_at": "2026-11-07T01:45:54+00:00"
    },
    {
     "id": "IDW20100",
@@ -1454,7 +1435,7 @@
      "marine"
     ],
     "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Marine Wind Warning Summary for Western Australia Issued at 8:18 am WST on Saturday 7 November 2026 for the period until midnight WST Sunday 8 November 2026. Wind Warnings for Saturday 7 November Strong Wind Warning for the following area: Eucla Coast Wind Warnings for Sunday 8 November Strong Wind Warning for the following are",
-    "fetched_at": "2026-11-07T00:45:57+00:00"
+    "fetched_at": "2026-11-07T01:45:55+00:00"
    },
    {
     "id": "IDY21000",
@@ -1466,7 +1447,7 @@
      "marine"
     ],
     "headline": "IDY21000 40:2:1:04:55S125E35050:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2338UTC 6 November 2026 GALE WARNING 1 FOR SOUTHEASTERN AREA SITUATION AT 07000UTC Vigorous southerly flow developing, associated with a deepening low pressure system. Low forecast 1005 hPa near 39S160E at 0800UTC. AREA AFFECTED Bounded by 38S157E 37S",
-    "fetched_at": "2026-11-07T00:45:58+00:00"
+    "fetched_at": "2026-11-07T01:45:56+00:00"
    },
    {
     "id": "IDY21091",
@@ -1478,7 +1459,7 @@
      "marine"
     ],
     "headline": "IDY21091 40:2:1:04:70S075E25090:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2338UTC 6 November 2026 GALE WARNING 11 FOR SOUTHERN AREA SITUATION AT 07000UTC Vigorous westerly quarter winds. AREA AFFECTED Bounded by 62S148E 62S160E 58S160E 59S150E 62S148E. FORECAST Westerly quarter winds 30/40 knots throughout area. Winds easin",
-    "fetched_at": "2026-11-07T00:45:59+00:00"
+    "fetched_at": "2026-11-07T01:45:56+00:00"
    },
    {
     "id": "IDY21092",
@@ -1490,7 +1471,7 @@
      "marine"
     ],
     "headline": "IDY21092 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2339UTC 6 November 2026 GALE WARNING 12 FOR SOUTHERN AND WESTERN AREA SITUATION AT 070000UTC Vigorous westerly quarter flow. Embedded trough [1] near 46S090E 52S102E. Forecast near 44S095E 52S106E at 070600UTC, 44S102E 50S106E at 071200UTC, 45S110E 50",
-    "fetched_at": "2026-11-07T00:46:00+00:00"
+    "fetched_at": "2026-11-07T01:45:57+00:00"
    },
    {
     "id": "IDY28000",
@@ -1498,8 +1479,8 @@
     "issued": "",
     "severity": "low",
     "ptype": [],
-    "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 1800UTC Chart Issued at 6:10 am EDT Saturday on 07 November 2026 A heat trough extends through Western Australia. Associated thunderstorms can be seen through central parts of Western Australia, with high level cloud in the southern half of the state. A trough through the Northern Territory a",
-    "fetched_at": "2026-11-07T00:46:01+00:00"
+    "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 0000UTC Chart Issued at 12:11 pm EDT Saturday on 07 November 2026 A band of low to mid level cloud sweeps over far eastern parts of Victoria and adjacent southeastern parts of NSW before extending over the Tasman Sea. This cloud band is associated with a vigorous cold front that is moving up ",
+    "fetched_at": "2026-11-07T01:45:57+00:00"
    }
   ]
  },

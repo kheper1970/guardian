@@ -1,14 +1,6 @@
 {
- "collected_utc": "2026-11-08T07:45:01.550395+00:00",
+ "collected_utc": "2026-11-08T08:45:01.640048+00:00",
  "earthquakes": [
-  {
-   "mag": 4.5,
-   "place": "90 km NE of Punta Cana, Dominican Republic",
-   "time": 1794119419447,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
-   "type": "earthquake"
-  },
   {
    "mag": 4.5,
    "place": "11 km W of Honmachi, Japan",
@@ -148,6 +140,11 @@
   "kp_max_24h": 5.33,
   "alerts_recent": [
    {
+    "id": "K05W",
+    "issued": "2026-10-10 14:42:09.133",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2270\r\nIssue Time: 2026 Oct 10 1442 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 10 1440 UTC\nValid To: 2026 Oct 11 0300 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential I"
+   },
+   {
     "id": "K04W",
     "issued": "2026-10-10 14:40:44.390",
     "message": "Space Weather Message Code: WARK04\r\nSerial Number: 5431\r\nIssue Time: 2026 Oct 10 1440 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5430\nValid From: 2026 Oct 09 0128 UTC\nNow Valid Until: 2026 Oct 11 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impact"
@@ -166,11 +163,6 @@
     "id": "K04A",
     "issued": "2026-10-09 10:01:02.860",
     "message": "Space Weather Message Code: ALTK04\r\nSerial Number: 2690\r\nIssue Time: 2026 Oct 09 1001 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 09 1001 UTC\nSynoptic Period: 0900-1200\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagn"
-   },
-   {
-    "id": "A30F",
-    "issued": "2026-10-09 08:12:52.153",
-    "message": "Space Weather Message Code: WATA30\r\nSerial Number: 284\r\nIssue Time: 2026 Oct 09 0812 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G2 Predicted \nHighest Storm Level Predicted by Day:\nOct 10:  None (Below G1)   Oct 11:  G2 (Moderate)   Oct 12:  None (Below G1)   \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-sca"
    }
   ]
  },
@@ -559,9 +551,147 @@
   "total_us_volcanoes": 161
  },
  "gvp_weekly": {
-  "volcanoes": [],
-  "report_week": null,
-  "error": "HTTP Error 429: Too Many Requests"
+  "volcanoes": [
+   {
+    "volcano": "Krakatau (Indonesia)",
+    "week": "15 October-21 October 2026",
+    "status": "New Eruptive Activity"
+   },
+   {
+    "volcano": "Nevados de Chill\u00e1n (Chile)",
+    "week": "15 October-21 October 2026",
+    "status": "New Eruptive Activity"
+   },
+   {
+    "volcano": "Whakaari/White Island (New Zealand)",
+    "week": "15 October-21 October 2026",
+    "status": "New Eruptive Activity"
+   },
+   {
+    "volcano": "Ahyi (United States)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Aira (Japan)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Great Sitkin (United States)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Ibu (Indonesia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Kanlaon (Philippines)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Karangetang (Indonesia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "K\u012blauea (United States)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Lewotolok (Indonesia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Marapi (Indonesia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Mayon (Philippines)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Merapi (Indonesia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Purac\u00e9 (Colombia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Reventador (Ecuador)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Sabancaya (Peru)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Sangay (Ecuador)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Semeru (Indonesia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Sheveluch (Russia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Sinabung (Indonesia)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Suwanosejima (Japan)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Taal (Philippines)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Telica (Nicaragua)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Tofua (Tonga)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "Tokachidake (Japan)",
+    "week": "15 October-21 October 2026",
+    "status": "Continuing Eruptive Activity"
+   },
+   {
+    "volcano": "St. Helens (United States)",
+    "week": "15 October-21 October 2026",
+    "status": "Other Observations"
+   }
+  ],
+  "report_week": "15 October-21 October 2026",
+  "snapshot_utc": "2026-10-24T11:57:25+00:00",
+  "count": 27,
+  "new_activity_count": 3
  },
  "reliefweb": {
   "disasters": [
@@ -649,29 +779,29 @@
    "basin": "central_pacific",
    "advisories": [
     {
-     "title": "Tropical Storm Pena Public Advisory Number 6",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP4+shtml/080232.shtml",
-     "pubDate": "Sun, 08 Nov 2026 02:32:45 GMT"
+     "title": "Tropical Storm Pena Public Advisory Number 7",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCPCP4+shtml/080842.shtml",
+     "pubDate": "Sun, 08 Nov 2026 08:42:18 GMT"
     },
     {
-     "title": "Tropical Storm Pena Forecast Advisory Number 6",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP4+shtml/080232.shtml",
-     "pubDate": "Sun, 08 Nov 2026 02:32:13 GMT"
+     "title": "Tropical Storm Pena Forecast Advisory Number 7",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCMCP4+shtml/080840.shtml",
+     "pubDate": "Sun, 08 Nov 2026 08:40:48 GMT"
     },
     {
-     "title": "Tropical Storm Pena Forecast Discussion Number 6",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP4+shtml/080233.shtml",
-     "pubDate": "Sun, 08 Nov 2026 02:33:15 GMT"
+     "title": "Tropical Storm Pena Forecast Discussion Number 7",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP4+shtml/080845.shtml",
+     "pubDate": "Sun, 08 Nov 2026 08:45:18 GMT"
     },
     {
-     "title": "Tropical Storm Pena Wind Speed Probabilities Number 6",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP4+shtml/080232.shtml",
-     "pubDate": "Sun, 08 Nov 2026 02:32:44 GMT"
+     "title": "Tropical Storm Pena Wind Speed Probabilities Number 7",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOPWSCP4+shtml/080842.shtml",
+     "pubDate": "Sun, 08 Nov 2026 08:42:18 GMT"
     },
     {
      "title": "Tropical Storm Pena Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp4+shtml/032128.shtml?cone",
-     "pubDate": "Sun, 08 Nov 2026 03:21:28 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp4+shtml/084338.shtml?cone",
+     "pubDate": "Sun, 08 Nov 2026 08:43:38 GMT"
     }
    ]
   }
@@ -803,6 +933,10 @@
    "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
   },
   {
+   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
+   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
+  },
+  {
    "title": "Building a Safer World: 20 Years of the Incident and Emergency Centre | IAEA - International Atomic Energy Agency",
    "pubDate": "Mon, 29 Dec 2025 16:20:58 GMT"
   },
@@ -811,16 +945,12 @@
    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "IAEA Database: About 55% of Nuclear and Other Radioactive Material Thefts Since 1993 Occurred During Transport - International Atomic Energy Agency",
-   "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
+   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
+   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   },
   {
    "title": "Protecting Food and Agriculture in Nuclear and Radiological Emergencies | IAEA - International Atomic Energy Agency",
    "pubDate": "Tue, 09 Dec 2025 17:43:22 GMT"
-  },
-  {
-   "title": "New E-Learning Course Supports First Responders in Radiological Emergencies - International Atomic Energy Agency",
-   "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
   },
   {
    "title": "How Is Radioactive Material Transported Safely and Securely? - International Atomic Energy Agency",
@@ -842,7 +972,7 @@
   },
   {
    "title": "FAO's Global Emergency and Resilience Appeal 2026 | FAO Emergency and Resilience - Food and Agriculture Organization",
-   "pubDate": "Mon, 19 Oct 2026 07:32:28 GMT"
+   "pubDate": "Thu, 08 Oct 2026 04:24:57 GMT"
   },
   {
    "title": "Can emergency cash buy food security? - UNU | United Nations University",
@@ -868,7 +998,7 @@
     "pubDate": "Sun, 08 Nov 2026 06:14:24 +0000"
    },
    {
-    "title": "Live: Fiji threatening sensational semifinal upset against stunned Jillaroos",
+    "title": "Live: Kangaroos make late change in World Cup final rematch with Samoa",
     "pubDate": "Sun, 08 Nov 2026 06:08:32 +0000"
    },
    {
@@ -918,6 +1048,14 @@
     "category": "Advice"
    },
    {
+    "title": "HADLEY WAY, FULLERTON",
+    "category": "Advice"
+   },
+   {
+    "title": "Macquarie Dr, Eleebana",
+    "category": "Advice"
+   },
+   {
     "title": "MOUNT AQUILA RD, MOUNT AQUILA",
     "category": "Advice"
    },
@@ -938,27 +1076,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "EMDEN VALE RD, BALLYROE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "EULIMORE RD, EUGOWRA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "LOVEGROVE WALK, GOOGONG",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MANDALUCK CH, MANDALONG",
-    "category": "Not Applicable"
-   },
-   {
     "title": "MARTIN RD, BADGERYS CREEK",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "MOUNT LINDESAY RD, LINDESAY CREEK",
     "category": "Not Applicable"
    },
    {
@@ -971,10 +1089,6 @@
    },
    {
     "title": "RAEBURN LANE, NARROMINE",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "SHORT ST, MOGO",
     "category": "Not Applicable"
    },
    {
@@ -1033,7 +1147,7 @@
   "au_emergency_news": [
    {
     "title": "Australian National Weather Forecast - Nine.com.au",
-    "pubDate": "Sun, 08 Nov 2026 00:35:50 GMT"
+    "pubDate": "Sun, 08 Nov 2026 05:07:37 GMT"
    },
    {
     "title": "Forget hoarding toilet paper, talk to your neighbours: Australian experts on surviving disaster - The Guardian",
@@ -1052,16 +1166,16 @@
     "pubDate": "Sat, 07 Nov 2026 12:19:07 GMT"
    },
    {
-    "title": "Kununurra bushfire: Residents north of town urged to evacuate as firefighters respond to emergency level fire - The West Australian",
-    "pubDate": "Sat, 07 Nov 2026 06:58:00 GMT"
+    "title": "\u2018LEAVE NOW\u2019: Bushfire in Perth\u2019s south threatens lives - PerthNow",
+    "pubDate": "Sun, 08 Nov 2026 05:30:00 GMT"
    },
    {
     "title": "Australian PM Albanese\u2019s Nepal Festival visit marks diaspora milestone - Nepalnews.com",
-    "pubDate": "Sun, 08 Nov 2026 01:47:04 GMT"
+    "pubDate": "Sun, 08 Nov 2026 07:41:15 GMT"
    },
    {
-    "title": "Heavy Rain Prompts Flash Flood Warning for Parts of New Jersey - News.com.au",
-    "pubDate": "Fri, 06 Nov 2026 13:10:49 GMT"
+    "title": "Kununurra bushfire: Residents north of town urged to evacuate as firefighters respond to emergency level fire - The West Australian",
+    "pubDate": "Sat, 07 Nov 2026 06:58:00 GMT"
    }
   ],
   "au_security_news": [
@@ -1078,8 +1192,8 @@
     "pubDate": "Sat, 07 Nov 2026 22:16:05 GMT"
    },
    {
-    "title": "Australia scraps plan to sell Sydney military barracks after backlash - The Straits Times",
-    "pubDate": "Sun, 08 Nov 2026 01:30:00 GMT"
+    "title": "Australia Scraps Plan to Sell Sydney Barracks After Backlash - Bloomberg.com",
+    "pubDate": "Sun, 08 Nov 2026 04:47:00 GMT"
    },
    {
     "title": "Albo\u2019s sensational backflip on military site - News.com.au",
@@ -1090,12 +1204,12 @@
     "pubDate": "Sat, 07 Nov 2026 15:26:53 GMT"
    },
    {
-    "title": "Defence Creates Federal Militarised Zones to Supersede State and Territory Laws - Sydney Criminal Lawyers",
-    "pubDate": "Sat, 07 Nov 2026 23:51:16 GMT"
+    "title": "Australia scraps plan to sell Sydney military barracks after backlash - The Straits Times",
+    "pubDate": "Sun, 08 Nov 2026 01:30:00 GMT"
    },
    {
-    "title": "Australia Scraps Plan to Sell Sydney Barracks After Backlash - Bloomberg.com",
-    "pubDate": "Sun, 08 Nov 2026 00:49:02 GMT"
+    "title": "Defence Creates Federal Militarised Zones to Supersede State and Territory Laws - Sydney Criminal Lawyers",
+    "pubDate": "Sat, 07 Nov 2026 23:51:16 GMT"
    }
   ],
   "au_health_news": [
@@ -1132,7 +1246,7 @@
   ]
  },
  "bom": {
-  "generated": "2026-11-08T07:46:12+00:00",
+  "generated": "2026-11-08T08:46:14+00:00",
   "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
   "count": 22,
   "errors": 0,
@@ -1147,7 +1261,7 @@
      "marine"
     ],
     "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Updated Marine Wind Warning Summary for New South Wales Issued at 4:05 pm EDT on Sunday 8 November 2026 for the period until midnight EDT Monday 9 November 2026. Wind Warnings for Sunday 8 November Gale Warning for the following areas: Coffs Coast and Macquarie Coast Strong Wind Warning for the following areas: Sydney Enclosed Wa",
-    "fetched_at": "2026-11-08T07:45:58+00:00"
+    "fetched_at": "2026-11-08T08:45:51+00:00"
    },
    {
     "id": "IDN28522",
@@ -1158,7 +1272,7 @@
      "marine"
     ],
     "headline": "IDN28522 Australian Government Bureau of Meteorology New South Wales Hazardous Surf Warning for New South Wales Issued at 5:14 pm EDT on Sunday 8 November 2026 for the period until midnight EDT Tuesday 10 November 2026. Surf and swell conditions are expected to be hazardous for coastal activities such as rock fishing, boating, and swimming in the following areas, mainly for south facing beaches. S",
-    "fetched_at": "2026-11-08T07:45:59+00:00"
+    "fetched_at": "2026-11-08T08:45:52+00:00"
    },
    {
     "id": "IDN29000",
@@ -1167,7 +1281,7 @@
     "severity": "medium",
     "ptype": [],
     "headline": "IDN29000 Australian Government Bureau of Meteorology New South Wales Warning to Sheep Graziers for the Central Tablelands, Southern Tablelands, South West Slopes, Snowy Mountains and Australian Capital Territory forecast districts. Issued at 4:34 pm EDT on Sunday 8 November 2026. Sheep graziers are warned that cold temperatures, showers and southerly winds are expected during Sunday and Monday. Ar",
-    "fetched_at": "2026-11-08T07:46:00+00:00"
+    "fetched_at": "2026-11-08T08:45:52+00:00"
    },
    {
     "id": "IDN36631",
@@ -1178,7 +1292,7 @@
      "flood"
     ],
     "headline": "IDN36631 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (NSW) at Barringun and Enngonia Issued at 12:29 pm Australian Eastern Daylight Time on Sunday 8 November 2026 Flood Warning Number: 8 MINOR FLOODING OCCURRING AT BARRINGUN AND ENNGONIA Multiple flood peaks along the Warrego River in Queensland are forming an extended flood peak as they move toward the NS",
-    "fetched_at": "2026-11-08T07:46:00+00:00"
+    "fetched_at": "2026-11-08T08:45:53+00:00"
    },
    {
     "id": "IDN36632",
@@ -1189,7 +1303,7 @@
      "flood"
     ],
     "headline": "IDN36632 Australian Government Bureau of Meteorology Final Flood Warning for the Paroo River (NSW) Issued at 9:40 am Australian Eastern Daylight Time on Sunday 8 November 2026 Flood Warning Number: 7 FLOODING NO LONGER OCCURRING AT WILLARA CROSSING The Paroo River at Willara Crossing fell below the minor flood level on Saturday evening. Paroo River (NSW): Minor flooding no longer occurring along t",
-    "fetched_at": "2026-11-08T07:46:01+00:00"
+    "fetched_at": "2026-11-08T08:45:54+00:00"
    },
    {
     "id": "IDQ20085",
@@ -1201,7 +1315,7 @@
      "marine"
     ],
     "headline": "IDQ20085 Australian Government Bureau of Meteorology Queensland Marine Wind Warning Summary for Queensland Issued at 3:00 pm EST on Sunday 8 November 2026 for the period until midnight EST Sunday 8 November 2026. Wind Warnings for Sunday 8 November Strong Wind Warning for the following areas: Sunshine Coast Waters, Moreton Bay and Gold Coast Waters The next marine wind warning summary will be issu",
-    "fetched_at": "2026-11-08T07:46:02+00:00"
+    "fetched_at": "2026-11-08T08:45:55+00:00"
    },
    {
     "id": "IDQ20831",
@@ -1212,7 +1326,7 @@
      "flood"
     ],
     "headline": "IDQ20831 Australian Government Bureau of Meteorology Moderate Flood Warning for the Upper Balonne River Issued at 10:19 am AEST on Sunday 8 November 2026 Flood Warning Number: 7 A MODERATE FLOOD PEAK NEAR 7.4 M POSSIBLE AT SURAT SUNDAY EVENING The main flood peak along the Balonne River is approaching Surat, where river levels are estimated to be around the moderate flood level. Balonne River to S",
-    "fetched_at": "2026-11-08T07:46:02+00:00"
+    "fetched_at": "2026-11-08T08:45:56+00:00"
    },
    {
     "id": "IDQ20845",
@@ -1223,7 +1337,7 @@
      "flood"
     ],
     "headline": "IDQ20845 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (QLD) Issued at 10:54 am AEST on Friday 6 November 2026 Flood Warning Number: 20 MINOR FLOODING SLOWLY EASING AT CUNNAMULLA BRIDGE AND ROCKY A flood peak has passed Cunnamulla Bridge and Rocky, where minor flooding is slowly easing. Warrego River downstream of Charleville: Minor flooding is occurring alo",
-    "fetched_at": "2026-11-08T07:46:03+00:00"
+    "fetched_at": "2026-11-08T08:45:57+00:00"
    },
    {
     "id": "IDQ20855",
@@ -1234,7 +1348,7 @@
      "flood"
     ],
     "headline": "IDQ20855 Australian Government Bureau of Meteorology Moderate Flood Warning for the Bulloo River Issued at 11:10 am AEST on Sunday 8 November 2026 Flood Warning Number: 20 A FLOOD PEAK NEAR THE MODERATE FLOOD LEVEL POSSIBLE AT THARGOMINDAH OVERNIGHT MONDAY INTO TUESDAY The flood peak in the upper Bulloo River is approaching Autumnvale where the river level is rising slowly with minor flooding. Min",
-    "fetched_at": "2026-11-08T07:46:04+00:00"
+    "fetched_at": "2026-11-08T08:45:59+00:00"
    },
    {
     "id": "IDQ20860",
@@ -1245,7 +1359,7 @@
      "flood"
     ],
     "headline": "IDQ20860 Australian Government Bureau of Meteorology Moderate Flood Warning for the Lower Barcoo River and Minor Flood Warning for the Upper Thomson River Issued at 11:39 am AEST on Sunday 8 November 2026 Flood Warning Number: 20 MODERATE FLOODING IS POSSIBLE AT RETREAT FROM MONDAY MORNING MINOR FLOODING IS OCCURRING AT CAMOOLA PARK Along the upper Thomson River, minor flooding is occurring at Cam",
-    "fetched_at": "2026-11-08T07:46:05+00:00"
+    "fetched_at": "2026-11-08T08:46:00+00:00"
    },
    {
     "id": "IDQ21033",
@@ -1257,8 +1371,8 @@
      "severe_thunderstorm",
      "wind"
     ],
-    "headline": "IDQ21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS, LARGE HAILSTONES and HEAVY RAINFALL For people in parts of Central Highlands and Coalfields, Capricornia and Central Coast and Whitsundays Forecast Districts. Issued at 5:27 pm Sunday, 8 November 2026. Severe thunderstorms developing between Rockhampton and St L",
-    "fetched_at": "2026-11-08T07:46:05+00:00"
+    "headline": "IDQ21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS, LARGE HAILSTONES and HEAVY RAINFALL For people in parts of Central Coast and Whitsundays, Central Highlands and Coalfields and Capricornia Forecast Districts. Issued at 6:36 pm Sunday, 8 November 2026. Severe thunderstorms persisting, gradually moving offshore. ",
+    "fetched_at": "2026-11-08T08:46:01+00:00"
    },
    {
     "id": "IDS20201",
@@ -1269,7 +1383,7 @@
      "marine"
     ],
     "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Marine Wind Warning Summary for South Australia Issued at 3:30 pm CDT on Sunday 8 November 2026 for the period until midnight CDT Sunday 8 November 2026. Wind Warnings for Sunday 8 November Cancellation for the following area: Far West Coast The next Marine Wind Warning Summary will be issued when required. ======================",
-    "fetched_at": "2026-11-08T07:46:06+00:00"
+    "fetched_at": "2026-11-08T08:46:02+00:00"
    },
    {
     "id": "IDS20242",
@@ -1278,7 +1392,7 @@
     "severity": "info",
     "ptype": [],
     "headline": "IDS20242 Australian Government Bureau of Meteorology South Australia Cancellation of Warning to Sheep Graziers for the Mount Lofty Ranges, Flinders and Mid North forecast districts. Issued at 10:00 am CDT on Sunday 8 November 2026. The Warning to Sheep Graziers for the Mount Lofty Ranges, Flinders and Mid North forecast districts has been cancelled. No further warnings will be issued for this even",
-    "fetched_at": "2026-11-08T07:46:07+00:00"
+    "fetched_at": "2026-11-08T08:46:03+00:00"
    },
    {
     "id": "IDS20290",
@@ -1289,7 +1403,7 @@
      "fire"
     ],
     "headline": "IDS20290 Australian Government Bureau of Meteorology South Australia Fire Weather Warning for the West Coast fire weather district. Issued at 4:42 pm CDT on Sunday 8 November 2026. The Country Fire Service advises you to: - Action your Bushfire Survival Plan now. - Monitor the fire and weather situation through your local radio station, www.cfs.sa.gov.au, and www.bom.gov.au. - Call 000 (Triple Zer",
-    "fetched_at": "2026-11-08T07:46:07+00:00"
+    "fetched_at": "2026-11-08T08:46:04+00:00"
    },
    {
     "id": "IDV29000",
@@ -1298,7 +1412,7 @@
     "severity": "medium",
     "ptype": [],
     "headline": "IDV29000 Australian Government Bureau of Meteorology Victoria Warning to Sheep Graziers for the North East forecast district. Issued at 4:34 pm EDT on Sunday 8 November 2026. Sheep graziers are warned that cold temperatures and southeasterly winds are expected during Monday. Areas likely to be affected include parts of the North East forecast district. There is a risk of losses of lambs and sheep ",
-    "fetched_at": "2026-11-08T07:46:08+00:00"
+    "fetched_at": "2026-11-08T08:46:06+00:00"
    },
    {
     "id": "IDV36330",
@@ -1309,7 +1423,7 @@
      "flood"
     ],
     "headline": "IDV36330 Australian Government Bureau of Meteorology Final Flood Warning for the Bunyip River Issued at 9:54 am Australian Eastern Daylight Time on Sunday 8 November 2026 Flood Warning Number: 3 FLOODING NO LONGER EXPECTED AT CORA LYNN AND IONA Moderate rainfall observed since Friday evening which caused river level rises across the Bunyip River catchment. River levels at Cora Lynn peaked just bel",
-    "fetched_at": "2026-11-08T07:46:08+00:00"
+    "fetched_at": "2026-11-08T08:46:07+00:00"
    },
    {
     "id": "IDW20100",
@@ -1321,7 +1435,7 @@
      "marine"
     ],
     "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Updated Marine Wind Warning Summary for Western Australia Issued at 1:01 pm WST on Sunday 8 November 2026 for the period until midnight WST Monday 9 November 2026. Wind Warnings for Sunday 8 November Strong Wind Warning for the following areas: Perth Local Waters, Gascoyne Coast, Geraldton Coast, Perth Coast and Bunbury Geograp",
-    "fetched_at": "2026-11-08T07:46:09+00:00"
+    "fetched_at": "2026-11-08T08:46:08+00:00"
    },
    {
     "id": "IDY21000",
@@ -1333,7 +1447,7 @@
      "marine"
     ],
     "headline": "IDY21000 40:2:1:04:55S125E35050:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0556UTC 8 November 2026 GALE WARNING 1 FOR SOUTHEASTERN AREA SITUATION AT 080600UTC Vigorous flow associated with low 1005hPa near 37S160E. Forecast 1005hPa near 36S160E at 081200UTC, 1002hpa near 36S160E at 081800UTC, 999hPa near 37S161E at 090000UTC",
-    "fetched_at": "2026-11-08T07:46:10+00:00"
+    "fetched_at": "2026-11-08T08:46:09+00:00"
    },
    {
     "id": "IDY21010",
@@ -1345,7 +1459,7 @@
      "marine"
     ],
     "headline": "IDY21010 40:2:1:04:55S125E35050:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0556UTC 8 November 2026 FINAL GALE WARNING 2 FOR SOUTHEASTERN AREA SITUATION AT 080600UTC Vigorous southwesterly flow easing. AREA AFFECTED Bounded by 30S153E 30S155E 31S154E 31S153E 30S153E. FORECAST Vigorous southwesterly quarter winds 30/40 knots. ",
-    "fetched_at": "2026-11-08T07:46:10+00:00"
+    "fetched_at": "2026-11-08T08:46:11+00:00"
    },
    {
     "id": "IDY21020",
@@ -1357,7 +1471,7 @@
      "marine"
     ],
     "headline": "IDY21020 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0555UTC 8 November 2026 GALE WARNING 3 FOR WESTERN AREA SITUATION AT 080600UTC Vigorous northwesterly quarter flow forecast to develop associated with cold front near 42S074E 47S080E at 090000UTC, near 42S079E 48S088E at 090600UTC. AREA AFFECTED Bound",
-    "fetched_at": "2026-11-08T07:46:11+00:00"
+    "fetched_at": "2026-11-08T08:46:12+00:00"
    },
    {
     "id": "IDY21092",
@@ -1369,7 +1483,7 @@
      "marine"
     ],
     "headline": "IDY21092 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2358UTC 7 November 2026 FINAL GALE WARNING 12 FOR SOUTHERN AREA SITUATION AT 080000UTC Vigorous flow associated with trough near 50S106E 55S111E. Forecast trough near 49S109E 55S113E at 080300UTC, and weakening thereafter. AREA AFFECTED Bounded by 57S",
-    "fetched_at": "2026-11-08T07:46:11+00:00"
+    "fetched_at": "2026-11-08T08:46:13+00:00"
    },
    {
     "id": "IDY28000",
@@ -1378,7 +1492,7 @@
     "severity": "low",
     "ptype": [],
     "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 0600UTC Chart Issued at 6:31 pm EDT Sunday on 08 November 2026 Low to mid level cloud is present along the east coast in the wake of a vigorous cold front which is moving through the Tasman Sea. A trough through northern Queensland is bringing storms and convective cloud to the tropical north",
-    "fetched_at": "2026-11-08T07:46:12+00:00"
+    "fetched_at": "2026-11-08T08:46:14+00:00"
    }
   ]
  },
@@ -1447,11 +1561,6 @@
  "humanitarian_watch": {
   "famine": [
    {
-    "title": "Children at risk as war zone attacks on water and sanitation more than triple",
-    "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
-    "source": "UN News"
-   },
-   {
     "title": "Afghanistan Nutrition Surveillance Bulletin, 16th Edition \u2013 Quarter 3, 2026",
     "pubDate": "Sun, 08 Nov 2026 06:03:45 +0000",
     "source": "ReliefWeb"
@@ -1478,16 +1587,6 @@
    }
   ],
   "conflict": [
-   {
-    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-    "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000",
-    "source": "UN News"
-   },
-   {
-    "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-    "pubDate": "Mon, 02 Nov 2026 12:00:00 +0000",
-    "source": "UN News"
-   },
    {
     "title": "Children's Hunger Rising as Southern Lebanon Farms Struggle to Recover",
     "pubDate": "Fri, 06 Nov 2026 14:11:20 +0000",

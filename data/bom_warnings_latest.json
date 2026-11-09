@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-09T12:46:02+00:00",
+ "generated": "2026-11-09T13:45:57+00:00",
  "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
- "count": 16,
+ "count": 15,
  "errors": 0,
  "warnings": [
   {
@@ -15,7 +15,7 @@
     "severe_thunderstorm"
    ],
    "headline": "IDD21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Cancellation of Severe Thunderstorm Warning For people in Simpson district. Issued at 9:41 pm Monday, 9 November 2026. This warning is now cancelled. The Northern Territory Emergency Service advises that people should: * avoid driving into water of unknown depth and current * stay away from fallen power lines",
-   "fetched_at": "2026-11-09T12:45:53+00:00"
+   "fetched_at": "2026-11-09T13:45:49+00:00"
   },
   {
    "id": "IDN20400",
@@ -26,7 +26,7 @@
     "marine"
    ],
    "headline": "IDN20400 Australian Government Bureau of Meteorology New South Wales Marine Wind Warning Summary for New South Wales Issued at 10:00 pm EDT on Monday 9 November 2026 for the period until midnight EDT Monday 9 November 2026. Wind Warnings for Monday 9 November Cancellation for the following areas: Sydney Enclosed Waters, Macquarie Coast, Hunter Coast, Sydney Coast and Illawarra Coast The next Marin",
-   "fetched_at": "2026-11-09T12:45:54+00:00"
+   "fetched_at": "2026-11-09T13:45:49+00:00"
   },
   {
    "id": "IDN28522",
@@ -37,7 +37,7 @@
     "marine"
    ],
    "headline": "IDN28522 Australian Government Bureau of Meteorology New South Wales Hazardous Surf Warning for New South Wales Issued at 6:28 pm EDT on Monday 9 November 2026 for the period until midnight EDT Tuesday 10 November 2026. Surf and swell conditions are expected to be hazardous for coastal activities such as rock fishing, boating, and swimming in the following areas. Monday 9 November Hazardous Surf W",
-   "fetched_at": "2026-11-09T12:45:54+00:00"
+   "fetched_at": "2026-11-09T13:45:50+00:00"
   },
   {
    "id": "IDN36631",
@@ -48,7 +48,7 @@
     "flood"
    ],
    "headline": "IDN36631 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (NSW) at Barringun and Enngonia Issued at 12:13 pm Australian Eastern Daylight Time on Monday 9 November 2026 Flood Warning Number: 9 MINOR FLOODING OCCURRING AT BARRINGUN AND ENNGONIA An extended minor flood peak is occurring along the Warrego River at Barringun where river levels are likely to remain a",
-   "fetched_at": "2026-11-09T12:45:55+00:00"
+   "fetched_at": "2026-11-09T13:45:50+00:00"
   },
   {
    "id": "IDN36632",
@@ -59,7 +59,7 @@
     "flood"
    ],
    "headline": "IDN36632 Australian Government Bureau of Meteorology Final Flood Warning for the Paroo River (NSW) Issued at 9:40 am Australian Eastern Daylight Time on Sunday 8 November 2026 Flood Warning Number: 7 FLOODING NO LONGER OCCURRING AT WILLARA CROSSING The Paroo River at Willara Crossing fell below the minor flood level on Saturday evening. Paroo River (NSW): Minor flooding no longer occurring along t",
-   "fetched_at": "2026-11-09T12:45:55+00:00"
+   "fetched_at": "2026-11-09T13:45:51+00:00"
   },
   {
    "id": "IDQ20831",
@@ -70,7 +70,7 @@
     "flood"
    ],
    "headline": "IDQ20831 Australian Government Bureau of Meteorology Minor Flood Warning for the Upper Balonne River Issued at 12:52 pm AEST on Monday 9 November 2026 Flood Warning Number: 8 MINOR FLOODING EASING AT SURAT FOLLOWING A PEAK ESTIMATED AROUND THE MODERATE FLOOD LEVEL SUNDAY EVENING The main flood peak along the Balonne River passed through Surat Sunday evening and on Monday afternoon is approaching W",
-   "fetched_at": "2026-11-09T12:45:56+00:00"
+   "fetched_at": "2026-11-09T13:45:52+00:00"
   },
   {
    "id": "IDQ20845",
@@ -81,7 +81,7 @@
     "flood"
    ],
    "headline": "IDQ20845 Australian Government Bureau of Meteorology Minor Flood Warning for the Lower Warrego River (QLD) Issued at 10:55 am AEST on Monday 9 November 2026 Flood Warning Number: 21 MINOR FLOODING EASING SLOWLY AT CUNNAMULLA BRIDGE AND ESTIMATED TO BE EASING AT ROCKY Minor flooding is continuing to ease along the lower Warrego River at Cunnamulla Bridge and Rocky. Warrego River downstream of Charl",
-   "fetched_at": "2026-11-09T12:45:57+00:00"
+   "fetched_at": "2026-11-09T13:45:52+00:00"
   },
   {
    "id": "IDQ20855",
@@ -92,7 +92,7 @@
     "flood"
    ],
    "headline": "IDQ20855 Australian Government Bureau of Meteorology Minor Flood Warning for the Lower Bulloo River Issued at 10:09 am AEST on Monday 9 November 2026 Flood Warning Number: 21 MINOR FLOOD PEAK EXPECTED AT THARGOMINDAH FROM MONDAY AFTERNOON The flood peak along the lower Bulloo River has passed Autumnvale and is now approaching Thargomindah, where minor flooding is occurring. A minor flood peak is e",
-   "fetched_at": "2026-11-09T12:45:57+00:00"
+   "fetched_at": "2026-11-09T13:45:53+00:00"
   },
   {
    "id": "IDQ20860",
@@ -103,7 +103,7 @@
     "flood"
    ],
    "headline": "IDQ20860 Australian Government Bureau of Meteorology Moderate Flood Warning for the Lower Barcoo River and Minor Flood Warning for the Upper Thomson River Issued at 11:16 am AEST on Monday 9 November 2026 Flood Warning Number: 21 MODERATE FLOODING POSSIBLE AT RETREAT FROM TUESDAY AFTERNOON MINOR FLOODING IS OCCURRING AT CAMOOLA PARK Along the upper Thomson River, minor flooding is occurring at Cam",
-   "fetched_at": "2026-11-09T12:45:58+00:00"
+   "fetched_at": "2026-11-09T13:45:53+00:00"
   },
   {
    "id": "IDS20201",
@@ -115,18 +115,7 @@
     "marine"
    ],
    "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Updated Marine Wind Warning Summary for South Australia Issued at 9:30 pm CDT on Monday 9 November 2026 for the period until midnight CDT Tuesday 10 November 2026. Wind Warnings for Tuesday 10 November Strong Wind Warning for the following areas: Lower West Coast, Central Coast, South Central Coast, Spencer Gulf, Upper South East",
-   "fetched_at": "2026-11-09T12:45:58+00:00"
-  },
-  {
-   "id": "IDS20290",
-   "title": "South Australia",
-   "issued": "",
-   "severity": "medium",
-   "ptype": [
-    "fire"
-   ],
-   "headline": "IDS20290 Australian Government Bureau of Meteorology South Australia Fire Weather Warning for the West Coast fire weather district. Issued at 3:58 am CDT on Monday 9 November 2026. The Country Fire Service advises you to: - Action your Bushfire Survival Plan now. - Monitor the fire and weather situation through your local radio station, www.cfs.sa.gov.au, and www.bom.gov.au. - Call 000 (Triple Zer",
-   "fetched_at": "2026-11-09T12:45:59+00:00"
+   "fetched_at": "2026-11-09T13:45:54+00:00"
   },
   {
    "id": "IDS21033",
@@ -137,8 +126,8 @@
     "severe_thunderstorm",
     "wind"
    ],
-   "headline": "IDS21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS For people in parts of North East Pastoral district. Issued at 10:10 pm Monday, 9 November 2026. Isolated severe thunderstorms with gusty winds continuing east of the Stuart Highway. Weather Situation: Gusty severe thunderstorms continue about a trough in the int",
-   "fetched_at": "2026-11-09T12:45:59+00:00"
+   "headline": "IDS21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS For people in parts of North East Pastoral district. Issued at 11:38 pm Monday, 9 November 2026. Isolated severe thunderstorms with gusty winds continuing east of the Stuart Highway. Weather Situation: Gusty severe thunderstorms continue about a trough in the int",
+   "fetched_at": "2026-11-09T13:45:55+00:00"
   },
   {
    "id": "IDW20100",
@@ -150,7 +139,7 @@
     "marine"
    ],
    "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Updated Marine Wind Warning Summary for Western Australia Issued at 7:29 pm WST on Monday 9 November 2026 for the period until midnight WST Tuesday 10 November 2026. Wind Warnings for Monday 9 November Strong Wind Warning for the following areas: Perth Local Waters, Gascoyne Coast, Geraldton Coast, Lancelin Coast, Perth Coast a",
-   "fetched_at": "2026-11-09T12:46:00+00:00"
+   "fetched_at": "2026-11-09T13:45:55+00:00"
   },
   {
    "id": "IDY21030",
@@ -162,7 +151,7 @@
     "marine"
    ],
    "headline": "IDY21030 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1200UTC 9 November 2026 GALE WARNING 4 FOR WESTERN AND SOUTHERN AREA SITUATION AT 091200UTC Vigorous flow with low 952hPa near 59S080E. Forecast low 954hPa near 59S084E at 091800UTC, low 957hPa near 60S088E at 100000UTC, low 960hPa near 61S090E at 100",
-   "fetched_at": "2026-11-09T12:46:01+00:00"
+   "fetched_at": "2026-11-09T13:45:56+00:00"
   },
   {
    "id": "IDY21040",
@@ -174,7 +163,7 @@
     "marine"
    ],
    "headline": "IDY21040 40:2:1:04:70S125E35045:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1159UTC 9 November 2026 GALE WARNING 5 FOR SOUTHERN AREA SITUATION AT 091200UTC Vigorous flow associated with low 988hPa near 54S137E. Forecast low 985hPa near 56S140E at 091800UTC, low 981hPa near 59S144E at 100000UTC, low 974hPa near 62S152E at 1006",
-   "fetched_at": "2026-11-09T12:46:01+00:00"
+   "fetched_at": "2026-11-09T13:45:56+00:00"
   },
   {
    "id": "IDY28000",
@@ -182,8 +171,8 @@
    "issued": "",
    "severity": "low",
    "ptype": [],
-   "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 0600UTC Chart Issued at 5:57 pm EDT Monday on 09 November 2026 A trough extends from the Eyre Peninsula of South Australia into the western interior of the country. It is associated with spotty low level cloud in the vicinity and scattered thunderstorms with low to mid level convective cloud.",
-   "fetched_at": "2026-11-09T12:46:02+00:00"
+   "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 1200UTC Chart Issued at 11:50 pm EDT Monday on 09 November 2026 A trough extends from the Spencer Gulf of South Australia into the western interior of the country. It is associated with convective cloud with embedded thunderstorms. Thin wispy high level cloud can be seen in a central band ove",
+   "fetched_at": "2026-11-09T13:45:57+00:00"
   }
  ]
 }

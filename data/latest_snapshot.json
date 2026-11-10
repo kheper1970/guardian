@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-11-10T11:45:01.503566+00:00",
+ "collected_utc": "2026-11-10T12:45:01.224134+00:00",
  "earthquakes": [
   {
    "mag": 5,
@@ -112,21 +112,13 @@
    "tsunami": false,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx47",
    "type": "earthquake"
-  },
-  {
-   "mag": 4.7,
-   "place": "17 km NW of \u0130mamo\u011flu, Turkey",
-   "time": 1794227298182,
-   "tsunami": false,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n",
-   "type": "earthquake"
   }
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-11-10T06:00:00",
-   "Kp": 2.33,
-   "a_running": 9,
+   "time_tag": "2026-11-10T09:00:00",
+   "Kp": 2.67,
+   "a_running": 12,
    "station_count": 8
   },
   "kp_max_24h": 3.0,
@@ -780,7 +772,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-11-10T00:00:00Z",
+    "date": "2026-11-10T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157"
    },
    {
@@ -788,7 +780,7 @@
     "categories": [
      "Severe Storms"
     ],
-    "date": "2026-11-10T00:00:00Z",
+    "date": "2026-11-10T06:00:00Z",
     "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158"
    },
    {
@@ -1082,10 +1074,6 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BEECROFT ST, HUSKISSON",
-    "category": "Not Applicable"
-   },
-   {
     "title": "CALOOLA RD, MOAMA",
     "category": "Not Applicable"
    },
@@ -1106,11 +1094,15 @@
     "category": "Not Applicable"
    },
    {
-    "title": "HASTINGS RIVER DR, SANCROX",
+    "title": "OLD BAR RD, OLD BAR",
     "category": "Not Applicable"
    },
    {
-    "title": "OLD BAR RD, OLD BAR",
+    "title": "OLD MAITLAND RD",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "PECKHAMS RD, EWINGAR",
     "category": "Not Applicable"
    }
   ],
@@ -1158,8 +1150,8 @@
     "pubDate": "Tue, 10 Nov 2026 02:40:43 GMT"
    },
    {
-    "title": "WA Braces For Dangerous Bushfire Season As DFES Launches Summer Safety Campaign - WAMN News",
-    "pubDate": "Mon, 09 Nov 2026 16:17:48 GMT"
+    "title": "Join the Ready - Department of Fire and Emergency Services",
+    "pubDate": "Tue, 10 Nov 2026 05:39:39 GMT"
    },
    {
     "title": "The Silence After \u2018The Last Post\u2019: A New $2 Coin for Remembrance Day - Hope 103.2",
@@ -1196,12 +1188,16 @@
     "pubDate": "Tue, 10 Nov 2026 01:22:54 GMT"
    },
    {
-    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence \u2018going rogue\u2019 - The Guardian",
-    "pubDate": "Tue, 10 Nov 2026 02:31:00 GMT"
-   },
-   {
     "title": "AI companies must report security incidents after OpenAI Medicare breach - AFR",
     "pubDate": "Tue, 10 Nov 2026 07:01:00 GMT"
+   },
+   {
+    "title": "Eleven unknown Australian soldiers killed in WWI formally identified - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
+    "pubDate": "Tue, 10 Nov 2026 11:30:13 GMT"
+   },
+   {
+    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence \u2018going rogue\u2019 - The Guardian",
+    "pubDate": "Tue, 10 Nov 2026 02:31:00 GMT"
    },
    {
     "title": "RFPs: Defence Industry Development Grants Program \u2013 Exports Stream (Australia) - fundsforNGOs - Grants and Resources for Sustainability",
@@ -1210,10 +1206,6 @@
    {
     "title": "Australia\u2019s strategic partnership with the Philippines: The rising defence relationship - Australian Strategic Policy Institute",
     "pubDate": "Mon, 09 Nov 2026 19:00:00 GMT"
-   },
-   {
-    "title": "Australian security guard who fought for Russia against Ukraine goes missing - ABC News &amp; Headlines \u2013 Australian Broadcasting Corporation",
-    "pubDate": "Mon, 09 Nov 2026 18:00:00 GMT"
    },
    {
     "title": "Australia needs serious discussion on AUKUS. This inquiry didn\u2019t deliver it - UNSW Sydney",
@@ -1254,9 +1246,9 @@
   ]
  },
  "bom": {
-  "generated": "2026-11-10T11:46:00+00:00",
+  "generated": "2026-11-10T12:45:59+00:00",
   "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
-  "count": 17,
+  "count": 18,
   "errors": 0,
   "warnings": [
    {
@@ -1271,7 +1263,7 @@
      "wind"
     ],
     "headline": "IDD21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS For people in parts of Lasseter district. Issued at 8:45 pm Tuesday, 10 November 2026. Isolated severe storms near Uluru this evening Weather Situation: a thunderstorm with gusty winds approaching Uluru from the west may tend severe this evening. Severe thunderst",
-    "fetched_at": "2026-11-10T11:45:51+00:00"
+    "fetched_at": "2026-11-10T12:45:49+00:00"
    },
    {
     "id": "IDN28522",
@@ -1282,7 +1274,7 @@
      "marine"
     ],
     "headline": "IDN28522 Australian Government Bureau of Meteorology New South Wales Hazardous Surf Warning for New South Wales Issued at 4:04 pm EDT on Tuesday 10 November 2026 for the period until midnight EDT Tuesday 10 November 2026. Surf and swell conditions are expected to be hazardous for coastal activities such as rock fishing, boating, and swimming in the following areas, particularly for south to southe",
-    "fetched_at": "2026-11-10T11:45:51+00:00"
+    "fetched_at": "2026-11-10T12:45:49+00:00"
    },
    {
     "id": "IDN36631",
@@ -1293,7 +1285,7 @@
      "flood"
     ],
     "headline": "IDN36631 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (NSW) at Barringun and Enngonia Issued at 12:13 pm Australian Eastern Daylight Time on Monday 9 November 2026 Flood Warning Number: 9 MINOR FLOODING OCCURRING AT BARRINGUN AND ENNGONIA An extended minor flood peak is occurring along the Warrego River at Barringun where river levels are likely to remain a",
-    "fetched_at": "2026-11-10T11:45:52+00:00"
+    "fetched_at": "2026-11-10T12:45:50+00:00"
    },
    {
     "id": "IDN36632",
@@ -1304,7 +1296,7 @@
      "flood"
     ],
     "headline": "IDN36632 Australian Government Bureau of Meteorology Final Flood Warning for the Paroo River (NSW) Issued at 9:40 am Australian Eastern Daylight Time on Sunday 8 November 2026 Flood Warning Number: 7 FLOODING NO LONGER OCCURRING AT WILLARA CROSSING The Paroo River at Willara Crossing fell below the minor flood level on Saturday evening. Paroo River (NSW): Minor flooding no longer occurring along t",
-    "fetched_at": "2026-11-10T11:45:53+00:00"
+    "fetched_at": "2026-11-10T12:45:50+00:00"
    },
    {
     "id": "IDQ20831",
@@ -1315,7 +1307,7 @@
      "flood"
     ],
     "headline": "IDQ20831 Australian Government Bureau of Meteorology Final Flood Warning for the Upper Balonne River Issued at 11:37 am AEST on Tuesday 10 November 2026 Flood Warning Number: 9 MINOR FLOODING NO LONGER OCCURRING AT SURAT The river level at Surat is estimated to have fallen below the minor flood level on Tuesday morning. Downstream, the flood peak passed through Weribone Monday evening and is now m",
-    "fetched_at": "2026-11-10T11:45:53+00:00"
+    "fetched_at": "2026-11-10T12:45:51+00:00"
    },
    {
     "id": "IDQ20845",
@@ -1326,7 +1318,7 @@
      "flood"
     ],
     "headline": "IDQ20845 Australian Government Bureau of Meteorology Minor Flood Warning for the Lower Warrego River (QLD) Issued at 10:51 am AEST on Tuesday 10 November 2026 Flood Warning Number: 22 MINOR FLOODING ESTIMATED TO BE EASING SLOWLY AT CUNNAMULLA BRIDGE AND ROCKY Minor flooding is continuing to ease along the lower Warrego River. Warrego River downstream of Charleville: Minor flooding is easing along ",
-    "fetched_at": "2026-11-10T11:45:54+00:00"
+    "fetched_at": "2026-11-10T12:45:52+00:00"
    },
    {
     "id": "IDQ20855",
@@ -1337,7 +1329,7 @@
      "flood"
     ],
     "headline": "IDQ20855 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Bulloo River Issued at 8:42 am AEST on Tuesday 10 November 2026 Flood Warning Number: 22 FLOODING NO LONGER OCCURRING AT THARGOMINDAH Following a minor flood peak Monday afternoon, the river level along the Bulloo River at Thargomindah has fallen below the minor flood level. Bulloo River downstream of Quilpie: F",
-    "fetched_at": "2026-11-10T11:45:54+00:00"
+    "fetched_at": "2026-11-10T12:45:52+00:00"
    },
    {
     "id": "IDQ20860",
@@ -1348,7 +1340,7 @@
      "flood"
     ],
     "headline": "IDQ20860 Australian Government Bureau of Meteorology Moderate Flood Warning for the Lower Barcoo River and Minor Flood Warning for the Thomson River Issued at 11:43 am AEST on Tuesday 10 November 2026 Flood Warning Number: 22 MODERATE FLOODING POSSIBLE AT RETREAT FROM EARLY WEDNESDAY MORNING MINOR FLOODING IS OCCURRING AT CAMOOLA PARK Along the upper Thomson River, a flood peak is around Camoola P",
-    "fetched_at": "2026-11-10T11:45:55+00:00"
+    "fetched_at": "2026-11-10T12:45:53+00:00"
    },
    {
     "id": "IDS20201",
@@ -1360,7 +1352,7 @@
      "marine"
     ],
     "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Updated Marine Wind Warning Summary for South Australia Issued at 9:33 pm CDT on Tuesday 10 November 2026 for the period until midnight CDT Tuesday 10 November 2026. Wind Warnings for Tuesday 10 November Strong Wind Warning for the following areas: Spencer Gulf, Upper South East Coast and Lower South East Coast Cancellation for t",
-    "fetched_at": "2026-11-10T11:45:56+00:00"
+    "fetched_at": "2026-11-10T12:45:53+00:00"
    },
    {
     "id": "IDT20100",
@@ -1372,7 +1364,7 @@
      "marine"
     ],
     "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Marine Wind Warning Summary for Tasmania Issued at 10:29 pm EDT on Tuesday 10 November 2026 for the period until midnight EDT Wednesday 11 November 2026. Wind Warnings for Wednesday 11 November Strong Wind Warning for the following areas: Far North West Coast, Lower East Coast, South East Coast and South West Coast The next marine wind ",
-    "fetched_at": "2026-11-10T11:45:56+00:00"
+    "fetched_at": "2026-11-10T12:45:54+00:00"
    },
    {
     "id": "IDW20100",
@@ -1384,7 +1376,7 @@
      "marine"
     ],
     "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Updated Marine Wind Warning Summary for Western Australia Issued at 7:01 pm WST on Tuesday 10 November 2026 for the period until midnight WST Wednesday 11 November 2026. Wind Warnings for Tuesday 10 November Strong Wind Warning for the following areas: Gascoyne Coast, Geraldton Coast, Lancelin Coast, Perth Coast, Bunbury Geogra",
-    "fetched_at": "2026-11-10T11:45:57+00:00"
+    "fetched_at": "2026-11-10T12:45:55+00:00"
    },
    {
     "id": "IDW21033",
@@ -1396,8 +1388,8 @@
      "severe_thunderstorm",
      "wind"
     ],
-    "headline": "IDW21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS and HEAVY RAINFALL For people in parts of Pilbara, Gascoyne, North Interior, South Interior and Goldfields districts. Issued at 7:20 pm Tuesday, 10 November 2026. Severe storms continuing in the interior Weather Situation: severe thunderstorms with gusty thunders",
-    "fetched_at": "2026-11-10T11:45:57+00:00"
+    "headline": "IDW21033 Australian Government Bureau of Meteorology TOP PRIORITY FOR IMMEDIATE BROADCAST Severe Thunderstorm Warning for DAMAGING WINDS and HEAVY RAINFALL For people in parts of Pilbara, Gascoyne, North Interior, South Interior and Goldfields districts. Issued at 8:03 pm Tuesday, 10 November 2026. Severe storms continuing in the interior Weather Situation: severe thunderstorms with gusty thunders",
+    "fetched_at": "2026-11-10T12:45:55+00:00"
    },
    {
     "id": "IDY21030",
@@ -1408,8 +1400,8 @@
      "wind",
      "marine"
     ],
-    "headline": "IDY21030 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0540UTC 10 November 2026 GALE WARNING 4 FOR WESTERN AND SOUTHERN AREA SITUATION AT 100600UTC Vigorous westerly flow. AREA AFFECTED Bounded by 49S080E 49S094E 57S089E 57S080E 49S080E. FORECAST Westerly quarter winds 30/40 knots. Winds easing below 34 k",
-    "fetched_at": "2026-11-10T11:45:58+00:00"
+    "headline": "IDY21030 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1154UTC 10 November 2026 FINAL GALE WARNING 4 FOR SOUTHERN AREA SITUATION AT 101200UTC Vigorous westerly flow easing. AREA AFFECTED Bounded by 54S084E 54S090E 57S089E 56S083E 54S084E. FORECAST Westerly quarter winds 30/40 knots. Winds easing below 34 ",
+    "fetched_at": "2026-11-10T12:45:56+00:00"
    },
    {
     "id": "IDY21040",
@@ -1420,8 +1412,8 @@
      "wind",
      "marine"
     ],
-    "headline": "IDY21040 40:2:1:04:70S075E25090:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0540UTC 10 November 2026 GALE WARNING 5 FOR SOUTHERN AREA SITUATION AT 100600UTC Vigorous flow associated with trough 58S153E 62S154E. Forecast trough 61S157E 60S160E at 101200UTC and east of area thereafter. AREA AFFECTED Bounded by 60S150E 61S150E 6",
-    "fetched_at": "2026-11-10T11:45:58+00:00"
+    "headline": "IDY21040 40:2:1:04:70S075E25090:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1153UTC 10 November 2026 FINAL GALE WARNING 5 FOR SOUTHERN AREA SITUATION AT 101200UTC Vigorous westerly flow easing. AREA AFFECTED Bounded by 61S160E 58S160E 60S156E 61S156E 61S160E. FORECAST Westerly quarter winds. Wind speeds 30/40 knots. WInds eas",
+    "fetched_at": "2026-11-10T12:45:56+00:00"
    },
    {
     "id": "IDY21050",
@@ -1432,8 +1424,8 @@
      "wind",
      "marine"
     ],
-    "headline": "IDY21050 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0540UTC 10 November 2026 GALE WARNING 6 FOR WESTERN AND SOUTHERN AREAS SITUATION AT 100600UTC Vigorous northwesterly flow developing with forecast warm front 51S088E 54S085E 56S079E at 102100UTC, then 51S090E 55S089E 57S081E at 110000UTC and 54S098E 5",
-    "fetched_at": "2026-11-10T11:45:59+00:00"
+    "headline": "IDY21050 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1206UTC 10 November 2026 GALE WARNING 6 FOR WESTERN AND SOUTHERN AREAS SITUATION AT 101200UTC Vigorous northwesterly flow developing with forecast warm front 51S080E 55S077E 57S072E at 101800UTC, near 51S090E 55S089E 57S081E at 110000UTC, near 54S098E",
+    "fetched_at": "2026-11-10T12:45:57+00:00"
    },
    {
     "id": "IDY21060",
@@ -1444,8 +1436,20 @@
      "wind",
      "marine"
     ],
-    "headline": "IDY21060 40:2:1:04:70S125E35045:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 0539UTC 10 November 2026 GALE WARNING 7 FOR SOUTHERN AREA SITUATION AT 100600UTC Vigorous westerly flow associated with developing forecast trough 55S152E 59S153E to low 964hPa near 62S147E at 102100UTC, then 55S153E 58S156E to low 962hPa near 62S150E",
-    "fetched_at": "2026-11-10T11:45:59+00:00"
+    "headline": "IDY21060 40:2:1:04:70S125E35045:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1152UTC 10 November 2026 GALE WARNING 7 FOR SOUTHERN AREA SITUATION AT 101200UTC Vigorous flow associated with trough forecast to develop near 53S148E 58S149E to low 964hPa near 61S144E at 101800UTC, then 54S153E 57S155E to low 960hPa near 62S149E at ",
+    "fetched_at": "2026-11-10T12:45:58+00:00"
+   },
+   {
+    "id": "IDY21070",
+    "title": "High Seas Weather Warning for METAREA 10",
+    "issued": "",
+    "severity": "medium",
+    "ptype": [
+     "wind",
+     "marine"
+    ],
+    "headline": "IDY21070 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1153UTC 10 November 2026 GALE WARNING 8 FOR WESTERN AND SOUTHERN AREAS SITUATION AT 101200UTC Vigorous southwesterly quarter flow developing associated with trough near 52S075E 57S081E at 110600UTC, and near 49S079E 51S083E 58S088E at 111200UTC. AREA ",
+    "fetched_at": "2026-11-10T12:45:58+00:00"
    },
    {
     "id": "IDY28000",
@@ -1454,7 +1458,7 @@
     "severity": "low",
     "ptype": [],
     "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 0600UTC Chart Issued at 6:03 pm EDT Tuesday on 10 November 2026 A trough extends from Victoria into southwestern Queensland. It is associated with convective cloud with embedded thunderstorms. A heat trough extends through central inland parts of Western Australia producing convective cloud a",
-    "fetched_at": "2026-11-10T11:46:00+00:00"
+    "fetched_at": "2026-11-10T12:45:59+00:00"
    }
   ]
  },
@@ -1523,28 +1527,12 @@
  "humanitarian_watch": {
   "famine": [
    {
-    "title": "Children at risk as war zone attacks on water and sanitation more than triple",
-    "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
-    "source": "UN News"
-   },
-   {
     "title": "South Sudan: Humanitarian Snapshot (October 2026)",
     "pubDate": "Tue, 10 Nov 2026 11:15:42 +0000",
     "source": "ReliefWeb"
    }
   ],
-  "conflict": [
-   {
-    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-    "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000",
-    "source": "UN News"
-   },
-   {
-    "title": "World: Attacks on Health Care Bi-Monthly News Brief, 16 - 31 October 2026",
-    "pubDate": "Tue, 10 Nov 2026 07:59:09 +0000",
-    "source": "ReliefWeb"
-   }
-  ],
+  "conflict": [],
   "errors": []
  },
  "doomsday_clock": {

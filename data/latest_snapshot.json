@@ -1,5 +1,5 @@
 {
- "collected_utc": "2026-11-10T20:45:01.975242+00:00",
+ "collected_utc": "2026-11-10T21:45:01.300415+00:00",
  "earthquakes": [
   {
    "mag": 4.9,
@@ -156,9 +156,9 @@
  ],
  "space_weather": {
   "kp_latest": {
-   "time_tag": "2026-11-10T15:00:00",
-   "Kp": 3.0,
-   "a_running": 15,
+   "time_tag": "2026-11-10T18:00:00",
+   "Kp": 2.33,
+   "a_running": 9,
    "station_count": 8
   },
   "kp_max_24h": 3.0,
@@ -191,7 +191,7 @@
   ]
  },
  "neo": {
-  "count": 5,
+  "count": 6,
   "events": [
    {
     "name": "(2026 VT3)",
@@ -205,6 +205,19 @@
     "velocity_kph": 35317,
     "h": 27.205,
     "time_uncertainty": "01:40"
+   },
+   {
+    "name": "(2026 VR8)",
+    "designation": "2026 VR8",
+    "approach_utc": "2026-Nov-10 03:57",
+    "diameter_min_m": 25,
+    "diameter_max_m": 55,
+    "hazardous": false,
+    "miss_km": 3549478,
+    "miss_au": 0.0237267974665843,
+    "velocity_kph": 55091,
+    "h": 25.162,
+    "time_uncertainty": "00:05"
    },
    {
     "name": "(2026 VK1)",
@@ -831,9 +844,9 @@
      "pubDate": "Tue, 10 Nov 2026 20:42:29 GMT"
     },
     {
-     "title": "Tropical Storm Pena Forecast Discussion Number 16",
-     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP4+shtml/101443.shtml",
-     "pubDate": "Tue, 10 Nov 2026 14:43:27 GMT"
+     "title": "Tropical Storm Pena Forecast Discussion Number 17",
+     "link": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP4+shtml/102045.shtml",
+     "pubDate": "Tue, 10 Nov 2026 20:45:29 GMT"
     },
     {
      "title": "Tropical Storm Pena Wind Speed Probabilities Number 17",
@@ -842,8 +855,8 @@
     },
     {
      "title": "Tropical Storm Pena Graphics",
-     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp4+shtml/152315.shtml?cone",
-     "pubDate": "Tue, 10 Nov 2026 15:23:15 GMT"
+     "link": "https://www.nhc.noaa.gov/refresh/graphics_cp4+shtml/212200.shtml?cone",
+     "pubDate": "Tue, 10 Nov 2026 21:22:00 GMT"
     }
    ]
   }
@@ -1068,6 +1081,26 @@
  "australia": {
   "abc_news": [
    {
+    "title": "Legends urge Australia to 'move on' from Sandpapergate amid opposing claims",
+    "pubDate": "Tue, 10 Nov 2026 21:21:50 +0000"
+   },
+   {
+    "title": "US charges three men over terror plots, including planned assault on UK airbase",
+    "pubDate": "Tue, 10 Nov 2026 21:10:35 +0000"
+   },
+   {
+    "title": "Meghan Markle's father accused of cutting off ankle monitor",
+    "pubDate": "Tue, 10 Nov 2026 21:02:41 +0000"
+   },
+   {
+    "title": "Review finds Bendigo hospital did not follow procedure for brain deaths",
+    "pubDate": "Tue, 10 Nov 2026 20:55:57 +0000"
+   },
+   {
+    "title": "Police offer $1m reward to find father suspected murdered by organised crime",
+    "pubDate": "Tue, 10 Nov 2026 20:47:16 +0000"
+   },
+   {
     "title": "Sinner targeting Australian Open return after earlier 'impossible goal'",
     "pubDate": "Tue, 10 Nov 2026 20:34:09 +0000"
    },
@@ -1086,26 +1119,6 @@
    {
     "title": "South Road scandal to become subject of parliamentary inquiry",
     "pubDate": "Tue, 10 Nov 2026 20:05:02 +0000"
-   },
-   {
-    "title": "Live: PM pays tribute to defence personnel for Remembrance Day en route to COP31",
-    "pubDate": "Tue, 10 Nov 2026 20:02:30 +0000"
-   },
-   {
-    "title": "100yo soldier gets medals recognising service eight decades on",
-    "pubDate": "Tue, 10 Nov 2026 19:58:53 +0000"
-   },
-   {
-    "title": "Experts urge people not to drink raw milk as products pushed online",
-    "pubDate": "Tue, 10 Nov 2026 19:45:28 +0000"
-   },
-   {
-    "title": "Victorian polling centre closures a 'kick in the teeth', say voters",
-    "pubDate": "Tue, 10 Nov 2026 19:36:15 +0000"
-   },
-   {
-    "title": "IVF patient fears Catholic takeover will affect quest to become a mum",
-    "pubDate": "Tue, 10 Nov 2026 19:29:56 +0000"
    }
   ],
   "nsw_rfs_incidents": [
@@ -1123,10 +1136,6 @@
    },
    {
     "title": "Goldrock Gully, Legume",
-    "category": "Advice"
-   },
-   {
-    "title": "HAMMERLI WAY, SHALVEY",
     "category": "Advice"
    },
    {
@@ -1162,7 +1171,7 @@
     "category": "Not Applicable"
    },
    {
-    "title": "BROUGHTON STREET, WYEE POINT",
+    "title": "BURLEY GRIFFIN WAY, SPRINGDALE",
     "category": "Not Applicable"
    },
    {
@@ -1171,10 +1180,6 @@
    },
    {
     "title": "CALOOLA RD, MOAMA",
-    "category": "Not Applicable"
-   },
-   {
-    "title": "CAMERON ST, WAUCHOPE",
     "category": "Not Applicable"
    },
    {
@@ -1187,6 +1192,14 @@
    },
    {
     "title": "EUGLO STATION THE GIPPS WAY, BURCHER",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "GILGAIS RD, CONDOBOLIN",
+    "category": "Not Applicable"
+   },
+   {
+    "title": "MITCHELL HWY, SHADFORTH",
     "category": "Not Applicable"
    }
   ],
@@ -1250,12 +1263,12 @@
     "pubDate": "Mon, 09 Nov 2026 00:27:19 GMT"
    },
    {
-    "title": "Chinese sites flood with Melbourne warning - News.com.au",
-    "pubDate": "Mon, 09 Nov 2026 21:19:04 GMT"
-   },
-   {
     "title": "Australia to launch AI safety regulator after OpenAI's breach of a government portal - WFTV",
     "pubDate": "Tue, 10 Nov 2026 05:02:53 GMT"
+   },
+   {
+    "title": "Chinese sites flood with Melbourne warning - News.com.au",
+    "pubDate": "Mon, 09 Nov 2026 21:19:04 GMT"
    },
    {
     "title": "Google says new Australian internet safety bill could cut off under-18s from Gmail - Central Oregon Daily",
@@ -1268,8 +1281,16 @@
     "pubDate": "Tue, 10 Nov 2026 18:54:24 GMT"
    },
    {
+    "title": "You\u2019ll hear the usual cliches about war this Remembrance Day \u2013 why does Australia refuse to learn the true lessons of history? | Paul Daley - The Guardian",
+    "pubDate": "Tue, 10 Nov 2026 21:24:00 GMT"
+   },
+   {
     "title": "Australia needs serious discussion on AUKUS. This inquiry didn\u2019t deliver it - UNSW Sydney",
     "pubDate": "Tue, 10 Nov 2026 11:28:32 GMT"
+   },
+   {
+    "title": "AI companies must report security incidents after OpenAI Medicare breach - AFR",
+    "pubDate": "Tue, 10 Nov 2026 07:01:00 GMT"
    },
    {
     "title": "Australia moves to tighten AI safety laws after review of OpenAI incident - Australian Cyber Security Magazine",
@@ -1280,16 +1301,8 @@
     "pubDate": "Tue, 10 Nov 2026 01:22:54 GMT"
    },
    {
-    "title": "AI companies must report security incidents after OpenAI Medicare breach - AFR",
-    "pubDate": "Tue, 10 Nov 2026 07:01:00 GMT"
-   },
-   {
-    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence \u2018going rogue\u2019 - The Guardian",
-    "pubDate": "Tue, 10 Nov 2026 02:31:00 GMT"
-   },
-   {
-    "title": "Funding committed to Schools Pathways Program to strengthen defence industry workforce - Defence Connect",
-    "pubDate": "Tue, 10 Nov 2026 04:01:06 GMT"
+    "title": "Defence was \u2018tracking\u2019 supporters of BRS on social media - The Nightly",
+    "pubDate": "Tue, 10 Nov 2026 07:35:52 GMT"
    },
    {
     "title": "RFPs: Defence Industry Development Grants Program \u2013 Exports Stream (Australia) - fundsforNGOs - Grants and Resources for Sustainability",
@@ -1330,7 +1343,7 @@
   ]
  },
  "bom": {
-  "generated": "2026-11-10T20:45:54+00:00",
+  "generated": "2026-11-10T21:45:56+00:00",
   "source": "BOM ftp://ftp.bom.gov.au/anon/gen/fwo/",
   "count": 16,
   "errors": 0,
@@ -1344,7 +1357,7 @@
      "flood"
     ],
     "headline": "IDN36631 Australian Government Bureau of Meteorology Minor Flood Warning for the Warrego River (NSW) at Barringun and Enngonia Issued at 12:13 pm Australian Eastern Daylight Time on Monday 9 November 2026 Flood Warning Number: 9 MINOR FLOODING OCCURRING AT BARRINGUN AND ENNGONIA An extended minor flood peak is occurring along the Warrego River at Barringun where river levels are likely to remain a",
-    "fetched_at": "2026-11-10T20:45:45+00:00"
+    "fetched_at": "2026-11-10T21:45:46+00:00"
    },
    {
     "id": "IDN36632",
@@ -1355,7 +1368,7 @@
      "flood"
     ],
     "headline": "IDN36632 Australian Government Bureau of Meteorology Final Flood Warning for the Paroo River (NSW) Issued at 9:40 am Australian Eastern Daylight Time on Sunday 8 November 2026 Flood Warning Number: 7 FLOODING NO LONGER OCCURRING AT WILLARA CROSSING The Paroo River at Willara Crossing fell below the minor flood level on Saturday evening. Paroo River (NSW): Minor flooding no longer occurring along t",
-    "fetched_at": "2026-11-10T20:45:46+00:00"
+    "fetched_at": "2026-11-10T21:45:47+00:00"
    },
    {
     "id": "IDQ20831",
@@ -1366,7 +1379,7 @@
      "flood"
     ],
     "headline": "IDQ20831 Australian Government Bureau of Meteorology Final Flood Warning for the Upper Balonne River Issued at 11:37 am AEST on Tuesday 10 November 2026 Flood Warning Number: 9 MINOR FLOODING NO LONGER OCCURRING AT SURAT The river level at Surat is estimated to have fallen below the minor flood level on Tuesday morning. Downstream, the flood peak passed through Weribone Monday evening and is now m",
-    "fetched_at": "2026-11-10T20:45:46+00:00"
+    "fetched_at": "2026-11-10T21:45:48+00:00"
    },
    {
     "id": "IDQ20845",
@@ -1377,7 +1390,7 @@
      "flood"
     ],
     "headline": "IDQ20845 Australian Government Bureau of Meteorology Minor Flood Warning for the Lower Warrego River (QLD) Issued at 10:51 am AEST on Tuesday 10 November 2026 Flood Warning Number: 22 MINOR FLOODING ESTIMATED TO BE EASING SLOWLY AT CUNNAMULLA BRIDGE AND ROCKY Minor flooding is continuing to ease along the lower Warrego River. Warrego River downstream of Charleville: Minor flooding is easing along ",
-    "fetched_at": "2026-11-10T20:45:47+00:00"
+    "fetched_at": "2026-11-10T21:45:48+00:00"
    },
    {
     "id": "IDQ20855",
@@ -1388,7 +1401,7 @@
      "flood"
     ],
     "headline": "IDQ20855 Australian Government Bureau of Meteorology Final Flood Warning for the Lower Bulloo River Issued at 8:42 am AEST on Tuesday 10 November 2026 Flood Warning Number: 22 FLOODING NO LONGER OCCURRING AT THARGOMINDAH Following a minor flood peak Monday afternoon, the river level along the Bulloo River at Thargomindah has fallen below the minor flood level. Bulloo River downstream of Quilpie: F",
-    "fetched_at": "2026-11-10T20:45:47+00:00"
+    "fetched_at": "2026-11-10T21:45:49+00:00"
    },
    {
     "id": "IDQ20860",
@@ -1399,7 +1412,7 @@
      "flood"
     ],
     "headline": "IDQ20860 Australian Government Bureau of Meteorology Moderate Flood Warning for the Lower Barcoo River and Minor Flood Warning for the Thomson River Issued at 11:43 am AEST on Tuesday 10 November 2026 Flood Warning Number: 22 MODERATE FLOODING POSSIBLE AT RETREAT FROM EARLY WEDNESDAY MORNING MINOR FLOODING IS OCCURRING AT CAMOOLA PARK Along the upper Thomson River, a flood peak is around Camoola P",
-    "fetched_at": "2026-11-10T20:45:48+00:00"
+    "fetched_at": "2026-11-10T21:45:49+00:00"
    },
    {
     "id": "IDS20201",
@@ -1410,7 +1423,7 @@
      "marine"
     ],
     "headline": "IDS20201 Australian Government Bureau of Meteorology South Australia Marine Wind Warning Summary for South Australia Issued at 3:40 am CDT on Wednesday 11 November 2026 for the period until midnight CDT Wednesday 11 November 2026. Wind Warnings for Wednesday 11 November Cancellation for the following areas: Spencer Gulf, Upper South East Coast and Lower South East Coast The next Marine Wind Warnin",
-    "fetched_at": "2026-11-10T20:45:49+00:00"
+    "fetched_at": "2026-11-10T21:45:50+00:00"
    },
    {
     "id": "IDT20100",
@@ -1422,7 +1435,7 @@
      "marine"
     ],
     "headline": "IDT20100 Australian Government Bureau of Meteorology Tasmania Marine Wind Warning Summary for Tasmania Issued at 4:00 am EDT on Wednesday 11 November 2026 for the period until midnight EDT Wednesday 11 November 2026. Wind Warnings for Wednesday 11 November Strong Wind Warning for the following areas: Far North West Coast, Lower East Coast, South East Coast and South West Coast The next marine wind",
-    "fetched_at": "2026-11-10T20:45:49+00:00"
+    "fetched_at": "2026-11-10T21:45:51+00:00"
    },
    {
     "id": "IDW20100",
@@ -1434,7 +1447,7 @@
      "marine"
     ],
     "headline": "IDW20100 Australian Government Bureau of Meteorology Western Australia Updated Marine Wind Warning Summary for Western Australia Issued at 1:01 am WST on Wednesday 11 November 2026 for the period until midnight WST Wednesday 11 November 2026. Wind Warnings for Wednesday 11 November Strong Wind Warning for the following areas: Gascoyne Coast, Bunbury Geographe Coast, Leeuwin Coast and Esperance Coa",
-    "fetched_at": "2026-11-10T20:45:50+00:00"
+    "fetched_at": "2026-11-10T21:45:51+00:00"
    },
    {
     "id": "IDY21030",
@@ -1446,7 +1459,7 @@
      "marine"
     ],
     "headline": "IDY21030 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1154UTC 10 November 2026 FINAL GALE WARNING 4 FOR SOUTHERN AREA SITUATION AT 101200UTC Vigorous westerly flow easing. AREA AFFECTED Bounded by 54S084E 54S090E 57S089E 56S083E 54S084E. FORECAST Westerly quarter winds 30/40 knots. Winds easing below 34 ",
-    "fetched_at": "2026-11-10T20:45:50+00:00"
+    "fetched_at": "2026-11-10T21:45:52+00:00"
    },
    {
     "id": "IDY21040",
@@ -1458,7 +1471,7 @@
      "marine"
     ],
     "headline": "IDY21040 40:2:1:04:70S075E25090:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1153UTC 10 November 2026 FINAL GALE WARNING 5 FOR SOUTHERN AREA SITUATION AT 101200UTC Vigorous westerly flow easing. AREA AFFECTED Bounded by 61S160E 58S160E 60S156E 61S156E 61S160E. FORECAST Westerly quarter winds. Wind speeds 30/40 knots. WInds eas",
-    "fetched_at": "2026-11-10T20:45:51+00:00"
+    "fetched_at": "2026-11-10T21:45:52+00:00"
    },
    {
     "id": "IDY21050",
@@ -1470,7 +1483,7 @@
      "marine"
     ],
     "headline": "IDY21050 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1757UTC 10 November 2026 GALE WARNING 6 FOR WESTERN AND SOUTHERN AREAS SITUATION AT 101800UTC Vigorous northwesterly flow associated with warm front 51S080E 55S077E 57S072E. Forecast near 51S090E 55S089E 57S081E at 110000UTC, near 54S098E 57S088E at 1",
-    "fetched_at": "2026-11-10T20:45:51+00:00"
+    "fetched_at": "2026-11-10T21:45:53+00:00"
    },
    {
     "id": "IDY21060",
@@ -1482,7 +1495,7 @@
      "marine"
     ],
     "headline": "IDY21060 40:2:1:04:70S125E35045:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1757UTC 10 November 2026 GALE WARNING 7 FOR SOUTHERN AREA SITUATION AT 101800UTC Vigorous flow associated with trough near 53S148E 58S149E to low 964hPa near 61S144E. Forecast near 54S153E 57S155E to low 960hPa near 62S149E at 110000UTC, then weakenin",
-    "fetched_at": "2026-11-10T20:45:52+00:00"
+    "fetched_at": "2026-11-10T21:45:54+00:00"
    },
    {
     "id": "IDY21070",
@@ -1494,7 +1507,7 @@
      "marine"
     ],
     "headline": "IDY21070 40:2:1:04:70S075E35060:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 1757UTC 10 November 2026 GALE WARNING 8 FOR WESTERN AND SOUTHERN AREAS SITUATION AT 101800UTC Vigorous flow developing associated with trough near 52S075E 57S081E at 110600UTC, near 49S079E 51S083E 58S088E at 111200UTC, and near 47S088E 58S093E at 111",
-    "fetched_at": "2026-11-10T20:45:53+00:00"
+    "fetched_at": "2026-11-10T21:45:54+00:00"
    },
    {
     "id": "IDY21080",
@@ -1506,7 +1519,7 @@
      "marine"
     ],
     "headline": "IDY21080 40:2:1:04:70S125E35045:01:00 SECURITE High Seas Weather Warning for METAREA 10 Issued by the Australian Government Bureau of Meteorology At 2039UTC 10 November 2026 GALE WARNING 9 FOR SOUTHERN AREA SITUATION AT 102100UTC Vigorous westerly flow developing. AREA AFFECTED Bounded by 51S147E 53S147E 52S160E 51S160E 51S147E. FORECAST Westerly quarter winds 30/40 knots developing west of 154E b",
-    "fetched_at": "2026-11-10T20:45:53+00:00"
+    "fetched_at": "2026-11-10T21:45:55+00:00"
    },
    {
     "id": "IDY28000",
@@ -1515,7 +1528,7 @@
     "severity": "low",
     "ptype": [],
     "headline": "IDY28000 Australian Government Bureau of Meteorology Bureau National Operations Centre Satellite Notes for 1800UTC Chart Issued at 6:17 am EDT Wednesday on 11 November 2026 A trough and low pressure system in the southeast is bringing convective cloud with isolated thunderstorms to eastern New South Wales and Victoria. A second low and its associated troughs in combination with an upper feature ar",
-    "fetched_at": "2026-11-10T20:45:54+00:00"
+    "fetched_at": "2026-11-10T21:45:55+00:00"
    }
   ]
  },
@@ -1583,11 +1596,6 @@
  ],
  "humanitarian_watch": {
   "famine": [
-   {
-    "title": "Children at risk as war zone attacks on water and sanitation more than triple",
-    "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
-    "source": "UN News"
-   },
    {
     "title": "Nigeria: Borno, Adamawa, and Yobe (BAY) states - Quarter 3 Situation Report, July - September 2026",
     "pubDate": "Tue, 10 Nov 2026 15:20:24 +0000",
